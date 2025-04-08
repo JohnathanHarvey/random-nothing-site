@@ -2,6 +2,7 @@ import json
 import re
 import os
 from collections import defaultdict
+from urllib.parse import quote
 from pypinyin import pinyin, Style
 
 # Get the directory where the script is located
@@ -48,10 +49,11 @@ with open(INPUT_FILE, 'r', encoding='utf-8') as f:
             first_char = word[0]
             grouped_entries[first_char][word] = entry
 
-# Write each group to a separate JSON file
+# Write each group to a separate JSON file using percent-encoded filenames
 for char, entries in grouped_entries.items():
-    filename = f"{OUTPUT_DIR}/{char}.json"
-    with open(filename, 'w', encoding='utf-8') as out_file:
+    safe_filename = quote(char) + ".json"  # Percent-encoded
+    filepath = os.path.join(OUTPUT_DIR, safe_filename)
+    with open(filepath, 'w', encoding='utf-8') as out_file:
         json.dump(entries, out_file, ensure_ascii=False, indent=2)
 
 print(f"✅ Successfully parsed and saved {len(grouped_entries)} dictionary files in '{OUTPUT_DIR}'")
