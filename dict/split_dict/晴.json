@@ -1,46 +1,46 @@
 {
   "晴": {
-    "pinyin": "qing2",
+    "pinyin": "qíng",
     "definition": "clear; fine (weather)"
   },
   "晴天": {
-    "pinyin": "qing2 tian1",
+    "pinyin": "qíng tiān",
     "definition": "clear sky; sunny day"
   },
   "晴天霹靂": {
-    "pinyin": "qing2 tian1 pi1 li4",
+    "pinyin": "qíng tiān pī lì",
     "definition": "lit. thunderclap from a clear sky (idiom); fig. a bolt from the blue"
   },
   "晴好": {
-    "pinyin": "qing2 hao3",
+    "pinyin": "qíng hǎo",
     "definition": "bright and sunny weather"
   },
   "晴時多雲": {
-    "pinyin": "qing2 shi2 duo1 yun2",
+    "pinyin": "qíng shí duō yún",
     "definition": "mostly sunny; mostly clear (meteorology)"
   },
   "晴朗": {
-    "pinyin": "qing2 lang3",
+    "pinyin": "qíng lǎng",
     "definition": "sunny and cloudless"
   },
   "晴空萬里": {
-    "pinyin": "qing2 kong1 wan4 li3",
+    "pinyin": "qíng kōng wàn lǐ",
     "definition": "a clear and boundless sky"
   },
   "晴隆": {
-    "pinyin": "Qing2 long2",
+    "pinyin": "qíng lóng",
     "definition": "Qinglong county in Qianxinan Buyei and Miao autonomous prefecture 黔西南州[Qian2 xi1 nan2 zhou1], Guizhou"
   },
   "晴隆縣": {
-    "pinyin": "Qing2 long2 xian4",
+    "pinyin": "qíng lóng xiàn",
     "definition": "Qinglong county in Qianxinan Buyei and Miao autonomous prefecture 黔西南州[Qian2 xi1 nan2 zhou1], Guizhou"
   },
   "晴雨": {
-    "pinyin": "qing2 yu3",
+    "pinyin": "qíng yǔ",
     "definition": "rain or shine"
   },
   "晴雨表": {
-    "pinyin": "qing2 yu3 biao3",
+    "pinyin": "qíng yǔ biǎo",
     "definition": "(lit. and fig.) barometer"
   }
 }

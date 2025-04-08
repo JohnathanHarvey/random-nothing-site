@@ -1,30 +1,30 @@
 {
   "域": {
-    "pinyin": "yu4",
+    "pinyin": "yù",
     "definition": "field; region; area; domain (taxonomy)"
   },
   "域名": {
-    "pinyin": "yu4 ming2",
+    "pinyin": "yù míng",
     "definition": "(computing) domain name"
   },
   "域名搶註": {
-    "pinyin": "yu4 ming2 qiang3 zhu4",
+    "pinyin": "yù míng qiǎng zhù",
     "definition": "cybersquatting; domain squatting"
   },
   "域名服務器": {
-    "pinyin": "yu4 ming2 fu2 wu4 qi4",
+    "pinyin": "yù míng fú wù qì",
     "definition": "domain name server"
   },
   "域名編碼": {
-    "pinyin": "Yu4 ming2 Bian1 ma3",
+    "pinyin": "yù míng biān mǎ",
     "definition": "Punycode (encoding for internationalized domain names) (abbr. for 國際化域名編碼|国际化域名编码[Guo2 ji4 hua4 Yu4 ming2 Bian1 ma3])"
   },
   "域名註冊": {
-    "pinyin": "yu4 ming2 zhu4 ce4",
+    "pinyin": "yù míng zhù cè",
     "definition": "domain name registration"
   },
   "域外": {
-    "pinyin": "yu4 wai4",
+    "pinyin": "yù wài",
     "definition": "outside the country; abroad; foreign; extraterritorial"
   }
 }

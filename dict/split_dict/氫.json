@@ -1,102 +1,102 @@
 {
   "氫": {
-    "pinyin": "qing1",
+    "pinyin": "qīng",
     "definition": "hydrogen (chemistry)"
   },
   "氫化": {
-    "pinyin": "qing1 hua4",
+    "pinyin": "qīng huà",
     "definition": "hydrogenation"
   },
   "氫化氰": {
-    "pinyin": "qing1 hua4 qing2",
+    "pinyin": "qīng huà qíng",
     "definition": "hydrocyanic acid; hydrogen cyanide"
   },
   "氫原子": {
-    "pinyin": "qing1 yuan2 zi3",
+    "pinyin": "qīng yuán zi",
     "definition": "hydrogen atom"
   },
   "氫彈": {
-    "pinyin": "qing1 dan4",
+    "pinyin": "qīng dàn",
     "definition": "H-bomb; hydrogen bomb"
   },
   "氫氟烴": {
-    "pinyin": "qing1 fu2 ting1",
+    "pinyin": "qīng fú tīng",
     "definition": "hydrofluorocarbon"
   },
   "氫氟酸": {
-    "pinyin": "qing1 fu2 suan1",
+    "pinyin": "qīng fú suān",
     "definition": "hydrofluoric acid HF"
   },
   "氫氣": {
-    "pinyin": "qing1 qi4",
+    "pinyin": "qīng qì",
     "definition": "hydrogen (gas)"
   },
   "氫氧": {
-    "pinyin": "qing1 yang3",
+    "pinyin": "qīng yǎng",
     "definition": "oxyhydrogen"
   },
   "氫氧化": {
-    "pinyin": "qing1 yang3 hua4",
+    "pinyin": "qīng yǎng huà",
     "definition": "(bound form) hydroxide of ..."
   },
   "氫氧化物": {
-    "pinyin": "qing1 yang3 hua4 wu4",
+    "pinyin": "qīng yǎng huà wù",
     "definition": "a hydroxide"
   },
   "氫氧化鈉": {
-    "pinyin": "qing1 yang3 hua4 na4",
+    "pinyin": "qīng yǎng huà nà",
     "definition": "caustic soda; sodium hydroxide NaOH"
   },
   "氫氧化鈣": {
-    "pinyin": "qing1 yang3 hua4 gai4",
+    "pinyin": "qīng yǎng huà gài",
     "definition": "calcium hydroxide Ca(OH)2; slaked lime"
   },
   "氫氧化鉀": {
-    "pinyin": "qing1 yang3 hua4 jia3",
+    "pinyin": "qīng yǎng huà jiǎ",
     "definition": "potassium hydroxide"
   },
   "氫氧化鋁": {
-    "pinyin": "qing1 yang3 hua4 lu:3",
+    "pinyin": "qīng yǎng huà lǚ",
     "definition": "aluminum hydroxide"
   },
   "氫氧化鎂": {
-    "pinyin": "qing1 yang3 hua4 mei3",
+    "pinyin": "qīng yǎng huà měi",
     "definition": "magnesium hydroxide Mg(OH)2"
   },
   "氫氧根": {
-    "pinyin": "qing1 yang3 gen1",
+    "pinyin": "qīng yǎng gēn",
     "definition": "hydroxide radical (-OH)"
   },
   "氫氧根離子": {
-    "pinyin": "qing1 yang3 gen1 li2 zi3",
+    "pinyin": "qīng yǎng gēn lí zi",
     "definition": "hydroxide ion OH-"
   },
   "氫氧離子": {
-    "pinyin": "qing1 yang3 li2 zi3",
+    "pinyin": "qīng yǎng lí zi",
     "definition": "hydroxide ion OH-"
   },
   "氫氯酸": {
-    "pinyin": "qing1 lu:4 suan1",
+    "pinyin": "qīng lǜ suān",
     "definition": "hydrochloric acid HCl; also written 鹽酸|盐酸[yan2 suan1]"
   },
   "氫溴酸": {
-    "pinyin": "qing1 xiu4 suan1",
+    "pinyin": "qīng xiù suān",
     "definition": "hydrobromic acid HBr"
   },
   "氫能源": {
-    "pinyin": "qing1 neng2 yuan2",
+    "pinyin": "qīng néng yuán",
     "definition": "hydrogen energy (energy derived from using hydrogen as a fuel)"
   },
   "氫酶": {
-    "pinyin": "qing1 mei2",
+    "pinyin": "qīng méi",
     "definition": "hydrogenase (enzyme)"
   },
   "氫鍵": {
-    "pinyin": "qing1 jian4",
+    "pinyin": "qīng jiàn",
     "definition": "hydrogen bond"
   },
   "氫鹵酸": {
-    "pinyin": "qing1 lu3 suan1",
+    "pinyin": "qīng lǔ suān",
     "definition": "hydrohalic acid (e.g. hydrofluoric acid HF 氫氟酸|氢氟酸[qing1 fu2 suan1], hydrochloric acid HCl 鹽酸|盐酸[yan2 suan1] etc)"
   }
 }

@@ -1,38 +1,38 @@
 {
   "兆": {
-    "pinyin": "zhao4",
+    "pinyin": "zhào",
     "definition": "(bound form) omen; to foretell; million; mega-; (Tw) trillion; tera-; (old) billion"
   },
   "兆周": {
-    "pinyin": "zhao4 zhou1",
+    "pinyin": "zhào zhōu",
     "definition": "megacycle (MC), equals 1,000,000 Hz"
   },
   "兆字節": {
-    "pinyin": "zhao4 zi4 jie2",
+    "pinyin": "zhào zì jié",
     "definition": "megabyte (2^20 or approximately a million bytes)"
   },
   "兆瓦": {
-    "pinyin": "zhao4 wa3",
+    "pinyin": "zhào wǎ",
     "definition": "megawatt"
   },
   "兆瓦時": {
-    "pinyin": "zhao4 wa3 shi2",
+    "pinyin": "zhào wǎ shí",
     "definition": "megawatt-hour"
   },
   "兆瓦特": {
-    "pinyin": "zhao4 wa3 te4",
+    "pinyin": "zhào wǎ tè",
     "definition": "megawatt"
   },
   "兆赫": {
-    "pinyin": "zhao4 he4",
+    "pinyin": "zhào hè",
     "definition": "megahertz"
   },
   "兆電子伏": {
-    "pinyin": "zhao4 dian4 zi3 fu2",
+    "pinyin": "zhào diàn zi fú",
     "definition": "mega electron volt (MeV) (unit of energy equal to 1.6 x 10⁻¹³ joules)"
   },
   "兆頭": {
-    "pinyin": "zhao4 tou5",
+    "pinyin": "zhào tóu",
     "definition": "omen; portent; sign"
   }
 }

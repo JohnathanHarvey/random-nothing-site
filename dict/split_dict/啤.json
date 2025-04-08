@@ -1,26 +1,26 @@
 {
   "啤": {
-    "pinyin": "pi2",
+    "pinyin": "pí",
     "definition": "beer"
   },
   "啤酒": {
-    "pinyin": "pi2 jiu3",
+    "pinyin": "pí jiǔ",
     "definition": "beer (loanword); CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"
   },
   "啤酒廠": {
-    "pinyin": "pi2 jiu3 chang3",
+    "pinyin": "pí jiǔ chǎng",
     "definition": "brewery"
   },
   "啤酒節": {
-    "pinyin": "pi2 jiu3 jie2",
+    "pinyin": "pí jiǔ jié",
     "definition": "Beer Festival"
   },
   "啤酒肚": {
-    "pinyin": "pi2 jiu3 du4",
+    "pinyin": "pí jiǔ dù",
     "definition": "beer belly"
   },
   "啤酒花": {
-    "pinyin": "pi2 jiu3 hua1",
+    "pinyin": "pí jiǔ huā",
     "definition": "hops"
   }
 }

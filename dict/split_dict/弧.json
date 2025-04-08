@@ -1,42 +1,42 @@
 {
   "弧": {
-    "pinyin": "hu2",
+    "pinyin": "hú",
     "definition": "arc"
   },
   "弧光": {
-    "pinyin": "hu2 guang1",
+    "pinyin": "hú guāng",
     "definition": "arc light"
   },
   "弧光燈": {
-    "pinyin": "hu2 guang1 deng1",
+    "pinyin": "hú guāng dēng",
     "definition": "arc lamp"
   },
   "弧度": {
-    "pinyin": "hu2 du4",
+    "pinyin": "hú dù",
     "definition": "radian; arc; curve; curvature"
   },
   "弧形": {
-    "pinyin": "hu2 xing2",
+    "pinyin": "hú xíng",
     "definition": "curve; arc"
   },
   "弧線": {
-    "pinyin": "hu2 xian4",
+    "pinyin": "hú xiàn",
     "definition": "arc"
   },
   "弧線長": {
-    "pinyin": "hu2 xian4 chang2",
+    "pinyin": "hú xiàn zhǎng",
     "definition": "arc length; length of a curve segment"
   },
   "弧菌": {
-    "pinyin": "hu2 jun1",
+    "pinyin": "hú jūn",
     "definition": "(biology) vibrio"
   },
   "弧長": {
-    "pinyin": "hu2 chang2",
+    "pinyin": "hú zhǎng",
     "definition": "arc length (the length of a curve segment)"
   },
   "弧長參數": {
-    "pinyin": "hu2 chang2 can1 shu4",
+    "pinyin": "hú zhǎng cān shù",
     "definition": "parametrization by arc length (of a space curve)"
   }
 }

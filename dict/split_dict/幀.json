@@ -1,30 +1,30 @@
 {
   "幀": {
-    "pinyin": "zhen1",
+    "pinyin": "zhèng",
     "definition": "frame; classifier for paintings etc; Taiwan pr. [zheng4]"
   },
   "幀中繼": {
-    "pinyin": "zhen1 zhong1 ji4",
+    "pinyin": "zhèng zhōng jì",
     "definition": "frame relay"
   },
   "幀格式": {
-    "pinyin": "zhen1 ge2 shi4",
+    "pinyin": "zhèng gé shì",
     "definition": "frame format"
   },
   "幀檢驗序列": {
-    "pinyin": "zhen1 jian3 yan4 xu4 lie4",
+    "pinyin": "zhèng jiǎn yàn xù liè",
     "definition": "frame check sequence (FCS)"
   },
   "幀率": {
-    "pinyin": "zhen1 lu:4",
+    "pinyin": "zhèng lǜ",
     "definition": "frame rate"
   },
   "幀頻": {
-    "pinyin": "zhen1 pin2",
+    "pinyin": "zhèng pín",
     "definition": "frame rate; frame frequency"
   },
   "幀首定界符": {
-    "pinyin": "zhen1 shou3 ding4 jie4 fu2",
+    "pinyin": "zhèng shǒu dìng jiè fú",
     "definition": "start frame delimiter (SFD)"
   }
 }
