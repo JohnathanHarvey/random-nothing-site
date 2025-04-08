@@ -1,0 +1,534 @@
+{
+  "原": {
+    "pinyin": "yuan2",
+    "definition": "former; original; primary; raw; level; cause; source"
+  },
+  "原人": {
+    "pinyin": "yuan2 ren2",
+    "definition": "prehistoric man; primitive man"
+  },
+  "原件": {
+    "pinyin": "yuan2 jian4",
+    "definition": "the original; original document; master copy"
+  },
+  "原位": {
+    "pinyin": "yuan2 wei4",
+    "definition": "original position; (in) the same place; normal position; the place where one currently is; in situ"
+  },
+  "原住民": {
+    "pinyin": "yuan2 zhu4 min2",
+    "definition": "indigenous peoples; aborigine"
+  },
+  "原住民族": {
+    "pinyin": "yuan2 zhu4 min2 zu2",
+    "definition": "original inhabitant; indigenous people"
+  },
+  "原作": {
+    "pinyin": "yuan2 zuo4",
+    "definition": "original works; original text; original author"
+  },
+  "原作版": {
+    "pinyin": "yuan2 zuo4 ban3",
+    "definition": "Urtext edition"
+  },
+  "原來": {
+    "pinyin": "yuan2 lai2",
+    "definition": "original; former; originally; formerly; at first; so, actually, as it turns out"
+  },
+  "原來如此": {
+    "pinyin": "yuan2 lai2 ru2 ci3",
+    "definition": "(idiom) so that's how it is; I see"
+  },
+  "原價": {
+    "pinyin": "yuan2 jia4",
+    "definition": "original price"
+  },
+  "原先": {
+    "pinyin": "yuan2 xian1",
+    "definition": "originally; original; former"
+  },
+  "原典版": {
+    "pinyin": "yuan2 dian3 ban3",
+    "definition": "(Tw) Urtext edition"
+  },
+  "原函數": {
+    "pinyin": "yuan2 han2 shu4",
+    "definition": "antiderivative"
+  },
+  "原初": {
+    "pinyin": "yuan2 chu1",
+    "definition": "initial; original; originally; at first"
+  },
+  "原則": {
+    "pinyin": "yuan2 ze2",
+    "definition": "principle; doctrine; CL:個|个[ge4]"
+  },
+  "原則上": {
+    "pinyin": "yuan2 ze2 shang5",
+    "definition": "in principle; generally"
+  },
+  "原則性": {
+    "pinyin": "yuan2 ze2 xing4",
+    "definition": "principled"
+  },
+  "原創": {
+    "pinyin": "yuan2 chuang4",
+    "definition": "to create (sth original); original; originality; original work"
+  },
+  "原創力": {
+    "pinyin": "yuan2 chuang4 li4",
+    "definition": "creativity"
+  },
+  "原創性": {
+    "pinyin": "yuan2 chuang4 xing4",
+    "definition": "originality"
+  },
+  "原動力": {
+    "pinyin": "yuan2 dong4 li4",
+    "definition": "motive force; prime mover; first cause; agent"
+  },
+  "原南斯拉夫": {
+    "pinyin": "yuan2 Nan2 si1 la1 fu1",
+    "definition": "former Yugoslavia (1945-1992)"
+  },
+  "原原本本": {
+    "pinyin": "yuan2 yuan2 ben3 ben3",
+    "definition": "from beginning to end; in its entirety; in accord with fact; literal"
+  },
+  "原名": {
+    "pinyin": "yuan2 ming2",
+    "definition": "original name"
+  },
+  "原告": {
+    "pinyin": "yuan2 gao4",
+    "definition": "complainant; plaintiff"
+  },
+  "原味": {
+    "pinyin": "yuan2 wei4",
+    "definition": "authentic taste; plain cooked; natural flavor (without spices and seasonings)"
+  },
+  "原唱": {
+    "pinyin": "yuan2 chang4",
+    "definition": "to sing the original version of a song (as opposed to a cover version); singer who performs the original version of a song"
+  },
+  "原因": {
+    "pinyin": "yuan2 yin1",
+    "definition": "cause; origin; root cause; reason; CL:個|个[ge4]"
+  },
+  "原圖": {
+    "pinyin": "yuan2 tu2",
+    "definition": "original drawing, map or picture (as opposed to a copy or a modified version)"
+  },
+  "原地": {
+    "pinyin": "yuan2 di4",
+    "definition": "(in) the original place; the place where one currently is; place of origin; local (product)"
+  },
+  "原地踏步": {
+    "pinyin": "yuan2 di4 ta4 bu4",
+    "definition": "to mark time (military); to make no headway"
+  },
+  "原址": {
+    "pinyin": "yuan2 zhi3",
+    "definition": "original location"
+  },
+  "原型": {
+    "pinyin": "yuan2 xing2",
+    "definition": "model; prototype; archetype"
+  },
+  "原始": {
+    "pinyin": "yuan2 shi3",
+    "definition": "first; original; primitive; original (document etc)"
+  },
+  "原始人": {
+    "pinyin": "yuan2 shi3 ren2",
+    "definition": "primitive man; prehistoric human"
+  },
+  "原始林": {
+    "pinyin": "yuan2 shi3 lin2",
+    "definition": "old growth forest; primary forest; original forest cover"
+  },
+  "原始熱帶雨林": {
+    "pinyin": "yuan2 shi3 re4 dai4 yu3 lin2",
+    "definition": "virgin tropical rainforest"
+  },
+  "原始碼": {
+    "pinyin": "yuan2 shi3 ma3",
+    "definition": "source code (computing) (Tw, HK)"
+  },
+  "原始社會": {
+    "pinyin": "yuan2 shi3 she4 hui4",
+    "definition": "primitive society"
+  },
+  "原委": {
+    "pinyin": "yuan2 wei3",
+    "definition": "the whole story"
+  },
+  "原子": {
+    "pinyin": "yuan2 zi3",
+    "definition": "atom; atomic"
+  },
+  "原子半徑": {
+    "pinyin": "yuan2 zi3 ban4 jing4",
+    "definition": "atomic radius"
+  },
+  "原子反應堆": {
+    "pinyin": "yuan2 zi3 fan3 ying4 dui1",
+    "definition": "atomic reactor"
+  },
+  "原子堆": {
+    "pinyin": "yuan2 zi3 dui1",
+    "definition": "atomic pile (original form of nuclear reactor)"
+  },
+  "原子序數": {
+    "pinyin": "yuan2 zi3 xu4 shu4",
+    "definition": "atomic number"
+  },
+  "原子彈": {
+    "pinyin": "yuan2 zi3 dan4",
+    "definition": "atomic bomb; A-bomb"
+  },
+  "原子核": {
+    "pinyin": "yuan2 zi3 he2",
+    "definition": "atomic nucleus"
+  },
+  "原子武器": {
+    "pinyin": "yuan2 zi3 wu3 qi4",
+    "definition": "atomic weapon"
+  },
+  "原子科學家": {
+    "pinyin": "yuan2 zi3 ke1 xue2 jia1",
+    "definition": "atomic scientist; nuclear scientist"
+  },
+  "原子科學家通報": {
+    "pinyin": "Yuan2 zi3 Ke1 xue2 jia1 Tong1 bao4",
+    "definition": "Journal of Atomic Scientists"
+  },
+  "原子筆": {
+    "pinyin": "yuan2 zi3 bi3",
+    "definition": "(Tw, HK) ballpoint pen"
+  },
+  "原子能": {
+    "pinyin": "yuan2 zi3 neng2",
+    "definition": "atomic energy"
+  },
+  "原子能發電站": {
+    "pinyin": "yuan2 zi3 neng2 fa1 dian4 zhan4",
+    "definition": "atomic power station"
+  },
+  "原子論": {
+    "pinyin": "yuan2 zi3 lun4",
+    "definition": "atomic theory"
+  },
+  "原子質量": {
+    "pinyin": "yuan2 zi3 zhi4 liang4",
+    "definition": "atomic mass"
+  },
+  "原子量": {
+    "pinyin": "yuan2 zi3 liang4",
+    "definition": "atomic weight; atomic mass"
+  },
+  "原子鐘": {
+    "pinyin": "yuan2 zi3 zhong1",
+    "definition": "atomic clock"
+  },
+  "原定": {
+    "pinyin": "yuan2 ding4",
+    "definition": "originally planned; originally determined"
+  },
+  "原封不動": {
+    "pinyin": "yuan2 feng1 bu4 dong4",
+    "definition": "sticking unmoving to the original (idiom); not an iota changed; untouched"
+  },
+  "原居": {
+    "pinyin": "yuan2 ju1",
+    "definition": "indigenous"
+  },
+  "原州": {
+    "pinyin": "Yuan2 zhou1",
+    "definition": "Yuanzhou district of Guyuan city 固原市[Gu4 yuan2 shi4], Ningxia"
+  },
+  "原州區": {
+    "pinyin": "Yuan2 zhou1 qu1",
+    "definition": "Yuanzhou district of Guyuan city 固原市[Gu4 yuan2 shi4], Ningxia"
+  },
+  "原平": {
+    "pinyin": "Yuan2 ping2",
+    "definition": "Yuanping, county-level city in Xinzhou 忻州[Xin1 zhou1], Shanxi"
+  },
+  "原平市": {
+    "pinyin": "Yuan2 ping2 shi4",
+    "definition": "Yuanping, county-level city in Xinzhou 忻州[Xin1 zhou1], Shanxi"
+  },
+  "原形": {
+    "pinyin": "yuan2 xing2",
+    "definition": "original shape; true appearance (under the disguise); true character"
+  },
+  "原形畢露": {
+    "pinyin": "yuan2 xing2 bi4 lu4",
+    "definition": "original identity fully revealed (idiom); fig. to unmask and expose the whole truth"
+  },
+  "原意": {
+    "pinyin": "yuan2 yi4",
+    "definition": "original meaning; original intention"
+  },
+  "原擬": {
+    "pinyin": "yuan2 ni3",
+    "definition": "to initially plan to ...; to originally intend to ..."
+  },
+  "原故": {
+    "pinyin": "yuan2 gu4",
+    "definition": "variant of 緣故|缘故[yuan2 gu4]"
+  },
+  "原文": {
+    "pinyin": "yuan2 wen2",
+    "definition": "original text"
+  },
+  "原料": {
+    "pinyin": "yuan2 liao4",
+    "definition": "raw material"
+  },
+  "原有": {
+    "pinyin": "yuan2 you3",
+    "definition": "original; former"
+  },
+  "原木": {
+    "pinyin": "yuan2 mu4",
+    "definition": "logs"
+  },
+  "原本": {
+    "pinyin": "yuan2 ben3",
+    "definition": "originally; original"
+  },
+  "原材料": {
+    "pinyin": "yuan2 cai2 liao4",
+    "definition": "raw and semifinished materials"
+  },
+  "原核": {
+    "pinyin": "yuan2 he2",
+    "definition": "prokaryotic (cell)"
+  },
+  "原核生物": {
+    "pinyin": "yuan2 he2 sheng1 wu4",
+    "definition": "prokaryote"
+  },
+  "原核生物界": {
+    "pinyin": "yuan2 he2 sheng1 wu4 jie4",
+    "definition": "Kingdom Monera; prokaryote"
+  },
+  "原核細胞": {
+    "pinyin": "yuan2 he2 xi4 bao1",
+    "definition": "prokaryote; prokaryotic cell"
+  },
+  "原核細胞型微生物": {
+    "pinyin": "yuan2 he2 xi4 bao1 xing2 wei1 sheng1 wu4",
+    "definition": "prokaryotic cell type microorganism"
+  },
+  "原樣": {
+    "pinyin": "yuan2 yang4",
+    "definition": "original shape; the same as before"
+  },
+  "原水": {
+    "pinyin": "yuan2 shui3",
+    "definition": "raw water; unpurified water"
+  },
+  "原汁": {
+    "pinyin": "yuan2 zhi1",
+    "definition": "juice (extracted from fresh fruit or vegetables); stock (obtained by simmering meat)"
+  },
+  "原汁原味": {
+    "pinyin": "yuan2 zhi1 - yuan2 wei4",
+    "definition": "original; authentic"
+  },
+  "原油": {
+    "pinyin": "yuan2 you2",
+    "definition": "crude oil"
+  },
+  "原煤": {
+    "pinyin": "yuan2 mei2",
+    "definition": "raw coal"
+  },
+  "原爆點": {
+    "pinyin": "yuan2 bao4 dian3",
+    "definition": "ground zero"
+  },
+  "原牛": {
+    "pinyin": "yuan2 niu2",
+    "definition": "aurochs (Bos primigenius), extinct wild ox"
+  },
+  "原物料": {
+    "pinyin": "yuan2 wu4 liao4",
+    "definition": "raw material"
+  },
+  "原狀": {
+    "pinyin": "yuan2 zhuang4",
+    "definition": "previous condition; original state"
+  },
+  "原班人馬": {
+    "pinyin": "yuan2 ban1 ren2 ma3",
+    "definition": "original cast; former team"
+  },
+  "原理": {
+    "pinyin": "yuan2 li3",
+    "definition": "principle; theory"
+  },
+  "原生": {
+    "pinyin": "yuan2 sheng1",
+    "definition": "original; primary; native; indigenous; proto-; stock (firmware)"
+  },
+  "原生動物": {
+    "pinyin": "yuan2 sheng1 dong4 wu4",
+    "definition": "protozoan (bacteria)"
+  },
+  "原生家庭": {
+    "pinyin": "yuan2 sheng1 jia1 ting2",
+    "definition": "family of origin"
+  },
+  "原生橄欖油": {
+    "pinyin": "yuan2 sheng1 gan3 lan3 you2",
+    "definition": "virgin olive oil"
+  },
+  "原生生物": {
+    "pinyin": "yuan2 sheng1 sheng1 wu4",
+    "definition": "protist; primitive organism"
+  },
+  "原生質": {
+    "pinyin": "yuan2 sheng1 zhi4",
+    "definition": "protoplasm"
+  },
+  "原產": {
+    "pinyin": "yuan2 chan3",
+    "definition": "original production; native to (of species)"
+  },
+  "原產國": {
+    "pinyin": "yuan2 chan3 guo2",
+    "definition": "country of origin"
+  },
+  "原產地": {
+    "pinyin": "yuan2 chan3 di4",
+    "definition": "original source; place of origin; provenance"
+  },
+  "原田": {
+    "pinyin": "Yuan2 tian2",
+    "definition": "Harada (Japanese surname)"
+  },
+  "原由": {
+    "pinyin": "yuan2 you2",
+    "definition": "variant of 緣由|缘由[yuan2 you2]"
+  },
+  "原發性進行性失語": {
+    "pinyin": "yuan2 fa1 xing4 jin4 xing2 xing4 shi1 yu3",
+    "definition": "primary progressive aphasia (PPA), speech disorder (sometimes related to dementia)"
+  },
+  "原研藥": {
+    "pinyin": "yuan2 yan2 yao4",
+    "definition": "(pharmacology) innovator drug; originator drug (as opposed to a generic drug 仿製藥|仿制药[fang3zhi4yao4])"
+  },
+  "原稿": {
+    "pinyin": "yuan2 gao3",
+    "definition": "manuscript; original copy"
+  },
+  "原籍": {
+    "pinyin": "yuan2 ji2",
+    "definition": "ancestral home (town); birthplace"
+  },
+  "原纖維": {
+    "pinyin": "yuan2 xian1 wei2",
+    "definition": "fibril; protofilament"
+  },
+  "原罪": {
+    "pinyin": "yuan2 zui4",
+    "definition": "original sin"
+  },
+  "原義": {
+    "pinyin": "yuan2 yi4",
+    "definition": "original meaning"
+  },
+  "原聲": {
+    "pinyin": "yuan2 sheng1",
+    "definition": "acoustic (musical instrument)"
+  },
+  "原聲帶": {
+    "pinyin": "yuan2 sheng1 dai4",
+    "definition": "original soundtrack (OST); soundtrack"
+  },
+  "原腎管": {
+    "pinyin": "yuan2 shen4 guan3",
+    "definition": "protonephridium (invertebrate anatomy)"
+  },
+  "原色": {
+    "pinyin": "yuan2 se4",
+    "definition": "primary color"
+  },
+  "原著": {
+    "pinyin": "yuan2 zhu4",
+    "definition": "original work (not translation or abridged)"
+  },
+  "原蘇聯": {
+    "pinyin": "yuan2 Su1 lian2",
+    "definition": "former Soviet Union"
+  },
+  "原處": {
+    "pinyin": "yuan2 chu4",
+    "definition": "original spot; previous place; where it was before"
+  },
+  "原蟲": {
+    "pinyin": "yuan2 chong2",
+    "definition": "protozoan"
+  },
+  "原被告": {
+    "pinyin": "yuan2 bei4 gao4",
+    "definition": "plaintiff and defendant; prosecution and defense (lawyers)"
+  },
+  "原裝": {
+    "pinyin": "yuan2 zhuang1",
+    "definition": "genuine; intact in original packaging (not locally assembled and packaged)"
+  },
+  "原語": {
+    "pinyin": "yuan2 yu3",
+    "definition": "source language (linguistics)"
+  },
+  "原諒": {
+    "pinyin": "yuan2 liang4",
+    "definition": "to excuse; to forgive; to pardon"
+  },
+  "原諒色": {
+    "pinyin": "yuan2 liang4 se4",
+    "definition": "(slang) green"
+  },
+  "原貌": {
+    "pinyin": "yuan2 mao4",
+    "definition": "the original form"
+  },
+  "原道": {
+    "pinyin": "yuan2 dao4",
+    "definition": "original path; essay by Tang philosopher Han Yu 韓愈|韩愈[Han2 Yu4]"
+  },
+  "原配": {
+    "pinyin": "yuan2 pei4",
+    "definition": "first wife"
+  },
+  "原野": {
+    "pinyin": "yuan2 ye3",
+    "definition": "plain; open country"
+  },
+  "原陽": {
+    "pinyin": "Yuan2 yang2",
+    "definition": "Yuanyang county in Xinxiang 新鄉|新乡[Xin1 xiang1], Henan"
+  },
+  "原陽縣": {
+    "pinyin": "Yuan2 yang2 xian4",
+    "definition": "Yuanyang county in Xinxiang 新鄉|新乡[Xin1 xiang1], Henan"
+  },
+  "原鴿": {
+    "pinyin": "yuan2 ge1",
+    "definition": "(bird species of China) rock dove (Columba livia)"
+  },
+  "原點": {
+    "pinyin": "yuan2 dian3",
+    "definition": "starting point; square one; (coordinate geometry) origin"
+  },
+  "原點矩": {
+    "pinyin": "yuan2 dian3 ju3",
+    "definition": "(statistics) moment"
+  }
+}

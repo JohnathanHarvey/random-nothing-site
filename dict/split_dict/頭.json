@@ -1,0 +1,550 @@
+{
+  "頭": {
+    "pinyin": "tou5",
+    "definition": "suffix for nouns"
+  },
+  "頭一": {
+    "pinyin": "tou2 yi1",
+    "definition": "the first"
+  },
+  "頭一回": {
+    "pinyin": "tou2 yi1 hui2",
+    "definition": "the first time; for the first time"
+  },
+  "頭七": {
+    "pinyin": "tou2 qi1",
+    "definition": "the 7th day after a person's death; the first 7-day period after a person's death"
+  },
+  "頭上": {
+    "pinyin": "tou2 shang4",
+    "definition": "overhead; above"
+  },
+  "頭份": {
+    "pinyin": "Tou2 fen4",
+    "definition": "Toufen town in Miaoli county 苗栗縣|苗栗县[Miao2 li4 xian4], northwest Taiwan"
+  },
+  "頭份鎮": {
+    "pinyin": "Tou2 fen4 zhen4",
+    "definition": "Toufen town in Miaoli county 苗栗縣|苗栗县[Miao2 li4 xian4], northwest Taiwan"
+  },
+  "頭伏": {
+    "pinyin": "tou2 fu2",
+    "definition": "see 初伏[chu1 fu2]"
+  },
+  "頭位": {
+    "pinyin": "tou2 wei4",
+    "definition": "(car racing) pole position; (obstetrics) cephalic presentation (i.e. head-first birth)"
+  },
+  "頭信息": {
+    "pinyin": "tou2 xin4 xi1",
+    "definition": "header (computing)"
+  },
+  "頭倒立": {
+    "pinyin": "tou2 dao4 li4",
+    "definition": "headstand"
+  },
+  "頭像": {
+    "pinyin": "tou2 xiang4",
+    "definition": "portrait; bust; (computing) profile picture; avatar"
+  },
+  "頭兒": {
+    "pinyin": "tou2 r5",
+    "definition": "leader"
+  },
+  "頭兒腦兒": {
+    "pinyin": "tou2 r5 nao3 r5",
+    "definition": "leading figure; bigwig"
+  },
+  "頭兜": {
+    "pinyin": "tou2 dou1",
+    "definition": "helmet; chain mail hung from head to protect neck"
+  },
+  "頭冠": {
+    "pinyin": "tou2 guan1",
+    "definition": "a crown; top of the head"
+  },
+  "頭功": {
+    "pinyin": "tou2 gong1",
+    "definition": "first class merit"
+  },
+  "頭午": {
+    "pinyin": "tou2 wu3",
+    "definition": "(dialect) morning"
+  },
+  "頭半天": {
+    "pinyin": "tou2 ban4 tian1",
+    "definition": "morning; first half of the day"
+  },
+  "頭半天兒": {
+    "pinyin": "tou2 ban4 tian1 r5",
+    "definition": "erhua variant of 頭半天|头半天[tou2 ban4 tian1]"
+  },
+  "頭名": {
+    "pinyin": "tou2 ming2",
+    "definition": "first place; leader (of a race)"
+  },
+  "頭向前": {
+    "pinyin": "tou2 xiang4 qian2",
+    "definition": "headlong"
+  },
+  "頭回": {
+    "pinyin": "tou2 hui2",
+    "definition": "for the first time; on the previous occasion; last time (something occurred)"
+  },
+  "頭城": {
+    "pinyin": "Tou2 cheng2",
+    "definition": "Toucheng Town in Yilan County 宜蘭縣|宜兰县[Yi2 lan2 Xian4], Taiwan"
+  },
+  "頭城鎮": {
+    "pinyin": "Tou2 cheng2 Zhen4",
+    "definition": "Toucheng Town in Yilan County 宜蘭縣|宜兰县[Yi2 lan2 Xian4], Taiwan"
+  },
+  "頭大": {
+    "pinyin": "tou2 da4",
+    "definition": "to have a big head; (fig.) to get a headache; one's head is swimming"
+  },
+  "頭套": {
+    "pinyin": "tou2 tao4",
+    "definition": "actor's headgear; wig; head covering"
+  },
+  "頭子": {
+    "pinyin": "tou2 zi5",
+    "definition": "boss; gang leader"
+  },
+  "頭孢": {
+    "pinyin": "tou2 bao1",
+    "definition": "(pharm.) cephalosporin"
+  },
+  "頭孢噻吩": {
+    "pinyin": "tou2 bao1 sai1 fen1",
+    "definition": "(pharm.) cefalotin (aka cephalothin)"
+  },
+  "頭孢拉定": {
+    "pinyin": "tou2 bao1 la1 ding4",
+    "definition": "(pharm.) cefradine (aka cephradine)"
+  },
+  "頭孢菌素": {
+    "pinyin": "tou2 bao1 jun1 su4",
+    "definition": "(pharm.) cephalosporin"
+  },
+  "頭家": {
+    "pinyin": "tou2 jia1",
+    "definition": "organizer of a gambling party who takes a cut of the winnings; banker (gambling); preceding player (in a game); (dialect) boss; proprietor"
+  },
+  "頭寸": {
+    "pinyin": "tou2 cun4",
+    "definition": "(finance) cash position; position"
+  },
+  "頭對頭": {
+    "pinyin": "tou2 dui4 tou2",
+    "definition": "(of clinical trial) head-to-head"
+  },
+  "頭屋": {
+    "pinyin": "Tou2 wu1",
+    "definition": "Touwu township in Miaoli county 苗栗縣|苗栗县[Miao2 li4 xian4], northwest Taiwan"
+  },
+  "頭屋鄉": {
+    "pinyin": "Tou2 wu1 xiang1",
+    "definition": "Touwu township in Miaoli county 苗栗縣|苗栗县[Miao2 li4 xian4], northwest Taiwan"
+  },
+  "頭屯河": {
+    "pinyin": "Tou2 tun2 he2",
+    "definition": "Toutunhe District of Urumqi 烏魯木齊市|乌鲁木齐市[Wu1lu3mu4qi2 Shi4], Xinjiang"
+  },
+  "頭屯河區": {
+    "pinyin": "Tou2 tun2 he2 Qu1",
+    "definition": "Toutunhe District of Urumqi 烏魯木齊市|乌鲁木齐市[Wu1lu3mu4qi2 Shi4], Xinjiang"
+  },
+  "頭巾": {
+    "pinyin": "tou2 jin1",
+    "definition": "cloth head covering worn by men in ancient times; headscarf (typically worn by women); kerchief; turban"
+  },
+  "頭座": {
+    "pinyin": "tou2 zuo4",
+    "definition": "headstock; turning head of a screw, drill, lathe etc"
+  },
+  "頭彩": {
+    "pinyin": "tou2 cai3",
+    "definition": "first prize in a lottery"
+  },
+  "頭懸梁，錐刺股": {
+    "pinyin": "tou2 xuan2 liang2 , zhui1 ci4 gu3",
+    "definition": "lit. with his head attached to a beam and stabbing his thigh with an awl (idiom); fig. to study assiduously and tirelessly"
+  },
+  "頭戴式耳機": {
+    "pinyin": "tou2 dai4 shi4 er3 ji1",
+    "definition": "headphones"
+  },
+  "頭擋": {
+    "pinyin": "tou2 dang3",
+    "definition": "first gear"
+  },
+  "頭文字": {
+    "pinyin": "tou2 wen2 zi4",
+    "definition": "initial; first letter of word (in Latin script)"
+  },
+  "頭昏": {
+    "pinyin": "tou2 hun1",
+    "definition": "dizzy; giddy; one's head spins"
+  },
+  "頭昏目暈": {
+    "pinyin": "tou2 hun1 mu4 yun1",
+    "definition": "see 頭昏目眩|头昏目眩[tou2 hun1 mu4 xuan4]"
+  },
+  "頭昏目眩": {
+    "pinyin": "tou2 hun1 mu4 xuan4",
+    "definition": "(idiom) dazed; dizzy"
+  },
+  "頭昏眼暈": {
+    "pinyin": "tou2 hun1 yan3 yun1",
+    "definition": "head spinning and blurred vision; giddy; in a faint"
+  },
+  "頭昏眼暗": {
+    "pinyin": "tou2 hun1 yan3 an4",
+    "definition": "head spinning and eyes dark (idiom); dizzy; fainting; vertigo"
+  },
+  "頭昏眼花": {
+    "pinyin": "tou2 hun1 yan3 hua1",
+    "definition": "to faint with blurred vision (idiom); dizzy and eyes dimmed"
+  },
+  "頭昏腦悶": {
+    "pinyin": "tou2 hun1 nao3 men4",
+    "definition": "fainting and giddy; one's head spins"
+  },
+  "頭昏腦漲": {
+    "pinyin": "tou2 hun1 - nao3 zhang4",
+    "definition": "variant of 頭昏腦脹|头昏脑胀[tou2hun1-nao3zhang4]"
+  },
+  "頭昏腦眩": {
+    "pinyin": "tou2 hun1 nao3 xuan4",
+    "definition": "dizzying; it makes one's head spin"
+  },
+  "頭昏腦脹": {
+    "pinyin": "tou2 hun1 - nao3 zhang4",
+    "definition": "(idiom) to feel giddy; to feel dizzy; one's head spins"
+  },
+  "頭晚": {
+    "pinyin": "tou2 wan3",
+    "definition": "previous night"
+  },
+  "頭暈": {
+    "pinyin": "tou2 yun1",
+    "definition": "dizzy"
+  },
+  "頭暈目眩": {
+    "pinyin": "tou2 yun1 - mu4 xuan4",
+    "definition": "(idiom) to have a dizzy spell; dazzled"
+  },
+  "頭暈眼花": {
+    "pinyin": "tou2 yun1 yan3 hua1",
+    "definition": "to faint with blurred vision (idiom); dizzy and eyes dimmed"
+  },
+  "頭暈腦漲": {
+    "pinyin": "tou2 yun1 nao3 zhang4",
+    "definition": "variant of 頭暈腦脹|头晕脑胀[tou2 yun1 nao3 zhang4]"
+  },
+  "頭暈腦脹": {
+    "pinyin": "tou2 yun1 nao3 zhang4",
+    "definition": "dizzy and light-headed"
+  },
+  "頭朝下": {
+    "pinyin": "tou2 chao2 xia4",
+    "definition": "(falling or suspended) head downwards; headfirst; headlong"
+  },
+  "頭期款": {
+    "pinyin": "tou2 qi1 kuan3",
+    "definition": "down payment"
+  },
+  "頭枕": {
+    "pinyin": "tou2 zhen3",
+    "definition": "headrest"
+  },
+  "頭條": {
+    "pinyin": "tou2 tiao2",
+    "definition": "lead story (on the news)"
+  },
+  "頭條新聞": {
+    "pinyin": "tou2 tiao2 xin1 wen2",
+    "definition": "top news story"
+  },
+  "頭梳": {
+    "pinyin": "tou2 shu1",
+    "definition": "comb; hairbrush"
+  },
+  "頭款": {
+    "pinyin": "tou2 kuan3",
+    "definition": "down payment"
+  },
+  "頭湯": {
+    "pinyin": "tou2 tang1",
+    "definition": "first bouillon, a broth made with ingredients that may later be reboiled to make a second bouillon 二湯|二汤[er4 tang1]"
+  },
+  "頭燈": {
+    "pinyin": "tou2 deng1",
+    "definition": "headlight (of a vehicle); headlamp; head torch"
+  },
+  "頭版": {
+    "pinyin": "tou2 ban3",
+    "definition": "(newspaper's) front page"
+  },
+  "頭牌": {
+    "pinyin": "tou2 pai2",
+    "definition": "tablet announcing the name of leading actor in a theatrical production; by extension, the lead role"
+  },
+  "頭獎": {
+    "pinyin": "tou2 jiang3",
+    "definition": "first prize"
+  },
+  "頭球": {
+    "pinyin": "tou2 qiu2",
+    "definition": "(soccer) header"
+  },
+  "頭疼": {
+    "pinyin": "tou2 teng2",
+    "definition": "headache"
+  },
+  "頭痛": {
+    "pinyin": "tou2 tong4",
+    "definition": "to have a headache"
+  },
+  "頭痛欲裂": {
+    "pinyin": "tou2 tong4 yu4 lie4",
+    "definition": "to have a splitting headache (idiom)"
+  },
+  "頭痛醫頭": {
+    "pinyin": "tou2 tong4 yi1 tou2",
+    "definition": "to treat the symptoms; reactive (rather than proactive)"
+  },
+  "頭痛醫頭，腳痛醫腳": {
+    "pinyin": "tou2 tong4 yi1 tou2 , jiao3 tong4 yi1 jiao3",
+    "definition": "to treat the symptoms rather than getting to the root of the problem (proverb); reactive (rather than proactive)"
+  },
+  "頭癬": {
+    "pinyin": "tou2 xuan3",
+    "definition": "favus of the scalp (skin disease)"
+  },
+  "頭皮": {
+    "pinyin": "tou2 pi2",
+    "definition": "scalp"
+  },
+  "頭皮屑": {
+    "pinyin": "tou2 pi2 xie4",
+    "definition": "dandruff"
+  },
+  "頭盔": {
+    "pinyin": "tou2 kui1",
+    "definition": "helmet"
+  },
+  "頭目": {
+    "pinyin": "tou2 mu4",
+    "definition": "ringleader; gang leader; chieftain"
+  },
+  "頭破血流": {
+    "pinyin": "tou2 po4 xue4 liu2",
+    "definition": "lit. head broken and blood flowing; fig. badly bruised"
+  },
+  "頭等": {
+    "pinyin": "tou2 deng3",
+    "definition": "first class; prime; main"
+  },
+  "頭等艙": {
+    "pinyin": "tou2 deng3 cang1",
+    "definition": "1st class cabin"
+  },
+  "頭箍": {
+    "pinyin": "tou2 gu1",
+    "definition": "headband"
+  },
+  "頭箍兒": {
+    "pinyin": "tou2 gu1 r5",
+    "definition": "band used by Manchu women to gather up the hair"
+  },
+  "頭紗": {
+    "pinyin": "tou2 sha1",
+    "definition": "wedding veil; gauze headscarf or veil"
+  },
+  "頭索類": {
+    "pinyin": "tou2 suo3 lei4",
+    "definition": "lancelet (Branchiostoma)"
+  },
+  "頭緒": {
+    "pinyin": "tou2 xu4",
+    "definition": "outline; main threads"
+  },
+  "頭繩": {
+    "pinyin": "tou2 sheng2",
+    "definition": "string to tie hair"
+  },
+  "頭罩": {
+    "pinyin": "tou2 zhao4",
+    "definition": "hairnet; hood; cowl"
+  },
+  "頭羊": {
+    "pinyin": "tou2 yang2",
+    "definition": "bellwether"
+  },
+  "頭胸部": {
+    "pinyin": "tou2 xiong1 bu4",
+    "definition": "cephalothorax"
+  },
+  "頭脹": {
+    "pinyin": "tou2 zhang4",
+    "definition": "distention in the head (TCM)"
+  },
+  "頭腦": {
+    "pinyin": "tou2 nao3",
+    "definition": "brains; mind; skull; (fig.) gist (of a matter); leader; boss"
+  },
+  "頭腦清楚": {
+    "pinyin": "tou2 nao3 qing1 chu5",
+    "definition": "lucid; clear-headed; sensible"
+  },
+  "頭腦發脹": {
+    "pinyin": "tou2 nao3 fa1 zhang4",
+    "definition": "swelling of the head (physical condition); fig. swellheaded; conceited"
+  },
+  "頭腦簡單四肢發達": {
+    "pinyin": "tou2 nao3 jian3 dan1 si4 zhi1 fa1 da2",
+    "definition": "all brawn no brains"
+  },
+  "頭腦風暴": {
+    "pinyin": "tou2 nao3 feng1 bao4",
+    "definition": "brainstorming"
+  },
+  "頭臉": {
+    "pinyin": "tou2 lian3",
+    "definition": "head and face"
+  },
+  "頭臉兒": {
+    "pinyin": "tou2 lian3 r5",
+    "definition": "erhua variant of 頭臉|头脸[tou2 lian3]"
+  },
+  "頭蓋": {
+    "pinyin": "tou2 gai4",
+    "definition": "skull; cranium"
+  },
+  "頭蓋骨": {
+    "pinyin": "tou2 gai4 gu3",
+    "definition": "skull; cranium"
+  },
+  "頭號": {
+    "pinyin": "tou2 hao4",
+    "definition": "first rate; top rank; number one"
+  },
+  "頭號字": {
+    "pinyin": "tou2 hao4 zi4",
+    "definition": "largest typeface; biggest letters"
+  },
+  "頭蝨": {
+    "pinyin": "tou2 shi1",
+    "definition": "head lice"
+  },
+  "頭角": {
+    "pinyin": "tou2 jiao3",
+    "definition": "youngster's talent; brilliance of youth"
+  },
+  "頭角崢嶸": {
+    "pinyin": "tou2 jiao3 zheng1 rong2",
+    "definition": "promise of brilliant young person (idiom); showing extraordinary gifts"
+  },
+  "頭足綱": {
+    "pinyin": "tou2 zu2 gang1",
+    "definition": "Cephalopoda, class of mollusks including nautilus and squid"
+  },
+  "頭路": {
+    "pinyin": "tou2 lu4",
+    "definition": "clue; thread (of a story); mate; first class"
+  },
+  "頭道": {
+    "pinyin": "tou2 dao4",
+    "definition": "first time; first (round, course, coat of paint etc)"
+  },
+  "頭部": {
+    "pinyin": "tou2 bu4",
+    "definition": "head"
+  },
+  "頭里": {
+    "pinyin": "tou2 li3",
+    "definition": "in front; in advance of the field"
+  },
+  "頭重": {
+    "pinyin": "tou2 zhong4",
+    "definition": "disequilibrium; top-heavy; heaviness in the head (medical condition)"
+  },
+  "頭重腳輕": {
+    "pinyin": "tou2 zhong4 jiao3 qing1",
+    "definition": "top-heavy; fig. unbalance in organization or political structure"
+  },
+  "頭銜": {
+    "pinyin": "tou2 xian2",
+    "definition": "title; rank; appellation"
+  },
+  "頭鐵": {
+    "pinyin": "tou2 tie3",
+    "definition": "(slang) stubborn; headstrong"
+  },
+  "頭陀": {
+    "pinyin": "tou2 tuo2",
+    "definition": "itinerant monk (loanword from Sanskrit)"
+  },
+  "頭面": {
+    "pinyin": "tou2 mian4",
+    "definition": "head ornament (in former times); (literary) head; face; looks"
+  },
+  "頭面人物": {
+    "pinyin": "tou2 mian4 ren2 wu4",
+    "definition": "leading figure; bigwig"
+  },
+  "頭頂": {
+    "pinyin": "tou2 ding3",
+    "definition": "top of the head"
+  },
+  "頭領": {
+    "pinyin": "tou2 ling3",
+    "definition": "head person; leader"
+  },
+  "頭頭": {
+    "pinyin": "tou2 tou2",
+    "definition": "head; chief"
+  },
+  "頭頭是道": {
+    "pinyin": "tou2 tou2 shi4 dao4",
+    "definition": "clear and logical"
+  },
+  "頭頸": {
+    "pinyin": "tou2 jing3",
+    "definition": "(dialect) neck"
+  },
+  "頭顯": {
+    "pinyin": "tou2 xian3",
+    "definition": "HMD; head-mounted display (abbr. for 頭戴式顯示器|头戴式显示器[tou2 dai4 shi4 xian3 shi4 qi4])"
+  },
+  "頭顱": {
+    "pinyin": "tou2 lu2",
+    "definition": "head; skull"
+  },
+  "頭風": {
+    "pinyin": "tou2 feng1",
+    "definition": "headache (Chinese medicine)"
+  },
+  "頭飾": {
+    "pinyin": "tou2 shi4",
+    "definition": "head ornament"
+  },
+  "頭香": {
+    "pinyin": "tou2 xiang1",
+    "definition": "the first stick of incense placed in the censer (believed to bring good luck esp. during festivities); (slang) (Tw) the first reply to a blog post etc"
+  },
+  "頭骨": {
+    "pinyin": "tou2 gu3",
+    "definition": "skull"
+  },
+  "頭髮": {
+    "pinyin": "tou2 fa5",
+    "definition": "hair (on the head)"
+  },
+  "頭髮鬍子一把抓": {
+    "pinyin": "tou2 fa5 hu2 zi5 yi1 ba3 zhua1",
+    "definition": "lit. hair and beard all in one stroke; fig. to handle different things by the same method; one method to solve all problems; one size fits all"
+  }
+}

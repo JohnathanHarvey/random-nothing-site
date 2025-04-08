@@ -1,0 +1,518 @@
+{
+  "網": {
+    "pinyin": "wang3",
+    "definition": "net; network"
+  },
+  "網上": {
+    "pinyin": "wang3 shang4",
+    "definition": "online"
+  },
+  "網上廣播": {
+    "pinyin": "wang3 shang4 guang3 bo1",
+    "definition": "online broadcast; webcast"
+  },
+  "網下": {
+    "pinyin": "wang3 xia4",
+    "definition": "(of an activity) off-line (not done over the Internet)"
+  },
+  "網信辦": {
+    "pinyin": "Wang3 xin4 ban4",
+    "definition": "Cyberspace Administration of China"
+  },
+  "網傳": {
+    "pinyin": "wang3 chuan2",
+    "definition": "(of video clips, rumors etc) to circulate on the Internet"
+  },
+  "網劇": {
+    "pinyin": "wang3 ju4",
+    "definition": "web series"
+  },
+  "網卡": {
+    "pinyin": "wang3 ka3",
+    "definition": "network adapter card (computing)"
+  },
+  "網友": {
+    "pinyin": "wang3 you3",
+    "definition": "online friend; netizen; Internet user"
+  },
+  "網吧": {
+    "pinyin": "wang3 ba1",
+    "definition": "Internet café"
+  },
+  "網咖": {
+    "pinyin": "wang3 ka1",
+    "definition": "Internet café (Tw)"
+  },
+  "網售": {
+    "pinyin": "wang3 shou4",
+    "definition": "to sell online"
+  },
+  "網址": {
+    "pinyin": "wang3 zhi3",
+    "definition": "website; web address; URL"
+  },
+  "網孔": {
+    "pinyin": "wang3 kong3",
+    "definition": "mesh"
+  },
+  "網室": {
+    "pinyin": "wang3 shi4",
+    "definition": "netted enclosure (protecting crops)"
+  },
+  "網布": {
+    "pinyin": "wang3 bu4",
+    "definition": "(textiles) mesh fabric"
+  },
+  "網師園": {
+    "pinyin": "Wang3 shi1 yuan2",
+    "definition": "Master of the Nets Garden in Suzhou, Jiangsu"
+  },
+  "網店": {
+    "pinyin": "wang3 dian4",
+    "definition": "online shop"
+  },
+  "網戀": {
+    "pinyin": "wang3 lian4",
+    "definition": "online love affair; cyberdate; Internet dating"
+  },
+  "網文": {
+    "pinyin": "wang3 wen2",
+    "definition": "online literature, esp. web novels (abbr. for 網絡文學|网络文学[wang3luo4 wen2xue2])"
+  },
+  "網易": {
+    "pinyin": "Wang3 yi4",
+    "definition": "NetEase"
+  },
+  "網景": {
+    "pinyin": "Wang3 jing3",
+    "definition": "Netscape"
+  },
+  "網暴": {
+    "pinyin": "wang3 bao4",
+    "definition": "to cyberbully (abbr. for 網絡暴力|网络暴力[wang3 luo4 bao4 li4])"
+  },
+  "網杓": {
+    "pinyin": "wang3 shao2",
+    "definition": "skimmer (kitchen utensil)"
+  },
+  "網架": {
+    "pinyin": "wang3 jia4",
+    "definition": "rack"
+  },
+  "網格": {
+    "pinyin": "wang3 ge2",
+    "definition": "grid; mesh; lattice"
+  },
+  "網模": {
+    "pinyin": "wang3 mo2",
+    "definition": "model for online fashion sites etc"
+  },
+  "網橋": {
+    "pinyin": "wang3 qiao2",
+    "definition": "(network) bridge"
+  },
+  "網段": {
+    "pinyin": "wang3 duan4",
+    "definition": "network segment"
+  },
+  "網民": {
+    "pinyin": "wang3 min2",
+    "definition": "netizen; Internet user; online community member"
+  },
+  "網片": {
+    "pinyin": "wang3 pian4",
+    "definition": "mesh; netting"
+  },
+  "網版": {
+    "pinyin": "wang3 ban3",
+    "definition": "(printing) screen"
+  },
+  "網特": {
+    "pinyin": "wang3 te4",
+    "definition": "anonymous state-sponsored Internet commentator (abbr. for 網絡特工|网络特工[wang3 luo4 te4 gong1])"
+  },
+  "網狀泡沫": {
+    "pinyin": "wang3 zhuang4 pao4 mo4",
+    "definition": "reticulated foam"
+  },
+  "網狀脈": {
+    "pinyin": "wang3 zhuang4 mai4",
+    "definition": "netted veins; reticulated veins (of a leaf etc); stockwork (geology)"
+  },
+  "網球": {
+    "pinyin": "wang3 qiu2",
+    "definition": "tennis; tennis ball; CL:個|个[ge4]"
+  },
+  "網球場": {
+    "pinyin": "wang3 qiu2 chang3",
+    "definition": "tennis court"
+  },
+  "網球賽": {
+    "pinyin": "wang3 qiu2 sai4",
+    "definition": "tennis match; tennis competition; CL:場|场[chang3]"
+  },
+  "網癮": {
+    "pinyin": "wang3 yin3",
+    "definition": "Internet addiction; net addiction; web addiction"
+  },
+  "網盤": {
+    "pinyin": "wang3 pan2",
+    "definition": "online storage space; cloud file storage"
+  },
+  "網目": {
+    "pinyin": "wang3 mu4",
+    "definition": "mesh"
+  },
+  "網眼": {
+    "pinyin": "wang3 yan3",
+    "definition": "mesh"
+  },
+  "網禁": {
+    "pinyin": "wang3 jin4",
+    "definition": "Internet censorship"
+  },
+  "網站": {
+    "pinyin": "wang3 zhan4",
+    "definition": "website"
+  },
+  "網站導覽": {
+    "pinyin": "wang3 zhan4 dao3 lan3",
+    "definition": "(Tw) website sitemap"
+  },
+  "網管": {
+    "pinyin": "wang3 guan3",
+    "definition": "network management; webmaster"
+  },
+  "網管員": {
+    "pinyin": "wang3 guan3 yuan2",
+    "definition": "network manager; network administrator"
+  },
+  "網管接口": {
+    "pinyin": "wang3 guan3 jie1 kou3",
+    "definition": "network management interface"
+  },
+  "網箱": {
+    "pinyin": "wang3 xiang1",
+    "definition": "net cage (fish farming)"
+  },
+  "網約車": {
+    "pinyin": "wang3 yue1 che1",
+    "definition": "app-based taxi"
+  },
+  "網紅": {
+    "pinyin": "wang3 hong2",
+    "definition": "Internet celebrity; influencer; (attributive) popular on the Internet"
+  },
+  "網絡": {
+    "pinyin": "wang3 luo4",
+    "definition": "network (computing, telecommunications, transport etc)"
+  },
+  "網絡俚語": {
+    "pinyin": "wang3 luo4 li3 yu3",
+    "definition": "Internet slang; netspeak; cyberspeak"
+  },
+  "網絡協議": {
+    "pinyin": "wang3 luo4 xie2 yi4",
+    "definition": "network protocol"
+  },
+  "網絡地址轉換": {
+    "pinyin": "wang3 luo4 di4 zhi3 zhuan3 huan4",
+    "definition": "(computing) network address translation"
+  },
+  "網絡客": {
+    "pinyin": "wang3 luo4 ke4",
+    "definition": "online customer"
+  },
+  "網絡層": {
+    "pinyin": "wang3 luo4 ceng2",
+    "definition": "network layer"
+  },
+  "網絡層協議": {
+    "pinyin": "wang3 luo4 ceng2 xie2 yi4",
+    "definition": "network layer protocol"
+  },
+  "網絡廣告": {
+    "pinyin": "wang3 luo4 guang3 gao4",
+    "definition": "online advertising"
+  },
+  "網絡應用": {
+    "pinyin": "wang3 luo4 ying4 yong4",
+    "definition": "network application"
+  },
+  "網絡成癮": {
+    "pinyin": "wang3 luo4 cheng2 yin3",
+    "definition": "Internet addiction; net addiction; web addiction"
+  },
+  "網絡打印機": {
+    "pinyin": "wang3 luo4 da3 yin4 ji1",
+    "definition": "network printer"
+  },
+  "網絡打手": {
+    "pinyin": "Wang3 luo4 da3 shou3",
+    "definition": "see 網絡水軍|网络水军[Wang3 luo4 shui3 jun1]"
+  },
+  "網絡技術": {
+    "pinyin": "wang3 luo4 ji4 shu4",
+    "definition": "network technology"
+  },
+  "網絡操作系統": {
+    "pinyin": "wang3 luo4 cao1 zuo4 xi4 tong3",
+    "definition": "network operating system"
+  },
+  "網絡日記": {
+    "pinyin": "wang3 luo4 ri4 ji4",
+    "definition": "blog; weblog; same as 博客[bo2 ke4]"
+  },
+  "網絡欺詐": {
+    "pinyin": "wang3 luo4 qi1 zha4",
+    "definition": "phishing"
+  },
+  "網絡水軍": {
+    "pinyin": "Wang3 luo4 shui3 jun1",
+    "definition": "\"Internet Navy\"; paid Internet posters; astroturfers"
+  },
+  "網絡瀏覽器": {
+    "pinyin": "wang3 luo4 liu2 lan3 qi4",
+    "definition": "network browser; Internet browser"
+  },
+  "網絡特工": {
+    "pinyin": "wang3 luo4 te4 gong1",
+    "definition": "anonymous state-sponsored Internet commentator"
+  },
+  "網絡環境": {
+    "pinyin": "wang3 luo4 huan2 jing4",
+    "definition": "network environment"
+  },
+  "網絡用語": {
+    "pinyin": "wang3 luo4 yong4 yu3",
+    "definition": "see 網絡語言|网络语言[wang3luo4 yu3yan2]"
+  },
+  "網絡直徑": {
+    "pinyin": "wang3 luo4 zhi2 jing4",
+    "definition": "network diameter"
+  },
+  "網絡科技": {
+    "pinyin": "wang3 luo4 ke1 ji4",
+    "definition": "network technology"
+  },
+  "網絡空間": {
+    "pinyin": "wang3 luo4 kong1 jian1",
+    "definition": "cyberspace"
+  },
+  "網絡管理": {
+    "pinyin": "wang3 luo4 guan3 li3",
+    "definition": "network management"
+  },
+  "網絡管理員": {
+    "pinyin": "wang3 luo4 guan3 li3 yuan2",
+    "definition": "network administrator"
+  },
+  "網絡管理系統": {
+    "pinyin": "wang3 luo4 guan3 li3 xi4 tong3",
+    "definition": "network management system; NMS"
+  },
+  "網絡紅人": {
+    "pinyin": "wang3 luo4 hong2 ren2",
+    "definition": "Internet celebrity"
+  },
+  "網絡色情": {
+    "pinyin": "Wang3 luo4 se4 qing2",
+    "definition": "online pornography"
+  },
+  "網絡規劃人員": {
+    "pinyin": "wang3 luo4 gui1 hua4 ren2 yuan2",
+    "definition": "network planner"
+  },
+  "網絡設備": {
+    "pinyin": "wang3 luo4 she4 bei4",
+    "definition": "network equipment"
+  },
+  "網絡設計": {
+    "pinyin": "wang3 luo4 she4 ji4",
+    "definition": "network design; network plan"
+  },
+  "網絡語言": {
+    "pinyin": "wang3 luo4 yu3 yan2",
+    "definition": "Internet slang; netspeak; cyberspeak"
+  },
+  "網絡語音": {
+    "pinyin": "wang3 luo4 yu3 yin1",
+    "definition": "VoIP (Voice over IP) (computing); to speak with others over the Internet"
+  },
+  "網絡遷移": {
+    "pinyin": "wang3 luo4 qian1 yi2",
+    "definition": "network migration"
+  },
+  "網絡鐵路": {
+    "pinyin": "wang3 luo4 tie3 lu4",
+    "definition": "Network Rail (UK railway organization)"
+  },
+  "網綜": {
+    "pinyin": "wang3 zong1",
+    "definition": "online variety show (abbr. for 網絡綜藝節目|网络综艺节目[wang3 luo4 zong1 yi4 jie2 mu4])"
+  },
+  "網罟": {
+    "pinyin": "wang3 gu3",
+    "definition": "net used to catch fish (or birds etc); (fig.) the net of justice 法網|法网[fa3wang3]"
+  },
+  "網罟座": {
+    "pinyin": "Wang3 gu3 zuo4",
+    "definition": "Reticulum (constellation)"
+  },
+  "網羅": {
+    "pinyin": "wang3 luo2",
+    "definition": "net for fishing or bird catching; (fig.) fetters; to snare (a valuable new team member etc); to bring together under the one umbrella"
+  },
+  "網膜": {
+    "pinyin": "wang3 mo2",
+    "definition": "retina (anatomy)"
+  },
+  "網蝽": {
+    "pinyin": "wang3 chun1",
+    "definition": "lace bug; Tingidae"
+  },
+  "網蟲": {
+    "pinyin": "wang3 chong2",
+    "definition": "Internet addict"
+  },
+  "網袋": {
+    "pinyin": "wang3 dai4",
+    "definition": "string bag; mesh bag; net bag"
+  },
+  "網襪": {
+    "pinyin": "wang3 wa4",
+    "definition": "fishnet stockings"
+  },
+  "網誌": {
+    "pinyin": "wang3 zhi4",
+    "definition": "blog; weblog; same as 博客[bo2 ke4]"
+  },
+  "網語": {
+    "pinyin": "wang3 yu3",
+    "definition": "Internet slang; netspeak; cyberspeak"
+  },
+  "網課": {
+    "pinyin": "wang3 ke4",
+    "definition": "online classes"
+  },
+  "網警": {
+    "pinyin": "wang3 jing3",
+    "definition": "Internet police (abbr. for 網絡警察|网络警察[wang3luo4 jing3cha2])"
+  },
+  "網貸": {
+    "pinyin": "wang3 dai4",
+    "definition": "(finance) online lending (or borrowing)"
+  },
+  "網賺": {
+    "pinyin": "wang3 zhuan4",
+    "definition": "to make money online"
+  },
+  "網購": {
+    "pinyin": "wang3 gou4",
+    "definition": "Internet shopping; to purchase online"
+  },
+  "網路": {
+    "pinyin": "wang3 lu4",
+    "definition": "network (computer, telecom); Internet; Taiwanese term for 網絡|网络[wang3 luo4]"
+  },
+  "網路作業系統": {
+    "pinyin": "wang3 lu4 zuo4 ye4 xi4 tong3",
+    "definition": "network operating system"
+  },
+  "網路平台": {
+    "pinyin": "wang3 lu4 ping2 tai2",
+    "definition": "network platform"
+  },
+  "網路應用": {
+    "pinyin": "wang3 lu4 ying4 yong4",
+    "definition": "(Tw) web application"
+  },
+  "網路服務": {
+    "pinyin": "wang3 lu4 fu2 wu4",
+    "definition": "network service"
+  },
+  "網路架構": {
+    "pinyin": "wang3 lu4 jia4 gou4",
+    "definition": "network infrastructure"
+  },
+  "網路特務": {
+    "pinyin": "wang3 lu4 te4 wu5",
+    "definition": "anonymous state-sponsored Internet commentator"
+  },
+  "網路環境": {
+    "pinyin": "wang3 lu4 huan2 jing4",
+    "definition": "network environment"
+  },
+  "網路節點": {
+    "pinyin": "wang3 lu4 jie2 dian3",
+    "definition": "network node"
+  },
+  "網路節點介面": {
+    "pinyin": "wang3 lu4 jie2 dian3 jie4 mian4",
+    "definition": "network node interface"
+  },
+  "網路鏈接層": {
+    "pinyin": "wang3 lu4 lian4 jie1 ceng2",
+    "definition": "network link layer"
+  },
+  "網通": {
+    "pinyin": "Wang3 tong1",
+    "definition": "China Netcom (CNC), former telecommunication service provider in PRC"
+  },
+  "網遊": {
+    "pinyin": "wang3 you2",
+    "definition": "online game (abbr. for 網絡遊戲|网络游戏[wang3 luo4 you2 xi4])"
+  },
+  "網銀": {
+    "pinyin": "wang3 yin2",
+    "definition": "online banking; abbr. for 網上銀行|网上银行[wang3 shang4 yin2 hang2]"
+  },
+  "網開一面": {
+    "pinyin": "wang3 kai1 yi1 mian4",
+    "definition": "open the net on one side (idiom); let the caged bird fly; to give one's opponent a way out; lenient treatment"
+  },
+  "網開三面": {
+    "pinyin": "wang3 kai1 san1 mian4",
+    "definition": "to leave the net open on three sides (idiom); let the caged bird fly; to give one's opponent a way out; lenient treatment"
+  },
+  "網關": {
+    "pinyin": "wang3 guan1",
+    "definition": "network router; gateway (to Internet or between networks)"
+  },
+  "網際": {
+    "pinyin": "wang3 ji4",
+    "definition": "Internet; net; cyber-"
+  },
+  "網際協定": {
+    "pinyin": "wang3 ji4 xie2 ding4",
+    "definition": "Internet protocol; IP"
+  },
+  "網際網絡": {
+    "pinyin": "wang3 ji4 wang3 luo4",
+    "definition": "Internet"
+  },
+  "網際網路": {
+    "pinyin": "wang3 ji4 wang3 lu4",
+    "definition": "(Tw) Internet"
+  },
+  "網頁": {
+    "pinyin": "wang3 ye4",
+    "definition": "web page"
+  },
+  "網頁地址": {
+    "pinyin": "wang3 ye4 di4 zhi3",
+    "definition": "webaddress; URL"
+  },
+  "網頁設計": {
+    "pinyin": "wang3 ye4 she4 ji4",
+    "definition": "web design"
+  },
+  "網飛": {
+    "pinyin": "Wang3 fei1",
+    "definition": "Netflix, American entertainment company"
+  },
+  "網點": {
+    "pinyin": "wang3 dian3",
+    "definition": "(computing) node in a network; (commerce) sales outlet; branch; service center; (illustration) screentone; halftone dot"
+  }
+}

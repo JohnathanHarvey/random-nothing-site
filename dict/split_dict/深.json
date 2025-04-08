@@ -1,0 +1,414 @@
+{
+  "深": {
+    "pinyin": "shen1",
+    "definition": "deep (lit. and fig.)"
+  },
+  "深不可測": {
+    "pinyin": "shen1 bu4 ke3 ce4",
+    "definition": "deep and unmeasurable (idiom); unfathomable depths; incomprehensible; enigmatic and impossible to predict"
+  },
+  "深不見底": {
+    "pinyin": "shen1 bu4 jian4 di3",
+    "definition": "so deep one cannot see to the bottom; limitless"
+  },
+  "深井": {
+    "pinyin": "Shen1 Jing3",
+    "definition": "Sham Tseng (area in Hong Kong)"
+  },
+  "深信": {
+    "pinyin": "shen1 xin4",
+    "definition": "to believe firmly"
+  },
+  "深信不疑": {
+    "pinyin": "shen1 xin4 bu4 yi2",
+    "definition": "to believe firmly without any doubt (idiom); absolute certainty about sth"
+  },
+  "深偽": {
+    "pinyin": "shen1 wei3",
+    "definition": "(technology) deepfake"
+  },
+  "深入": {
+    "pinyin": "shen1 ru4",
+    "definition": "to penetrate deeply; thorough"
+  },
+  "深入人心": {
+    "pinyin": "shen1 ru4 ren2 xin1",
+    "definition": "to enter deeply into people's hearts; to have a real impact on the people (idiom)"
+  },
+  "深入淺出": {
+    "pinyin": "shen1 ru4 qian3 chu1",
+    "definition": "to explain a complicated subject matter in simple terms (idiom); (of language) simple and easy to understand"
+  },
+  "深入顯出": {
+    "pinyin": "shen1 ru4 xian3 chu1",
+    "definition": "see 深入淺出|深入浅出[shen1 ru4 qian3 chu1]"
+  },
+  "深切": {
+    "pinyin": "shen1 qie4",
+    "definition": "deeply felt; heartfelt; sincere; honest"
+  },
+  "深刻": {
+    "pinyin": "shen1 ke4",
+    "definition": "profound; deep; deep-going"
+  },
+  "深化": {
+    "pinyin": "shen1 hua4",
+    "definition": "to deepen; to intensify"
+  },
+  "深厚": {
+    "pinyin": "shen1 hou4",
+    "definition": "deep; profound"
+  },
+  "深受": {
+    "pinyin": "shen1 shou4",
+    "definition": "to receive in no small measure"
+  },
+  "深吻": {
+    "pinyin": "shen1 wen3",
+    "definition": "French kissing"
+  },
+  "深喉": {
+    "pinyin": "shen1 hou2",
+    "definition": "deep throating (sex act); a deep throat (anonymous informant)"
+  },
+  "深圳": {
+    "pinyin": "Shen1 zhen4",
+    "definition": "see 深圳市[Shen1zhen4 Shi4]"
+  },
+  "深圳交易所": {
+    "pinyin": "Shen1 zhen4 Jiao1 yi4 suo3",
+    "definition": "Shenzhen Stock Exchange SZSE"
+  },
+  "深圳市": {
+    "pinyin": "Shen1 zhen4 Shi4",
+    "definition": "Shenzhen, sub-provincial city in Guangdong Province 廣東省|广东省[Guang3dong1 Sheng3]"
+  },
+  "深圳河": {
+    "pinyin": "Shen1 zhen4 he2",
+    "definition": "Shenzhen or Shamchun river Guangdong, the border between Hong Kong new territories and PRC"
+  },
+  "深圳證券交易所": {
+    "pinyin": "Shen1 zhen4 Zheng4 quan4 Jiao1 yi4 suo3",
+    "definition": "Shenzhen Stock Exchange, abbr. to 深交所[Shen1 Jiao1 suo3]"
+  },
+  "深坑": {
+    "pinyin": "Shen1 keng1",
+    "definition": "Shenkeng township in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+  },
+  "深坑鄉": {
+    "pinyin": "Shen1 keng1 xiang1",
+    "definition": "Shenkeng township in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+  },
+  "深夜": {
+    "pinyin": "shen1 ye4",
+    "definition": "very late at night"
+  },
+  "深奧": {
+    "pinyin": "shen1 ao4",
+    "definition": "profound; abstruse; recondite; profoundly"
+  },
+  "深孚眾望": {
+    "pinyin": "shen1 fu2 zhong4 wang4",
+    "definition": "to enjoy the confidence of the people; to be very popular"
+  },
+  "深密": {
+    "pinyin": "shen1 mi4",
+    "definition": "dense; thick"
+  },
+  "深層": {
+    "pinyin": "shen1 ceng2",
+    "definition": "deep layer; deep; deep-seated; underlying"
+  },
+  "深層政府": {
+    "pinyin": "shen1 ceng2 zheng4 fu3",
+    "definition": "deep state"
+  },
+  "深層次": {
+    "pinyin": "shen1 ceng2 ci4",
+    "definition": "deep level; deep-seated; in-depth"
+  },
+  "深層清潔": {
+    "pinyin": "shen1 ceng2 qing1 jie2",
+    "definition": "deep cleansing"
+  },
+  "深山": {
+    "pinyin": "shen1 shan1",
+    "definition": "deep in the mountains"
+  },
+  "深州": {
+    "pinyin": "Shen1 zhou1",
+    "definition": "Shenzhou Hengshui 衡水[Heng2 shui3], Hebei"
+  },
+  "深州市": {
+    "pinyin": "Shen1 zhou1 shi4",
+    "definition": "Shenzhou Hengshui 衡水[Heng2 shui3], Hebei"
+  },
+  "深度": {
+    "pinyin": "shen1 du4",
+    "definition": "depth; (of a speech etc) profundity; advanced stage of development"
+  },
+  "深度學習": {
+    "pinyin": "shen1 du4 xue2 xi2",
+    "definition": "deep learning (artificial intelligence)"
+  },
+  "深度尺": {
+    "pinyin": "shen1 du4 chi3",
+    "definition": "depth indicator or gauge"
+  },
+  "深廣": {
+    "pinyin": "shen1 guang3",
+    "definition": "deep and wide; vast; profound (influence etc)"
+  },
+  "深得民心": {
+    "pinyin": "shen1 de2 min2 xin1",
+    "definition": "to win the hearts of the people; to be popular among the masses"
+  },
+  "深思": {
+    "pinyin": "shen1 si1",
+    "definition": "to ponder; to consider"
+  },
+  "深思熟慮": {
+    "pinyin": "shen1 si1 shu2 lu:4",
+    "definition": "mature reflection; after careful deliberations"
+  },
+  "深情": {
+    "pinyin": "shen1 qing2",
+    "definition": "deep emotion; deep feeling; deep love; affectionate; loving"
+  },
+  "深情厚意": {
+    "pinyin": "shen1 qing2 hou4 yi4",
+    "definition": "profound love, generous friendship (idiom)"
+  },
+  "深情厚誼": {
+    "pinyin": "shen1 qing2 hou4 yi4",
+    "definition": "deep friendship"
+  },
+  "深情款款": {
+    "pinyin": "shen1 qing2 kuan3 kuan3",
+    "definition": "loving; caring; adoring"
+  },
+  "深惡痛絕": {
+    "pinyin": "shen1 wu4 tong4 jue2",
+    "definition": "to detest bitterly (idiom); implacable hatred; to abhor; anathema"
+  },
+  "深愛": {
+    "pinyin": "shen1 ai4",
+    "definition": "to love dearly"
+  },
+  "深感": {
+    "pinyin": "shen1 gan3",
+    "definition": "to feel deeply"
+  },
+  "深成岩": {
+    "pinyin": "shen1 cheng2 yan2",
+    "definition": "plutonic rock; abyssal rock"
+  },
+  "深挖": {
+    "pinyin": "shen1 wa1",
+    "definition": "to dredge"
+  },
+  "深摯": {
+    "pinyin": "shen1 zhi4",
+    "definition": "heartfelt and genuine"
+  },
+  "深明大義": {
+    "pinyin": "shen1 ming2 da4 yi4",
+    "definition": "to have a high notion of one's duty; to be highly principled"
+  },
+  "深更半夜": {
+    "pinyin": "shen1 geng1 ban4 ye4",
+    "definition": "in the dead of night (idiom)"
+  },
+  "深棕": {
+    "pinyin": "shen1 zong1",
+    "definition": "dark brown"
+  },
+  "深棕色": {
+    "pinyin": "shen1 zong1 se4",
+    "definition": "dark brown"
+  },
+  "深櫃": {
+    "pinyin": "shen1 gui4",
+    "definition": "(slang) (of an LGBT person etc) closeted; person who keeps their sexual orientation, gender identity or political opinions etc private"
+  },
+  "深水埗": {
+    "pinyin": "Shen1 shui3 bu4",
+    "definition": "Sham Shui Po district of Kowloon, Hong Kong"
+  },
+  "深水炸彈": {
+    "pinyin": "shen1 shui3 zha4 dan4",
+    "definition": "depth charge"
+  },
+  "深沉": {
+    "pinyin": "shen1 chen2",
+    "definition": "deep; profound; (of a person) reserved; undemonstrative; (of a voice, sound etc) deep; low-pitched"
+  },
+  "深海": {
+    "pinyin": "shen1 hai3",
+    "definition": "deep sea"
+  },
+  "深海圍網": {
+    "pinyin": "shen1 hai3 wei2 wang3",
+    "definition": "purse-seine net (fishing)"
+  },
+  "深海煙囪": {
+    "pinyin": "shen1 hai3 yan1 cong1",
+    "definition": "see 海底熱泉|海底热泉[hai3di3 re4quan2]"
+  },
+  "深深": {
+    "pinyin": "shen1 shen1",
+    "definition": "deep; profound"
+  },
+  "深淵": {
+    "pinyin": "shen1 yuan1",
+    "definition": "abyss"
+  },
+  "深淺": {
+    "pinyin": "shen1 qian3",
+    "definition": "deep or shallow; depth (of the sea); limits of decorum"
+  },
+  "深港": {
+    "pinyin": "Shen1 Gang3",
+    "definition": "Shenzhen and Hong Kong"
+  },
+  "深源地震": {
+    "pinyin": "shen1 yuan2 di4 zhen4",
+    "definition": "deep earthquake (with epicenter more than 300 km deep)"
+  },
+  "深潭": {
+    "pinyin": "shen1 tan2",
+    "definition": "deep natural pond; deep pit; abyss"
+  },
+  "深澤": {
+    "pinyin": "Shen1 ze2",
+    "definition": "Shenze county in Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1], Hebei"
+  },
+  "深澤縣": {
+    "pinyin": "Shen1 ze2 xian4",
+    "definition": "Shenze county in Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1], Hebei"
+  },
+  "深灰色": {
+    "pinyin": "shen1 hui1 se4",
+    "definition": "dark gray"
+  },
+  "深知": {
+    "pinyin": "shen1 zhi1",
+    "definition": "to know well; to be fully aware of"
+  },
+  "深秋": {
+    "pinyin": "shen1 qiu1",
+    "definition": "late autumn"
+  },
+  "深究": {
+    "pinyin": "shen1 jiu1",
+    "definition": "to perform an in-depth investigation"
+  },
+  "深空": {
+    "pinyin": "shen1 kong1",
+    "definition": "deep space (outer space)"
+  },
+  "深紅色": {
+    "pinyin": "shen1 hong2 se4",
+    "definition": "deep red; crimson; scarlet"
+  },
+  "深綠": {
+    "pinyin": "shen1 lu:4",
+    "definition": "dark green"
+  },
+  "深縣": {
+    "pinyin": "Shen1 xian4",
+    "definition": "Shen county in Hebei"
+  },
+  "深耕": {
+    "pinyin": "shen1 geng1",
+    "definition": "deep plowing; thorough penetration; thorough development (of a market segment etc)"
+  },
+  "深耕細作": {
+    "pinyin": "shen1 geng1 xi4 zuo4",
+    "definition": "deep plowing and careful cultivation"
+  },
+  "深色": {
+    "pinyin": "shen1 se4",
+    "definition": "dark; dark colored"
+  },
+  "深藍": {
+    "pinyin": "shen1 lan2",
+    "definition": "dark blue"
+  },
+  "深藏": {
+    "pinyin": "shen1 cang2",
+    "definition": "to be deeply hidden; to lie deep (in some place)"
+  },
+  "深藏若虛": {
+    "pinyin": "shen1 cang2 ruo4 xu1",
+    "definition": "to hide one's treasure away so that no-one knows about it (idiom); fig. modest about one's talents; to hide one's light under a bushel"
+  },
+  "深處": {
+    "pinyin": "shen1 chu4",
+    "definition": "abyss; depths; deepest or most distant part"
+  },
+  "深談": {
+    "pinyin": "shen1 tan2",
+    "definition": "to have an in depth conversation; to have intimate talks; to discuss thoroughly"
+  },
+  "深諳": {
+    "pinyin": "shen1 an1",
+    "definition": "to know (sth) very well; to be an expert in"
+  },
+  "深謀": {
+    "pinyin": "shen1 mou2",
+    "definition": "forethought"
+  },
+  "深謀遠慮": {
+    "pinyin": "shen1 mou2 yuan3 lu:4",
+    "definition": "lit. deep plans and distant thoughts; to plan far ahead (idiom)"
+  },
+  "深謀遠略": {
+    "pinyin": "shen1 mou2 yuan3 lu:e4",
+    "definition": "a well-thought out long-term strategy"
+  },
+  "深谷": {
+    "pinyin": "shen1 gu3",
+    "definition": "deep valley; ravine"
+  },
+  "深蹲": {
+    "pinyin": "shen1 dun1",
+    "definition": "squat (exercise)"
+  },
+  "深造": {
+    "pinyin": "shen1 zao4",
+    "definition": "to pursue one's studies"
+  },
+  "深遠": {
+    "pinyin": "shen1 yuan3",
+    "definition": "far-reaching; profound and long-lasting"
+  },
+  "深邃": {
+    "pinyin": "shen1 sui4",
+    "definition": "deep (valley or night); abstruse; hidden in depth"
+  },
+  "深重": {
+    "pinyin": "shen1 zhong4",
+    "definition": "very serious; grave; profound"
+  },
+  "深鎖": {
+    "pinyin": "shen1 suo3",
+    "definition": "locked up; closed off; (of one's brow) furrowed; frowning"
+  },
+  "深長": {
+    "pinyin": "shen1 chang2",
+    "definition": "profound (meaning, implications etc)"
+  },
+  "深閉固拒": {
+    "pinyin": "shen1 bi4 gu4 ju4",
+    "definition": "deep, closed and refusing (idiom); obstinate; stubborn and perverse"
+  },
+  "深閨": {
+    "pinyin": "shen1 gui1",
+    "definition": "lady's private room or bedroom; boudoir"
+  },
+  "深陷": {
+    "pinyin": "shen1 xian4",
+    "definition": "to be deeply in (trouble, debt etc); deep set (eyes)"
+  }
+}

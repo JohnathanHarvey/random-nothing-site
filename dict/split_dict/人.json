@@ -1,0 +1,1422 @@
+{
+  "人": {
+    "pinyin": "ren2",
+    "definition": "person; people; CL:個|个[ge4],位[wei4]"
+  },
+  "人丁": {
+    "pinyin": "ren2 ding1",
+    "definition": "number of people in a family; population; (old) adult males; male servants"
+  },
+  "人不可貌相": {
+    "pinyin": "ren2 bu4 ke3 mao4 xiang4",
+    "definition": "you can't judge a person by appearance (idiom); you can't judge a book by its cover; often in combination 人不可貌相，海水不可斗量[ren2 bu4 ke3 mao4 xiang4 , hai3 shui3 bu4 ke3 dou3 liang2]"
+  },
+  "人不可貌相，海水不可斗量": {
+    "pinyin": "ren2 bu4 ke3 mao4 xiang4 , hai3 shui3 bu4 ke3 dou3 liang2",
+    "definition": "you can't judge a person by appearance, just as you can't measure the sea with a pint pot (idiom)"
+  },
+  "人不為己，天誅地滅": {
+    "pinyin": "ren2 bu4 wei4 ji3 , tian1 zhu1 di4 mie4",
+    "definition": "Look out for yourself, or heaven and earth will combine to destroy you.; Every man for himself, and the Devil take the hindmost."
+  },
+  "人不知鬼不覺": {
+    "pinyin": "ren2 bu4 zhi1 gui3 bu4 jue2",
+    "definition": "in absolute secrecy"
+  },
+  "人世": {
+    "pinyin": "ren2 shi4",
+    "definition": "the world; this world; the world of the living"
+  },
+  "人世間": {
+    "pinyin": "ren2 shi4 jian1",
+    "definition": "the secular world"
+  },
+  "人中": {
+    "pinyin": "ren2 zhong1",
+    "definition": "philtrum; infranasal depression; the \"human center\" acupuncture point"
+  },
+  "人中龍鳳": {
+    "pinyin": "ren2 zhong1 long2 feng4",
+    "definition": "a giant among men (idiom)"
+  },
+  "人之初，性本善": {
+    "pinyin": "ren2 zhi1 chu1 , xing4 ben3 shan4",
+    "definition": "man at birth is fundamentally good in nature (the first two lines of Three Character Classic 三字經|三字经[San1 zi4 Jing1])"
+  },
+  "人之將死，其言也善": {
+    "pinyin": "ren2 zhi1 jiang1 si3 , qi2 yan2 ye3 shan4",
+    "definition": "words of a man on his deathbed always come from the heart (proverb)"
+  },
+  "人之常情": {
+    "pinyin": "ren2 zhi1 chang2 qing2",
+    "definition": "human nature (idiom); a behavior that is only natural"
+  },
+  "人事": {
+    "pinyin": "ren2 shi4",
+    "definition": "personnel; human resources; human affairs; ways of the world; (euphemism) sexuality; the facts of life"
+  },
+  "人事不知": {
+    "pinyin": "ren2 shi4 bu4 zhi1",
+    "definition": "to have lost consciousness"
+  },
+  "人事管理": {
+    "pinyin": "ren2 shi4 guan3 li3",
+    "definition": "personnel management"
+  },
+  "人事處": {
+    "pinyin": "ren2 shi4 chu4",
+    "definition": "human resources department"
+  },
+  "人事部": {
+    "pinyin": "ren2 shi4 bu4",
+    "definition": "personnel office; human resources (HR)"
+  },
+  "人事部門": {
+    "pinyin": "ren2 shi4 bu4 men2",
+    "definition": "personnel office"
+  },
+  "人云亦云": {
+    "pinyin": "ren2 yun2 yi4 yun2",
+    "definition": "to say what everyone says (idiom); to conform to what one perceives to be the majority view; to follow the herd"
+  },
+  "人五人六": {
+    "pinyin": "ren2 wu3 - ren2 liu4",
+    "definition": "(idiom) to make a show of being decent and proper; to display phony or hypocritical behavior"
+  },
+  "人人": {
+    "pinyin": "ren2 ren2",
+    "definition": "everyone; every person"
+  },
+  "人人有責": {
+    "pinyin": "ren2 ren2 you3 ze2",
+    "definition": "it is everyone's duty"
+  },
+  "人人皆知": {
+    "pinyin": "ren2 ren2 jie1 zhi1",
+    "definition": "known to everyone"
+  },
+  "人人網": {
+    "pinyin": "Ren2 ren2 Wang3",
+    "definition": "Renren (Chinese social networking website)"
+  },
+  "人仰馬翻": {
+    "pinyin": "ren2 yang3 ma3 fan1",
+    "definition": "to suffer a crushing defeat (idiom); in a pitiful state; in a complete mess; to roll (with laughter)"
+  },
+  "人位相宜": {
+    "pinyin": "ren2 wei4 xiang1 yi2",
+    "definition": "to be the right person for the job (idiom)"
+  },
+  "人來瘋": {
+    "pinyin": "ren2 lai2 feng1",
+    "definition": "to get hyped up in front of an audience; (of children) to play up in front of guests"
+  },
+  "人保": {
+    "pinyin": "ren2 bao3",
+    "definition": "personal guarantee; to sign as guarantor"
+  },
+  "人們": {
+    "pinyin": "ren2 men5",
+    "definition": "people"
+  },
+  "人偶": {
+    "pinyin": "ren2 ou3",
+    "definition": "puppet; figure"
+  },
+  "人偶戲": {
+    "pinyin": "ren2 ou3 xi4",
+    "definition": "puppet show"
+  },
+  "人傑": {
+    "pinyin": "ren2 jie2",
+    "definition": "outstanding talent; wise and able person; illustrious individual"
+  },
+  "人傑地靈": {
+    "pinyin": "ren2 jie2 di4 ling2",
+    "definition": "illustrious hero, spirit of the place (idiom); a place derives reflected glory from an illustrious son"
+  },
+  "人傳人": {
+    "pinyin": "ren2 chuan2 ren2",
+    "definition": "transmitted person-to-person"
+  },
+  "人像": {
+    "pinyin": "ren2 xiang4",
+    "definition": "likeness of a person (sketch, photo, sculpture etc)"
+  },
+  "人兒": {
+    "pinyin": "ren2 r5",
+    "definition": "figurine"
+  },
+  "人力": {
+    "pinyin": "ren2 li4",
+    "definition": "manpower; labor power"
+  },
+  "人力接龍": {
+    "pinyin": "ren2 li4 jie1 long2",
+    "definition": "bucket brigade; human chain"
+  },
+  "人力資源": {
+    "pinyin": "ren2 li4 zi1 yuan2",
+    "definition": "human resources"
+  },
+  "人力車": {
+    "pinyin": "ren2 li4 che1",
+    "definition": "rickshaw"
+  },
+  "人力車夫": {
+    "pinyin": "ren2 li4 che1 fu1",
+    "definition": "rickshaw puller"
+  },
+  "人勢": {
+    "pinyin": "ren2 shi4",
+    "definition": "(human) penis (TCM)"
+  },
+  "人去樓空": {
+    "pinyin": "ren2 qu4 lou2 kong1",
+    "definition": "lit. the occupants have gone and the place is now empty (idiom); fig. (of a dwelling) empty; deserted"
+  },
+  "人參": {
+    "pinyin": "ren2 shen1",
+    "definition": "ginseng"
+  },
+  "人叢": {
+    "pinyin": "ren2 cong2",
+    "definition": "crowd of people"
+  },
+  "人口": {
+    "pinyin": "ren2 kou3",
+    "definition": "population; people"
+  },
+  "人口學": {
+    "pinyin": "ren2 kou3 xue2",
+    "definition": "demography"
+  },
+  "人口密度": {
+    "pinyin": "ren2 kou3 mi4 du4",
+    "definition": "population density"
+  },
+  "人口密集": {
+    "pinyin": "ren2 kou3 mi4 ji2",
+    "definition": "densely populated"
+  },
+  "人口數": {
+    "pinyin": "ren2 kou3 shu4",
+    "definition": "population"
+  },
+  "人口普查": {
+    "pinyin": "ren2 kou3 pu3 cha2",
+    "definition": "census"
+  },
+  "人口稠密": {
+    "pinyin": "ren2 kou3 chou2 mi4",
+    "definition": "populous"
+  },
+  "人口紅利": {
+    "pinyin": "ren2 kou3 hong2 li4",
+    "definition": "(economics) demographic dividend"
+  },
+  "人口統計學": {
+    "pinyin": "ren2 kou3 tong3 ji4 xue2",
+    "definition": "population studies; population statistics"
+  },
+  "人口調查": {
+    "pinyin": "ren2 kou3 diao4 cha2",
+    "definition": "census"
+  },
+  "人口販運": {
+    "pinyin": "ren2 kou3 fan4 yun4",
+    "definition": "trafficking in persons; human trafficking"
+  },
+  "人各有所好": {
+    "pinyin": "ren2 ge4 you3 suo3 hao4",
+    "definition": "everyone has their likes and dislikes; there is no accounting for taste; chacun son goût"
+  },
+  "人名": {
+    "pinyin": "ren2 ming2",
+    "definition": "personal name"
+  },
+  "人命": {
+    "pinyin": "ren2 ming4",
+    "definition": "human life; CL:條|条[tiao2]"
+  },
+  "人命關天": {
+    "pinyin": "ren2 ming4 guan1 tian1",
+    "definition": "human life is beyond value (idiom)"
+  },
+  "人品": {
+    "pinyin": "ren2 pin3",
+    "definition": "character; moral strength; integrity; (coll.) looks; appearance; bearing"
+  },
+  "人員": {
+    "pinyin": "ren2 yuan2",
+    "definition": "staff; crew; personnel; CL:個|个[ge4]"
+  },
+  "人喊馬嘶": {
+    "pinyin": "ren2 han3 ma3 si1",
+    "definition": "lit. people shouting and horses neighing (idiom); fig. tumultuous; hubbub"
+  },
+  "人困馬乏": {
+    "pinyin": "ren2 kun4 ma3 fa2",
+    "definition": "riders tired and horses weary (idiom); worn out; exhausted; spent; fatigued"
+  },
+  "人在江湖，身不由己": {
+    "pinyin": "ren2 zai4 jiang1 hu2 , shen1 bu4 you2 ji3",
+    "definition": "(proverb) you can't always do as you like; one has to compromise in this world"
+  },
+  "人均": {
+    "pinyin": "ren2 jun1",
+    "definition": "per capita"
+  },
+  "人士": {
+    "pinyin": "ren2 shi4",
+    "definition": "person; figure; public figure"
+  },
+  "人壽": {
+    "pinyin": "ren2 shou4",
+    "definition": "human lifespan; life insurance (abbr. for 人壽保險|人寿保险[ren2shou4 bao3xian3])"
+  },
+  "人壽保險": {
+    "pinyin": "ren2 shou4 bao3 xian3",
+    "definition": "life insurance"
+  },
+  "人壽年豐": {
+    "pinyin": "ren2 shou4 nian2 feng1",
+    "definition": "long-lived people, rich harvests (idiom); stable and affluent society; prosperity"
+  },
+  "人外有人，天外有天": {
+    "pinyin": "ren2 wai4 you3 ren2 , tian1 wai4 you3 tian1",
+    "definition": "in the wider world there are people more talented than oneself (idiom)"
+  },
+  "人多勢眾": {
+    "pinyin": "ren2 duo1 shi4 zhong4",
+    "definition": "many men, a great force (idiom); many hands provide great strength; There is safety in numbers."
+  },
+  "人大": {
+    "pinyin": "ren2 da4",
+    "definition": "people's congress, a legislative body within the PRC's system of government at any of various levels – national, provincial, municipal, county or township (abbr. for 人民代表大會|人民代表大会[ren2min2 dai4biao3 da4hui4])"
+  },
+  "人夫": {
+    "pinyin": "ren2 fu1",
+    "definition": "married man; husband (as a social role)"
+  },
+  "人如其名": {
+    "pinyin": "ren2 ru2 qi2 ming2",
+    "definition": "(idiom) to live up to one's name; true to one's name"
+  },
+  "人妖": {
+    "pinyin": "ren2 yao1",
+    "definition": "transvestite; transsexual; ladyboy"
+  },
+  "人妻": {
+    "pinyin": "ren2 qi1",
+    "definition": "married woman; wife (as a social role)"
+  },
+  "人子": {
+    "pinyin": "ren2 zi3",
+    "definition": "son of man"
+  },
+  "人孔": {
+    "pinyin": "ren2 kong3",
+    "definition": "manhole"
+  },
+  "人字形": {
+    "pinyin": "ren2 zi4 xing2",
+    "definition": "V-shape; chevron; herringbone"
+  },
+  "人字拖": {
+    "pinyin": "ren2 zi4 tuo1",
+    "definition": "flip-flops (abbr. for 人字拖鞋[ren2zi4 tuo1xie2])"
+  },
+  "人字拖鞋": {
+    "pinyin": "ren2 zi4 tuo1 xie2",
+    "definition": "flip-flops; flip-flop sandals; thongs; see also 人字拖[ren2 zi4 tuo1]"
+  },
+  "人字洞": {
+    "pinyin": "Ren2 zi4 dong4",
+    "definition": "Renzidong palaeolithic archaeological site at Fanchang 繁昌[Fan2 chang1], Anhui"
+  },
+  "人定": {
+    "pinyin": "ren2 ding4",
+    "definition": "middle of the night; the dead of night"
+  },
+  "人定勝天": {
+    "pinyin": "ren2 ding4 sheng4 tian1",
+    "definition": "man can conquer nature (idiom); human wisdom can prevail over nature"
+  },
+  "人家": {
+    "pinyin": "ren2 jia5",
+    "definition": "other people; sb else; he, she or they; I, me (referring to oneself as \"one\" or \"people\")"
+  },
+  "人家牽驢你拔橛": {
+    "pinyin": "ren2 jia1 qian1 lu:2 ni3 ba2 jue2",
+    "definition": "see 別人牽驢你拔橛子|别人牵驴你拔橛子[bie2 ren5 qian1 lu:2 ni3 ba2 jue2 zi5]"
+  },
+  "人寰": {
+    "pinyin": "ren2 huan2",
+    "definition": "world; earthly world"
+  },
+  "人尖兒": {
+    "pinyin": "ren2 jian1 r5",
+    "definition": "outstanding individual; person of great ability"
+  },
+  "人居": {
+    "pinyin": "ren2 ju1",
+    "definition": "human habitat"
+  },
+  "人山人海": {
+    "pinyin": "ren2 shan1 ren2 hai3",
+    "definition": "(idiom) multitude; vast crowd"
+  },
+  "人工": {
+    "pinyin": "ren2 gong1",
+    "definition": "artificial; manpower; manual work"
+  },
+  "人工受孕": {
+    "pinyin": "ren2 gong1 shou4 yun4",
+    "definition": "artificial insemination"
+  },
+  "人工吹氣": {
+    "pinyin": "ren2 gong1 chui1 qi4",
+    "definition": "oral inflation"
+  },
+  "人工呼吸": {
+    "pinyin": "ren2 gong1 hu1 xi1",
+    "definition": "artificial respiration (medicine)"
+  },
+  "人工島": {
+    "pinyin": "ren2 gong1 dao3",
+    "definition": "artificial island"
+  },
+  "人工授精": {
+    "pinyin": "ren2 gong1 shou4 jing1",
+    "definition": "artificial insemination"
+  },
+  "人工智慧": {
+    "pinyin": "ren2 gong1 zhi4 hui4",
+    "definition": "(Tw) artificial intelligence"
+  },
+  "人工智能": {
+    "pinyin": "ren2 gong1 zhi4 neng2",
+    "definition": "artificial intelligence (AI)"
+  },
+  "人工概念": {
+    "pinyin": "ren2 gong1 gai4 nian4",
+    "definition": "artificial concept"
+  },
+  "人工河": {
+    "pinyin": "ren2 gong1 he2",
+    "definition": "canal; man-made waterway"
+  },
+  "人工流產": {
+    "pinyin": "ren2 gong1 liu2 chan3",
+    "definition": "abortion"
+  },
+  "人工湖": {
+    "pinyin": "ren2 gong1 hu2",
+    "definition": "artificial lake"
+  },
+  "人工照亮": {
+    "pinyin": "ren2 gong1 zhao4 liang4",
+    "definition": "artificial lighting"
+  },
+  "人工耳蝸": {
+    "pinyin": "ren2 gong1 er3 wo1",
+    "definition": "cochlear implant"
+  },
+  "人工費": {
+    "pinyin": "ren2 gong1 fei4",
+    "definition": "labor cost"
+  },
+  "人工電子耳": {
+    "pinyin": "ren2 gong1 dian4 zi3 er3",
+    "definition": "cochlear implant"
+  },
+  "人師": {
+    "pinyin": "ren2 shi1",
+    "definition": "mentor; role model"
+  },
+  "人形": {
+    "pinyin": "ren2 xing2",
+    "definition": "human form; human-shaped; humanoid"
+  },
+  "人影": {
+    "pinyin": "ren2 ying3",
+    "definition": "the shadow of a human figure; a trace of a person's presence (usu. combined with a negative verb)"
+  },
+  "人往高處爬，水往低處流": {
+    "pinyin": "ren2 wang3 gao1 chu4 pa2 , shui3 wang3 di1 chu4 liu2",
+    "definition": "see 人往高處走，水往低處流|人往高处走，水往低处流[ren2 wang3 gao1 chu4 zou3 , shui3 wang3 di1 chu4 liu2]"
+  },
+  "人往高處走，水往低處流": {
+    "pinyin": "ren2 wang3 gao1 chu4 zou3 , shui3 wang3 di1 chu4 liu2",
+    "definition": "man seeks his way up just as water seeks its way down (idiom); one should constantly strive to make progress"
+  },
+  "人從": {
+    "pinyin": "ren2 cong2",
+    "definition": "retinue; hangers-on"
+  },
+  "人從眾𠈌": {
+    "pinyin": "ren2 cong2 zhong4 yu2",
+    "definition": "(Internet slang) huge crowds of people (emphatic form of 人[ren2])"
+  },
+  "人微言輕": {
+    "pinyin": "ren2 wei1 yan2 qing1",
+    "definition": "(idiom) what lowly people think counts for little"
+  },
+  "人心": {
+    "pinyin": "ren2 xin1",
+    "definition": "popular feeling; the will of the people"
+  },
+  "人心不古": {
+    "pinyin": "ren2 xin1 bu4 gu3",
+    "definition": "(idiom) moral standards are much lower now than in former times"
+  },
+  "人心不足蛇吞象": {
+    "pinyin": "ren2 xin1 bu4 zu2 she2 tun1 xiang4",
+    "definition": "a man who is never content is like a snake trying to swallow an elephant (idiom)"
+  },
+  "人心惶惶": {
+    "pinyin": "ren2 xin1 huang2 huang2",
+    "definition": "(idiom) everyone is anxious; (of a group of people) to feel anxious"
+  },
+  "人心所向": {
+    "pinyin": "ren2 xin1 suo3 xiang4",
+    "definition": "that which is yearned for by the public"
+  },
+  "人心果": {
+    "pinyin": "ren2 xin1 guo3",
+    "definition": "sapodilla, a tropical fruit bearing tree"
+  },
+  "人心渙散": {
+    "pinyin": "ren2 xin1 huan4 san4",
+    "definition": "(of a nation, government etc) demoralized; disunited"
+  },
+  "人心隔肚皮": {
+    "pinyin": "ren2 xin1 ge2 du4 pi2",
+    "definition": "there is no knowing what is in a man's heart (idiom)"
+  },
+  "人心難測": {
+    "pinyin": "ren2 xin1 nan2 ce4",
+    "definition": "hard to fathom a person's mind (idiom)"
+  },
+  "人怕出名豬怕壯": {
+    "pinyin": "ren2 pa4 chu1 ming2 zhu1 pa4 zhuang4",
+    "definition": "lit. people fear getting famous like pigs fear fattening up (for the slaughter); fig. fame has its price"
+  },
+  "人怕出名豬怕肥": {
+    "pinyin": "ren2 pa4 chu1 ming2 zhu1 pa4 fei2",
+    "definition": "lit. people fear getting famous like pigs fear fattening up (for the slaughter); fig. fame has its price"
+  },
+  "人性": {
+    "pinyin": "ren2 xing4",
+    "definition": "human nature; humanity; human; the totality of human attributes"
+  },
+  "人性化": {
+    "pinyin": "ren2 xing4 hua4",
+    "definition": "(of a system or product etc) adapted to human needs; people-oriented; user-friendly"
+  },
+  "人情": {
+    "pinyin": "ren2 qing2",
+    "definition": "human emotions; social relationship; friendship; favor; a good turn"
+  },
+  "人情世故": {
+    "pinyin": "ren2 qing2 shi4 gu4",
+    "definition": "worldly wisdom; the ways of the world; to know how to get on in the world"
+  },
+  "人情債": {
+    "pinyin": "ren2 qing2 zhai4",
+    "definition": "debt of gratitude"
+  },
+  "人情味": {
+    "pinyin": "ren2 qing2 wei4",
+    "definition": "human warmth; friendliness; human touch"
+  },
+  "人情味兒": {
+    "pinyin": "ren2 qing2 wei4 r5",
+    "definition": "erhua variant of 人情味[ren2 qing2 wei4]"
+  },
+  "人意": {
+    "pinyin": "ren2 yi4",
+    "definition": "people's expectations"
+  },
+  "人憎狗厭": {
+    "pinyin": "ren2 zeng1 - gou3 yan4",
+    "definition": "detestable (wordplay based on 神憎鬼厭|神憎鬼厌[shen2zeng1-gui3yan4])"
+  },
+  "人憎狗嫌": {
+    "pinyin": "ren2 zeng1 - gou3 xian2",
+    "definition": "see 人憎狗厭|人憎狗厌[ren2zeng1-gou3yan4]"
+  },
+  "人所共知": {
+    "pinyin": "ren2 suo3 gong4 zhi1",
+    "definition": "something that everybody knows"
+  },
+  "人手": {
+    "pinyin": "ren2 shou3",
+    "definition": "manpower; staff; human hand"
+  },
+  "人才": {
+    "pinyin": "ren2 cai2",
+    "definition": "talent; talented person; looks; attractive looks"
+  },
+  "人才外流": {
+    "pinyin": "ren2 cai2 wai4 liu2",
+    "definition": "brain drain"
+  },
+  "人才流失": {
+    "pinyin": "ren2 cai2 liu2 shi1",
+    "definition": "brain drain; outflow of talent"
+  },
+  "人才濟濟": {
+    "pinyin": "ren2 cai2 ji3 ji3",
+    "definition": "a galaxy of talent (idiom); a great number of competent people"
+  },
+  "人數": {
+    "pinyin": "ren2 shu4",
+    "definition": "number of people"
+  },
+  "人文": {
+    "pinyin": "ren2 wen2",
+    "definition": "humanities; human affairs; culture"
+  },
+  "人文主義": {
+    "pinyin": "ren2 wen2 zhu3 yi4",
+    "definition": "humanism"
+  },
+  "人文地理學": {
+    "pinyin": "ren2 wen2 di4 li3 xue2",
+    "definition": "human geography"
+  },
+  "人文學": {
+    "pinyin": "ren2 wen2 xue2",
+    "definition": "humanities"
+  },
+  "人文景觀": {
+    "pinyin": "ren2 wen2 jing3 guan1",
+    "definition": "place of cultural interest"
+  },
+  "人文社會學科": {
+    "pinyin": "ren2 wen2 she4 hui4 xue2 ke1",
+    "definition": "humanities and social sciences"
+  },
+  "人文社科": {
+    "pinyin": "ren2 wen2 she4 ke1",
+    "definition": "(abbr.) humanities and social sciences"
+  },
+  "人族": {
+    "pinyin": "ren2 zu2",
+    "definition": "Hominini"
+  },
+  "人是鐵飯是鋼": {
+    "pinyin": "ren2 shi4 tie3 fan4 shi4 gang1",
+    "definition": "one can't function properly on an empty stomach (idiom); an empty sack cannot stand upright"
+  },
+  "人有三急": {
+    "pinyin": "ren2 you3 san1 ji2",
+    "definition": "(jocular) to need to answer the call of nature"
+  },
+  "人有失手，馬有失蹄": {
+    "pinyin": "ren2 you3 shi1 shou3 , ma3 you3 shi1 ti2",
+    "definition": "lit. just as humans make mistakes, so can a horse stumble (idiom); fig. everyone makes mistakes; even the best fall down sometimes"
+  },
+  "人望": {
+    "pinyin": "ren2 wang4",
+    "definition": "prestige; esteem"
+  },
+  "人材": {
+    "pinyin": "ren2 cai2",
+    "definition": "variant of 人才[ren2 cai2]"
+  },
+  "人格": {
+    "pinyin": "ren2 ge2",
+    "definition": "personality; integrity; dignity"
+  },
+  "人格化": {
+    "pinyin": "ren2 ge2 hua4",
+    "definition": "to personalize; anthropomorphism"
+  },
+  "人格神": {
+    "pinyin": "ren2 ge2 shen2",
+    "definition": "personal god"
+  },
+  "人格魅力": {
+    "pinyin": "ren2 ge2 mei4 li4",
+    "definition": "personal charm; charisma"
+  },
+  "人梯": {
+    "pinyin": "ren2 ti1",
+    "definition": "human ladder (formed to help sb climb a wall etc); (fig.) person who sacrifices himself for others' success"
+  },
+  "人模狗樣": {
+    "pinyin": "ren2 mu2 gou3 yang4",
+    "definition": "(idiom) to pose; to put on airs; Taiwan pr. [ren2 mo2 gou3 yang4]"
+  },
+  "人機工程": {
+    "pinyin": "ren2 ji1 gong1 cheng2",
+    "definition": "ergonomics; man-machine engineering"
+  },
+  "人機界面": {
+    "pinyin": "ren2 ji1 jie4 mian4",
+    "definition": "user interface"
+  },
+  "人權": {
+    "pinyin": "ren2 quan2",
+    "definition": "human rights"
+  },
+  "人權法": {
+    "pinyin": "ren2 quan2 fa3",
+    "definition": "Human Rights law (Hong Kong)"
+  },
+  "人權觀察": {
+    "pinyin": "Ren2 quan2 Guan1 cha2",
+    "definition": "Human Rights Watch (HRW), New York-based non-governmental organization"
+  },
+  "人權鬥士": {
+    "pinyin": "ren2 quan2 dou4 shi4",
+    "definition": "a human rights activist; a fighter for human rights"
+  },
+  "人次": {
+    "pinyin": "ren2 ci4",
+    "definition": "person-times; visits; classifier for number of people participating"
+  },
+  "人武": {
+    "pinyin": "ren2 wu3",
+    "definition": "armed forces"
+  },
+  "人母": {
+    "pinyin": "ren2 mu3",
+    "definition": "mother (as a social role)"
+  },
+  "人比人得死": {
+    "pinyin": "ren2 bi3 ren2 dei3 si3",
+    "definition": "see 人比人，氣死人|人比人，气死人[ren2 bi3 ren2, qi4si3 ren2]"
+  },
+  "人比人，氣死人": {
+    "pinyin": "ren2 bi3 ren2 , qi4 si3 ren2",
+    "definition": "(proverb) constantly comparing oneself to others only leads to dissatisfaction and envy"
+  },
+  "人氏": {
+    "pinyin": "ren2 shi4",
+    "definition": "native; person from a particular place"
+  },
+  "人民": {
+    "pinyin": "ren2 min2",
+    "definition": "the people; CL:個|个[ge4]"
+  },
+  "人民代表": {
+    "pinyin": "ren2 min2 dai4 biao3",
+    "definition": "deputy to the People's Congress"
+  },
+  "人民內部矛盾": {
+    "pinyin": "ren2 min2 nei4 bu4 mao2 dun4",
+    "definition": "internal contradiction among the people (pretext for a purge)"
+  },
+  "人民公敵": {
+    "pinyin": "ren2 min2 gong1 di2",
+    "definition": "the enemy of the people; the class enemy (Marxism)"
+  },
+  "人民公社": {
+    "pinyin": "ren2 min2 gong1 she4",
+    "definition": "people's commune"
+  },
+  "人民公社化": {
+    "pinyin": "ren2 min2 gong1 she4 hua4",
+    "definition": "collectivization of agriculture (disastrous policy of communist Russia around 1930 and China in the 1950s)"
+  },
+  "人民利益": {
+    "pinyin": "ren2 min2 li4 yi4",
+    "definition": "interests of the people"
+  },
+  "人民團體": {
+    "pinyin": "ren2 min2 tuan2 ti3",
+    "definition": "people's organization (e.g. labor unions, peasant associations, scholarly associations etc); mass organization"
+  },
+  "人民基本權利": {
+    "pinyin": "ren2 min2 ji1 ben3 quan2 li4",
+    "definition": "fundamental civil rights"
+  },
+  "人民大會堂": {
+    "pinyin": "Ren2 min2 Da4 hui4 tang2",
+    "definition": "the Great Hall of the People (in Beijing)"
+  },
+  "人民幣": {
+    "pinyin": "ren2 min2 bi4",
+    "definition": "Renminbi (RMB); Chinese Yuan (CNY)"
+  },
+  "人民幣元": {
+    "pinyin": "ren2 min2 bi4 yuan2",
+    "definition": "renminbi yuan (RMB), PRC currency unit"
+  },
+  "人民戰爭": {
+    "pinyin": "ren2 min2 zhan4 zheng1",
+    "definition": "people's war, military strategy advocated by Mao whereby a large number of ordinary citizens provide support in a campaign"
+  },
+  "人民政府": {
+    "pinyin": "ren2 min2 zheng4 fu3",
+    "definition": "people's government"
+  },
+  "人民日報": {
+    "pinyin": "Ren2 min2 Ri4 bao4",
+    "definition": "People's Daily (PRC newspaper)"
+  },
+  "人民民主專政": {
+    "pinyin": "ren2 min2 min2 zhu3 zhuan1 zheng4",
+    "definition": "people's democratic dictatorship"
+  },
+  "人民法院": {
+    "pinyin": "ren2 min2 fa3 yuan4",
+    "definition": "people's court (of law); people's tribunal"
+  },
+  "人民網": {
+    "pinyin": "Ren2 min2 wang3",
+    "definition": "online version of the People's Daily, 人民日報|人民日报[Ren2 min2 Ri4 bao4]"
+  },
+  "人民聯盟黨": {
+    "pinyin": "ren2 min2 lian2 meng2 dang3",
+    "definition": "People's alliance party; Bengali Awami league"
+  },
+  "人民英雄紀念碑": {
+    "pinyin": "Ren2 min2 Ying1 xiong2 Ji4 nian4 bei1",
+    "definition": "Monument to the People's Heroes, at Tiananmen Square"
+  },
+  "人民行動黨": {
+    "pinyin": "Ren2 min2 Xing2 dong4 dang3",
+    "definition": "People's Action Party (ruling party in Singapore)"
+  },
+  "人民解放軍": {
+    "pinyin": "ren2 min2 jie3 fang4 jun1",
+    "definition": "People's Liberation Army"
+  },
+  "人民警察": {
+    "pinyin": "ren2 min2 jing3 cha2",
+    "definition": "civil police; PRC police"
+  },
+  "人民起義": {
+    "pinyin": "ren2 min2 qi3 yi4",
+    "definition": "popular uprising"
+  },
+  "人民銀行": {
+    "pinyin": "Ren2 min2 Yin2 hang2",
+    "definition": "People's Bank of China"
+  },
+  "人民陣線": {
+    "pinyin": "ren2 min2 zhen4 xian4",
+    "definition": "popular front"
+  },
+  "人民黨": {
+    "pinyin": "ren2 min2 dang3",
+    "definition": "People's party (of various countries)"
+  },
+  "人氣": {
+    "pinyin": "ren2 qi4",
+    "definition": "popularity; personality; character"
+  },
+  "人治": {
+    "pinyin": "ren2 zhi4",
+    "definition": "rule of man"
+  },
+  "人流": {
+    "pinyin": "ren2 liu2",
+    "definition": "stream of people; abortion; abbr. for 人工流產|人工流产[ren2 gong1 liu2 chan3]"
+  },
+  "人流手術": {
+    "pinyin": "ren2 liu2 shou3 shu4",
+    "definition": "an abortion; abbr. of 人工流產手術|人工流产手术"
+  },
+  "人浮於事": {
+    "pinyin": "ren2 fu2 yu2 shi4",
+    "definition": "more hands than needed (idiom); too many cooks spoil the broth"
+  },
+  "人海": {
+    "pinyin": "ren2 hai3",
+    "definition": "a multitude; a sea of people"
+  },
+  "人海戰術": {
+    "pinyin": "ren2 hai3 zhan4 shu4",
+    "definition": "(military) human wave attack"
+  },
+  "人渣": {
+    "pinyin": "ren2 zha1",
+    "definition": "dregs of society; scum"
+  },
+  "人滿為患": {
+    "pinyin": "ren2 man3 wei2 huan4",
+    "definition": "packed with people; overcrowded; overpopulation"
+  },
+  "人潮": {
+    "pinyin": "ren2 chao2",
+    "definition": "a tide of people"
+  },
+  "人為": {
+    "pinyin": "ren2 wei2",
+    "definition": "artificial; man-made; having human cause or origin; human attempt or effort"
+  },
+  "人為刀俎，我為魚肉": {
+    "pinyin": "ren2 wei2 dao1 zu3 , wo3 wei2 yu2 rou4",
+    "definition": "lit. to be the meat on sb's chopping block (idiom); fig. to be at sb's mercy"
+  },
+  "人為土": {
+    "pinyin": "ren2 wei2 tu3",
+    "definition": "anthrosol (soil taxonomy)"
+  },
+  "人為財死，鳥為食亡": {
+    "pinyin": "ren2 wei4 cai2 si3 , niao3 wei4 shi2 wang2",
+    "definition": "lit. human beings will die for riches, just as birds will for food (idiom); fig. man will do anything in his means to become rich"
+  },
+  "人無完人": {
+    "pinyin": "ren2 wu2 wan2 ren2",
+    "definition": "nobody is perfect; everyone has their defect"
+  },
+  "人無橫財不富，馬無夜草不肥": {
+    "pinyin": "ren2 wu2 heng4 cai2 bu4 fu4 , ma3 wu2 ye4 cao3 bu4 fei2",
+    "definition": "(saying) a person cannot become wealthy without windfall profits (or ill-gotten gains etc), just as a horse cannot get fat without night feed"
+  },
+  "人無遠慮，必有近憂": {
+    "pinyin": "ren2 wu2 yuan3 lu:4 , bi4 you3 jin4 you1",
+    "definition": "He who gives no thought to far-flung problems soon finds suffering nearby (idiom, from Analects).; Smug concentration on the here and now will lead to future sorrow."
+  },
+  "人煙": {
+    "pinyin": "ren2 yan1",
+    "definition": "sign of human habitation"
+  },
+  "人煙浩穰": {
+    "pinyin": "ren2 yan1 - hao4 rang2",
+    "definition": "see 人煙稠密|人烟稠密[ren2yan1-chou2mi4]"
+  },
+  "人煙稀少": {
+    "pinyin": "ren2 yan1 xi1 shao3",
+    "definition": "no sign of human habitation (idiom); desolate"
+  },
+  "人煙稠密": {
+    "pinyin": "ren2 yan1 - chou2 mi4",
+    "definition": "(idiom) densely populated"
+  },
+  "人父": {
+    "pinyin": "ren2 fu4",
+    "definition": "father (as a social role)"
+  },
+  "人牆": {
+    "pinyin": "ren2 qiang2",
+    "definition": "human barricade; (soccer) defensive wall"
+  },
+  "人物": {
+    "pinyin": "ren2 wu4",
+    "definition": "person; personage; figure (esp. sb of importance); character (in a play, novel etc); (genre of traditional Chinese painting) figure painting"
+  },
+  "人物描寫": {
+    "pinyin": "ren2 wu4 miao2 xie3",
+    "definition": "portrayal"
+  },
+  "人犯": {
+    "pinyin": "ren2 fan4",
+    "definition": "criminal; culprit; suspect (old)"
+  },
+  "人猿": {
+    "pinyin": "ren2 yuan2",
+    "definition": "anthropoid ape"
+  },
+  "人球": {
+    "pinyin": "ren2 qiu2",
+    "definition": "person who is passed back and forth, with nobody willing to look after them (e.g. a child of divorced parents); (esp.) patient who gets shuttled from hospital to hospital, each of which refuses to admit the patient for treatment"
+  },
+  "人琴俱亡": {
+    "pinyin": "ren2 qin2 ju4 wang2",
+    "definition": "person and lute have both vanished (idiom); death of a close friend"
+  },
+  "人瑞": {
+    "pinyin": "ren2 rui4",
+    "definition": "very old person; venerable old person"
+  },
+  "人生": {
+    "pinyin": "ren2 sheng1",
+    "definition": "life (one's time on earth)"
+  },
+  "人生一世，草木一春": {
+    "pinyin": "ren2 sheng1 yi1 shi4 , cao3 mu4 yi1 chun1",
+    "definition": "Man has but one life, grass but one spring (idiom). fig. the brevity of human existence"
+  },
+  "人生何處不相逢": {
+    "pinyin": "ren2 sheng1 he2 chu4 bu4 xiang1 feng2",
+    "definition": "it's a small world (idiom)"
+  },
+  "人生地不熟": {
+    "pinyin": "ren2 sheng1 di4 bu4 shu2",
+    "definition": "to be a stranger in a strange land (idiom); in an unfamiliar place without friends or family"
+  },
+  "人生如夢": {
+    "pinyin": "ren2 sheng1 ru2 meng4",
+    "definition": "life is but a dream (idiom)"
+  },
+  "人生如朝露": {
+    "pinyin": "ren2 sheng1 ru2 zhao1 lu4",
+    "definition": "human life as the morning dew (idiom); fig. ephemeral and precarious nature of human existence"
+  },
+  "人生朝露": {
+    "pinyin": "ren2 sheng1 zhao1 lu4",
+    "definition": "human life as the morning dew (idiom); fig. ephemeral and precarious nature of human existence"
+  },
+  "人生路不熟": {
+    "pinyin": "ren2 sheng1 lu4 bu4 shu2",
+    "definition": "everything is unfamiliar"
+  },
+  "人畜共患症": {
+    "pinyin": "ren2 chu4 gong4 huan4 zheng4",
+    "definition": "zoonosis"
+  },
+  "人皇": {
+    "pinyin": "Ren2 huang2",
+    "definition": "Human Sovereign, one of the three legendary sovereigns 三皇[san1 huang2]"
+  },
+  "人盡其才": {
+    "pinyin": "ren2 jin4 qi2 cai2",
+    "definition": "employ one's talent to the fullest; everyone gives of their best"
+  },
+  "人盡其材": {
+    "pinyin": "ren2 jin4 qi2 cai2",
+    "definition": "employ one's talent to the fullest; everyone gives of their best; also written 人盡其才|人尽其才"
+  },
+  "人盡可夫": {
+    "pinyin": "ren2 jin4 ke3 fu1",
+    "definition": "(idiom) (of a woman) promiscuous; loose"
+  },
+  "人盡皆知": {
+    "pinyin": "ren2 jin4 jie1 zhi1",
+    "definition": "see 盡人皆知|尽人皆知[jin4 ren2 jie1 zhi1]"
+  },
+  "人相": {
+    "pinyin": "ren2 xiang4",
+    "definition": "physiognomy"
+  },
+  "人相學": {
+    "pinyin": "ren2 xiang4 xue2",
+    "definition": "physiognomy (judgment of a person's fate, character etc, based on facial features)"
+  },
+  "人盾": {
+    "pinyin": "ren2 dun4",
+    "definition": "human shield"
+  },
+  "人礦": {
+    "pinyin": "ren2 kuang4",
+    "definition": "(neologism c. 2023) (slang) the Chinese people, seen as a resource that is exploited for its value to the nation"
+  },
+  "人社部": {
+    "pinyin": "Ren2 she4 bu4",
+    "definition": "Ministry of Human Resources and Social Security (PRC); abbr. for 人力資源和社會保障部|人力资源和社会保障部"
+  },
+  "人禍": {
+    "pinyin": "ren2 huo4",
+    "definition": "man-made disaster"
+  },
+  "人種": {
+    "pinyin": "ren2 zhong3",
+    "definition": "race (of people)"
+  },
+  "人稱": {
+    "pinyin": "ren2 cheng1",
+    "definition": "person (first person, second person etc in grammar); called; known as"
+  },
+  "人稱代詞": {
+    "pinyin": "ren2 cheng1 dai4 ci2",
+    "definition": "personal pronoun"
+  },
+  "人窮志不窮": {
+    "pinyin": "ren2 qiong2 zhi4 bu4 qiong2",
+    "definition": "(idiom) poor but with great ambitions; poor but principled"
+  },
+  "人窮志短": {
+    "pinyin": "ren2 qiong2 zhi4 duan3",
+    "definition": "poor and with low expectations; poverty stunts ambition"
+  },
+  "人算不如天算": {
+    "pinyin": "ren2 suan4 bu4 ru2 tian1 suan4",
+    "definition": "man proposes, God disposes (idiom); one's plans can be derailed by unforeseen events"
+  },
+  "人精": {
+    "pinyin": "ren2 jing1",
+    "definition": "sophisticate; man with extensive experience; child prodigy; Wunderkind (i.e. brilliant child); spirit within a person (i.e. blood and essential breath 血氣|血气 of TCM)"
+  },
+  "人給家足": {
+    "pinyin": "ren2 ji3 jia1 zu2",
+    "definition": "lit. each household provided for, enough for the individual (idiom); comfortably off"
+  },
+  "人緣": {
+    "pinyin": "ren2 yuan2",
+    "definition": "relations with other people"
+  },
+  "人緣兒": {
+    "pinyin": "ren2 yuan2 r5",
+    "definition": "erhua variant of 人緣|人缘[ren2 yuan2]"
+  },
+  "人群": {
+    "pinyin": "ren2 qun2",
+    "definition": "crowd"
+  },
+  "人群管理特別用途車": {
+    "pinyin": "ren2 qun2 guan3 li3 te4 bie2 yong4 tu2 che1",
+    "definition": "specialized crowd management vehicle, a riot control vehicle equipped with a water cannon, commonly known as water cannon vehicle 水炮車|水炮车[shui3 pao4 che1]"
+  },
+  "人老珠黃": {
+    "pinyin": "ren2 lao3 zhu1 huang2",
+    "definition": "(of a woman) old and faded"
+  },
+  "人聲鼎沸": {
+    "pinyin": "ren2 sheng1 ding3 fei4",
+    "definition": "lit. a boiling cauldron of voices (idiom); hubbub; brouhaha"
+  },
+  "人肉": {
+    "pinyin": "ren2 rou4",
+    "definition": "to crowdsource information about sb or sth (typically as a form of vigilantism resulting in doxing) (abbr. for 人肉搜索[ren2 rou4 sou1 suo3]); human (used attributively, as in 人肉盾牌[ren2 rou4 dun4 pai2], human shield)"
+  },
+  "人肉搜索": {
+    "pinyin": "ren2 rou4 sou1 suo3",
+    "definition": "to crowdsource information about sb or sth (typically as a form of vigilantism resulting in doxing)"
+  },
+  "人肉搜索引擎": {
+    "pinyin": "ren2 rou4 sou1 suo3 yin3 qing2",
+    "definition": "human flesh search engine; a large-scale collective effort to find details about a person or event (Internet slang)"
+  },
+  "人肉沙包": {
+    "pinyin": "ren2 rou4 sha1 bao1",
+    "definition": "human punching bag"
+  },
+  "人脈": {
+    "pinyin": "ren2 mai4",
+    "definition": "contacts; connections; network"
+  },
+  "人臉識別": {
+    "pinyin": "ren2 lian3 shi2 bie2",
+    "definition": "(computing) facial recognition; (cognitive pyschology) face perception"
+  },
+  "人臣": {
+    "pinyin": "ren2 chen2",
+    "definition": "an official (in former times)"
+  },
+  "人艱不拆": {
+    "pinyin": "ren2 jian1 bu4 chai1",
+    "definition": "life is hard enough as it is; don't burst my bubble (Internet slang)"
+  },
+  "人蛇": {
+    "pinyin": "ren2 she2",
+    "definition": "illegal immigrant"
+  },
+  "人蛇集團": {
+    "pinyin": "ren2 she2 ji2 tuan2",
+    "definition": "human smuggling syndicate; snakehead gang"
+  },
+  "人行": {
+    "pinyin": "Ren2 hang2",
+    "definition": "People's Bank of China (abbr. for 中國人民銀行|中国人民银行[Zhong1guo2 Ren2min2 Yin2hang2])"
+  },
+  "人行區": {
+    "pinyin": "ren2 xing2 qu1",
+    "definition": "pedestrian precinct"
+  },
+  "人行地下通道": {
+    "pinyin": "ren2 xing2 di4 xia4 tong1 dao4",
+    "definition": "pedestrian underpass"
+  },
+  "人行橫道": {
+    "pinyin": "ren2 xing2 heng2 dao4",
+    "definition": "crosswalk; pedestrian crossing"
+  },
+  "人行橫道線": {
+    "pinyin": "ren2 xing2 heng2 dao4 xian4",
+    "definition": "crosswalk; pedestrian crossing with zebra stripes"
+  },
+  "人行道": {
+    "pinyin": "ren2 xing2 dao4",
+    "definition": "sidewalk"
+  },
+  "人見人愛": {
+    "pinyin": "ren2 jian4 ren2 ai4",
+    "definition": "loved by all; to have universal appeal"
+  },
+  "人言可畏": {
+    "pinyin": "ren2 yan2 ke3 wei4",
+    "definition": "gossip is a fearful thing (idiom)"
+  },
+  "人言嘖嘖": {
+    "pinyin": "ren2 yan2 ze2 ze2",
+    "definition": "everyone comments disapprovingly (idiom)"
+  },
+  "人言籍籍": {
+    "pinyin": "ren2 yan2 ji2 ji2",
+    "definition": "tongues are wagging (idiom)"
+  },
+  "人設": {
+    "pinyin": "ren2 she4",
+    "definition": "the design of a character (in games, manga etc) (abbr. for 人物設定|人物设定); (fig.) (a celebrity or other public figure's) image in the eyes of the public; public persona"
+  },
+  "人誰無過": {
+    "pinyin": "ren2 shei2 wu2 guo4",
+    "definition": "Everyone makes mistakes (idiom)"
+  },
+  "人證": {
+    "pinyin": "ren2 zheng4",
+    "definition": "witness testimony"
+  },
+  "人證物證": {
+    "pinyin": "ren2 zheng4 wu4 zheng4",
+    "definition": "human testimony and material evidence"
+  },
+  "人財兩失": {
+    "pinyin": "ren2 cai2 liang3 shi1",
+    "definition": "see 人財兩空|人财两空[ren2 cai2 liang3 kong1]"
+  },
+  "人財兩得": {
+    "pinyin": "ren2 cai2 liang3 de2",
+    "definition": "(idiom) to succeed in both love and business"
+  },
+  "人財兩旺": {
+    "pinyin": "ren2 cai2 liang3 wang4",
+    "definition": "(idiom) thriving; (of a city) populous and wealthy; (of a family) large and prosperous"
+  },
+  "人財兩空": {
+    "pinyin": "ren2 cai2 liang3 kong1",
+    "definition": "(idiom) to suffer the departure of sb (talented staff or one's spouse etc) and a financial loss as well; to get burned both romantically and financially"
+  },
+  "人販子": {
+    "pinyin": "ren2 fan4 zi5",
+    "definition": "human trafficker"
+  },
+  "人資": {
+    "pinyin": "ren2 zi1",
+    "definition": "abbr. of 人力資源|人力资源[ren2 li4 zi1 yuan2]"
+  },
+  "人質": {
+    "pinyin": "ren2 zhi4",
+    "definition": "hostage"
+  },
+  "人贓俱獲": {
+    "pinyin": "ren2 zang1 ju4 huo4",
+    "definition": "(of a thief, smuggler etc) to be caught with stolen or illegal goods; to be caught red-handed"
+  },
+  "人走茶涼": {
+    "pinyin": "ren2 zou3 cha2 liang2",
+    "definition": "lit. when people leave, the tea cools (idiom); fig. when sb is no longer in a position of power, others cease to care about him"
+  },
+  "人跡罕至": {
+    "pinyin": "ren2 ji4 han3 zhi4",
+    "definition": "lit. men's footprints are rare (idiom); fig. off the beaten track; lonely; deserted"
+  },
+  "人身": {
+    "pinyin": "ren2 shen1",
+    "definition": "person; personal; human body"
+  },
+  "人身事故": {
+    "pinyin": "ren2 shen1 shi4 gu4",
+    "definition": "accident causing injury or death"
+  },
+  "人身安全": {
+    "pinyin": "ren2 shen1 an1 quan2",
+    "definition": "personal safety"
+  },
+  "人身攻擊": {
+    "pinyin": "ren2 shen1 gong1 ji1",
+    "definition": "personal attack"
+  },
+  "人身權": {
+    "pinyin": "ren2 shen1 quan2",
+    "definition": "one's personal rights"
+  },
+  "人車混行": {
+    "pinyin": "ren2 che1 hun2 xing2",
+    "definition": "pedestrian-vehicle mixed use"
+  },
+  "人造": {
+    "pinyin": "ren2 zao4",
+    "definition": "man-made; artificial; synthetic"
+  },
+  "人造天體": {
+    "pinyin": "ren2 zao4 tian1 ti3",
+    "definition": "artificial satellite"
+  },
+  "人造奶油": {
+    "pinyin": "ren2 zao4 nai3 you2",
+    "definition": "margarine"
+  },
+  "人造牛油": {
+    "pinyin": "ren2 zao4 niu2 you2",
+    "definition": "margarine"
+  },
+  "人造絲": {
+    "pinyin": "ren2 zao4 si1",
+    "definition": "rayon"
+  },
+  "人造纖維": {
+    "pinyin": "ren2 zao4 xian1 wei2",
+    "definition": "man-made fiber"
+  },
+  "人造衛星": {
+    "pinyin": "ren2 zao4 wei4 xing1",
+    "definition": "artificial satellite"
+  },
+  "人造語言": {
+    "pinyin": "ren2 zao4 yu3 yan2",
+    "definition": "artificial language; constructed language; conlang"
+  },
+  "人造革": {
+    "pinyin": "ren2 zao4 ge2",
+    "definition": "artificial leather"
+  },
+  "人造黃油": {
+    "pinyin": "ren2 zao4 huang2 you2",
+    "definition": "margarine"
+  },
+  "人道": {
+    "pinyin": "ren2 dao4",
+    "definition": "human sympathy; humanitarianism; humane; the \"human way\", one of the stages in the cycle of reincarnation (Buddhism); sexual intercourse"
+  },
+  "人道主義": {
+    "pinyin": "ren2 dao4 zhu3 yi4",
+    "definition": "humanism; humanitarian (aid)"
+  },
+  "人道救援": {
+    "pinyin": "ren2 dao4 jiu4 yuan2",
+    "definition": "humanitarian aid"
+  },
+  "人選": {
+    "pinyin": "ren2 xuan3",
+    "definition": "choice of person; candidate"
+  },
+  "人鏈": {
+    "pinyin": "ren2 lian4",
+    "definition": "human chain"
+  },
+  "人間": {
+    "pinyin": "ren2 jian1",
+    "definition": "the human world; the earth"
+  },
+  "人間佛教": {
+    "pinyin": "Ren2 jian1 Fo2 jiao4",
+    "definition": "Humanistic Buddhism"
+  },
+  "人間喜劇": {
+    "pinyin": "Ren2 jian1 Xi3 ju4",
+    "definition": "La Comédie humaine, series of novels by 19th century French novelist Honoré de Balzac 巴爾扎克|巴尔扎克[Ba1 er3 zha1 ke4]"
+  },
+  "人間地獄": {
+    "pinyin": "ren2 jian1 di4 yu4",
+    "definition": "hell on earth (idiom); suffering the torments of Buddhist hell while still alive; fig. having an uncomfortable time"
+  },
+  "人間天堂": {
+    "pinyin": "ren2 jian1 tian1 tang2",
+    "definition": "heaven on Earth; nickname for the city Suzhou"
+  },
+  "人間清醒": {
+    "pinyin": "ren2 jian1 qing1 xing3",
+    "definition": "(neologism c. 2021) to keep one's senses; not get carried away; not let success go to one's head"
+  },
+  "人間蒸發": {
+    "pinyin": "ren2 jian1 zheng1 fa1",
+    "definition": "to vanish; to disappear from the face of the earth"
+  },
+  "人際": {
+    "pinyin": "ren2 ji4",
+    "definition": "human relationships; interpersonal"
+  },
+  "人際關係": {
+    "pinyin": "ren2 ji4 guan1 xi4",
+    "definition": "interpersonal relationship"
+  },
+  "人非生而知之者，孰能無惑": {
+    "pinyin": "ren2 fei1 sheng1 er2 zhi1 zhi1 zhe3 , shu2 neng2 wu2 huo4",
+    "definition": "Knowledge is not innate to man, how can we overcome doubt?; We are not born with knowledge, how does one achieve maturity? (i.e. without guidance from a teacher - Tang dynasty essayist Han Yu 韓愈|韩愈[Han2 Yu4])"
+  },
+  "人面獸心": {
+    "pinyin": "ren2 mian4 - shou4 xin1",
+    "definition": "lit. human face, beastly heart (idiom); fig. mild in appearance but malicious in nature"
+  },
+  "人頭": {
+    "pinyin": "ren2 tou2",
+    "definition": "person; number of people; (per) capita; (a person's) head; (Tw) person whose identity is used by sb else (e.g. to create a bogus account)"
+  },
+  "人頭熟": {
+    "pinyin": "ren2 tou2 shu2",
+    "definition": "to know a lot of people"
+  },
+  "人頭獅身": {
+    "pinyin": "ren2 tou2 shi1 shen1",
+    "definition": "sphinx"
+  },
+  "人頭稅": {
+    "pinyin": "ren2 tou2 shui4",
+    "definition": "poll tax"
+  },
+  "人頭馬": {
+    "pinyin": "Ren2 tou2 ma3",
+    "definition": "Rémy Martin cognac"
+  },
+  "人類": {
+    "pinyin": "ren2 lei4",
+    "definition": "humanity; human race; mankind"
+  },
+  "人類乳突病毒": {
+    "pinyin": "ren2 lei4 ru3 tu1 bing4 du2",
+    "definition": "human papillomavirus (HPV)"
+  },
+  "人類免疫缺陷病毒": {
+    "pinyin": "ren2 lei4 mian3 yi4 que1 xian4 bing4 du2",
+    "definition": "human immunodeficiency virus (HIV)"
+  },
+  "人類基因組計劃": {
+    "pinyin": "ren2 lei4 ji1 yin1 zu3 ji4 hua4",
+    "definition": "Human Genome Project"
+  },
+  "人類學": {
+    "pinyin": "ren2 lei4 xue2",
+    "definition": "anthropology"
+  },
+  "人類學家": {
+    "pinyin": "ren2 lei4 xue2 jia1",
+    "definition": "anthropologist"
+  },
+  "人類起源": {
+    "pinyin": "ren2 lei4 qi3 yuan2",
+    "definition": "origin of mankind"
+  },
+  "人馬": {
+    "pinyin": "ren2 ma3",
+    "definition": "men and horses; troops; group of people; troop; staff; centaur"
+  },
+  "人馬座": {
+    "pinyin": "Ren2 ma3 zuo4",
+    "definition": "Sagittarius (constellation and sign of the zodiac)"
+  },
+  "人馬臂": {
+    "pinyin": "ren2 ma3 bi4",
+    "definition": "Sagittarius spiral arm (of our galaxy)"
+  },
+  "人體": {
+    "pinyin": "ren2 ti3",
+    "definition": "human body"
+  },
+  "人體器官": {
+    "pinyin": "ren2 ti3 qi4 guan1",
+    "definition": "human organ"
+  },
+  "人體工學": {
+    "pinyin": "ren2 ti3 gong1 xue2",
+    "definition": "ergonomics"
+  },
+  "人體解剖": {
+    "pinyin": "ren2 ti3 jie3 pou1",
+    "definition": "human anatomy"
+  },
+  "人體解剖學": {
+    "pinyin": "ren2 ti3 jie3 pou1 xue2",
+    "definition": "human anatomy"
+  },
+  "人高馬大": {
+    "pinyin": "ren2 gao1 ma3 da4",
+    "definition": "tall and strong"
+  },
+  "人魚": {
+    "pinyin": "ren2 yu2",
+    "definition": "mermaid; dugong; sea cow; manatee; giant salamander"
+  },
+  "人龍": {
+    "pinyin": "ren2 long2",
+    "definition": "a queue of people"
+  }
+}

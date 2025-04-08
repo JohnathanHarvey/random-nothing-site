@@ -1,0 +1,554 @@
+{
+  "家": {
+    "pinyin": "jia1",
+    "definition": "home; family; (polite) my (sister, uncle etc); classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian; CL:個|个[ge4]"
+  },
+  "家丁": {
+    "pinyin": "jia1 ding1",
+    "definition": "(old) servant hired to keep guard, run errands etc"
+  },
+  "家世": {
+    "pinyin": "jia1 shi4",
+    "definition": "family background"
+  },
+  "家世寒微": {
+    "pinyin": "jia1 shi4 han2 wei1",
+    "definition": "to be of humble origin (idiom)"
+  },
+  "家主": {
+    "pinyin": "jia1 zhu3",
+    "definition": "head of a household"
+  },
+  "家事": {
+    "pinyin": "jia1 shi4",
+    "definition": "family matters; domestic affairs; housework"
+  },
+  "家人": {
+    "pinyin": "jia1 ren2",
+    "definition": "family member; (old) servant"
+  },
+  "家什": {
+    "pinyin": "jia1 shi5",
+    "definition": "utensils; furniture"
+  },
+  "家伙": {
+    "pinyin": "jia1 huo5",
+    "definition": "household dish, implement or furniture; domestic animal; (coll.) guy; chap; weapon"
+  },
+  "家信": {
+    "pinyin": "jia1 xin4",
+    "definition": "letter (to or from) home"
+  },
+  "家俱": {
+    "pinyin": "jia1 ju4",
+    "definition": "variant of 家具[jia1 ju4]"
+  },
+  "家傭": {
+    "pinyin": "jia1 yong1",
+    "definition": "domestic helper"
+  },
+  "家傳": {
+    "pinyin": "jia1 zhuan4",
+    "definition": "family history (as a literary genre)"
+  },
+  "家僮": {
+    "pinyin": "jia1 tong2",
+    "definition": "servant"
+  },
+  "家兄": {
+    "pinyin": "jia1 xiong1",
+    "definition": "(polite) my elder brother"
+  },
+  "家兒": {
+    "pinyin": "jia1 er2",
+    "definition": "(old) child, particularly referring to the son who resembles his father"
+  },
+  "家八哥": {
+    "pinyin": "jia1 ba1 ge5",
+    "definition": "(bird species of China) common myna (Acridotheres tristis)"
+  },
+  "家公": {
+    "pinyin": "jia1 gong1",
+    "definition": "head of a family; (polite) my father; (polite) my grandfather; your esteemed father"
+  },
+  "家具": {
+    "pinyin": "jia1 ju4",
+    "definition": "furniture; CL:件[jian4],套[tao4]"
+  },
+  "家務": {
+    "pinyin": "jia1 wu4",
+    "definition": "household duties; housework"
+  },
+  "家務活": {
+    "pinyin": "jia1 wu4 huo2",
+    "definition": "household chore"
+  },
+  "家去": {
+    "pinyin": "jia1 qu4",
+    "definition": "(dialect) to go home; to return home"
+  },
+  "家叔": {
+    "pinyin": "jia1 shu1",
+    "definition": "(polite) my uncle (father's younger brother)"
+  },
+  "家和萬事興": {
+    "pinyin": "jia1 he2 wan4 shi4 xing1",
+    "definition": "if the family lives in harmony all affairs will prosper (idiom)"
+  },
+  "家喻戶曉": {
+    "pinyin": "jia1 yu4 hu4 xiao3",
+    "definition": "understood by everyone (idiom); well known; a household name"
+  },
+  "家嚴": {
+    "pinyin": "jia1 yan2",
+    "definition": "(polite) my father"
+  },
+  "家園": {
+    "pinyin": "jia1 yuan2",
+    "definition": "home; homeland"
+  },
+  "家境": {
+    "pinyin": "jia1 jing4",
+    "definition": "family financial situation; family circumstances"
+  },
+  "家奴": {
+    "pinyin": "jia1 nu2",
+    "definition": "domestic slave; slave servant"
+  },
+  "家姊": {
+    "pinyin": "jia1 zi3",
+    "definition": "my sister"
+  },
+  "家姐": {
+    "pinyin": "jia1 jie3",
+    "definition": "(polite) my older sister"
+  },
+  "家姑": {
+    "pinyin": "jia1 gu1",
+    "definition": "(polite) father's sisters"
+  },
+  "家姬": {
+    "pinyin": "jia1 ji1",
+    "definition": "(old) female servants or concubines in homes of the rich"
+  },
+  "家娘": {
+    "pinyin": "jia1 niang2",
+    "definition": "(dialect) husband's mother"
+  },
+  "家婆": {
+    "pinyin": "jia1 po2",
+    "definition": "(dialect) mother-in-law; (house)wife"
+  },
+  "家婦": {
+    "pinyin": "jia1 fu4",
+    "definition": "wife (old)"
+  },
+  "家嫂": {
+    "pinyin": "jia1 sao3",
+    "definition": "(polite) my sister-in-law"
+  },
+  "家子": {
+    "pinyin": "jia1 zi5",
+    "definition": "household; family"
+  },
+  "家宅": {
+    "pinyin": "jia1 zhai2",
+    "definition": "home; residence; house"
+  },
+  "家室": {
+    "pinyin": "jia1 shi4",
+    "definition": "wife; family; (literary) residence"
+  },
+  "家宴": {
+    "pinyin": "jia1 yan4",
+    "definition": "dinner party held in one's home; family reunion dinner"
+  },
+  "家家戶戶": {
+    "pinyin": "jia1 jia1 hu4 hu4",
+    "definition": "each and every family (idiom); every household"
+  },
+  "家家有本難念的經": {
+    "pinyin": "jia1 jia1 you3 ben3 nan2 nian4 de5 jing1",
+    "definition": "every family has its problems (idiom)"
+  },
+  "家家酒": {
+    "pinyin": "jia1 jia1 jiu3",
+    "definition": "(Tw) house (children's game); playing house"
+  },
+  "家小": {
+    "pinyin": "jia1 xiao3",
+    "definition": "wife and children; wife"
+  },
+  "家居": {
+    "pinyin": "jia1 ju1",
+    "definition": "home; residence; to stay at home (unemployed)"
+  },
+  "家居賣場": {
+    "pinyin": "jia1 ju1 mai4 chang3",
+    "definition": "furniture store; furniture mall"
+  },
+  "家屬": {
+    "pinyin": "jia1 shu3",
+    "definition": "family member; (family) dependent"
+  },
+  "家常": {
+    "pinyin": "jia1 chang2",
+    "definition": "the daily life of a family"
+  },
+  "家常便飯": {
+    "pinyin": "jia1 chang2 bian4 fan4",
+    "definition": "simple home-style meal; common occurrence; nothing out of the ordinary"
+  },
+  "家常菜": {
+    "pinyin": "jia1 chang2 cai4",
+    "definition": "home cooking"
+  },
+  "家常豆腐": {
+    "pinyin": "jia1 chang2 dou4 fu5",
+    "definition": "home-style tofu"
+  },
+  "家底": {
+    "pinyin": "jia1 di3",
+    "definition": "family property; patrimony"
+  },
+  "家庭": {
+    "pinyin": "jia1 ting2",
+    "definition": "family; household; CL:戶|户[hu4],個|个[ge4]"
+  },
+  "家庭主夫": {
+    "pinyin": "jia1 ting2 zhu3 fu1",
+    "definition": "househusband"
+  },
+  "家庭主婦": {
+    "pinyin": "jia1 ting2 zhu3 fu4",
+    "definition": "housewife"
+  },
+  "家庭作業": {
+    "pinyin": "jia1 ting2 zuo4 ye4",
+    "definition": "homework"
+  },
+  "家庭地址": {
+    "pinyin": "jia1 ting2 di4 zhi3",
+    "definition": "home address"
+  },
+  "家庭影院": {
+    "pinyin": "jia1 ting2 ying3 yuan4",
+    "definition": "home cinema; home theater"
+  },
+  "家庭成員": {
+    "pinyin": "jia1 ting2 cheng2 yuan2",
+    "definition": "family member"
+  },
+  "家庭教師": {
+    "pinyin": "jia1 ting2 jiao4 shi1",
+    "definition": "tutor"
+  },
+  "家庭暴力": {
+    "pinyin": "jia1 ting2 bao4 li4",
+    "definition": "domestic violence"
+  },
+  "家庭煮夫": {
+    "pinyin": "jia1 ting2 zhu3 fu1",
+    "definition": "househusband"
+  },
+  "家弟": {
+    "pinyin": "jia1 di4",
+    "definition": "(polite) my younger brother"
+  },
+  "家徒四壁": {
+    "pinyin": "jia1 tu2 si4 bi4",
+    "definition": "lit. with only four bare walls for a home (idiom); fig. very poor; wretched"
+  },
+  "家慈": {
+    "pinyin": "jia1 ci2",
+    "definition": "(polite) my mother"
+  },
+  "家政": {
+    "pinyin": "jia1 zheng4",
+    "definition": "housekeeping"
+  },
+  "家政員": {
+    "pinyin": "jia1 zheng4 yuan2",
+    "definition": "housekeeping staff"
+  },
+  "家政學": {
+    "pinyin": "jia1 zheng4 xue2",
+    "definition": "family and consumer science"
+  },
+  "家教": {
+    "pinyin": "jia1 jiao4",
+    "definition": "family education; upbringing; to bring sb up; private tutor"
+  },
+  "家數": {
+    "pinyin": "jia1 shu4",
+    "definition": "the distinctive style and techniques handed down from master to apprentice within a particular school"
+  },
+  "家族": {
+    "pinyin": "jia1 zu2",
+    "definition": "family; clan"
+  },
+  "家族樹": {
+    "pinyin": "jia1 zu2 shu4",
+    "definition": "a family tree"
+  },
+  "家景": {
+    "pinyin": "jia1 jing3",
+    "definition": "the family's financial circumstances"
+  },
+  "家暴": {
+    "pinyin": "jia1 bao4",
+    "definition": "domestic violence; abbr. for 家庭暴力[jia1 ting2 bao4 li4]"
+  },
+  "家業": {
+    "pinyin": "jia1 ye4",
+    "definition": "family property"
+  },
+  "家樂氏": {
+    "pinyin": "Jia1 le4 shi4",
+    "definition": "Kellogg's (US food manufacturing company)"
+  },
+  "家樂福": {
+    "pinyin": "Jia1 le4 fu2",
+    "definition": "Carrefour, French supermarket chain"
+  },
+  "家母": {
+    "pinyin": "jia1 mu3",
+    "definition": "(polite) my mother"
+  },
+  "家法": {
+    "pinyin": "jia1 fa3",
+    "definition": "the rules and discipline that apply within a family; stick used for punishing children or servants; traditions of an artistic or academic school of thought, passed on from master to pupil"
+  },
+  "家灶": {
+    "pinyin": "jia1 zao4",
+    "definition": "hearth"
+  },
+  "家燕": {
+    "pinyin": "jia1 yan4",
+    "definition": "(bird species of China) barn swallow (Hirundo rustica)"
+  },
+  "家父": {
+    "pinyin": "jia1 fu4",
+    "definition": "(polite) my father"
+  },
+  "家爺": {
+    "pinyin": "jia1 ye2",
+    "definition": "(old) a term servants used to refer to their master"
+  },
+  "家產": {
+    "pinyin": "jia1 chan3",
+    "definition": "family property"
+  },
+  "家用": {
+    "pinyin": "jia1 yong4",
+    "definition": "home-use; domestic; family expenses; housekeeping money"
+  },
+  "家用電器": {
+    "pinyin": "jia1 yong4 dian4 qi4",
+    "definition": "domestic electric appliance"
+  },
+  "家用電腦": {
+    "pinyin": "jia1 yong4 dian4 nao3",
+    "definition": "home computer"
+  },
+  "家畜": {
+    "pinyin": "jia1 chu4",
+    "definition": "domestic animal; livestock; cattle"
+  },
+  "家當": {
+    "pinyin": "jia1 dang4",
+    "definition": "familial property; belongings"
+  },
+  "家的": {
+    "pinyin": "jia1 de5",
+    "definition": "(old) wife"
+  },
+  "家眷": {
+    "pinyin": "jia1 juan4",
+    "definition": "one's wife and children"
+  },
+  "家破人亡": {
+    "pinyin": "jia1 po4 ren2 wang2",
+    "definition": "family bankrupt and the people dead (idiom); ruined and orphaned; destitute and homeless"
+  },
+  "家祖": {
+    "pinyin": "jia1 zu3",
+    "definition": "(polite) my paternal grandfather"
+  },
+  "家禽": {
+    "pinyin": "jia1 qin2",
+    "definition": "poultry; domestic fowl"
+  },
+  "家私": {
+    "pinyin": "jia1 si1",
+    "definition": "family property; family wealth"
+  },
+  "家童": {
+    "pinyin": "jia1 tong2",
+    "definition": "servant"
+  },
+  "家累千金，坐不垂堂": {
+    "pinyin": "jia1 lei3 qian1 jin1 , zuo4 bu4 chui2 tang2",
+    "definition": "lit. a wealthy person does not sit under the eaves (idiom); fig. a rich man does not expose himself to danger"
+  },
+  "家給人足": {
+    "pinyin": "jia1 ji3 ren2 zu2",
+    "definition": "lit. each household provided for, enough for the individual (idiom); comfortably off"
+  },
+  "家老": {
+    "pinyin": "jia1 lao3",
+    "definition": "(old) a senior in one's household"
+  },
+  "家臣": {
+    "pinyin": "jia1 chen2",
+    "definition": "counselor of king or feudal warlord; henchman"
+  },
+  "家舅": {
+    "pinyin": "jia1 jiu4",
+    "definition": "(polite) my maternal uncle"
+  },
+  "家花沒有野花香": {
+    "pinyin": "jia1 hua1 mei2 you3 ye3 hua1 xiang1",
+    "definition": "lit. the flowers in one's garden cannot match the fragrance of wild flowers (idiom); fig. other women seem more attractive than one's own partner; the grass is always greener on the other side"
+  },
+  "家蠅": {
+    "pinyin": "jia1 ying2",
+    "definition": "house fly"
+  },
+  "家蠶": {
+    "pinyin": "jia1 can2",
+    "definition": "the common silkworm (Bombyx mori)"
+  },
+  "家裡": {
+    "pinyin": "jia1 li3",
+    "definition": "home"
+  },
+  "家裡蹲": {
+    "pinyin": "jia1 li3 dun1",
+    "definition": "recluse; hikikomori person"
+  },
+  "家規": {
+    "pinyin": "jia1 gui1",
+    "definition": "family rules; family code of conduct"
+  },
+  "家親": {
+    "pinyin": "jia1 qin1",
+    "definition": "older generation in one's household (often referring to one's parents); one's deceased close relatives"
+  },
+  "家計": {
+    "pinyin": "jia1 ji4",
+    "definition": "family livelihood; a household's economic situation; family property"
+  },
+  "家訓": {
+    "pinyin": "jia1 xun4",
+    "definition": "instructions to one's children; family precepts"
+  },
+  "家語": {
+    "pinyin": "Jia1 yu3",
+    "definition": "The School Sayings of Confucius (abbr. for 孔子家語|孔子家语[Kong3 zi3 Jia1 yu3])"
+  },
+  "家譜": {
+    "pinyin": "jia1 pu3",
+    "definition": "genealogy; family tree"
+  },
+  "家貓": {
+    "pinyin": "jia1 mao1",
+    "definition": "domestic cat; house cat"
+  },
+  "家貧如洗": {
+    "pinyin": "jia1 pin2 ru2 xi3",
+    "definition": "extreme poverty (idiom); destitute; penniless; poor as church mice"
+  },
+  "家貲萬貫": {
+    "pinyin": "jia1 zi1 wan4 guan4",
+    "definition": "immensely rich"
+  },
+  "家轎": {
+    "pinyin": "jia1 jiao4",
+    "definition": "privately-owned car"
+  },
+  "家道": {
+    "pinyin": "jia1 dao4",
+    "definition": "family financial circumstances"
+  },
+  "家道中落": {
+    "pinyin": "jia1 dao4 zhong1 luo4",
+    "definition": "to come down in the world (idiom); to suffer a reversal of fortune"
+  },
+  "家鄉": {
+    "pinyin": "jia1 xiang1",
+    "definition": "hometown; native place; CL:個|个[ge4]"
+  },
+  "家鄉菜": {
+    "pinyin": "jia1 xiang1 cai4",
+    "definition": "regional dish; local cuisine"
+  },
+  "家鄉話": {
+    "pinyin": "jia1 xiang1 hua4",
+    "definition": "native language; native dialect"
+  },
+  "家醜": {
+    "pinyin": "jia1 chou3",
+    "definition": "family scandal; skeleton in the closet"
+  },
+  "家醜不可外傳": {
+    "pinyin": "jia1 chou3 bu4 ke3 wai4 chuan2",
+    "definition": "lit. family shames must not be spread abroad (idiom); fig. don't wash your dirty linen in public"
+  },
+  "家醜不可外揚": {
+    "pinyin": "jia1 chou3 bu4 ke3 wai4 yang2",
+    "definition": "lit. family shames must not be spread abroad (idiom); fig. don't wash your dirty linen in public"
+  },
+  "家長": {
+    "pinyin": "jia1 zhang3",
+    "definition": "head of a household; family head; patriarch; parent or guardian of a child"
+  },
+  "家長制": {
+    "pinyin": "jia1 zhang3 zhi4",
+    "definition": "patriarchal system"
+  },
+  "家長家短": {
+    "pinyin": "jia1 chang2 jia1 duan3",
+    "definition": "family goings-on"
+  },
+  "家長會": {
+    "pinyin": "jia1 zhang3 hui4",
+    "definition": "parent-teacher conference; parents' association"
+  },
+  "家門": {
+    "pinyin": "jia1 men2",
+    "definition": "house door; family clan"
+  },
+  "家雀兒": {
+    "pinyin": "jia1 qiao3 r5",
+    "definition": "(coll.) sparrow"
+  },
+  "家電": {
+    "pinyin": "jia1 dian4",
+    "definition": "household electric appliance; abbr. for 家用電器|家用电器"
+  },
+  "家養": {
+    "pinyin": "jia1 yang3",
+    "definition": "domestic (animals); home reared"
+  },
+  "家馬": {
+    "pinyin": "jia1 ma3",
+    "definition": "domestic horse"
+  },
+  "家鴉": {
+    "pinyin": "jia1 ya1",
+    "definition": "(bird species of China) house crow (Corvus splendens)"
+  },
+  "家鴨": {
+    "pinyin": "jia1 ya1",
+    "definition": "domestic duck"
+  },
+  "家鴨綠頭鴨": {
+    "pinyin": "jia1 ya1 lu:4 tou2 ya1",
+    "definition": "mallard; duck (Anas platyrhyncha)"
+  },
+  "家麻雀": {
+    "pinyin": "jia1 ma2 que4",
+    "definition": "(bird species of China) house sparrow (Passer domesticus)"
+  }
+}

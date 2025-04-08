@@ -1,0 +1,46 @@
+{
+  "艦": {
+    "pinyin": "jian4",
+    "definition": "warship"
+  },
+  "艦島": {
+    "pinyin": "jian4 dao3",
+    "definition": "island (the superstructure of an aircraft carrier, on the starboard side of the deck)"
+  },
+  "艦橋": {
+    "pinyin": "jian4 qiao2",
+    "definition": "bridge (of a naval ship)"
+  },
+  "艦船": {
+    "pinyin": "jian4 chuan2",
+    "definition": "warship"
+  },
+  "艦艇": {
+    "pinyin": "jian4 ting3",
+    "definition": "warship; naval vessel"
+  },
+  "艦載": {
+    "pinyin": "jian4 zai4",
+    "definition": "shipboard (radar system etc); ship-based; carrier-based (aircraft)"
+  },
+  "艦載機": {
+    "pinyin": "jian4 zai4 ji1",
+    "definition": "carrier-based aircraft"
+  },
+  "艦長": {
+    "pinyin": "jian4 zhang3",
+    "definition": "commander; captain (of a warship)"
+  },
+  "艦隊": {
+    "pinyin": "jian4 dui4",
+    "definition": "fleet; CL:支[zhi1]"
+  },
+  "艦隻": {
+    "pinyin": "jian4 zhi1",
+    "definition": "warship"
+  },
+  "艦首": {
+    "pinyin": "jian4 shou3",
+    "definition": "bow of a warship"
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "好": {
+    "pinyin": "hao4",
+    "definition": "to be fond of; to have a tendency to; to be prone to"
+  },
+  "好不": {
+    "pinyin": "hao3 bu4",
+    "definition": "not at all ...; how very ..."
+  },
+  "好不好": {
+    "pinyin": "hao3 bu5 hao3",
+    "definition": "(coll.) all right?; OK?"
+  },
+  "好不容易": {
+    "pinyin": "hao3 bu4 rong2 yi4",
+    "definition": "with great difficulty; very difficult"
+  },
+  "好久": {
+    "pinyin": "hao3 jiu3",
+    "definition": "quite a while"
+  },
+  "好久不見": {
+    "pinyin": "hao3 jiu3 bu5 jian4",
+    "definition": "long time no see"
+  },
+  "好了傷疤忘了疼": {
+    "pinyin": "hao3 le5 shang1 ba1 wang4 le5 teng2",
+    "definition": "to forget past pains once the wound has healed (idiom)"
+  },
+  "好了瘡疤忘了痛": {
+    "pinyin": "hao3 le5 chuang1 ba1 wang4 le5 tong4",
+    "definition": "see 好了傷疤忘了疼|好了伤疤忘了疼[hao3 le5 shang1 ba1 wang4 le5 teng2]"
+  },
+  "好事": {
+    "pinyin": "hao4 shi4",
+    "definition": "to be meddlesome"
+  },
+  "好事不出門，惡事傳千里": {
+    "pinyin": "hao3 shi4 bu4 chu1 men2 , e4 shi4 chuan2 qian1 li3",
+    "definition": "lit. good deeds do not go beyond the door, evil deeds spread a thousand miles; a good deed goes unnoticed, but scandal spreads fast (idiom)"
+  },
+  "好事之徒": {
+    "pinyin": "hao4 shi4 zhi1 tu2",
+    "definition": "busybody"
+  },
+  "好事多磨": {
+    "pinyin": "hao3 shi4 duo1 mo2",
+    "definition": "the road to happiness is strewn with setbacks (idiom)"
+  },
+  "好事者": {
+    "pinyin": "hao4 shi4 zhe3",
+    "definition": "busybody; CL:個|个[ge4]"
+  },
+  "好些": {
+    "pinyin": "hao3 xie1",
+    "definition": "a good deal of; quite a lot"
+  },
+  "好人": {
+    "pinyin": "hao3 ren2",
+    "definition": "good person; healthy person; person who tries not to offend anyone, even at the expense of principle"
+  },
+  "好人好事": {
+    "pinyin": "hao3 ren2 hao3 shi4",
+    "definition": "admirable people and exemplary deeds"
+  },
+  "好似": {
+    "pinyin": "hao3 si4",
+    "definition": "to seem; to be like"
+  },
+  "好使": {
+    "pinyin": "hao3 shi3",
+    "definition": "easy to use; to function well; so that; in order to"
+  },
+  "好借好還，再借不難": {
+    "pinyin": "hao3 jie4 hao3 huan2 , zai4 jie4 bu4 nan2",
+    "definition": "see 有借有還，再借不難|有借有还，再借不难[you3 jie4 you3 huan2 , zai4 jie4 bu4 nan2]"
+  },
+  "好像": {
+    "pinyin": "hao3 xiang4",
+    "definition": "as if; to seem like"
+  },
+  "好兵帥克": {
+    "pinyin": "Hao3 bing1 Shuai4 ke4",
+    "definition": "The Good Soldier Švejk (Schweik), satirical novel by Czech author Jaroslav Hašek (1883-1923)"
+  },
+  "好動": {
+    "pinyin": "hao4 dong4",
+    "definition": "active; restless; energetic"
+  },
+  "好勝": {
+    "pinyin": "hao4 sheng4",
+    "definition": "eager to win; competitive; aggressive"
+  },
+  "好半天": {
+    "pinyin": "hao3 ban4 tian1",
+    "definition": "most of the day"
+  },
+  "好去": {
+    "pinyin": "hao3 qu4",
+    "definition": "bon voyage; Godspeed"
+  },
+  "好又多": {
+    "pinyin": "Hao3 you4 duo1",
+    "definition": "Trust-Mart (supermarket chain)"
+  },
+  "好友": {
+    "pinyin": "hao3 you3",
+    "definition": "close friend; pal; (social networking website) friend; CL:個|个[ge4]"
+  },
+  "好受": {
+    "pinyin": "hao3 shou4",
+    "definition": "feeling better; to be more at ease"
+  },
+  "好吃": {
+    "pinyin": "hao4 chi1",
+    "definition": "to be fond of eating; to be gluttonous"
+  },
+  "好吃懶做": {
+    "pinyin": "hao4 chi1 lan3 zuo4",
+    "definition": "happy to partake but not prepared to do any work (idiom); all take and no give"
+  },
+  "好命": {
+    "pinyin": "hao3 ming4",
+    "definition": "lucky; blessed with good fortune"
+  },
+  "好哇": {
+    "pinyin": "hao3 wa1",
+    "definition": "hurray!; hurrah!; yippee!"
+  },
+  "好喝": {
+    "pinyin": "hao3 he1",
+    "definition": "tasty (drinks)"
+  },
+  "好在": {
+    "pinyin": "hao3 zai4",
+    "definition": "luckily; fortunately"
+  },
+  "好壞": {
+    "pinyin": "hao3 huai4",
+    "definition": "good or bad; good and bad; standard; quality; (coll.) very bad"
+  },
+  "好多": {
+    "pinyin": "hao3 duo1",
+    "definition": "many; quite a lot; much better"
+  },
+  "好夢難成": {
+    "pinyin": "hao3 meng4 nan2 cheng2",
+    "definition": "a beautiful dream is hard to realize (idiom)"
+  },
+  "好大喜功": {
+    "pinyin": "hao4 da4 xi3 gong1",
+    "definition": "to rejoice in grandiose deeds; to strive to achieve extraordinary things"
+  },
+  "好奇": {
+    "pinyin": "hao4 qi2",
+    "definition": "inquisitive; curious; inquisitiveness; curiosity"
+  },
+  "好奇尚異": {
+    "pinyin": "hao4 qi2 shang4 yi4",
+    "definition": "to have a taste for the exotic (idiom)"
+  },
+  "好奇心": {
+    "pinyin": "hao4 qi2 xin1",
+    "definition": "interest in sth; curiosity; inquisitive"
+  },
+  "好好": {
+    "pinyin": "hao3 hao3",
+    "definition": "well; carefully; nicely; properly"
+  },
+  "好好先生": {
+    "pinyin": "hao3 hao3 xian1 sheng5",
+    "definition": "Mr Goody-goody; yes-man (sb who agrees with anything)"
+  },
+  "好好兒": {
+    "pinyin": "hao3 hao1 r5",
+    "definition": "in good condition; perfectly good; carefully; well; thoroughly"
+  },
+  "好好學習，天天向上": {
+    "pinyin": "hao3 hao3 xue2 xi2 , tian1 tian1 xiang4 shang4",
+    "definition": "study hard and every day you will improve (idiom)"
+  },
+  "好學": {
+    "pinyin": "hao4 xue2",
+    "definition": "eager to study; studious; erudite"
+  },
+  "好學近乎知，力行近乎仁，知恥近乎勇": {
+    "pinyin": "hao4 xue2 jin4 hu1 zhi1 , li4 xing2 jin4 hu1 ren2 , zhi1 chi3 jin4 hu1 yong3",
+    "definition": "to love learning is akin to knowledge, to study diligently is akin to benevolence, to know shame is akin to courage (Confucius)"
+  },
+  "好客": {
+    "pinyin": "hao4 ke4",
+    "definition": "hospitality; to treat guests well; to enjoy having guests; hospitable; friendly"
+  },
+  "好家伙": {
+    "pinyin": "hao3 jia1 huo5",
+    "definition": "my God!; oh boy!; man!"
+  },
+  "好容易": {
+    "pinyin": "hao3 rong2 yi4",
+    "definition": "(idiomatic usage) with great difficulty; to have a hard time (convincing sb, relinquishing sth etc); (literal usage) so easy"
+  },
+  "好市多": {
+    "pinyin": "Hao3 shi4 duo1",
+    "definition": "(Tw) Costco (warehouse club chain)"
+  },
+  "好幾": {
+    "pinyin": "hao3 ji3",
+    "definition": "several; quite a few"
+  },
+  "好幾年": {
+    "pinyin": "hao3 ji3 nian2",
+    "definition": "several years"
+  },
+  "好康": {
+    "pinyin": "hao3 kang1",
+    "definition": "(Tw) benefit; advantage (from Taiwanese 好空, Tai-lo pr. [hó-khang])"
+  },
+  "好強": {
+    "pinyin": "hao4 qiang2",
+    "definition": "eager to be first"
+  },
+  "好心": {
+    "pinyin": "hao3 xin1",
+    "definition": "kindness; good intentions"
+  },
+  "好心人": {
+    "pinyin": "hao3 xin1 ren2",
+    "definition": "kindhearted person; good Samaritan"
+  },
+  "好心倒做了驢肝肺": {
+    "pinyin": "hao3 xin1 dao4 zuo4 le5 lu:2 gan1 fei4",
+    "definition": "(idiom) to mistake good intentions for ill will"
+  },
+  "好惡": {
+    "pinyin": "hao4 wu4",
+    "definition": "lit. likes and dislikes; preferences; taste"
+  },
+  "好惹": {
+    "pinyin": "hao3 re3",
+    "definition": "accommodating; easy to push around"
+  },
+  "好意": {
+    "pinyin": "hao3 yi4",
+    "definition": "good intention; kindness"
+  },
+  "好意思": {
+    "pinyin": "hao3 yi4 si5",
+    "definition": "to have the nerve; what a cheek!; to feel no shame; to overcome the shame; (is it) proper? (rhetorical question)"
+  },
+  "好感": {
+    "pinyin": "hao3 gan3",
+    "definition": "good opinion; favorable impression"
+  },
+  "好戰": {
+    "pinyin": "hao4 zhan4",
+    "definition": "warlike"
+  },
+  "好戲還在後頭": {
+    "pinyin": "hao3 xi4 hai2 zai4 hou4 tou5",
+    "definition": "the best part of the show is yet to come; (with ironic tone) the worst is yet to come; you ain't seen nothin' yet"
+  },
+  "好手": {
+    "pinyin": "hao3 shou3",
+    "definition": "expert; professional"
+  },
+  "好整以暇": {
+    "pinyin": "hao4 zheng3 yi3 xia2",
+    "definition": "to be calm and unruffled in the midst of chaos or at a busy time (idiom)"
+  },
+  "好料": {
+    "pinyin": "hao3 liao4",
+    "definition": "sth of good quality; good person (usu. in the negative); (Tw) delicious food"
+  },
+  "好日子": {
+    "pinyin": "hao3 ri4 zi5",
+    "definition": "auspicious day; good day; happy life"
+  },
+  "好時": {
+    "pinyin": "Hao3 shi2",
+    "definition": "Hershey's (brand)"
+  },
+  "好景不長": {
+    "pinyin": "hao3 jing3 bu4 chang2",
+    "definition": "a good thing doesn't last forever (idiom)"
+  },
+  "好朋友": {
+    "pinyin": "hao3 peng2 you5",
+    "definition": "good friend; (slang) a visit from Aunt Flo (menstrual period)"
+  },
+  "好望角": {
+    "pinyin": "Hao3 wang4 Jiao3",
+    "definition": "Cape of Good Hope"
+  },
+  "好棒": {
+    "pinyin": "hao3 bang4",
+    "definition": "excellent (interjection)"
+  },
+  "好樣的": {
+    "pinyin": "hao3 yang4 de5",
+    "definition": "(idiom) a good person, used to praise sb's moral integrity or courage"
+  },
+  "好歹": {
+    "pinyin": "hao3 dai3",
+    "definition": "good and bad; most unfortunate occurrence; in any case; whatever"
+  },
+  "好死不如賴活著": {
+    "pinyin": "hao3 si3 bu4 ru2 lai4 huo2 zhe5",
+    "definition": "better a bad life than a good death (idiom)"
+  },
+  "好比": {
+    "pinyin": "hao3 bi3",
+    "definition": "to be just like; can be compared to"
+  },
+  "好氣": {
+    "pinyin": "hao3 qi4",
+    "definition": "(coll.) good mood (usu. used in the negative); angry (usu. used in combination with 好笑[hao3xiao4])"
+  },
+  "好氣又好笑": {
+    "pinyin": "hao3 qi4 you4 hao3 xiao4",
+    "definition": "see 又好氣又好笑|又好气又好笑[you4 hao3qi4 you4 hao3xiao4]"
+  },
+  "好氧": {
+    "pinyin": "hao4 yang3",
+    "definition": "aerobic"
+  },
+  "好活當賞": {
+    "pinyin": "hao3 huo2 dang1 shang3",
+    "definition": "(coll.) bravo; nice one; lovely"
+  },
+  "好漢": {
+    "pinyin": "hao3 han4",
+    "definition": "hero; strong and courageous person; CL:條|条[tiao2]"
+  },
+  "好漢不吃眼前虧": {
+    "pinyin": "hao3 han4 bu4 chi1 yan3 qian2 kui1",
+    "definition": "a wise man knows better than to fight when the odds are against him (idiom)"
+  },
+  "好漢不提當年勇": {
+    "pinyin": "hao3 han4 bu4 ti2 dang1 nian2 yong3",
+    "definition": "a real man doesn't boast about his past achievements (idiom)"
+  },
+  "好漢做事好漢當": {
+    "pinyin": "hao3 han4 zuo4 shi4 hao3 han4 dang1",
+    "definition": "daring to act and courageous enough to take responsibility for it (idiom); a true man has the courage to accept the consequences of his actions; the buck stops here"
+  },
+  "好為人師": {
+    "pinyin": "hao4 wei2 ren2 shi1",
+    "definition": "to like to lecture others (idiom)"
+  },
+  "好物": {
+    "pinyin": "hao3 wu4",
+    "definition": "fine goods"
+  },
+  "好玩": {
+    "pinyin": "hao4 wan2",
+    "definition": "to be playful; to be fond of one's fun"
+  },
+  "好玩兒": {
+    "pinyin": "hao3 wan2 r5",
+    "definition": "erhua variant of 好玩[hao3 wan2]"
+  },
+  "好球": {
+    "pinyin": "hao3 qiu2",
+    "definition": "(ball sports) good shot!; nice hit!; well played!"
+  },
+  "好生": {
+    "pinyin": "hao3 sheng1",
+    "definition": "(dialect) very; quite; properly; well; thoroughly"
+  },
+  "好用": {
+    "pinyin": "hao3 yong4",
+    "definition": "useful; serviceable; effective; handy; easy to use"
+  },
+  "好男不跟女鬥": {
+    "pinyin": "hao3 nan2 bu4 gen1 nu:3 dou4",
+    "definition": "a real man doesn't fight with womenfolk (idiom)"
+  },
+  "好看": {
+    "pinyin": "hao3 kan4",
+    "definition": "good-looking; nice-looking; (of a movie, book, TV show etc) good; in an embarrassing situation"
+  },
+  "好睇": {
+    "pinyin": "hao3 di4",
+    "definition": "good-looking (Cantonese)"
+  },
+  "好睡": {
+    "pinyin": "hao3 shui4",
+    "definition": "good night"
+  },
+  "好立克": {
+    "pinyin": "Hao3 li4 ke4",
+    "definition": "Horlicks (malt-flavored powder used to make a hot drink)"
+  },
+  "好端端": {
+    "pinyin": "hao3 duan1 duan1",
+    "definition": "perfectly all right; without rhyme or reason"
+  },
+  "好笑": {
+    "pinyin": "hao3 xiao4",
+    "definition": "laughable; funny; ridiculous"
+  },
+  "好聚好散": {
+    "pinyin": "hao3 ju4 - hao3 san4",
+    "definition": "(idiom) to part without hard feelings; to cut the knot as smoothly as you tied it"
+  },
+  "好聽": {
+    "pinyin": "hao3 ting1",
+    "definition": "pleasant to hear"
+  },
+  "好自為之": {
+    "pinyin": "hao3 zi4 wei2 zhi1",
+    "definition": "to do one's best; to shape up; to fend for oneself; you're on your own"
+  },
+  "好色": {
+    "pinyin": "hao4 se4",
+    "definition": "to want sex; given to lust; lecherous; lascivious; horny"
+  },
+  "好色之徒": {
+    "pinyin": "hao4 se4 zhi1 tu2",
+    "definition": "lecher; womanizer; dirty old man"
+  },
+  "好萊塢": {
+    "pinyin": "Hao3 lai2 wu4",
+    "definition": "Hollywood; also pr. [Hao3lai2wu1]"
+  },
+  "好處": {
+    "pinyin": "hao3 chu5",
+    "definition": "benefit; advantage; merit; gain; profit; also pr. [hao3chu4]"
+  },
+  "好言": {
+    "pinyin": "hao3 yan2",
+    "definition": "kind words"
+  },
+  "好言好語": {
+    "pinyin": "hao3 yan2 hao3 yu3",
+    "definition": "sincere, well-meant, kind words"
+  },
+  "好記": {
+    "pinyin": "hao3 ji4",
+    "definition": "easy to remember"
+  },
+  "好記性不如爛筆頭": {
+    "pinyin": "hao3 ji4 xing4 bu4 ru2 lan4 bi3 tou2",
+    "definition": "the palest ink is better than the best memory (idiom)"
+  },
+  "好評": {
+    "pinyin": "hao3 ping2",
+    "definition": "favorable criticism; positive evaluation"
+  },
+  "好話": {
+    "pinyin": "hao3 hua4",
+    "definition": "friendly advice; words spoken on sb's behalf; a good word; kind words; words that sound fine but are not followed up with actions"
+  },
+  "好說": {
+    "pinyin": "hao3 shuo1",
+    "definition": "easy to deal with; not a problem; (polite answer) you flatter me"
+  },
+  "好說歹說": {
+    "pinyin": "hao3 shuo1 dai3 shuo1",
+    "definition": "(idiom) to try one's very best to persuade sb; to reason with sb in every way possible"
+  },
+  "好象": {
+    "pinyin": "hao3 xiang4",
+    "definition": "to seem; to be like (variant of 好像[hao3 xiang4])"
+  },
+  "好走": {
+    "pinyin": "hao3 zou3",
+    "definition": "bon voyage; Godspeed"
+  },
+  "好起來": {
+    "pinyin": "hao3 qi3 lai5",
+    "definition": "to get better; to improve; to get well"
+  },
+  "好轉": {
+    "pinyin": "hao3 zhuan3",
+    "definition": "to improve; to take a turn for the better; improvement"
+  },
+  "好辦": {
+    "pinyin": "hao3 ban4",
+    "definition": "easy to do; easy to manage"
+  },
+  "好辯": {
+    "pinyin": "hao4 bian4",
+    "definition": "argumentative; quarrelsome"
+  },
+  "好逸惡勞": {
+    "pinyin": "hao4 yi4 wu4 lao2",
+    "definition": "to love ease and comfort and hate work (idiom)"
+  },
+  "好運": {
+    "pinyin": "hao3 yun4",
+    "definition": "good luck"
+  },
+  "好運符": {
+    "pinyin": "hao3 yun4 fu2",
+    "definition": "good luck charm"
+  },
+  "好過": {
+    "pinyin": "hao3 guo4",
+    "definition": "to have an easy time; (feel) well"
+  },
+  "好道": {
+    "pinyin": "hao3 dao4",
+    "definition": "don't tell me ...; could it be that...?"
+  },
+  "好酒沉甕底": {
+    "pinyin": "hao3 jiu3 chen2 weng4 di3",
+    "definition": "lit. the best wine is at the bottom of the jug (idiom); fig. the best is saved for last"
+  },
+  "好酒貪杯": {
+    "pinyin": "hao4 jiu3 tan1 bei1",
+    "definition": "fond of the bottle (idiom)"
+  },
+  "好險": {
+    "pinyin": "hao3 xian3",
+    "definition": "to have a close call; to have a narrow escape"
+  },
+  "好飯不怕晚": {
+    "pinyin": "hao3 fan4 bu4 pa4 wan3",
+    "definition": "the meal is remembered long after the wait is forgotten; the good things in life are worth waiting for"
+  },
+  "好馬不吃回頭草": {
+    "pinyin": "hao3 ma3 bu4 chi1 hui2 tou2 cao3",
+    "definition": "lit. a good horse doesn't turn around and graze the same patch again (idiom); fig. once you've moved on, don't go back again (romantic relationship, job etc); leave the past behind"
+  },
+  "好高騖遠": {
+    "pinyin": "hao4 gao1 wu4 yuan3",
+    "definition": "to bite off more than one can chew (idiom); to aim too high"
+  },
+  "好鬥": {
+    "pinyin": "hao4 dou4",
+    "definition": "to be warlike; to be belligerent"
+  },
+  "好鳥": {
+    "pinyin": "hao3 niao3",
+    "definition": "person of good character; nice person; bird with a melodious voice or beautiful plumage"
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "微": {
+    "pinyin": "wei1",
+    "definition": "tiny; miniature; slightly; profound; abtruse; to decline; one millionth part of; micro-; Taiwan pr. [wei2]"
+  },
+  "微不足道": {
+    "pinyin": "wei1 bu4 zu2 dao4",
+    "definition": "negligible; insignificant"
+  },
+  "微中子": {
+    "pinyin": "wei1 zhong1 zi3",
+    "definition": "neutrino (particle physics); also written 中微子[zhong1 wei1 zi3]"
+  },
+  "微乎其微": {
+    "pinyin": "wei1 hu1 qi2 wei1",
+    "definition": "a tiny bit; very little; next to nothing (idiom)"
+  },
+  "微信": {
+    "pinyin": "Wei1 xin4",
+    "definition": "Weixin or WeChat (mobile text and voice messaging service developed by Tencent 騰訊|腾讯[Teng2 xun4])"
+  },
+  "微光": {
+    "pinyin": "wei1 guang1",
+    "definition": "glimmer"
+  },
+  "微克": {
+    "pinyin": "wei1 ke4",
+    "definition": "microgram (μg)"
+  },
+  "微凹黃檀": {
+    "pinyin": "wei1 ao1 huang2 tan2",
+    "definition": "cocobolo (Dalbergia retusa)"
+  },
+  "微分": {
+    "pinyin": "wei1 fen1",
+    "definition": "(math.) differential (of a function); differential (equation etc); to differentiate; differentiation"
+  },
+  "微分學": {
+    "pinyin": "wei1 fen1 xue2",
+    "definition": "differential calculus"
+  },
+  "微分幾何": {
+    "pinyin": "wei1 fen1 ji3 he2",
+    "definition": "differential geometry"
+  },
+  "微分幾何學": {
+    "pinyin": "wei1 fen1 ji3 he2 xue2",
+    "definition": "differential geometry"
+  },
+  "微分方程": {
+    "pinyin": "wei1 fen1 fang1 cheng2",
+    "definition": "(math.) differential equation"
+  },
+  "微創": {
+    "pinyin": "wei1 chuang1",
+    "definition": "(of surgery, treatment etc) minimally invasive"
+  },
+  "微創手術": {
+    "pinyin": "wei1 chuang1 shou3 shu4",
+    "definition": "minimally invasive surgery"
+  },
+  "微劈恩": {
+    "pinyin": "wei1 pi1 en1",
+    "definition": "(coll.) (loanword) VPN"
+  },
+  "微動脈": {
+    "pinyin": "wei1 dong4 mai4",
+    "definition": "capillary artery"
+  },
+  "微動開關": {
+    "pinyin": "wei1 dong4 kai1 guan1",
+    "definition": "microswitch"
+  },
+  "微升": {
+    "pinyin": "wei1 sheng1",
+    "definition": "microliter; to increase slightly"
+  },
+  "微博": {
+    "pinyin": "wei1 bo2",
+    "definition": "microblogging; microblog"
+  },
+  "微博客": {
+    "pinyin": "wei1 bo2 ke4",
+    "definition": "microblogging; microblog"
+  },
+  "微商": {
+    "pinyin": "wei1 shang1",
+    "definition": "derivative (math.); business on WeChat 微信[Wei1 xin4] leveraging one's social network; person who operates such a business"
+  },
+  "微囊": {
+    "pinyin": "wei1 nang2",
+    "definition": "(pharm.) microcapsule"
+  },
+  "微型": {
+    "pinyin": "wei1 xing2",
+    "definition": "miniature; micro-; tiny"
+  },
+  "微型小說": {
+    "pinyin": "wei1 xing2 xiao3 shuo1",
+    "definition": "flash fiction"
+  },
+  "微塵": {
+    "pinyin": "wei1 chen2",
+    "definition": "dust; (Buddhism) minutest particle of matter"
+  },
+  "微妙": {
+    "pinyin": "wei1 miao4",
+    "definition": "subtle"
+  },
+  "微孔膜": {
+    "pinyin": "wei1 kong3 mo2",
+    "definition": "microporous membrane"
+  },
+  "微安": {
+    "pinyin": "wei1 an1",
+    "definition": "microampere (one millionth of amp); also written 微安培"
+  },
+  "微安培": {
+    "pinyin": "wei1 an1 pei2",
+    "definition": "microampere (one millionth of amp)"
+  },
+  "微小": {
+    "pinyin": "wei1 xiao3",
+    "definition": "minute (i.e. extremely small); infinitesimal"
+  },
+  "微山": {
+    "pinyin": "Wei1 shan1",
+    "definition": "Weishan County in Jining 濟寧|济宁[Ji3 ning2], Shandong"
+  },
+  "微山縣": {
+    "pinyin": "Wei1 shan1 Xian4",
+    "definition": "Weishan County in Jining 濟寧|济宁[Ji3 ning2], Shandong"
+  },
+  "微弱": {
+    "pinyin": "wei1 ruo4",
+    "definition": "weak; faint; feeble"
+  },
+  "微徑": {
+    "pinyin": "wei1 jing4",
+    "definition": "small path"
+  },
+  "微微": {
+    "pinyin": "wei1 wei1",
+    "definition": "slight; faint; humble"
+  },
+  "微恙": {
+    "pinyin": "wei1 yang4",
+    "definition": "slight illness; indisposition"
+  },
+  "微控制器": {
+    "pinyin": "wei1 kong4 zhi4 qi4",
+    "definition": "microcontroller unit (MCU)"
+  },
+  "微操": {
+    "pinyin": "wei1 cao1",
+    "definition": "to micromanage; micromanagement"
+  },
+  "微擾": {
+    "pinyin": "wei1 rao3",
+    "definition": "infinitesimal disturbance; perturbation (physics)"
+  },
+  "微擾展開": {
+    "pinyin": "wei1 rao3 zhan3 kai1",
+    "definition": "perturbative expansion (physics)"
+  },
+  "微擾論": {
+    "pinyin": "wei1 rao3 lun4",
+    "definition": "perturbation theory"
+  },
+  "微整": {
+    "pinyin": "wei1 zheng3",
+    "definition": "abbr. for 微整形[wei1 zheng3 xing2]"
+  },
+  "微整形": {
+    "pinyin": "wei1 zheng3 xing2",
+    "definition": "non-surgical cosmetic procedure (injection of Botox, hyaluronic acid etc)"
+  },
+  "微明": {
+    "pinyin": "wei1 ming2",
+    "definition": "twilight"
+  },
+  "微星": {
+    "pinyin": "Wei1 xing1",
+    "definition": "Micro-Star International (MSI), Taiwanese computer hardware company"
+  },
+  "微晶": {
+    "pinyin": "wei1 jing1",
+    "definition": "microcrystal"
+  },
+  "微晶片": {
+    "pinyin": "wei1 jing1 pian4",
+    "definition": "microchip"
+  },
+  "微服": {
+    "pinyin": "wei1 fu2",
+    "definition": "(of a high-ranking official) to wear plain clothes in order to go about incognito"
+  },
+  "微服私訪": {
+    "pinyin": "wei1 fu2 si1 fang3",
+    "definition": "to mingle with the people incognito"
+  },
+  "微末": {
+    "pinyin": "wei1 mo4",
+    "definition": "tiny; negligible"
+  },
+  "微機": {
+    "pinyin": "wei1 ji1",
+    "definition": "micro (computer)"
+  },
+  "微機化": {
+    "pinyin": "wei1 ji1 hua4",
+    "definition": "miniaturization; micro-miniaturization"
+  },
+  "微波": {
+    "pinyin": "wei1 bo1",
+    "definition": "ripple; microwave"
+  },
+  "微波天線": {
+    "pinyin": "wei1 bo1 tian1 xian4",
+    "definition": "microwave antenna"
+  },
+  "微波爐": {
+    "pinyin": "wei1 bo1 lu2",
+    "definition": "microwave oven; CL:臺|台[tai2]"
+  },
+  "微溶": {
+    "pinyin": "wei1 rong2",
+    "definition": "slightly soluble"
+  },
+  "微漠": {
+    "pinyin": "wei1 mo4",
+    "definition": "faint (almost inaudible or invisible)"
+  },
+  "微火": {
+    "pinyin": "wei1 huo3",
+    "definition": "a low fire (for roasting)"
+  },
+  "微生物": {
+    "pinyin": "wei1 sheng1 wu4",
+    "definition": "microorganism"
+  },
+  "微生物學": {
+    "pinyin": "wei1 sheng1 wu4 xue2",
+    "definition": "microbiology"
+  },
+  "微生物學家": {
+    "pinyin": "wei1 sheng1 wu4 xue2 jia1",
+    "definition": "microbiologist"
+  },
+  "微睡眠": {
+    "pinyin": "wei1 shui4 mian2",
+    "definition": "microsleep"
+  },
+  "微秒": {
+    "pinyin": "wei1 miao3",
+    "definition": "microsecond, µs, 10^-6 s"
+  },
+  "微積分": {
+    "pinyin": "wei1 ji1 fen1",
+    "definition": "calculus; differentiation and integration; calculus of infinitesimals 微 and integrals 積|积"
+  },
+  "微積分基本定理": {
+    "pinyin": "wei1 ji1 fen1 ji1 ben3 ding4 li3",
+    "definition": "fundamental theorem of calculus"
+  },
+  "微積分學": {
+    "pinyin": "wei1 ji1 fen1 xue2",
+    "definition": "infinitesimal calculus; calculus"
+  },
+  "微笑": {
+    "pinyin": "wei1 xiao4",
+    "definition": "smile; CL:個|个[ge4],絲|丝[si1]; to smile"
+  },
+  "微管": {
+    "pinyin": "wei1 guan3",
+    "definition": "tubule; microtubule"
+  },
+  "微管蛋白": {
+    "pinyin": "wei1 guan3 dan4 bai2",
+    "definition": "tubulin"
+  },
+  "微米": {
+    "pinyin": "wei1 mi3",
+    "definition": "micron (one thousandth of a millimeter or 10^-6 meter)"
+  },
+  "微粒": {
+    "pinyin": "wei1 li4",
+    "definition": "speck; particle"
+  },
+  "微粒體": {
+    "pinyin": "wei1 li4 ti3",
+    "definition": "microsome"
+  },
+  "微細": {
+    "pinyin": "wei1 xi4",
+    "definition": "microminiature (technology)"
+  },
+  "微細加工": {
+    "pinyin": "wei1 xi4 jia1 gong1",
+    "definition": "microminiature technology"
+  },
+  "微絲": {
+    "pinyin": "wei1 si1",
+    "definition": "microfilament"
+  },
+  "微絲血管": {
+    "pinyin": "wei1 si1 xue4 guan3",
+    "definition": "capillary blood vessels"
+  },
+  "微縮": {
+    "pinyin": "wei1 suo1",
+    "definition": "compact; micro-; miniature; to miniaturize"
+  },
+  "微縮膠捲": {
+    "pinyin": "wei1 suo1 jiao1 juan3",
+    "definition": "microfilm"
+  },
+  "微聚焦": {
+    "pinyin": "wei1 ju4 jiao1",
+    "definition": "microfocus x-ray computed tomography (microCT)"
+  },
+  "微胖": {
+    "pinyin": "wei1 pang4",
+    "definition": "slightly chubby; stoutish"
+  },
+  "微膠囊技術": {
+    "pinyin": "wei1 jiao1 nang2 ji4 shu4",
+    "definition": "microencapsulation"
+  },
+  "微臣": {
+    "pinyin": "wei1 chen2",
+    "definition": "this small official; humble servant"
+  },
+  "微茫": {
+    "pinyin": "wei1 mang2",
+    "definition": "hazy; blurred"
+  },
+  "微菌": {
+    "pinyin": "wei1 jun1",
+    "definition": "microorganism"
+  },
+  "微薄": {
+    "pinyin": "wei1 bo2",
+    "definition": "scanty; meager"
+  },
+  "微處理器": {
+    "pinyin": "wei1 chu3 li3 qi4",
+    "definition": "microprocessor"
+  },
+  "微處理機": {
+    "pinyin": "wei1 chu3 li3 ji1",
+    "definition": "microprocessor"
+  },
+  "微血管": {
+    "pinyin": "wei1 xue4 guan3",
+    "definition": "capillary"
+  },
+  "微表情": {
+    "pinyin": "wei1 biao3 qing2",
+    "definition": "microexpression"
+  },
+  "微觀": {
+    "pinyin": "wei1 guan1",
+    "definition": "micro-; subatomic"
+  },
+  "微觀世界": {
+    "pinyin": "wei1 guan1 shi4 jie4",
+    "definition": "microcosm; the microscopic world"
+  },
+  "微觀經濟": {
+    "pinyin": "wei1 guan1 jing1 ji4",
+    "definition": "microeconomic"
+  },
+  "微觀經濟學": {
+    "pinyin": "wei1 guan1 jing1 ji4 xue2",
+    "definition": "microeconomics"
+  },
+  "微言大義": {
+    "pinyin": "wei1 yan2 da4 yi4",
+    "definition": "subtle words with profound meaning (idiom)"
+  },
+  "微詞": {
+    "pinyin": "wei1 ci2",
+    "definition": "veiled criticism"
+  },
+  "微調": {
+    "pinyin": "wei1 tiao2",
+    "definition": "fine tuning; trimming"
+  },
+  "微賤": {
+    "pinyin": "wei1 jian4",
+    "definition": "humble; lowly"
+  },
+  "微距": {
+    "pinyin": "wei1 ju4",
+    "definition": "(photography) (of a lens etc) macro; close-up"
+  },
+  "微軟": {
+    "pinyin": "Wei1 ruan3",
+    "definition": "Microsoft Corporation"
+  },
+  "微軟公司": {
+    "pinyin": "Wei1 ruan3 Gong1 si1",
+    "definition": "Microsoft Corporation"
+  },
+  "微辣": {
+    "pinyin": "wei1 la4",
+    "definition": "mildly spicy"
+  },
+  "微速攝影": {
+    "pinyin": "wei1 su4 she4 ying3",
+    "definition": "time-lapse photography"
+  },
+  "微醺": {
+    "pinyin": "wei1 xun1",
+    "definition": "tipsy"
+  },
+  "微量": {
+    "pinyin": "wei1 liang4",
+    "definition": "a smidgen; minute; micro-; trace (element)"
+  },
+  "微量元素": {
+    "pinyin": "wei1 liang4 yuan2 su4",
+    "definition": "trace element (chemistry)"
+  },
+  "微量白蛋白": {
+    "pinyin": "wei1 liang4 bai2 dan4 bai2",
+    "definition": "microalbumin"
+  },
+  "微雕": {
+    "pinyin": "wei1 diao1",
+    "definition": "a miniature (carving)"
+  },
+  "微電子": {
+    "pinyin": "wei1 dian4 zi3",
+    "definition": "microelectronics"
+  },
+  "微電子學": {
+    "pinyin": "wei1 dian4 zi3 xue2",
+    "definition": "microelectronics"
+  },
+  "微電腦": {
+    "pinyin": "wei1 dian4 nao3",
+    "definition": "microcomputer"
+  },
+  "微靜脈": {
+    "pinyin": "wei1 jing4 mai4",
+    "definition": "capillary vein"
+  },
+  "微風": {
+    "pinyin": "wei1 feng1",
+    "definition": "breeze; light wind"
+  },
+  "微駝": {
+    "pinyin": "wei1 tuo2",
+    "definition": "stooping; hunched"
+  }
+}

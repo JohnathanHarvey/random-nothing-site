@@ -1,0 +1,690 @@
+{
+  "單": {
+    "pinyin": "dan1",
+    "definition": "bill; list; form; single; only; sole; odd number; CL:個|个[ge4]"
+  },
+  "單一": {
+    "pinyin": "dan1 yi1",
+    "definition": "single; only; sole"
+  },
+  "單一登入": {
+    "pinyin": "dan1 yi1 deng1 ru4",
+    "definition": "(Tw) single sign-on (SSO)"
+  },
+  "單一碼": {
+    "pinyin": "dan1 yi1 ma3",
+    "definition": "Unicode; also written 統一碼|统一码"
+  },
+  "單一貨幣": {
+    "pinyin": "dan1 yi1 huo4 bi4",
+    "definition": "single currency"
+  },
+  "單于": {
+    "pinyin": "chan2 yu2",
+    "definition": "king of the Xiongnu 匈奴[Xiong1nu2]"
+  },
+  "單人": {
+    "pinyin": "dan1 ren2",
+    "definition": "one person; single (room, bed etc)"
+  },
+  "單人匹馬": {
+    "pinyin": "dan1 ren2 pi3 ma3",
+    "definition": "single-handedly (idiom)"
+  },
+  "單人床": {
+    "pinyin": "dan1 ren2 chuang2",
+    "definition": "single bed; CL:張|张[zhang1]"
+  },
+  "單人沙發": {
+    "pinyin": "dan1 ren2 sha1 fa1",
+    "definition": "(upholstered) armchair"
+  },
+  "單人間": {
+    "pinyin": "dan1 ren2 jian1",
+    "definition": "single room (hotel)"
+  },
+  "單位": {
+    "pinyin": "dan1 wei4",
+    "definition": "unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform); CL:個|个[ge4]"
+  },
+  "單位信托": {
+    "pinyin": "dan1 wei4 xin4 tuo1",
+    "definition": "unit trust (finance)"
+  },
+  "單位元": {
+    "pinyin": "dan1 wei4 yuan2",
+    "definition": "identity element (math.)"
+  },
+  "單位切向量": {
+    "pinyin": "dan1 wei4 qie1 xiang4 liang4",
+    "definition": "(math.) unit tangent vector"
+  },
+  "單位向量": {
+    "pinyin": "dan1 wei4 xiang4 liang4",
+    "definition": "(math.) unit vector"
+  },
+  "單位根": {
+    "pinyin": "dan1 wei4 gen1",
+    "definition": "(math.) root of unity"
+  },
+  "單位犯罪": {
+    "pinyin": "dan1 wei4 fan4 zui4",
+    "definition": "crime committed by an organization"
+  },
+  "單個": {
+    "pinyin": "dan1 ge5",
+    "definition": "single; alone; individually; an odd one"
+  },
+  "單個兒": {
+    "pinyin": "dan1 ge4 r5",
+    "definition": "erhua variant of 單個|单个[dan1 ge5]"
+  },
+  "單倍體": {
+    "pinyin": "dan1 bei4 ti3",
+    "definition": "haploid (single chromosome)"
+  },
+  "單側": {
+    "pinyin": "dan1 ce4",
+    "definition": "one-sided; unilateral"
+  },
+  "單傳": {
+    "pinyin": "dan1 chuan2",
+    "definition": "to have only one heir in a generation (of a family, clan etc); to be learned from only one master (of a skill, art etc)"
+  },
+  "單價": {
+    "pinyin": "dan1 jia4",
+    "definition": "unit price"
+  },
+  "單元": {
+    "pinyin": "dan1 yuan2",
+    "definition": "unit (forming an entity); element; (in a residential building) entrance or staircase"
+  },
+  "單元房": {
+    "pinyin": "dan1 yuan2 fang2",
+    "definition": "apartment"
+  },
+  "單元格": {
+    "pinyin": "dan1 yuan2 ge2",
+    "definition": "(spreadsheet) cell"
+  },
+  "單克隆抗體": {
+    "pinyin": "dan1 ke4 long2 kang4 ti3",
+    "definition": "monoclonal antibody"
+  },
+  "單兵": {
+    "pinyin": "dan1 bing1",
+    "definition": "individual soldier; (literary) isolated military unit, cut off from reinforcements"
+  },
+  "單刀直入": {
+    "pinyin": "dan1 dao1 - zhi2 ru4",
+    "definition": "(idiom) to get straight to the point"
+  },
+  "單刀赴會": {
+    "pinyin": "dan1 dao1 fu4 hui4",
+    "definition": "lit. to go among enemies with only one's sword (idiom); fig. to go alone into enemy lines"
+  },
+  "單反機": {
+    "pinyin": "dan1 fan3 ji1",
+    "definition": "see 單反相機|单反相机[dan1 fan3 xiang4 ji1]"
+  },
+  "單反相機": {
+    "pinyin": "dan1 fan3 xiang4 ji1",
+    "definition": "single-lens reflex camera (SLR)"
+  },
+  "單叢": {
+    "pinyin": "Dan1 cong2",
+    "definition": "Dancong, type of oolong tea"
+  },
+  "單口相聲": {
+    "pinyin": "dan1 kou3 xiang4 sheng1",
+    "definition": "comic monologue; one-person comic sketch"
+  },
+  "單句": {
+    "pinyin": "dan1 ju4",
+    "definition": "simple sentence (grammar)"
+  },
+  "單另": {
+    "pinyin": "dan1 ling4",
+    "definition": "separately and exclusively; specially"
+  },
+  "單向": {
+    "pinyin": "dan1 xiang4",
+    "definition": "unidirectional"
+  },
+  "單向電流": {
+    "pinyin": "dan1 xiang4 dian4 liu2",
+    "definition": "(elec.) unidirectional current; DC; also written 直流[zhi2 liu2]"
+  },
+  "單味藥": {
+    "pinyin": "dan1 wei4 yao4",
+    "definition": "medicine made from a single herb; drug made from a single substance"
+  },
+  "單單": {
+    "pinyin": "dan1 dan1",
+    "definition": "only; merely; just"
+  },
+  "單團": {
+    "pinyin": "dan1 tuan2",
+    "definition": "ad hoc group (tour group with a customized itinerary)"
+  },
+  "單套": {
+    "pinyin": "dan1 tao4",
+    "definition": "single set"
+  },
+  "單子": {
+    "pinyin": "dan1 zi5",
+    "definition": "list of items; bill; form; bedsheet"
+  },
+  "單子葉": {
+    "pinyin": "dan1 zi3 ye4",
+    "definition": "monocotyledon (plant family distinguished by single embryonic leaf, includes grasses, orchids and lilies)"
+  },
+  "單字": {
+    "pinyin": "dan1 zi4",
+    "definition": "single Chinese character; (Tw) word (of a foreign language)"
+  },
+  "單寧酸": {
+    "pinyin": "dan1 ning2 suan1",
+    "definition": "tannic acid (loanword)"
+  },
+  "單射": {
+    "pinyin": "dan1 she4",
+    "definition": "(math.) one-to-one function; injective map"
+  },
+  "單層": {
+    "pinyin": "dan1 ceng2",
+    "definition": "single layer; single story; single deck; single level"
+  },
+  "單層塔": {
+    "pinyin": "dan1 ceng2 ta3",
+    "definition": "single-storied pagoda"
+  },
+  "單峰駝": {
+    "pinyin": "dan1 feng1 tuo2",
+    "definition": "dromedary"
+  },
+  "單幹": {
+    "pinyin": "dan1 gan4",
+    "definition": "to work on one's own; to work single-handed; individual farming"
+  },
+  "單引號": {
+    "pinyin": "dan1 yin3 hao4",
+    "definition": "single quotes"
+  },
+  "單張": {
+    "pinyin": "dan1 zhang1",
+    "definition": "flyer; leaflet; single-sheet (map etc)"
+  },
+  "單張匯票": {
+    "pinyin": "dan1 zhang1 hui4 piao4",
+    "definition": "sola bill of exchange (international trade)"
+  },
+  "單意": {
+    "pinyin": "dan1 yi4",
+    "definition": "unambiguous; having only one meaning"
+  },
+  "單戀": {
+    "pinyin": "dan1 lian4",
+    "definition": "unrequited love; one-sided love"
+  },
+  "單房差": {
+    "pinyin": "dan1 fang2 cha1",
+    "definition": "single supplement (for a hotel room)"
+  },
+  "單手": {
+    "pinyin": "dan1 shou3",
+    "definition": "one hand; single-handed"
+  },
+  "單打": {
+    "pinyin": "dan1 da3",
+    "definition": "singles (in sports); CL:場|场[chang3]"
+  },
+  "單打獨鬥": {
+    "pinyin": "dan1 da3 du2 dou4",
+    "definition": "to fight alone (idiom)"
+  },
+  "單挑": {
+    "pinyin": "dan1 tiao3",
+    "definition": "to pick; to choose; to fight a duel; Taiwan pr. [dan1 tiao1]"
+  },
+  "單擊": {
+    "pinyin": "dan1 ji1",
+    "definition": "(computing) to single-click; to click"
+  },
+  "單據": {
+    "pinyin": "dan1 ju4",
+    "definition": "receipts; invoices; transaction records"
+  },
+  "單擺": {
+    "pinyin": "dan1 bai3",
+    "definition": "simple pendulum (physics)"
+  },
+  "單放機": {
+    "pinyin": "dan1 fang4 ji1",
+    "definition": "tape player; video player; (media) player; play-only device"
+  },
+  "單數": {
+    "pinyin": "dan1 shu4",
+    "definition": "positive odd number (also written 奇數|奇数); singular (grammar)"
+  },
+  "單方": {
+    "pinyin": "dan1 fang1",
+    "definition": "unilateral; one-sided; home remedy; folk prescription(same as 丹方); single-drug prescription (same as 奇方[ji1 fang1], one of the seven kinds of prescriptions of Chinese medicine 七方[qi1 fang1]); metaphorically. a good solution"
+  },
+  "單方向": {
+    "pinyin": "dan1 fang1 xiang4",
+    "definition": "unidirectional; single-aspect"
+  },
+  "單方宣告": {
+    "pinyin": "dan1 fang1 xuan1 gao4",
+    "definition": "unilateral declaration"
+  },
+  "單方決定": {
+    "pinyin": "dan1 fang1 jue2 ding4",
+    "definition": "to decide without reference to other parties involved; unilateral decision"
+  },
+  "單方製劑": {
+    "pinyin": "dan1 fang1 zhi4 ji4",
+    "definition": "prescribed preparation"
+  },
+  "單方過失碰撞": {
+    "pinyin": "dan1 fang1 guo4 shi1 peng4 zhuang4",
+    "definition": "collision in which only one party is at fault"
+  },
+  "單方面": {
+    "pinyin": "dan1 fang1 mian4",
+    "definition": "unilateral"
+  },
+  "單日": {
+    "pinyin": "dan1 ri4",
+    "definition": "on a single day"
+  },
+  "單晶": {
+    "pinyin": "dan1 jing1",
+    "definition": "monocrystalline"
+  },
+  "單曲": {
+    "pinyin": "dan1 qu3",
+    "definition": "single (recording industry)"
+  },
+  "單月": {
+    "pinyin": "dan1 yue4",
+    "definition": "monthly; in a single month"
+  },
+  "單板機": {
+    "pinyin": "dan1 ban3 ji1",
+    "definition": "single-board computer"
+  },
+  "單板滑雪": {
+    "pinyin": "dan1 ban3 hua2 xue3",
+    "definition": "to snowboard"
+  },
+  "單核細胞": {
+    "pinyin": "dan1 he2 xi4 bao1",
+    "definition": "monocyte; mononuclear cell"
+  },
+  "單核細胞增多症": {
+    "pinyin": "dan1 he2 xi4 bao1 zeng1 duo1 zheng4",
+    "definition": "mononucleosis"
+  },
+  "單根獨苗": {
+    "pinyin": "dan1 gen1 du2 miao2",
+    "definition": "an only child"
+  },
+  "單極": {
+    "pinyin": "dan1 ji2",
+    "definition": "unipolar; monopole (physics)"
+  },
+  "單槍匹馬": {
+    "pinyin": "dan1 qiang1 - pi3 ma3",
+    "definition": "lit. single spear and horse (idiom); fig. single-handed; unaccompanied"
+  },
+  "單槓": {
+    "pinyin": "dan1 gang4",
+    "definition": "bar; bold line; horizontal bar (gymnastics event)"
+  },
+  "單模": {
+    "pinyin": "dan1 mo2",
+    "definition": "single mode"
+  },
+  "單模光纖": {
+    "pinyin": "dan1 mo2 guang1 xian1",
+    "definition": "single-mode optical fiber"
+  },
+  "單源多倍體": {
+    "pinyin": "dan1 yuan2 duo1 bei4 ti3",
+    "definition": "autopolyploid (polyploid with chromosomes of single species)"
+  },
+  "單源論": {
+    "pinyin": "dan1 yuan2 lun4",
+    "definition": "theory of single origin (of mankind)"
+  },
+  "單片機": {
+    "pinyin": "dan1 pian4 ji1",
+    "definition": "microcontroller; one-chip computer"
+  },
+  "單獨": {
+    "pinyin": "dan1 du2",
+    "definition": "alone; by oneself; on one's own"
+  },
+  "單班課": {
+    "pinyin": "dan1 ban1 ke4",
+    "definition": "individual lesson; one-on-one class"
+  },
+  "單瓣": {
+    "pinyin": "dan1 ban4",
+    "definition": "single petal; single valve"
+  },
+  "單產": {
+    "pinyin": "dan1 chan3",
+    "definition": "yield per unit area"
+  },
+  "單用": {
+    "pinyin": "dan1 yong4",
+    "definition": "to use (sth) on its own"
+  },
+  "單盲": {
+    "pinyin": "dan1 mang2",
+    "definition": "single-blind (scientific experiment)"
+  },
+  "單相": {
+    "pinyin": "dan1 xiang4",
+    "definition": "single phase (elec.)"
+  },
+  "單相思": {
+    "pinyin": "dan1 xiang1 si1",
+    "definition": "one-sided lovesickness; unrequited longing"
+  },
+  "單眼": {
+    "pinyin": "dan1 yan3",
+    "definition": "ommatidium (single component of insect's compound eye); one eye (i.e. one's left or right eye)"
+  },
+  "單眼皮": {
+    "pinyin": "dan1 yan3 pi2",
+    "definition": "single eyelid"
+  },
+  "單眼相機": {
+    "pinyin": "dan1 yan3 xiang4 ji1",
+    "definition": "single-lens reflex camera (Tw)"
+  },
+  "單程": {
+    "pinyin": "dan1 cheng2",
+    "definition": "one-way (ticket)"
+  },
+  "單穩": {
+    "pinyin": "dan1 wen3",
+    "definition": "monostable; single-side stable (relays)"
+  },
+  "單端": {
+    "pinyin": "dan1 duan1",
+    "definition": "(electronics) single-ended"
+  },
+  "單簧管": {
+    "pinyin": "dan1 huang2 guan3",
+    "definition": "clarinet"
+  },
+  "單糖": {
+    "pinyin": "dan1 tang2",
+    "definition": "monosaccharide"
+  },
+  "單純": {
+    "pinyin": "dan1 chun2",
+    "definition": "simple; pure; unsophisticated; merely; purely"
+  },
+  "單純皰疹": {
+    "pinyin": "dan1 chun2 pao4 zhen3",
+    "definition": "herpes simplex (med.)"
+  },
+  "單純皰疹病毒": {
+    "pinyin": "dan1 chun2 pao4 zhen3 bing4 du2",
+    "definition": "herpes simplex virus (HSV, med.)"
+  },
+  "單純詞": {
+    "pinyin": "dan1 chun2 ci2",
+    "definition": "(linguistics) single-morpheme word; simple word"
+  },
+  "單細胞": {
+    "pinyin": "dan1 xi4 bao1",
+    "definition": "(of an organism) single-celled; unicellular"
+  },
+  "單細胞生物": {
+    "pinyin": "dan1 xi4 bao1 sheng1 wu4",
+    "definition": "single-celled organism"
+  },
+  "單絲不成線，獨木不成林": {
+    "pinyin": "dan1 si1 bu4 cheng2 xian4 , du2 mu4 bu4 cheng2 lin2",
+    "definition": "(proverb) one strand does not make a thread, one tree does not make a forest"
+  },
+  "單縣": {
+    "pinyin": "Shan4 xian4",
+    "definition": "Shan county in Heze 菏澤|菏泽[He2 ze2], Shandong"
+  },
+  "單翼飛機": {
+    "pinyin": "dan1 yi4 fei1 ji1",
+    "definition": "monoplane"
+  },
+  "單肩包": {
+    "pinyin": "dan1 jian1 bao1",
+    "definition": "shoulder bag"
+  },
+  "單胞藻": {
+    "pinyin": "dan1 bao1 zao3",
+    "definition": "single-celled algae"
+  },
+  "單腳滑行車": {
+    "pinyin": "dan1 jiao3 hua2 xing2 che1",
+    "definition": "scooter"
+  },
+  "單腳跳": {
+    "pinyin": "dan1 jiao3 tiao4",
+    "definition": "to hop; to jump on one leg"
+  },
+  "單色": {
+    "pinyin": "dan1 se4",
+    "definition": "monochrome; monochromatic; black and white"
+  },
+  "單色照片": {
+    "pinyin": "dan1 se4 zhao4 pian4",
+    "definition": "monochrome photo; black and white picture"
+  },
+  "單色畫": {
+    "pinyin": "dan1 se4 hua4",
+    "definition": "monochrome picture; black and white picture"
+  },
+  "單葉雙曲面": {
+    "pinyin": "dan1 ye4 shuang1 qu1 mian4",
+    "definition": "hyperboloid of one sheet (math.)"
+  },
+  "單薄": {
+    "pinyin": "dan1 bo2",
+    "definition": "weak; frail; thin; flimsy"
+  },
+  "單號": {
+    "pinyin": "dan1 hao4",
+    "definition": "odd number (on a ticket, house etc)"
+  },
+  "單行": {
+    "pinyin": "dan1 xing2",
+    "definition": "to come individually; to treat separately; separate edition; one-way traffic"
+  },
+  "單行本": {
+    "pinyin": "dan1 xing2 ben3",
+    "definition": "single volume edition; offprint"
+  },
+  "單行線": {
+    "pinyin": "dan1 xing2 xian4",
+    "definition": "one-way road"
+  },
+  "單行道": {
+    "pinyin": "dan1 xing2 dao4",
+    "definition": "one-way street"
+  },
+  "單衣": {
+    "pinyin": "dan1 yi1",
+    "definition": "unlined garment"
+  },
+  "單褲": {
+    "pinyin": "dan1 ku4",
+    "definition": "unlined trousers; summer trousers"
+  },
+  "單親": {
+    "pinyin": "dan1 qin1",
+    "definition": "single parent"
+  },
+  "單親家庭": {
+    "pinyin": "dan1 qin1 jia1 ting2",
+    "definition": "single parent family"
+  },
+  "單詞": {
+    "pinyin": "dan1 ci2",
+    "definition": "word; CL:個|个[ge4]"
+  },
+  "單語": {
+    "pinyin": "dan1 yu3",
+    "definition": "monolingual"
+  },
+  "單調": {
+    "pinyin": "dan1 diao4",
+    "definition": "monotonous"
+  },
+  "單調乏味": {
+    "pinyin": "dan1 diao4 fa2 wei4",
+    "definition": "monotonous; dull; tedious (idiom)"
+  },
+  "單證": {
+    "pinyin": "dan1 zheng4",
+    "definition": "(international trade) documentation (e.g. a bill of lading)"
+  },
+  "單質": {
+    "pinyin": "dan1 zhi4",
+    "definition": "simple substance (consisting purely of one element, such as diamond)"
+  },
+  "單趟": {
+    "pinyin": "dan1 tang4",
+    "definition": "single trip"
+  },
+  "單身": {
+    "pinyin": "dan1 shen1",
+    "definition": "unmarried; single; alone"
+  },
+  "單身汪": {
+    "pinyin": "dan1 shen1 wang1",
+    "definition": "(Internet slang) person who is neither married nor in a relationship (used self-deprecatingly)"
+  },
+  "單身漢": {
+    "pinyin": "dan1 shen1 han4",
+    "definition": "bachelor; single man"
+  },
+  "單身狗": {
+    "pinyin": "dan1 shen1 gou3",
+    "definition": "(Internet slang) person who is neither married nor in a relationship (used self-deprecatingly)"
+  },
+  "單身貴族": {
+    "pinyin": "dan1 shen1 gui4 zu2",
+    "definition": "fig. unmarried person; single person (especially one who is comfortable financially)"
+  },
+  "單車": {
+    "pinyin": "dan1 che1",
+    "definition": "(coll.) bike; bicycle (esp. bike-share bicycle)"
+  },
+  "單車族": {
+    "pinyin": "dan1 che1 zu2",
+    "definition": "cyclist"
+  },
+  "單軌": {
+    "pinyin": "dan1 gui3",
+    "definition": "monorail"
+  },
+  "單輪車": {
+    "pinyin": "dan1 lun2 che1",
+    "definition": "unicycle"
+  },
+  "單速車": {
+    "pinyin": "dan1 su4 che1",
+    "definition": "single-speed bicycle; fixed-gear bicycle"
+  },
+  "單連接站": {
+    "pinyin": "dan1 lian2 jie1 zhan4",
+    "definition": "single attachment station (telecommunications)"
+  },
+  "單過": {
+    "pinyin": "dan1 guo4",
+    "definition": "to live independently; to live on one's own"
+  },
+  "單邊": {
+    "pinyin": "dan1 bian1",
+    "definition": "unilateral"
+  },
+  "單邊主義": {
+    "pinyin": "dan1 bian1 zhu3 yi4",
+    "definition": "unilateralism"
+  },
+  "單鉻": {
+    "pinyin": "dan1 ge4",
+    "definition": "monochrome"
+  },
+  "單鍵": {
+    "pinyin": "dan1 jian4",
+    "definition": "single bond (chemistry)"
+  },
+  "單鏈": {
+    "pinyin": "dan1 lian4",
+    "definition": "single chain; refers to RNA as opposed to the double helix DNA"
+  },
+  "單鏡反光相機": {
+    "pinyin": "dan1 jing4 fan3 guang1 xiang4 ji1",
+    "definition": "single-lens reflex camera (SLR)"
+  },
+  "單間差": {
+    "pinyin": "dan1 jian1 cha1",
+    "definition": "single supplement (for a hotel room)"
+  },
+  "單院制": {
+    "pinyin": "dan1 yuan4 zhi4",
+    "definition": "unicameralism; single-house system"
+  },
+  "單非": {
+    "pinyin": "dan1 fei1",
+    "definition": "a couple in which one of the spouses is not a Hong Kong citizen"
+  },
+  "單鞋": {
+    "pinyin": "dan1 xie2",
+    "definition": "unpadded shoes"
+  },
+  "單音節": {
+    "pinyin": "dan1 yin1 jie2",
+    "definition": "monosyllabic; a monosyllable"
+  },
+  "單音詞": {
+    "pinyin": "dan1 yin1 ci2",
+    "definition": "monosyllabic word"
+  },
+  "單韻母": {
+    "pinyin": "dan1 yun4 mu3",
+    "definition": "simple finals"
+  },
+  "單項": {
+    "pinyin": "dan1 xiang4",
+    "definition": "single-item"
+  },
+  "單飛": {
+    "pinyin": "dan1 fei1",
+    "definition": "to fly solo; (fig.) (of a band member) to go solo; (of an employee) to leave and start up one's own company"
+  },
+  "單體": {
+    "pinyin": "dan1 ti3",
+    "definition": "monomer (chemistry)"
+  },
+  "單點": {
+    "pinyin": "dan1 dian3",
+    "definition": "to order à la carte; single point (of measurement, mounting etc)"
+  },
+  "單點故障": {
+    "pinyin": "dan1 dian3 gu4 zhang4",
+    "definition": "single point of failure"
+  },
+  "單點登錄": {
+    "pinyin": "dan1 dian3 deng1 lu4",
+    "definition": "single sign-on (SSO)"
+  }
+}

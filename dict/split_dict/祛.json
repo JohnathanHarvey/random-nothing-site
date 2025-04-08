@@ -1,0 +1,54 @@
+{
+  "祛": {
+    "pinyin": "qu1",
+    "definition": "sacrifice to drive away calamity; to dispel; to drive away; to remove"
+  },
+  "祛寒": {
+    "pinyin": "qu1 han2",
+    "definition": "to dispel cold (TCM)"
+  },
+  "祛暑": {
+    "pinyin": "qu1 shu3",
+    "definition": "to beat the summer heat"
+  },
+  "祛淤": {
+    "pinyin": "qu1 yu1",
+    "definition": "variant of 祛瘀[qu1 yu1]"
+  },
+  "祛疑": {
+    "pinyin": "qu1 yi2",
+    "definition": "to dispel doubts"
+  },
+  "祛痰": {
+    "pinyin": "qu1 tan2",
+    "definition": "to dispel phlegm (TCM)"
+  },
+  "祛痰藥": {
+    "pinyin": "qu1 tan2 yao4",
+    "definition": "medicine to dispel phlegm (TCM)"
+  },
+  "祛瘀": {
+    "pinyin": "qu1 yu1",
+    "definition": "to dispel blood stasis (TCM)"
+  },
+  "祛邪": {
+    "pinyin": "qu1 xie2",
+    "definition": "to exorcise; to drive away evil spirits"
+  },
+  "祛邪除災": {
+    "pinyin": "qu1 xie2 chu2 zai1",
+    "definition": "to drive away demons to prevent calamity (idiom)"
+  },
+  "祛除": {
+    "pinyin": "qu1 chu2",
+    "definition": "to dispel; to clear"
+  },
+  "祛風": {
+    "pinyin": "qu1 feng1",
+    "definition": "to relieve (cold, rheumatic pain etc); lit. to dispel pathogenic wind (TCM)"
+  },
+  "祛魅": {
+    "pinyin": "qu1 mei4",
+    "definition": "to become disenchanted"
+  }
+}

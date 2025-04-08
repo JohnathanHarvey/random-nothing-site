@@ -1,0 +1,978 @@
+{
+  "反": {
+    "pinyin": "fan3",
+    "definition": "contrary; in reverse; inside out or upside down; to reverse; to return; to oppose; opposite; against; anti-; to rebel; to use analogy; instead; abbr. for 反切[fan3 qie4] phonetic system"
+  },
+  "反串": {
+    "pinyin": "fan3 chuan4",
+    "definition": "(Chinese opera) to play a role outside of one's specialty; (modern) to play a transvestite role; to masquerade as an opponent"
+  },
+  "反之": {
+    "pinyin": "fan3 zhi1",
+    "definition": "on the other hand...; conversely..."
+  },
+  "反之亦然": {
+    "pinyin": "fan3 zhi1 yi4 ran2",
+    "definition": "vice versa"
+  },
+  "反人道罪": {
+    "pinyin": "fan3 ren2 dao4 zui4",
+    "definition": "a crime against humanity"
+  },
+  "反人道罪行": {
+    "pinyin": "fan3 ren2 dao4 zui4 xing2",
+    "definition": "crime against humanity"
+  },
+  "反人類": {
+    "pinyin": "fan3 ren2 lei4",
+    "definition": "inhuman"
+  },
+  "反人類罪": {
+    "pinyin": "fan3 ren2 lei4 zui4",
+    "definition": "crimes against humanity"
+  },
+  "反作用": {
+    "pinyin": "fan3 zuo4 yong4",
+    "definition": "opposite reaction"
+  },
+  "反作用力": {
+    "pinyin": "fan3 zuo4 yong4 li4",
+    "definition": "(physics) reaction force"
+  },
+  "反例": {
+    "pinyin": "fan3 li4",
+    "definition": "counterexample"
+  },
+  "反倒": {
+    "pinyin": "fan3 dao4",
+    "definition": "(coll.) but on the contrary; but instead"
+  },
+  "反側": {
+    "pinyin": "fan3 ce4",
+    "definition": "to toss and turn"
+  },
+  "反傳算法": {
+    "pinyin": "fan3 chuan2 suan4 fa3",
+    "definition": "back propagation algorithm"
+  },
+  "反傾銷": {
+    "pinyin": "fan3 qing1 xiao1",
+    "definition": "anti-dumping"
+  },
+  "反光": {
+    "pinyin": "fan3 guang1",
+    "definition": "to reflect light"
+  },
+  "反光鏡": {
+    "pinyin": "fan3 guang1 jing4",
+    "definition": "reflector (typically concave, as in a torch); mirror (typically plane or convex)"
+  },
+  "反光面": {
+    "pinyin": "fan3 guang1 mian4",
+    "definition": "reflecting surface"
+  },
+  "反共": {
+    "pinyin": "fan3 gong4",
+    "definition": "anti-communist"
+  },
+  "反其道而行之": {
+    "pinyin": "fan3 qi2 dao4 er2 xing2 zhi1",
+    "definition": "to do the very opposite; to act in a diametrically opposite way"
+  },
+  "反函數": {
+    "pinyin": "fan3 han2 shu4",
+    "definition": "inverse function (math.)"
+  },
+  "反分裂法": {
+    "pinyin": "fan3 fen1 lie4 fa3",
+    "definition": "anti-secession law of 2005 (whereby PRC claims the right to invade Taiwan)"
+  },
+  "反切": {
+    "pinyin": "fan3 qie4",
+    "definition": "traditional system expressing the phonetic value of a Chinese character using two other characters, the first for the initial consonant, the second for the rhyme and tone"
+  },
+  "反制": {
+    "pinyin": "fan3 zhi4",
+    "definition": "to take countermeasures against; to hit back; to counter"
+  },
+  "反剪": {
+    "pinyin": "fan3 jian3",
+    "definition": "with hands behind one's back; trussed"
+  },
+  "反動": {
+    "pinyin": "fan3 dong4",
+    "definition": "reaction; reactionary"
+  },
+  "反動份子": {
+    "pinyin": "fan3 dong4 fen4 zi3",
+    "definition": "reactionaries; reactionary elements"
+  },
+  "反動勢力": {
+    "pinyin": "fan3 dong4 shi4 li5",
+    "definition": "reactionary forces (esp. in Marxist rhetoric)"
+  },
+  "反動派": {
+    "pinyin": "fan3 dong4 pai4",
+    "definition": "reactionaries"
+  },
+  "反反復復": {
+    "pinyin": "fan3 fan3 fu4 fu4",
+    "definition": "repeatedly; time and time again"
+  },
+  "反叛": {
+    "pinyin": "fan3 pan4",
+    "definition": "to rebel; to revolt"
+  },
+  "反叛份子": {
+    "pinyin": "fan3 pan4 fen4 zi3",
+    "definition": "insurgent; rebel"
+  },
+  "反口": {
+    "pinyin": "fan3 kou3",
+    "definition": "to correct oneself; to renege; to break one's word"
+  },
+  "反右": {
+    "pinyin": "fan3 you4",
+    "definition": "anti-rightist; abbr. for 反右派鬥爭|反右派斗争[Fan3 you4 pai4 Dou4 zheng1]"
+  },
+  "反右派鬥爭": {
+    "pinyin": "Fan3 you4 pai4 Dou4 zheng1",
+    "definition": "Anti-Rightist Movement, Mao's purge of \"rightists\" after the Hundred Flowers Campaign ended in 1957"
+  },
+  "反右運動": {
+    "pinyin": "Fan3 you4 Yun4 dong4",
+    "definition": "Anti-Rightist Movement, Mao's purge of \"rightists\" after the Hundred Flowers Campaign ended in 1957"
+  },
+  "反向": {
+    "pinyin": "fan3 xiang4",
+    "definition": "opposite direction; reverse"
+  },
+  "反咬一口": {
+    "pinyin": "fan3 yao3 yi1 kou3",
+    "definition": "to make a false countercharge"
+  },
+  "反哺": {
+    "pinyin": "fan3 bu3",
+    "definition": "to support one's parents in their old age; to show filial piety; to to repay; to return a favor"
+  },
+  "反唇相譏": {
+    "pinyin": "fan3 chun2 - xiang1 ji1",
+    "definition": "(idiom) to answer back sarcastically; to retort"
+  },
+  "反問": {
+    "pinyin": "fan3 wen4",
+    "definition": "to ask (a question) in reply; to answer a question with a question; rhetorical question"
+  },
+  "反問句": {
+    "pinyin": "fan3 wen4 ju4",
+    "definition": "rhetorical question"
+  },
+  "反問語氣": {
+    "pinyin": "fan3 wen4 yu3 qi4",
+    "definition": "tone of one's voice when asking a rhetorical question"
+  },
+  "反嘴": {
+    "pinyin": "fan3 zui3",
+    "definition": "to answer back; to contradict; to renege; to go back on one's word"
+  },
+  "反嘴鷸": {
+    "pinyin": "fan3 zui3 yu4",
+    "definition": "(bird species of China) pied avocet (Recurvirostra avosetta)"
+  },
+  "反噬": {
+    "pinyin": "fan3 shi4",
+    "definition": "to backfire on; to rebound on"
+  },
+  "反圍剿": {
+    "pinyin": "fan3 wei2 jiao3",
+    "definition": "communist attack against the Guomindang's encircle and annihilate campaign"
+  },
+  "反坐": {
+    "pinyin": "fan3 zuo4",
+    "definition": "to sentence the accuser (and free the falsely accused defendant)"
+  },
+  "反坦克": {
+    "pinyin": "fan3 tan3 ke4",
+    "definition": "anti-tank"
+  },
+  "反坫": {
+    "pinyin": "fan3 dian4",
+    "definition": "earthern goblet stand also known as 垿[xu4] (old)"
+  },
+  "反基督": {
+    "pinyin": "fan3 Ji1 du1",
+    "definition": "the anti-Christ"
+  },
+  "反壟斷": {
+    "pinyin": "fan3 long3 duan4",
+    "definition": "to break up or prevent monopolies; anti-monopoly; antitrust"
+  },
+  "反壟斷法": {
+    "pinyin": "fan3 long3 duan4 fa3",
+    "definition": "antitrust legislation"
+  },
+  "反季": {
+    "pinyin": "fan3 ji4",
+    "definition": "off-season; out-of-season"
+  },
+  "反季節": {
+    "pinyin": "fan3 ji4 jie2",
+    "definition": "off-season; out-of-season"
+  },
+  "反安慰劑": {
+    "pinyin": "fan3 an1 wei4 ji4",
+    "definition": "nocebo"
+  },
+  "反客為主": {
+    "pinyin": "fan3 ke4 wei2 zhu3",
+    "definition": "lit. the guest acts as host (idiom); fig. to turn from passive to active behavior"
+  },
+  "反密碼子": {
+    "pinyin": "fan3 mi4 ma3 zi5",
+    "definition": "anticodon"
+  },
+  "反射": {
+    "pinyin": "fan3 she4",
+    "definition": "to reflect; reflection (from a mirror etc); reflex (i.e. automatic reaction of organism)"
+  },
+  "反射作用": {
+    "pinyin": "fan3 she4 zuo4 yong4",
+    "definition": "reflex; reflection"
+  },
+  "反射光": {
+    "pinyin": "fan3 she4 guang1",
+    "definition": "to reflect light; reflection; reflected light"
+  },
+  "反射動作": {
+    "pinyin": "fan3 she4 dong4 zuo4",
+    "definition": "reflex action"
+  },
+  "反射區治療": {
+    "pinyin": "fan3 she4 qu1 zhi4 liao2",
+    "definition": "reflexology (alternative medicine)"
+  },
+  "反射弧": {
+    "pinyin": "fan3 she4 hu2",
+    "definition": "reflex arc"
+  },
+  "反射星雲": {
+    "pinyin": "fan3 she4 xing1 yun2",
+    "definition": "reflection nebula"
+  },
+  "反射療法": {
+    "pinyin": "fan3 she4 liao2 fa3",
+    "definition": "reflexology (alternative medicine)"
+  },
+  "反射鏡": {
+    "pinyin": "fan3 she4 jing4",
+    "definition": "reflector"
+  },
+  "反射面": {
+    "pinyin": "fan3 she4 mian4",
+    "definition": "reflecting surface"
+  },
+  "反對": {
+    "pinyin": "fan3 dui4",
+    "definition": "to oppose; to be against; to object to"
+  },
+  "反對派": {
+    "pinyin": "fan3 dui4 pai4",
+    "definition": "opposition faction"
+  },
+  "反對票": {
+    "pinyin": "fan3 dui4 piao4",
+    "definition": "dissenting vote"
+  },
+  "反對黨": {
+    "pinyin": "fan3 dui4 dang3",
+    "definition": "opposition (political) party"
+  },
+  "反導": {
+    "pinyin": "fan3 dao3",
+    "definition": "anti-missile"
+  },
+  "反導導彈": {
+    "pinyin": "fan3 dao3 dao3 dan4",
+    "definition": "anti-missile missile (such as the Patriot Missile)"
+  },
+  "反導彈": {
+    "pinyin": "fan3 dao3 dan4",
+    "definition": "anti-missile"
+  },
+  "反導系統": {
+    "pinyin": "fan3 dao3 xi4 tong3",
+    "definition": "anti-missile system; missile defense system"
+  },
+  "反差": {
+    "pinyin": "fan3 cha1",
+    "definition": "contrast; discrepancy"
+  },
+  "反帝": {
+    "pinyin": "fan3 di4",
+    "definition": "to be anti-imperialist"
+  },
+  "反常": {
+    "pinyin": "fan3 chang2",
+    "definition": "unusual; abnormal"
+  },
+  "反式": {
+    "pinyin": "fan3 shi4",
+    "definition": "trans- (isomer) (chemistry); see also 順式|顺式[shun4 shi4]"
+  },
+  "反式脂肪": {
+    "pinyin": "fan3 shi4 zhi1 fang2",
+    "definition": "trans fat; trans-isomer fatty acid"
+  },
+  "反式脂肪酸": {
+    "pinyin": "fan3 shi4 zhi1 fang2 suan1",
+    "definition": "see 反式脂肪[fan3 shi4 zhi1 fang2]"
+  },
+  "反彈": {
+    "pinyin": "fan3 tan2",
+    "definition": "to bounce; to bounce back; to boomerang; to ricochet; rebound (of stock market etc); bounce; backlash; negative repercussions"
+  },
+  "反彈導彈": {
+    "pinyin": "fan3 dan4 dao3 dan4",
+    "definition": "antimissile missile"
+  },
+  "反復": {
+    "pinyin": "fan3 fu4",
+    "definition": "variant of 反覆|反复[fan3 fu4]"
+  },
+  "反思": {
+    "pinyin": "fan3 si1",
+    "definition": "to think back over sth; to review; to revisit; to rethink; reflection; reassessment"
+  },
+  "反恐": {
+    "pinyin": "fan3 kong3",
+    "definition": "anti-terrorism; to fight against terrorism"
+  },
+  "反恐戰爭": {
+    "pinyin": "fan3 kong3 zhan4 zheng1",
+    "definition": "war on terrorism"
+  },
+  "反悔": {
+    "pinyin": "fan3 hui3",
+    "definition": "to renege; to go back (on a deal); to back out (of a promise)"
+  },
+  "反感": {
+    "pinyin": "fan3 gan3",
+    "definition": "to be disgusted with; to dislike; bad reaction; antipathy"
+  },
+  "反應": {
+    "pinyin": "fan3 ying4",
+    "definition": "to react; to respond; reaction; response; reply; chemical reaction; CL:個|个[ge4]"
+  },
+  "反應堆": {
+    "pinyin": "fan3 ying4 dui1",
+    "definition": "reactor"
+  },
+  "反應堆芯": {
+    "pinyin": "fan3 ying4 dui1 xin1",
+    "definition": "reactor core"
+  },
+  "反應式": {
+    "pinyin": "fan3 ying4 shi4",
+    "definition": "equation of a chemical reaction"
+  },
+  "反應時": {
+    "pinyin": "fan3 ying4 shi2",
+    "definition": "response time"
+  },
+  "反應時間": {
+    "pinyin": "fan3 ying4 shi2 jian1",
+    "definition": "(technology) response time"
+  },
+  "反應爐": {
+    "pinyin": "fan3 ying4 lu2",
+    "definition": "(nuclear etc) reactor"
+  },
+  "反應鍋": {
+    "pinyin": "fan3 ying4 guo1",
+    "definition": "(chemical engineering) reaction vessel; reaction tank"
+  },
+  "反戰": {
+    "pinyin": "fan3 zhan4",
+    "definition": "anti-war"
+  },
+  "反戰抗議": {
+    "pinyin": "fan3 zhan4 kang4 yi4",
+    "definition": "antiwar protest"
+  },
+  "反手": {
+    "pinyin": "fan3 shou3",
+    "definition": "to turn a hand over; to put one's hand behind one's back; fig. easily done"
+  },
+  "反托拉斯": {
+    "pinyin": "fan3 tuo1 la1 si1",
+    "definition": "antitrust (loanword)"
+  },
+  "反批評": {
+    "pinyin": "fan3 pi1 ping2",
+    "definition": "countercriticism"
+  },
+  "反抗": {
+    "pinyin": "fan3 kang4",
+    "definition": "to resist; to rebel"
+  },
+  "反抗者": {
+    "pinyin": "fan3 kang4 zhe3",
+    "definition": "rebel"
+  },
+  "反掌": {
+    "pinyin": "fan3 zhang3",
+    "definition": "lit. to turn over one's palm; fig. everything is going very well."
+  },
+  "反接": {
+    "pinyin": "fan3 jie1",
+    "definition": "trussed; with hands tied behind the back"
+  },
+  "反撞": {
+    "pinyin": "fan3 zhuang4",
+    "definition": "recoil (of a gun)"
+  },
+  "反撲": {
+    "pinyin": "fan3 pu1",
+    "definition": "to counterattack; to come back after a defeat; to retrieve lost ground"
+  },
+  "反擊": {
+    "pinyin": "fan3 ji1",
+    "definition": "to strike back; to beat back; to counterattack"
+  },
+  "反攻": {
+    "pinyin": "fan3 gong1",
+    "definition": "to counterattack; a counteroffensive"
+  },
+  "反政府": {
+    "pinyin": "fan3 zheng4 fu3",
+    "definition": "anti-government (protest)"
+  },
+  "反敗為勝": {
+    "pinyin": "fan3 bai4 wei2 sheng4",
+    "definition": "to turn defeat into victory (idiom); to turn the tide"
+  },
+  "反散射": {
+    "pinyin": "fan3 san3 she4",
+    "definition": "backscatter"
+  },
+  "反文旁": {
+    "pinyin": "fan3 wen2 pang2",
+    "definition": "(colloquial) grapheme 攵 (variant form of Kangxi radical 66, 攴)"
+  },
+  "反斜杠": {
+    "pinyin": "fan3 xie2 gang4",
+    "definition": "backslash (computing)"
+  },
+  "反斜線": {
+    "pinyin": "fan3 xie2 xian4",
+    "definition": "backslash (computing); reversed diagonal"
+  },
+  "反方": {
+    "pinyin": "fan3 fang1",
+    "definition": "the side opposed to the proposition (in a formal debate)"
+  },
+  "反日": {
+    "pinyin": "fan3 ri4",
+    "definition": "anti-Japan"
+  },
+  "反映": {
+    "pinyin": "fan3 ying4",
+    "definition": "to mirror; to reflect; mirror image; reflection; (fig.) to report; to make known; to render"
+  },
+  "反映論": {
+    "pinyin": "fan3 ying4 lun4",
+    "definition": "theory of reflection (in dialectic materialism), i.e. every perception reflects physical reality"
+  },
+  "反時勢": {
+    "pinyin": "fan3 shi2 shi4",
+    "definition": "unconventional"
+  },
+  "反時針": {
+    "pinyin": "fan3 shi2 zhen1",
+    "definition": "counterclockwise"
+  },
+  "反智": {
+    "pinyin": "fan3 zhi4",
+    "definition": "anti-intellectual"
+  },
+  "反智主義": {
+    "pinyin": "fan3 zhi4 zhu3 yi4",
+    "definition": "anti-intellectualism"
+  },
+  "反智論": {
+    "pinyin": "fan3 zhi4 lun4",
+    "definition": "anti-intellectualism"
+  },
+  "反曲弓": {
+    "pinyin": "fan3 qu1 gong1",
+    "definition": "(archery) recurve bow"
+  },
+  "反杜林論": {
+    "pinyin": "Fan3 Du4 lin2 Lun4",
+    "definition": "Anti-Dühring, book by Friedrich Engels 恩格斯[En1 ge2 si1]"
+  },
+  "反核": {
+    "pinyin": "fan3 he2",
+    "definition": "anti-nuclear (e.g. protest)"
+  },
+  "反正": {
+    "pinyin": "fan3 zheng4",
+    "definition": "anyway; in any case; to come over from the enemy's side"
+  },
+  "反正一樣": {
+    "pinyin": "fan3 zheng4 yi1 yang4",
+    "definition": "whether it's right or wrong doesn't make a lot of difference; six of one and half a dozen of the other; as broad as it is long"
+  },
+  "反殺": {
+    "pinyin": "fan3 sha1",
+    "definition": "to respond to an assault by killing one's assailant"
+  },
+  "反比": {
+    "pinyin": "fan3 bi3",
+    "definition": "inversely proportional; inverse ratio"
+  },
+  "反氣旋": {
+    "pinyin": "fan3 qi4 xuan2",
+    "definition": "anticyclone"
+  },
+  "反水": {
+    "pinyin": "fan3 shui3",
+    "definition": "to turn traitor; to defect"
+  },
+  "反求諸己": {
+    "pinyin": "fan3 qiu2 zhu1 ji3",
+    "definition": "to seek the cause in oneself rather than sb else"
+  },
+  "反污": {
+    "pinyin": "fan3 wu1",
+    "definition": "to accuse the victim (while being the guilty party)"
+  },
+  "反派": {
+    "pinyin": "fan3 pai4",
+    "definition": "villain (of a drama etc)"
+  },
+  "反清": {
+    "pinyin": "fan3 Qing1",
+    "definition": "anti-Qing; refers to the revolutionary movements in late 19th and early 20th century leading up to 1911 Xinhai Revolution 辛亥革命[Xin1 hai4 Ge2 ming4]"
+  },
+  "反滲透": {
+    "pinyin": "fan3 shen4 tou4",
+    "definition": "anti-infiltration (measures taken against subversive external forces); (chemistry) reverse osmosis"
+  },
+  "反滲透法": {
+    "pinyin": "Fan3 shen4 tou4 fa3",
+    "definition": "(Tw) Anti-infiltration Act (2020), which regulates the influence of entities deemed foreign hostile forces"
+  },
+  "反演": {
+    "pinyin": "fan3 yan3",
+    "definition": "inversion (geometry)"
+  },
+  "反潛": {
+    "pinyin": "fan3 qian2",
+    "definition": "anti-submarine; antisubmarine"
+  },
+  "反烏托邦": {
+    "pinyin": "fan3 wu1 tuo1 bang1",
+    "definition": "dystopia"
+  },
+  "反照": {
+    "pinyin": "fan3 zhao4",
+    "definition": "reflection"
+  },
+  "反照率": {
+    "pinyin": "fan3 zhao4 lu:4",
+    "definition": "reflectivity; albedo"
+  },
+  "反物質": {
+    "pinyin": "fan3 wu4 zhi4",
+    "definition": "antimatter"
+  },
+  "反特": {
+    "pinyin": "fan3 te4",
+    "definition": "to thwart enemy espionage; to engage in counterespionage"
+  },
+  "反猶太主義": {
+    "pinyin": "fan3 You2 tai4 zhu3 yi4",
+    "definition": "antisemitism"
+  },
+  "反璞歸真": {
+    "pinyin": "fan3 pu2 gui1 zhen1",
+    "definition": "variant of 返璞歸真|返璞归真[fan3 pu2 gui1 zhen1]"
+  },
+  "反生物戰": {
+    "pinyin": "fan3 sheng1 wu4 zhan4",
+    "definition": "biological (warfare) defense"
+  },
+  "反用換流器": {
+    "pinyin": "fan3 yong4 huan4 liu2 qi4",
+    "definition": "inverter, device that converts AC electricity to DC and vice versa"
+  },
+  "反白": {
+    "pinyin": "fan3 bai2",
+    "definition": "reverse type (white on black); reversed-out (graphics); highlighting (of selected text on a computer screen)"
+  },
+  "反目": {
+    "pinyin": "fan3 mu4",
+    "definition": "to quarrel; to fall out with sb"
+  },
+  "反目成仇": {
+    "pinyin": "fan3 mu4 cheng2 chou2",
+    "definition": "(idiom) to fall out with sb; to become enemies"
+  },
+  "反相": {
+    "pinyin": "fan3 xiang4",
+    "definition": "(a person's) rebellious appearance; signs of an impending rebellion; (physics) reversed phase"
+  },
+  "反相器": {
+    "pinyin": "fan3 xiang4 qi4",
+    "definition": "(electronics) inverter; NOT gate"
+  },
+  "反省": {
+    "pinyin": "fan3 xing3",
+    "definition": "to reflect upon oneself; to examine one's conscience; to question oneself; to search one's soul"
+  },
+  "反知識": {
+    "pinyin": "fan3 zhi1 shi5",
+    "definition": "anti-intellectual"
+  },
+  "反社會": {
+    "pinyin": "fan3 she4 hui4",
+    "definition": "antisocial (behavior)"
+  },
+  "反社會行為": {
+    "pinyin": "fan3 she4 hui4 xing2 wei2",
+    "definition": "antisocial behavior"
+  },
+  "反科學": {
+    "pinyin": "fan3 ke1 xue2",
+    "definition": "anti-science; anti-scientific"
+  },
+  "反空降": {
+    "pinyin": "fan3 kong1 jiang4",
+    "definition": "anti-aircraft defense"
+  },
+  "反粒子": {
+    "pinyin": "fan3 li4 zi3",
+    "definition": "antiparticle (physics)"
+  },
+  "反美": {
+    "pinyin": "fan3 Mei3",
+    "definition": "anti-American"
+  },
+  "反美是工作赴美是生活": {
+    "pinyin": "fan3 Mei3 shi4 gong1 zuo4 fu4 Mei3 shi4 sheng1 huo2",
+    "definition": "being anti-American is the job, but life is in America (jocular comment made about public figures who are brazenly xenophobic but whose family live abroad)"
+  },
+  "反義": {
+    "pinyin": "fan3 yi4",
+    "definition": "antonymous; (genetic) antisense"
+  },
+  "反義字": {
+    "pinyin": "fan3 yi4 zi4",
+    "definition": "character with opposite meaning; antonym; opposite characters"
+  },
+  "反義詞": {
+    "pinyin": "fan3 yi4 ci2",
+    "definition": "antonym"
+  },
+  "反習": {
+    "pinyin": "fan3 Xi2",
+    "definition": "anti-Xi (Jinping)"
+  },
+  "反而": {
+    "pinyin": "fan3 er2",
+    "definition": "on the contrary; instead"
+  },
+  "反聖嬰": {
+    "pinyin": "Fan3 sheng4 ying1",
+    "definition": "La Niña (counterpart of El Niño in meteorology)"
+  },
+  "反胃": {
+    "pinyin": "fan3 wei4",
+    "definition": "retching; vomiting"
+  },
+  "反腐": {
+    "pinyin": "fan3 fu3",
+    "definition": "anti-corruption"
+  },
+  "反腐倡廉": {
+    "pinyin": "fan3 fu3 chang4 lian2",
+    "definition": "to fight corruption and advocate probity"
+  },
+  "反腐敗": {
+    "pinyin": "fan3 fu3 bai4",
+    "definition": "to oppose corruption; anti-graft (measures, policy etc)"
+  },
+  "反臉無情": {
+    "pinyin": "fan3 lian3 wu2 qing2",
+    "definition": "to turn one's face against sb and show no mercy (idiom); to turn against a friend"
+  },
+  "反興奮劑": {
+    "pinyin": "fan3 xing1 fen4 ji4",
+    "definition": "(sports) anti-doping"
+  },
+  "反艦導彈": {
+    "pinyin": "fan3 jian4 dao3 dan4",
+    "definition": "anti-ship missile"
+  },
+  "反艦艇": {
+    "pinyin": "fan3 jian4 ting3",
+    "definition": "anti-ship"
+  },
+  "反芻": {
+    "pinyin": "fan3 chu2",
+    "definition": "to ruminate; to chew the cud"
+  },
+  "反芻動物": {
+    "pinyin": "fan3 chu2 dong4 wu4",
+    "definition": "ruminant"
+  },
+  "反英": {
+    "pinyin": "fan3 Ying1",
+    "definition": "anti-English"
+  },
+  "反英雄": {
+    "pinyin": "fan3 ying1 xiong2",
+    "definition": "antihero"
+  },
+  "反華": {
+    "pinyin": "fan3 Hua2",
+    "definition": "anti-Chinese"
+  },
+  "反衝": {
+    "pinyin": "fan3 chong1",
+    "definition": "recoil (of a gun); to bounce back; backlash"
+  },
+  "反衝力": {
+    "pinyin": "fan3 chong1 li4",
+    "definition": "backlash; recoil; reactive force"
+  },
+  "反袁": {
+    "pinyin": "fan3 - Yuan2",
+    "definition": "opposing Yuan Shikai 袁世凱|袁世凯[Yuan2 Shi4kai3] in National Protection War 護國戰爭|护国战争[Hu4guo2 Zhan4zheng1] 1915-1916"
+  },
+  "反袁運動": {
+    "pinyin": "fan3 Yuan2 yun4 dong4",
+    "definition": "anti-Yuan movement, opposing Yuan Shikai 袁世凱|袁世凯[Yuan2 Shi4 kai3] in National Protection War 護國戰爭|护国战争[Hu4 guo2 Zhan4 zheng1] 1915-1916; same as 反袁鬥爭|反袁斗争[fan3 Yuan2 dou4 zheng1]"
+  },
+  "反袁鬥爭": {
+    "pinyin": "fan3 Yuan2 dou4 zheng1",
+    "definition": "war of 1915 against Yuan Shikai and for the Republic"
+  },
+  "反裘負芻": {
+    "pinyin": "fan3 qiu2 fu4 chu2",
+    "definition": "lit. to wear one's coat inside out and carry firewood on one's back (idiom); fig. to live a life of poverty and hard work; fig. to act stupidly"
+  },
+  "反覆": {
+    "pinyin": "fan3 fu4",
+    "definition": "repeatedly; over and over; to upend; unstable; to come and go; (of an illness) to return"
+  },
+  "反覆無常": {
+    "pinyin": "fan3 fu4 wu2 chang2",
+    "definition": "unstable; erratic; changeable; fickle"
+  },
+  "反觀": {
+    "pinyin": "fan3 guan1",
+    "definition": "by contrast; but as for this...; viewed from another angle; subjectively; introspection"
+  },
+  "反角": {
+    "pinyin": "fan3 jue2",
+    "definition": "bad guy (in a story); villain"
+  },
+  "反訴": {
+    "pinyin": "fan3 su4",
+    "definition": "counterclaim; countercharge (law)"
+  },
+  "反訴狀": {
+    "pinyin": "fan3 su4 zhuang4",
+    "definition": "counterclaim"
+  },
+  "反詩": {
+    "pinyin": "fan3 shi1",
+    "definition": "verse criticizing officials; satirical verse"
+  },
+  "反詰": {
+    "pinyin": "fan3 jie2",
+    "definition": "to ask (a question) in reply; to answer a question with a question; rhetorical question"
+  },
+  "反詰問": {
+    "pinyin": "fan3 jie2 wen4",
+    "definition": "to cross-examine"
+  },
+  "反話": {
+    "pinyin": "fan3 hua4",
+    "definition": "irony; ironic remark"
+  },
+  "反語": {
+    "pinyin": "fan3 yu3",
+    "definition": "irony"
+  },
+  "反誣": {
+    "pinyin": "fan3 wu1",
+    "definition": "to make a false countercharge"
+  },
+  "反諷": {
+    "pinyin": "fan3 feng3",
+    "definition": "irony; to satirize"
+  },
+  "反證": {
+    "pinyin": "fan3 zheng4",
+    "definition": "disproof; rebuttal; reductio ad absurdum"
+  },
+  "反證法": {
+    "pinyin": "fan3 zheng4 fa3",
+    "definition": "reductio ad absurdum"
+  },
+  "反貪": {
+    "pinyin": "fan3 tan1",
+    "definition": "anti-corruption (policy)"
+  },
+  "反貪污": {
+    "pinyin": "fan3 tan1 wu1",
+    "definition": "anticorruption"
+  },
+  "反貪腐": {
+    "pinyin": "fan3 tan1 fu3",
+    "definition": "anti-corruption"
+  },
+  "反赤道流": {
+    "pinyin": "fan3 chi4 dao4 liu2",
+    "definition": "equatorial counter current"
+  },
+  "反走私": {
+    "pinyin": "fan3 zou3 si1",
+    "definition": "to oppose smuggling; anti-contraband (measures, policy etc)"
+  },
+  "反超": {
+    "pinyin": "fan3 chao1",
+    "definition": "to reverse (the score); to pull off a comeback; to take the lead"
+  },
+  "反身": {
+    "pinyin": "fan3 shen1",
+    "definition": "to turn around"
+  },
+  "反身代詞": {
+    "pinyin": "fan3 shen1 dai4 ci2",
+    "definition": "reflexive pronoun"
+  },
+  "反躬自問": {
+    "pinyin": "fan3 gong1 zi4 wen4",
+    "definition": "introspection; to ask oneself"
+  },
+  "反轉": {
+    "pinyin": "fan3 zhuan3",
+    "definition": "reversal; inversion; to reverse; to invert (upside down, inside out, back to front, white to black etc)"
+  },
+  "反轉錄": {
+    "pinyin": "fan3 zhuan3 lu4",
+    "definition": "(molecular biology) reverse transcription"
+  },
+  "反轉錄病毒": {
+    "pinyin": "fan3 zhuan3 lu4 bing4 du2",
+    "definition": "retrovirus"
+  },
+  "反過來": {
+    "pinyin": "fan3 guo5 lai2",
+    "definition": "conversely; in reverse order; in an opposite direction"
+  },
+  "反過來說": {
+    "pinyin": "fan3 guo4 lai2 shuo1",
+    "definition": "on the other hand"
+  },
+  "反酷刑折磨公約": {
+    "pinyin": "fan3 ku4 xing2 zhe2 mo2 gong1 yue1",
+    "definition": "UN convention against torture and cruel treatment (ratified by PRC in 1988)"
+  },
+  "反酸": {
+    "pinyin": "fan3 suan1",
+    "definition": "acid reflux; regurgitation"
+  },
+  "反鋸齒": {
+    "pinyin": "fan3 ju4 chi3",
+    "definition": "anti-aliasing"
+  },
+  "反錄病毒": {
+    "pinyin": "fan3 lu4 bing4 du2",
+    "definition": "reverse transcription virus; retrovirus"
+  },
+  "反鎖": {
+    "pinyin": "fan3 suo3",
+    "definition": "locked in (with the door locked from the outside)"
+  },
+  "反鏟": {
+    "pinyin": "fan3 chan3",
+    "definition": "backhoe"
+  },
+  "反間": {
+    "pinyin": "fan3 jian4",
+    "definition": "to feed the enemy misinformation through their own spies; to sow discord in the enemy camp"
+  },
+  "反間計": {
+    "pinyin": "fan3 jian4 ji4",
+    "definition": "stratagem of sowing dissension; CL:條|条[tiao2]"
+  },
+  "反間諜": {
+    "pinyin": "fan3 jian4 die2",
+    "definition": "counterintelligence; protection against espionage"
+  },
+  "反電子": {
+    "pinyin": "fan3 dian4 zi3",
+    "definition": "positron; also called 正電子|正电子[zheng4 dian4 zi3]"
+  },
+  "反面": {
+    "pinyin": "fan3 mian4",
+    "definition": "reverse side; backside; the other side (of a problem etc); negative; bad"
+  },
+  "反面人物": {
+    "pinyin": "fan3 mian4 ren2 wu4",
+    "definition": "negative character; bad guy (in a story)"
+  },
+  "反面兒": {
+    "pinyin": "fan3 mian4 r5",
+    "definition": "erhua variant of 反面[fan3 mian4]"
+  },
+  "反面教員": {
+    "pinyin": "fan3 mian4 jiao4 yuan2",
+    "definition": "(PRC) teacher by negative example; sb from whom one can learn what not to do"
+  },
+  "反面教材": {
+    "pinyin": "fan3 mian4 jiao4 cai2",
+    "definition": "negative example; sth that teaches one what not to do"
+  },
+  "反革命": {
+    "pinyin": "fan3 ge2 ming4",
+    "definition": "counterrevolutionary"
+  },
+  "反革命宣傳煽動罪": {
+    "pinyin": "fan3 ge2 ming4 xuan1 chuan2 shan1 dong4 zui4",
+    "definition": "the crime of instigating counterrevolutionary propaganda"
+  },
+  "反響": {
+    "pinyin": "fan3 xiang3",
+    "definition": "repercussions; reaction; echo"
+  },
+  "反顧": {
+    "pinyin": "fan3 gu4",
+    "definition": "to glance back; (fig.) to regret; to have second thoughts about sth"
+  },
+  "反饋": {
+    "pinyin": "fan3 kui4",
+    "definition": "to send back information; feedback"
+  },
+  "反駁": {
+    "pinyin": "fan3 bo2",
+    "definition": "to retort; to refute"
+  },
+  "反骨": {
+    "pinyin": "fan3 gu3",
+    "definition": "(physiognomy) protruding bone at the back of the head, regarded as a sign of a renegade nature"
+  },
+  "反高潮": {
+    "pinyin": "fan3 gao1 chao2",
+    "definition": "anticlimax"
+  },
+  "反黨": {
+    "pinyin": "fan3 dang3",
+    "definition": "anti-party"
+  }
+}

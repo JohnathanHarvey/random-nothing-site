@@ -1,0 +1,34 @@
+{
+  "柵": {
+    "pinyin": "zha4",
+    "definition": "fence; also pr. [shan1]"
+  },
+  "柵子": {
+    "pinyin": "zha4 zi5",
+    "definition": "bamboo fence"
+  },
+  "柵格": {
+    "pinyin": "shan1 ge2",
+    "definition": "grid; lattice; raster"
+  },
+  "柵條": {
+    "pinyin": "zha4 tiao2",
+    "definition": "paling; fence rail"
+  },
+  "柵極": {
+    "pinyin": "shan1 ji2",
+    "definition": "grid (in vacuum tubes); gate (terminal of a field-effect transistor)"
+  },
+  "柵欄": {
+    "pinyin": "zha4 lan2",
+    "definition": "fence"
+  },
+  "柵籬": {
+    "pinyin": "zha4 li2",
+    "definition": "hedge; fence"
+  },
+  "柵門": {
+    "pinyin": "zha4 men2",
+    "definition": "gate; door with grating; turnstile; logical gate (electronics)"
+  }
+}

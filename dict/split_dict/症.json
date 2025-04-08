@@ -1,0 +1,30 @@
+{
+  "症": {
+    "pinyin": "zheng4",
+    "definition": "disease; illness"
+  },
+  "症侯群": {
+    "pinyin": "zheng4 hou2 qun2",
+    "definition": "erroneous variant of 症候群, syndrome"
+  },
+  "症候": {
+    "pinyin": "zheng4 hou4",
+    "definition": "illness; disease"
+  },
+  "症候群": {
+    "pinyin": "zheng4 hou4 qun2",
+    "definition": "syndrome"
+  },
+  "症狀": {
+    "pinyin": "zheng4 zhuang4",
+    "definition": "symptom (of an illness)"
+  },
+  "症狀性": {
+    "pinyin": "zheng4 zhuang4 xing4",
+    "definition": "symptomatic"
+  },
+  "症象": {
+    "pinyin": "zheng4 xiang4",
+    "definition": "symptom"
+  }
+}

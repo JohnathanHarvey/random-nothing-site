@@ -1,0 +1,414 @@
+{
+  "報": {
+    "pinyin": "bao4",
+    "definition": "to report; to inform; to announce; to respond; to reply; to sign up for; to register for (abbr. for 報名|报名[bao4ming2]); to reward; to recompense; to take revenge; to retaliate; newspaper; periodical; journal; bulletin; telegram"
+  },
+  "報上": {
+    "pinyin": "bao4 shang4",
+    "definition": "in the newspaper"
+  },
+  "報亭": {
+    "pinyin": "bao4 ting2",
+    "definition": "kiosk; newsstand"
+  },
+  "報人": {
+    "pinyin": "bao4 ren2",
+    "definition": "newsman; journalist (archaic)"
+  },
+  "報仇": {
+    "pinyin": "bao4 chou2",
+    "definition": "to take revenge; to avenge"
+  },
+  "報仇雪恥": {
+    "pinyin": "bao4 chou2 xue3 chi3",
+    "definition": "to take revenge and erase humiliation (idiom)"
+  },
+  "報仇雪恨": {
+    "pinyin": "bao4 chou2 xue3 hen4",
+    "definition": "to take revenge and wipe out a grudge (idiom)"
+  },
+  "報以": {
+    "pinyin": "bao4 yi3",
+    "definition": "to give in return"
+  },
+  "報信": {
+    "pinyin": "bao4 xin4",
+    "definition": "to notify; to inform"
+  },
+  "報備": {
+    "pinyin": "bao4 bei4",
+    "definition": "to report a proposed activity to an authority (to obtain approval or register one's intentions)"
+  },
+  "報價": {
+    "pinyin": "bao4 jia4",
+    "definition": "to quote a price; quoted price; quote"
+  },
+  "報價單": {
+    "pinyin": "bao4 jia4 dan1",
+    "definition": "quotation; price list; written estimate of price"
+  },
+  "報償": {
+    "pinyin": "bao4 chang2",
+    "definition": "to repay; to recompense"
+  },
+  "報分": {
+    "pinyin": "bao4 fen1",
+    "definition": "call the score"
+  },
+  "報刊": {
+    "pinyin": "bao4 kan1",
+    "definition": "newspapers and periodicals; the press"
+  },
+  "報刊攤": {
+    "pinyin": "bao4 kan1 tan1",
+    "definition": "newsstand"
+  },
+  "報到": {
+    "pinyin": "bao4 dao4",
+    "definition": "to report for duty; to check in; to register"
+  },
+  "報功": {
+    "pinyin": "bao4 gong1",
+    "definition": "to report a heroic deed; to mention sb in dispatches"
+  },
+  "報務員": {
+    "pinyin": "bao4 wu4 yuan2",
+    "definition": "telegraph operator; radio operator"
+  },
+  "報名": {
+    "pinyin": "bao4 ming2",
+    "definition": "to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
+  },
+  "報名表": {
+    "pinyin": "bao4 ming2 biao3",
+    "definition": "application form; registration form; CL:張|张[zhang1]"
+  },
+  "報名費": {
+    "pinyin": "bao4 ming2 fei4",
+    "definition": "registration fee"
+  },
+  "報告": {
+    "pinyin": "bao4 gao4",
+    "definition": "to inform; to report; to make known; report; speech; talk; lecture; CL:篇[pian1],份[fen4],個|个[ge4],通[tong4]"
+  },
+  "報告員": {
+    "pinyin": "bao4 gao4 yuan2",
+    "definition": "spokesperson; announcer"
+  },
+  "報告文學": {
+    "pinyin": "bao4 gao4 wen2 xue2",
+    "definition": "reportage"
+  },
+  "報告書": {
+    "pinyin": "bao4 gao4 shu1",
+    "definition": "written report"
+  },
+  "報告會": {
+    "pinyin": "bao4 gao4 hui4",
+    "definition": "public lecture (with guest speakers etc)"
+  },
+  "報喜": {
+    "pinyin": "bao4 xi3",
+    "definition": "to announce good news; to report success"
+  },
+  "報喜不報憂": {
+    "pinyin": "bao4 xi3 bu4 bao4 you1",
+    "definition": "to report only the good news, not the bad news; to hold back unpleasant news; to sweep bad news under the carpet"
+  },
+  "報喪": {
+    "pinyin": "bao4 sang1",
+    "definition": "to announce sb's demise"
+  },
+  "報單": {
+    "pinyin": "bao4 dan1",
+    "definition": "a tax declaration form; a tax return"
+  },
+  "報國": {
+    "pinyin": "bao4 guo2",
+    "definition": "to dedicate oneself to the service of one's country"
+  },
+  "報失": {
+    "pinyin": "bao4 shi1",
+    "definition": "report the loss to the authorities concerned"
+  },
+  "報子": {
+    "pinyin": "bao4 zi5",
+    "definition": "bearer of good news (esp. announcing success in imperial examinations)"
+  },
+  "報官": {
+    "pinyin": "bao4 guan1",
+    "definition": "(old) to report sth to the authorities"
+  },
+  "報審": {
+    "pinyin": "bao4 shen3",
+    "definition": "to report for judgment; to submit for approval"
+  },
+  "報導": {
+    "pinyin": "bao4 dao3",
+    "definition": "to report (in the media); (news) report"
+  },
+  "報帖": {
+    "pinyin": "bao4 tie3",
+    "definition": "to announce good news in red letters"
+  },
+  "報帳": {
+    "pinyin": "bao4 zhang4",
+    "definition": "to render an account; to submit an expense account; to apply for reimbursement"
+  },
+  "報幕": {
+    "pinyin": "bao4 mu4",
+    "definition": "announce the items on a (theatrical) program"
+  },
+  "報廢": {
+    "pinyin": "bao4 fei4",
+    "definition": "to scrap; to dispose of (sth worn-out or damaged)"
+  },
+  "報復": {
+    "pinyin": "bao4 fu4",
+    "definition": "to make reprisals; to retaliate; revenge; retaliation"
+  },
+  "報復心": {
+    "pinyin": "bao4 fu4 xin1",
+    "definition": "vindictiveness"
+  },
+  "報復性": {
+    "pinyin": "bao4 fu4 xing4",
+    "definition": "retaliatory"
+  },
+  "報德": {
+    "pinyin": "bao4 de2",
+    "definition": "to repay debts of gratitude; to repay kindness"
+  },
+  "報怨": {
+    "pinyin": "bao4 yuan4",
+    "definition": "to pay back a score; to get revenge; to requite; (old) variant of 抱怨[bao4 yuan4]"
+  },
+  "報恩": {
+    "pinyin": "bao4 en1",
+    "definition": "to pay a debt of gratitude; to repay a kindness"
+  },
+  "報憂": {
+    "pinyin": "bao4 you1",
+    "definition": "to report bad news; to announce failure, shortcoming or disaster"
+  },
+  "報應": {
+    "pinyin": "bao4 ying4",
+    "definition": "(Buddhism) divine retribution; karma"
+  },
+  "報應不爽": {
+    "pinyin": "bao4 ying4 bu4 shuang3",
+    "definition": "divine retribution is unfailing (idiom); one is inevitably punished for one's misdeeds"
+  },
+  "報戶口": {
+    "pinyin": "bao4 hu4 kou3",
+    "definition": "to apply for residence; to register a birth"
+  },
+  "報批": {
+    "pinyin": "bao4 pi1",
+    "definition": "to report for criticism; to submit for approval to higher authority"
+  },
+  "報捷": {
+    "pinyin": "bao4 jie2",
+    "definition": "report a success; announce a victory"
+  },
+  "報摘": {
+    "pinyin": "bao4 zhai1",
+    "definition": "news digest"
+  },
+  "報攤": {
+    "pinyin": "bao4 tan1",
+    "definition": "newsstand"
+  },
+  "報收": {
+    "pinyin": "bao4 shou1",
+    "definition": "(of a stock on the stock market) to close at (a certain price)"
+  },
+  "報效": {
+    "pinyin": "bao4 xiao4",
+    "definition": "render service to repay kindness"
+  },
+  "報數": {
+    "pinyin": "bao4 shu4",
+    "definition": "number off! (command in military drill); count off!"
+  },
+  "報料": {
+    "pinyin": "bao4 liao4",
+    "definition": "to provide information to a news organization; to tip off; information provided to a news organization; a tip-off"
+  },
+  "報料人": {
+    "pinyin": "bao4 liao4 ren2",
+    "definition": "informant; news source"
+  },
+  "報春花": {
+    "pinyin": "bao4 chun1 hua1",
+    "definition": "primrose (Primula malacoides)"
+  },
+  "報時": {
+    "pinyin": "bao4 shi2",
+    "definition": "to give the correct time"
+  },
+  "報曉": {
+    "pinyin": "bao4 xiao3",
+    "definition": "to herald the break of day"
+  },
+  "報本反始": {
+    "pinyin": "bao4 ben3 fan3 shi3",
+    "definition": "ensure that you pay debts of gratitude (idiom)"
+  },
+  "報案": {
+    "pinyin": "bao4 an4",
+    "definition": "to report a case to the authorities"
+  },
+  "報條": {
+    "pinyin": "bao4 tiao2",
+    "definition": "report of success from a candidate to the imperial examination (old); list of deaths"
+  },
+  "報業": {
+    "pinyin": "bao4 ye4",
+    "definition": "newspaper industry"
+  },
+  "報檢": {
+    "pinyin": "bao4 jian3",
+    "definition": "to submit goods for inspection, quarantine or certification; to register oneself to be examined (as part of a certification process)"
+  },
+  "報毒": {
+    "pinyin": "bao4 du2",
+    "definition": "(of antivirus software) to report a virus"
+  },
+  "報班": {
+    "pinyin": "bao4 ban1",
+    "definition": "to sign up for a class"
+  },
+  "報界": {
+    "pinyin": "bao4 jie4",
+    "definition": "the press; journalistic circles; the journalists"
+  },
+  "報盤": {
+    "pinyin": "bao4 pan2",
+    "definition": "offer; to make an offer (commerce)"
+  },
+  "報社": {
+    "pinyin": "bao4 she4",
+    "definition": "newspaper (i.e. a company); CL:家[jia1]"
+  },
+  "報禁": {
+    "pinyin": "bao4 jin4",
+    "definition": "restrictions on the publication of newspapers; press restrictions"
+  },
+  "報稅": {
+    "pinyin": "bao4 shui4",
+    "definition": "to file an income tax return; to declare dutiable goods (at customs)"
+  },
+  "報稅單": {
+    "pinyin": "bao4 shui4 dan1",
+    "definition": "to declare to customs or to the taxman"
+  },
+  "報稅表": {
+    "pinyin": "bao4 shui4 biao3",
+    "definition": "a tax return; a tax declaration form"
+  },
+  "報窩": {
+    "pinyin": "bao4 wo1",
+    "definition": "to brood; to hatch"
+  },
+  "報章": {
+    "pinyin": "bao4 zhang1",
+    "definition": "newspapers"
+  },
+  "報童": {
+    "pinyin": "bao4 tong2",
+    "definition": "paperboy"
+  },
+  "報端": {
+    "pinyin": "bao4 duan1",
+    "definition": "in the newspaper(s)"
+  },
+  "報答": {
+    "pinyin": "bao4 da2",
+    "definition": "to repay; to requite"
+  },
+  "報系": {
+    "pinyin": "bao4 xi4",
+    "definition": "newspaper chain; syndicate"
+  },
+  "報紙": {
+    "pinyin": "bao4 zhi3",
+    "definition": "newspaper; newsprint; CL:份[fen4],期[qi1],張|张[zhang1]"
+  },
+  "報紙報導": {
+    "pinyin": "bao4 zhi3 bao4 dao3",
+    "definition": "newspaper report"
+  },
+  "報考": {
+    "pinyin": "bao4 kao3",
+    "definition": "to enter oneself for an examination"
+  },
+  "報表": {
+    "pinyin": "bao4 biao3",
+    "definition": "forms for reporting statistics; report forms"
+  },
+  "報話機": {
+    "pinyin": "bao4 hua4 ji1",
+    "definition": "walkie-talkie; portable radio transmitter"
+  },
+  "報請": {
+    "pinyin": "bao4 qing3",
+    "definition": "to report, requesting approval; written request for instructions"
+  },
+  "報警": {
+    "pinyin": "bao4 jing3",
+    "definition": "to sound an alarm; to report sth to the police"
+  },
+  "報警器": {
+    "pinyin": "bao4 jing3 qi4",
+    "definition": "alarm (e.g. burglar or fire alarm); warning device"
+  },
+  "報賬": {
+    "pinyin": "bao4 zhang4",
+    "definition": "to report expenses; to submit accounts"
+  },
+  "報載": {
+    "pinyin": "bao4 zai3",
+    "definition": "newspaper report"
+  },
+  "報道": {
+    "pinyin": "bao4 dao4",
+    "definition": "to report (news); report; CL:篇[pian1],份[fen4]"
+  },
+  "報道攝影師": {
+    "pinyin": "bao4 dao4 she4 ying3 shi1",
+    "definition": "photojournalist"
+  },
+  "報酬": {
+    "pinyin": "bao4 chou5",
+    "definition": "reward; remuneration"
+  },
+  "報銷": {
+    "pinyin": "bao4 xiao1",
+    "definition": "to submit an expense account; to apply for reimbursement; to write off; to wipe out"
+  },
+  "報錄": {
+    "pinyin": "bao4 lu4",
+    "definition": "entry pass for imperial examination"
+  },
+  "報錄人": {
+    "pinyin": "bao4 lu4 ren2",
+    "definition": "bearer of good news (esp. announcing success in imperial examinations)"
+  },
+  "報錯": {
+    "pinyin": "bao4 cuo4",
+    "definition": "to report an error; to give wrong information"
+  },
+  "報關": {
+    "pinyin": "bao4 guan1",
+    "definition": "to declare at customs"
+  },
+  "報頭": {
+    "pinyin": "bao4 tou2",
+    "definition": "masthead (of a newspaper etc); nameplate"
+  },
+  "報館": {
+    "pinyin": "bao4 guan3",
+    "definition": "newspaper office"
+  }
+}

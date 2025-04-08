@@ -1,0 +1,294 @@
+{
+  "殺": {
+    "pinyin": "sha1",
+    "definition": "to kill; to slay; to murder; to attack; to weaken; to reduce; (dialect) to smart; (used after a verb) extremely"
+  },
+  "殺一儆百": {
+    "pinyin": "sha1 yi1 jing3 bai3",
+    "definition": "lit. kill one to warn a hundred (idiom); to punish an individual as an example to others; pour encourager les autres"
+  },
+  "殺一警百": {
+    "pinyin": "sha1 yi1 jing3 bai3",
+    "definition": "variant of 殺一儆百|杀一儆百[sha1 yi1 jing3 bai3]"
+  },
+  "殺人": {
+    "pinyin": "sha1 ren2",
+    "definition": "homicide; to murder; to kill (a person)"
+  },
+  "殺人不眨眼": {
+    "pinyin": "sha1 ren2 bu4 zha3 yan3",
+    "definition": "to murder without blinking an eye (idiom); ruthless; cold-blooded"
+  },
+  "殺人不過頭點地": {
+    "pinyin": "sha1 ren2 bu4 guo4 tou2 dian3 di4",
+    "definition": "It's all exaggeration, you don't need to take it seriously; a fuss about nothing; nothing to write home about"
+  },
+  "殺人如草": {
+    "pinyin": "sha1 ren2 - ru2 cao3",
+    "definition": "see 殺人如麻|杀人如麻[sha1ren2-ru2ma2]"
+  },
+  "殺人如麻": {
+    "pinyin": "sha1 ren2 - ru2 ma2",
+    "definition": "lit. to kill people like scything flax (idiom); fig. to kill people like flies"
+  },
+  "殺人放火": {
+    "pinyin": "sha1 ren2 fang4 huo3",
+    "definition": "to kill and burn (idiom); murder and arson"
+  },
+  "殺人未遂": {
+    "pinyin": "sha1 ren2 wei4 sui4",
+    "definition": "attempted murder"
+  },
+  "殺人案": {
+    "pinyin": "sha1 ren2 an4",
+    "definition": "murder case; homicide case"
+  },
+  "殺人案件": {
+    "pinyin": "sha1 ren2 an4 jian4",
+    "definition": "(case of, incident of) murder"
+  },
+  "殺人滅口": {
+    "pinyin": "sha1 ren2 - mie4 kou3",
+    "definition": "(idiom) to kill sb to prevent them from revealing sth"
+  },
+  "殺人犯": {
+    "pinyin": "sha1 ren2 fan4",
+    "definition": "murderer; homicide"
+  },
+  "殺人狂": {
+    "pinyin": "sha1 ren2 kuang2",
+    "definition": "homicidal maniac"
+  },
+  "殺人越貨": {
+    "pinyin": "sha1 ren2 yue4 huo4",
+    "definition": "to kill sb for his property (idiom); to murder for money"
+  },
+  "殺人鯨": {
+    "pinyin": "sha1 ren2 jing1",
+    "definition": "orca; killer whale (Orcinus orca)"
+  },
+  "殺傷": {
+    "pinyin": "sha1 shang1",
+    "definition": "to kill or injure"
+  },
+  "殺傷力": {
+    "pinyin": "sha1 shang1 li4",
+    "definition": "destructive power; harmfulness"
+  },
+  "殺價": {
+    "pinyin": "sha1 jia4",
+    "definition": "to beat down the price; to haggle; to slash one's prices"
+  },
+  "殺出重圍": {
+    "pinyin": "sha1 chu1 chong2 wei2",
+    "definition": "to force one's way out of encirclement; to break through"
+  },
+  "殺君馬者道旁兒": {
+    "pinyin": "sha1 jun1 ma3 zhe3 dao4 pang2 er2",
+    "definition": "lit. bystanders killed the king's horse (idiom) (based on an ancient story in which people along the road cheered a horseman on as he galloped past, until the horse died of exhaustion); fig. beware of becoming complacent when everyone is cheering you on"
+  },
+  "殺器": {
+    "pinyin": "sha1 qi4",
+    "definition": "deadly weapon"
+  },
+  "殺嬰": {
+    "pinyin": "sha1 ying1",
+    "definition": "infanticide"
+  },
+  "殺害": {
+    "pinyin": "sha1 hai4",
+    "definition": "to murder"
+  },
+  "殺富濟貧": {
+    "pinyin": "sha1 fu4 ji4 pin2",
+    "definition": "robbing the rich to help the poor"
+  },
+  "殺彘教子": {
+    "pinyin": "sha1 zhi4 jiao4 zi3",
+    "definition": "to kill a pig as a lesson to the children (idiom); parents must teach by example"
+  },
+  "殺戮": {
+    "pinyin": "sha1 lu4",
+    "definition": "to massacre; to slaughter"
+  },
+  "殺手": {
+    "pinyin": "sha1 shou3",
+    "definition": "killer; murderer; hit man; (sports) formidable player"
+  },
+  "殺手級應用": {
+    "pinyin": "sha1 shou3 ji2 ying4 yong4",
+    "definition": "killer application; killer app"
+  },
+  "殺手鐧": {
+    "pinyin": "sha1 shou3 jian3",
+    "definition": "(fig.) trump card"
+  },
+  "殺掉": {
+    "pinyin": "sha1 diao4",
+    "definition": "to kill"
+  },
+  "殺敵": {
+    "pinyin": "sha1 di2",
+    "definition": "to attack the enemy"
+  },
+  "殺機": {
+    "pinyin": "sha1 ji1",
+    "definition": "desire to commit murder; great danger"
+  },
+  "殺死": {
+    "pinyin": "sha1 si3",
+    "definition": "to kill"
+  },
+  "殺毒": {
+    "pinyin": "sha1 du2",
+    "definition": "to disinfect; (computing) to destroy a computer virus"
+  },
+  "殺毒軟件": {
+    "pinyin": "sha1 du2 ruan3 jian4",
+    "definition": "antivirus software"
+  },
+  "殺氣": {
+    "pinyin": "sha1 qi4",
+    "definition": "murderous spirit; aura of death; to vent one's anger"
+  },
+  "殺氣騰騰": {
+    "pinyin": "sha1 qi4 teng2 teng2",
+    "definition": "ferocious; murderous-looking"
+  },
+  "殺滅": {
+    "pinyin": "sha1 mie4",
+    "definition": "to exterminate"
+  },
+  "殺熟": {
+    "pinyin": "sha1 shu2",
+    "definition": "to swindle associates, friends or relatives"
+  },
+  "殺牛宰羊": {
+    "pinyin": "sha1 niu2 zai3 yang2",
+    "definition": "slaughter the cattle and butcher the sheep; to prepare a big feast (idiom)"
+  },
+  "殺球": {
+    "pinyin": "sha1 qiu2",
+    "definition": "to spike the ball (volleyball etc); to smash (tennis etc)"
+  },
+  "殺生": {
+    "pinyin": "sha1 sheng1",
+    "definition": "to take the life of a living creature"
+  },
+  "殺真菌": {
+    "pinyin": "sha1 zhen1 jun1",
+    "definition": "fungicidal; to have a fungicidal effect"
+  },
+  "殺真菌劑": {
+    "pinyin": "sha1 zhen1 jun1 ji4",
+    "definition": "fungicide"
+  },
+  "殺絕": {
+    "pinyin": "sha1 jue2",
+    "definition": "to exterminate"
+  },
+  "殺草快": {
+    "pinyin": "sha1 cao3 kuai4",
+    "definition": "diquat"
+  },
+  "殺菌": {
+    "pinyin": "sha1 jun1",
+    "definition": "to kill germs; to disinfect; to sterilize"
+  },
+  "殺菌劑": {
+    "pinyin": "sha1 jun1 ji4",
+    "definition": "a disinfectant"
+  },
+  "殺螺劑": {
+    "pinyin": "sha1 luo2 ji4",
+    "definition": "snail poison"
+  },
+  "殺蟲": {
+    "pinyin": "sha1 chong2",
+    "definition": "insecticide"
+  },
+  "殺蟲劑": {
+    "pinyin": "sha1 chong2 ji4",
+    "definition": "insecticide; pesticide"
+  },
+  "殺蟲藥": {
+    "pinyin": "sha1 chong2 yao4",
+    "definition": "insecticide"
+  },
+  "殺豬宰羊": {
+    "pinyin": "sha1 zhu1 zai3 yang2",
+    "definition": "to kill the pigs and slaughter the sheep (idiom)"
+  },
+  "殺豬盤": {
+    "pinyin": "sha1 zhu1 pan2",
+    "definition": "pig butchering scam (where the scammer builds trust with the victim over time, \"fattening them up,\" before ultimately \"slaughtering\" them by taking their money); (esp.) romance scam"
+  },
+  "殺身之禍": {
+    "pinyin": "sha1 shen1 zhi1 huo4",
+    "definition": "(idiom) getting killed"
+  },
+  "殺身成仁": {
+    "pinyin": "sha1 shen1 cheng2 ren2",
+    "definition": "(idiom) to die a martyr; to be martyred"
+  },
+  "殺軟": {
+    "pinyin": "sha1 ruan3",
+    "definition": "antivirus software; abbr. for 殺毒軟件|杀毒软件[sha1 du2 ruan3 jian4]"
+  },
+  "殺進": {
+    "pinyin": "sha1 jin4",
+    "definition": "to storm (a city etc); to raid"
+  },
+  "殺進殺出": {
+    "pinyin": "sha1 jin4 sha1 chu1",
+    "definition": "to execute a lightning raid; (investment) to buy, then quickly sell; (tourism) to visit a destination for only a short stay"
+  },
+  "殺雞儆猴": {
+    "pinyin": "sha1 ji1 - jing3 hou2",
+    "definition": "lit. to kill the chicken to warn the monkey (idiom); fig. to punish an individual as an example to others"
+  },
+  "殺雞取卵": {
+    "pinyin": "sha1 ji1 qu3 luan3",
+    "definition": "lit. to kill the chicken to get the eggs (idiom); fig. to kill the goose that lays the golden eggs"
+  },
+  "殺雞嚇猴": {
+    "pinyin": "sha1 ji1 - xia4 hou2",
+    "definition": "see 殺雞儆猴|杀鸡儆猴[sha1ji1-jing3hou2]"
+  },
+  "殺雞宰鵝": {
+    "pinyin": "sha1 ji1 zai3 e2",
+    "definition": "kill the chickens and butcher the geese (idiom)"
+  },
+  "殺雞焉用牛刀": {
+    "pinyin": "sha1 ji1 yan1 yong4 niu2 dao1",
+    "definition": "don't use a sledgehammer on a nut; aquila non capit muscam"
+  },
+  "殺雞給猴看": {
+    "pinyin": "sha1 ji1 gei3 hou2 kan4",
+    "definition": "lit. to kill a chicken in front of a monkey; fig. to make an example of sb (by punishment) to frighten others"
+  },
+  "殺雞駭猴": {
+    "pinyin": "sha1 ji1 - hai4 hou2",
+    "definition": "see 殺雞儆猴|杀鸡儆猴[sha1ji1-jing3hou2]"
+  },
+  "殺青": {
+    "pinyin": "sha1 qing1",
+    "definition": "to put the last hand to (a book, a film etc); to finalize; to kill-green (a step in the processing of tea leaves)"
+  },
+  "殺頭": {
+    "pinyin": "sha1 tou2",
+    "definition": "to behead"
+  },
+  "殺風景": {
+    "pinyin": "sha1 feng1 jing3",
+    "definition": "variant of 煞風景|煞风景[sha1 feng1 jing3]"
+  },
+  "殺馬特": {
+    "pinyin": "sha1 ma3 te4",
+    "definition": "Chinese subculture of young urban migrants, usually of low education, with exaggerated hairstyles, heavy make-up, flamboyant costumes, piercings etc (loanword from \"smart\")"
+  },
+  "殺鼠藥": {
+    "pinyin": "sha1 shu3 yao4",
+    "definition": "rat poison"
+  }
+}

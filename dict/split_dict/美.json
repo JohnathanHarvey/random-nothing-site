@@ -1,0 +1,794 @@
+{
+  "美": {
+    "pinyin": "mei3",
+    "definition": "beautiful; very satisfactory; good; to beautify; to be pleased with oneself"
+  },
+  "美不勝收": {
+    "pinyin": "mei3 bu4 sheng4 shou1",
+    "definition": "nothing more beautiful can be imagined (idiom)"
+  },
+  "美中": {
+    "pinyin": "Mei3 Zhong1",
+    "definition": "USA-China"
+  },
+  "美中不足": {
+    "pinyin": "mei3 zhong1 bu4 zu2",
+    "definition": "everything is fine except for one small defect (idiom); the fly in the ointment"
+  },
+  "美中台": {
+    "pinyin": "Mei3 Zhong1 Tai2",
+    "definition": "US-China-Taiwan"
+  },
+  "美乃滋": {
+    "pinyin": "mei3 nai3 zi1",
+    "definition": "mayonnaise (loanword) (Tw)"
+  },
+  "美事": {
+    "pinyin": "mei3 shi4",
+    "definition": "a fine thing; a wonderful thing"
+  },
+  "美人": {
+    "pinyin": "mei3 ren2",
+    "definition": "beautiful woman; belle"
+  },
+  "美人坯子": {
+    "pinyin": "mei3 ren2 pi1 zi5",
+    "definition": "a beauty in the bud"
+  },
+  "美人尖": {
+    "pinyin": "mei3 ren2 jian1",
+    "definition": "widow's peak (in China, regarded as attractive in women)"
+  },
+  "美人腿": {
+    "pinyin": "mei3 ren2 tui3",
+    "definition": "(Tw) (coll.) edible stem of Manchurian wild rice 菰[gu1], aka water bamboo"
+  },
+  "美人蕉": {
+    "pinyin": "mei3 ren2 jiao1",
+    "definition": "canna or Indian shot (genus Canna)"
+  },
+  "美人計": {
+    "pinyin": "mei3 ren2 ji4",
+    "definition": "honey trap; sexual entrapment; CL:條|条[tiao2]"
+  },
+  "美人魚": {
+    "pinyin": "mei3 ren2 yu2",
+    "definition": "mermaid"
+  },
+  "美他沙酮": {
+    "pinyin": "mei3 ta1 sha1 tong2",
+    "definition": "metaxalone"
+  },
+  "美以美": {
+    "pinyin": "Mei3 yi3 mei3",
+    "definition": "Methodist (Christian sect)"
+  },
+  "美元": {
+    "pinyin": "mei3 yuan2",
+    "definition": "American dollar; US dollar"
+  },
+  "美其名曰": {
+    "pinyin": "mei3 qi2 ming2 yue1",
+    "definition": "to call by the glorified name of (idiom)"
+  },
+  "美刀": {
+    "pinyin": "Mei3 dao1",
+    "definition": "(slang) US dollar; USD"
+  },
+  "美分": {
+    "pinyin": "Mei3 fen1",
+    "definition": "one cent (United States coin)"
+  },
+  "美利堅": {
+    "pinyin": "Mei3 li4 jian1",
+    "definition": "America"
+  },
+  "美利堅合眾國": {
+    "pinyin": "Mei3 li4 jian1 He2 zhong4 guo2",
+    "definition": "United States of America"
+  },
+  "美利堅治世": {
+    "pinyin": "Mei3 li4 jian1 Zhi4 shi4",
+    "definition": "Pax Americana"
+  },
+  "美利奴羊": {
+    "pinyin": "mei3 li4 nu2 yang2",
+    "definition": "merino (breed of sheep)"
+  },
+  "美劇": {
+    "pinyin": "Mei3 ju4",
+    "definition": "American TV series (abbr. for 美國電視劇|美国电视剧[Mei3 guo2 dian4 shi4 ju4])"
+  },
+  "美加": {
+    "pinyin": "Mei3 Jia1",
+    "definition": "US and Canada (abbr.)"
+  },
+  "美勞": {
+    "pinyin": "mei3 lao2",
+    "definition": "(Tw) arts and crafts (as a school subject)"
+  },
+  "美化": {
+    "pinyin": "mei3 hua4",
+    "definition": "to make more beautiful; to decorate; embellishment"
+  },
+  "美名": {
+    "pinyin": "mei3 ming2",
+    "definition": "good name; good reputation"
+  },
+  "美味": {
+    "pinyin": "mei3 wei4",
+    "definition": "delicious; delicious food; delicacy"
+  },
+  "美味可口": {
+    "pinyin": "mei3 wei4 ke3 kou3",
+    "definition": "delicious; tasty"
+  },
+  "美味牛肝菌": {
+    "pinyin": "mei3 wei4 niu2 gan1 jun4",
+    "definition": "porcino (Boletus edulis)"
+  },
+  "美善": {
+    "pinyin": "mei3 shan4",
+    "definition": "beautiful and good"
+  },
+  "美因茨": {
+    "pinyin": "Mei3 yin1 ci2",
+    "definition": "Mainz (city in Germany)"
+  },
+  "美國": {
+    "pinyin": "Mei3 guo2",
+    "definition": "United States; USA; US"
+  },
+  "美國51區": {
+    "pinyin": "Mei3 guo2 Wu3 shi2 yi1 Qu1",
+    "definition": "Area 51, USA"
+  },
+  "美國之音": {
+    "pinyin": "Mei3 guo2 Zhi1 Yin1",
+    "definition": "Voice of America (VOA)"
+  },
+  "美國交會": {
+    "pinyin": "Mei3 guo2 Jiao1 hui4",
+    "definition": "abbr. for 美國證券交易委員會|美国证券交易委员会, US Securities and Exchange Commission (SEC)"
+  },
+  "美國人": {
+    "pinyin": "Mei3 guo2 ren2",
+    "definition": "American; American person; American people; CL:個|个[ge4]"
+  },
+  "美國人民": {
+    "pinyin": "Mei3 guo2 ren2 min2",
+    "definition": "the American people"
+  },
+  "美國佬": {
+    "pinyin": "Mei3 guo2 lao3",
+    "definition": "an American (derog.); a Yankee"
+  },
+  "美國全國廣播公司": {
+    "pinyin": "Mei3 guo2 Quan2 guo2 Guang3 bo1 Gong1 si1",
+    "definition": "National Broadcasting Company (NBC)"
+  },
+  "美國參議院": {
+    "pinyin": "Mei3 guo2 Can1 yi4 yuan4",
+    "definition": "United States Senate"
+  },
+  "美國國務院": {
+    "pinyin": "Mei3 guo2 Guo2 wu4 yuan4",
+    "definition": "US Department of State"
+  },
+  "美國國家偵察局": {
+    "pinyin": "Mei3 guo2 Guo2 jia1 Zhen1 cha2 ju2",
+    "definition": "National Reconnaissance Office (of the United States)"
+  },
+  "美國國家標準學會": {
+    "pinyin": "Mei3 guo2 Guo2 jia1 Biao1 zhun3 Xue2 hui4",
+    "definition": "American National Standards Institute (ANSI)"
+  },
+  "美國國家航空航天局": {
+    "pinyin": "Mei3 guo2 Guo2 jia1 Hang2 kong1 Hang2 tian1 ju2",
+    "definition": "NASA, National Aeronautics and Space Administration, agency of US government"
+  },
+  "美國國徽": {
+    "pinyin": "Mei3 guo2 guo2 hui1",
+    "definition": "the Great Seal of the United States"
+  },
+  "美國國會": {
+    "pinyin": "Mei3 guo2 Guo2 hui4",
+    "definition": "US Congress"
+  },
+  "美國國際集團": {
+    "pinyin": "Mei3 guo2 Guo2 ji4 Ji2 tuan2",
+    "definition": "American International Group"
+  },
+  "美國在線": {
+    "pinyin": "Mei3 guo2 Zai4 xian4",
+    "definition": "America Online (AOL)"
+  },
+  "美國地質局": {
+    "pinyin": "Mei3 guo2 Di4 zhi4 ju2",
+    "definition": "United States Geological Survey (USGS)"
+  },
+  "美國地質調查局": {
+    "pinyin": "Mei3 guo2 Di4 zhi4 Diao4 cha2 ju2",
+    "definition": "United States Geological Survey (USGS)"
+  },
+  "美國太空總署": {
+    "pinyin": "Mei3 guo2 Tai4 kong1 Zong3 shu3",
+    "definition": "NASA (National Aeronautics and Space Administration)"
+  },
+  "美國存託憑證": {
+    "pinyin": "Mei3 guo2 Cun2 tuo1 Ping2 zheng4",
+    "definition": "American depository receipt (ADR)"
+  },
+  "美國宇航局": {
+    "pinyin": "Mei3 guo2 Yu3 hang2 ju2",
+    "definition": "US National Aeronautics and Space Administration; NASA"
+  },
+  "美國廣播公司": {
+    "pinyin": "Mei3 guo2 Guang3 bo1 Gong1 si1",
+    "definition": "ABC (American Broadcasting Corporation)"
+  },
+  "美國最高法院": {
+    "pinyin": "Mei3 guo2 Zui4 gao1 Fa3 yuan4",
+    "definition": "Supreme Court of the United States"
+  },
+  "美國有線新聞網": {
+    "pinyin": "Mei3 guo2 You3 xian4 Xin1 wen2 Wang3",
+    "definition": "Cable Network News (CNN)"
+  },
+  "美國海岸警衛隊": {
+    "pinyin": "Mei3 guo2 Hai3 an4 Jing3 wei4 dui4",
+    "definition": "United States Coast Guard"
+  },
+  "美國獨立戰爭": {
+    "pinyin": "Mei3 guo2 Du2 li4 Zhan4 zheng1",
+    "definition": "American War of Independence (1775-1783)"
+  },
+  "美國眾議院": {
+    "pinyin": "Mei3 guo2 Zhong4 yi4 yuan4",
+    "definition": "United States House of Representatives"
+  },
+  "美國聯合通訊社": {
+    "pinyin": "Mei3 guo2 Lian2 he2 Tong1 xun4 she4",
+    "definition": "Associated Press (AP); abbr. to 美聯社|美联社[Mei3 Lian2 she4]"
+  },
+  "美國聯邦儲備": {
+    "pinyin": "Mei3 guo2 Lian2 bang1 Chu3 bei4",
+    "definition": "US Federal Reserve (Fed), the US central bank"
+  },
+  "美國聯邦航空局": {
+    "pinyin": "Mei3 guo2 Lian2 bang1 Hang2 kong1 ju2",
+    "definition": "Federal Aviation Authority (FAA)"
+  },
+  "美國能源部": {
+    "pinyin": "Mei3 guo2 Neng2 yuan2 bu4",
+    "definition": "US Department of Energy (DOE)"
+  },
+  "美國航空": {
+    "pinyin": "Mei3 guo2 Hang2 kong1",
+    "definition": "American Airlines"
+  },
+  "美國航空公司": {
+    "pinyin": "Mei3 guo2 Hang2 kong1 Gong1 si1",
+    "definition": "American Airlines"
+  },
+  "美國證券交易委員會": {
+    "pinyin": "Mei3 guo2 Zheng4 quan4 Jiao1 yi4 Wei3 yuan2 hui4",
+    "definition": "US Securities and Exchange Commission (SEC)"
+  },
+  "美國資訊交換標準碼": {
+    "pinyin": "Mei3 guo2 zi1 xun4 jiao1 huan4 biao1 zhun3 ma3",
+    "definition": "ASCII, American Standard Code for Information Interchange"
+  },
+  "美國運通": {
+    "pinyin": "Mei3 guo2 Yun4 tong1",
+    "definition": "American Express Co. (Amex)"
+  },
+  "美國電話電報公司": {
+    "pinyin": "Mei3 guo2 Dian4 hua4 Dian4 bao4 Gong1 si1",
+    "definition": "AT&T"
+  },
+  "美圓": {
+    "pinyin": "Mei3 yuan2",
+    "definition": "US dollar"
+  },
+  "美團點評": {
+    "pinyin": "Mei3 tuan2 Dian3 ping2",
+    "definition": "Meituan-Dianping, China's largest service-focused e-commerce platform"
+  },
+  "美夢成真": {
+    "pinyin": "mei3 meng4 cheng2 zhen1",
+    "definition": "a dream come true"
+  },
+  "美女": {
+    "pinyin": "mei3 nu:3",
+    "definition": "beautiful woman"
+  },
+  "美好": {
+    "pinyin": "mei3 hao3",
+    "definition": "beautiful; fine"
+  },
+  "美妙": {
+    "pinyin": "mei3 miao4",
+    "definition": "beautiful; wonderful; splendid"
+  },
+  "美姑": {
+    "pinyin": "Mei3 gu1",
+    "definition": "see 美姑縣|美姑县[Mei3gu1 Xian4]"
+  },
+  "美姑河": {
+    "pinyin": "Mei3 gu1 He2",
+    "definition": "Meigu River in south Sichuan"
+  },
+  "美姑縣": {
+    "pinyin": "Mei3 gu1 Xian4",
+    "definition": "Meigu County in Liangshan Yi Autonomous Prefecture 涼山彝族自治州|凉山彝族自治州[Liang2shan1 Yi2zu2 Zi4zhi4zhou1], Sichuan"
+  },
+  "美學": {
+    "pinyin": "mei3 xue2",
+    "definition": "aesthetics"
+  },
+  "美宇航局": {
+    "pinyin": "Mei3 Yu3 hang2 ju2",
+    "definition": "US National Aeronautics and Space Administration; NASA; abbr. for 美國宇航局|美国宇航局"
+  },
+  "美容": {
+    "pinyin": "mei3 rong2",
+    "definition": "to improve one's appearance (using cosmetics or cosmetic surgery); to make oneself more attractive; to beautify"
+  },
+  "美容女": {
+    "pinyin": "mei3 rong2 nu:3",
+    "definition": "hairdresser (female); beautician"
+  },
+  "美容師": {
+    "pinyin": "mei3 rong2 shi1",
+    "definition": "hairdresser; beautician (male)"
+  },
+  "美容店": {
+    "pinyin": "mei3 rong2 dian4",
+    "definition": "beauty salon; CL:家[jia1]"
+  },
+  "美容手術": {
+    "pinyin": "mei3 rong2 shou3 shu4",
+    "definition": "cosmetic surgery"
+  },
+  "美容覺": {
+    "pinyin": "mei3 rong2 jiao4",
+    "definition": "beauty sleep (before midnight)"
+  },
+  "美容院": {
+    "pinyin": "mei3 rong2 yuan4",
+    "definition": "beauty salon; beauty parlor"
+  },
+  "美尼爾氏綜合症": {
+    "pinyin": "Mei3 ni2 er3 shi4 zong1 he2 zheng4",
+    "definition": "Meniere's disease"
+  },
+  "美尼爾病": {
+    "pinyin": "Mei3 ni2 er3 bing4",
+    "definition": "Meniere's disease"
+  },
+  "美屬維爾京群島": {
+    "pinyin": "Mei3 shu3 Wei2 er3 jing1 Qun2 dao3",
+    "definition": "United States Virgin Islands (USVI)"
+  },
+  "美屬薩摩亞": {
+    "pinyin": "Mei3 shu3 Sa4 mo2 ya4",
+    "definition": "American Samoa"
+  },
+  "美工": {
+    "pinyin": "mei3 gong1",
+    "definition": "art design; art designer"
+  },
+  "美工刀": {
+    "pinyin": "mei3 gong1 dao1",
+    "definition": "utility knife; box cutter"
+  },
+  "美差": {
+    "pinyin": "mei3 chai1",
+    "definition": "cushy job; pleasant task"
+  },
+  "美差事": {
+    "pinyin": "mei3 chai1 shi4",
+    "definition": "a terrific job"
+  },
+  "美巴": {
+    "pinyin": "Mei3 Ba1",
+    "definition": "America and Pakistan; America and Brazil; America and Panama"
+  },
+  "美帝": {
+    "pinyin": "Mei3 di4",
+    "definition": "(in early CCP propaganda) United States (as an imperialist nation); (in more recent times) a neutral, colloquial term for the United States"
+  },
+  "美式": {
+    "pinyin": "Mei3 shi4",
+    "definition": "American-style"
+  },
+  "美式咖啡": {
+    "pinyin": "Mei3 shi4 ka1 fei1",
+    "definition": "caffè americano"
+  },
+  "美式橄欖球": {
+    "pinyin": "Mei3 shi4 gan3 lan3 qiu2",
+    "definition": "American football"
+  },
+  "美式足球": {
+    "pinyin": "Mei3 shi4 zu2 qiu2",
+    "definition": "American football"
+  },
+  "美德": {
+    "pinyin": "mei3 de2",
+    "definition": "virtue"
+  },
+  "美心": {
+    "pinyin": "Mei3 xin1",
+    "definition": "Maxine (name)"
+  },
+  "美意": {
+    "pinyin": "mei3 yi4",
+    "definition": "goodwill; kindness"
+  },
+  "美感": {
+    "pinyin": "mei3 gan3",
+    "definition": "sense of beauty; aesthetic perception"
+  },
+  "美拉尼西亞": {
+    "pinyin": "Mei3 la1 ni2 xi1 ya4",
+    "definition": "Melanesia"
+  },
+  "美日": {
+    "pinyin": "Mei3 Ri4",
+    "definition": "US-Japan"
+  },
+  "美景": {
+    "pinyin": "mei3 jing3",
+    "definition": "beautiful scenery"
+  },
+  "美智子": {
+    "pinyin": "Mei3 zhi4 zi3",
+    "definition": "Michiko, Japanese female given name; Empress Michiko of Japan (1934-)"
+  },
+  "美朝": {
+    "pinyin": "Mei3 Chao2",
+    "definition": "US and North Korea"
+  },
+  "美杜莎": {
+    "pinyin": "Mei3 du4 sha1",
+    "definition": "Medusa (monster of Greek mythology)"
+  },
+  "美東時間": {
+    "pinyin": "Mei3 dong1 shi2 jian1",
+    "definition": "USA Eastern Standard Time"
+  },
+  "美林集團": {
+    "pinyin": "Mei3 lin2 ji2 tuan2",
+    "definition": "Merrill Lynch"
+  },
+  "美樂": {
+    "pinyin": "Mei3 le4",
+    "definition": "Merlot (grape type)"
+  },
+  "美歐": {
+    "pinyin": "Mei3 Ou1",
+    "definition": "US and EU; America-Europe"
+  },
+  "美汁源": {
+    "pinyin": "Mei3 zhi1 yuan2",
+    "definition": "Minute Maid"
+  },
+  "美沙酮": {
+    "pinyin": "mei3 sha1 tong2",
+    "definition": "methadone"
+  },
+  "美泉宮": {
+    "pinyin": "Mei3 quan2 Gong1",
+    "definition": "Schönbrunn Palace in Vienna"
+  },
+  "美洛昔康": {
+    "pinyin": "mei3 luo4 xi1 kang1",
+    "definition": "meloxicam (anti-inflammatory drug)"
+  },
+  "美洲": {
+    "pinyin": "Mei3 zhou1",
+    "definition": "America (including North, Central and South America); the Americas; abbr. for 亞美利加洲|亚美利加洲[Ya4 mei3 li4 jia1 Zhou1]"
+  },
+  "美洲國家組織": {
+    "pinyin": "Mei3 zhou1 Guo2 jia1 Zu3 zhi1",
+    "definition": "Organization of American States"
+  },
+  "美洲大陸": {
+    "pinyin": "Mei3 zhou1 da4 lu4",
+    "definition": "the Americas; North and South American continents"
+  },
+  "美洲獅": {
+    "pinyin": "Mei3 zhou1 shi1",
+    "definition": "cougar; mountain lion; puma"
+  },
+  "美洲綠翅鴨": {
+    "pinyin": "Mei3 zhou1 lu:4 chi4 ya1",
+    "definition": "(bird species of China) green-winged teal (Anas carolinensis)"
+  },
+  "美洲虎": {
+    "pinyin": "Mei3 zhou1 hu3",
+    "definition": "jaguar"
+  },
+  "美洲豹": {
+    "pinyin": "Mei3 zhou1 bao4",
+    "definition": "jaguar (Panthera onca)"
+  },
+  "美洲金鴴": {
+    "pinyin": "Mei3 zhou1 jin1 heng2",
+    "definition": "(bird species of China) American golden plover (Pluvialis dominica)"
+  },
+  "美洲鴕": {
+    "pinyin": "Mei3 zhou1 tuo2",
+    "definition": "Greater Rhea; American Rhea; Rhea americana"
+  },
+  "美滋滋": {
+    "pinyin": "mei3 zi1 zi1",
+    "definition": "very happy; elated"
+  },
+  "美滿": {
+    "pinyin": "mei3 man3",
+    "definition": "happy; blissful"
+  },
+  "美濃瓜": {
+    "pinyin": "mei3 nong2 gua1",
+    "definition": "(Tw) oriental melon (Cucumis melo Makuwa Group)"
+  },
+  "美玉": {
+    "pinyin": "mei3 yu4",
+    "definition": "fine jade"
+  },
+  "美玲": {
+    "pinyin": "Mei3 ling2",
+    "definition": "Meiling (female name); Zhou Meiling 周美玲[Zhou1 Mei3 ling2] (1969-), Taiwanese gay film director"
+  },
+  "美甲": {
+    "pinyin": "mei3 jia3",
+    "definition": "manicure and-or pedicure"
+  },
+  "美甲師": {
+    "pinyin": "mei3 jia3 shi1",
+    "definition": "manicurist; nail artist"
+  },
+  "美白": {
+    "pinyin": "mei3 bai2",
+    "definition": "to whiten (the skin or teeth)"
+  },
+  "美的": {
+    "pinyin": "Mei3 di2",
+    "definition": "Midea (brand)"
+  },
+  "美眄": {
+    "pinyin": "mei3 mian3",
+    "definition": "captivating glance"
+  },
+  "美眉": {
+    "pinyin": "mei3 mei2",
+    "definition": "(coll.) pretty girl"
+  },
+  "美瞳": {
+    "pinyin": "mei3 tong2",
+    "definition": "cosmetic contact lens; big eye contact lens; circle contact lens"
+  },
+  "美石": {
+    "pinyin": "mei3 shi2",
+    "definition": "precious stone; jewel"
+  },
+  "美神": {
+    "pinyin": "mei3 shen2",
+    "definition": "goddess of beauty (typically used in reference to Venus 維納斯|维纳斯[Wei2na4si1] or Aphrodite 阿佛洛狄忒[A1fu2luo4di2te4])"
+  },
+  "美祿": {
+    "pinyin": "Mei3 lu4",
+    "definition": "Nestlé Milo (chocolate-flavored powder added to milk or water)"
+  },
+  "美稱": {
+    "pinyin": "mei3 cheng1",
+    "definition": "to dub with a nice-sounding appellation; fanciful moniker"
+  },
+  "美籍": {
+    "pinyin": "Mei3 ji2",
+    "definition": "American (i.e. of US nationality)"
+  },
+  "美粒果": {
+    "pinyin": "Mei3 li4 guo3",
+    "definition": "Minute Maid (brand)"
+  },
+  "美索不達米亞": {
+    "pinyin": "Mei3 suo3 bu4 da2 mi3 ya4",
+    "definition": "Mesopotamia"
+  },
+  "美網": {
+    "pinyin": "Mei3 wang3",
+    "definition": "US Open (tennis tournament)"
+  },
+  "美編": {
+    "pinyin": "mei3 bian1",
+    "definition": "(publishing) (abbr. for 美術編輯|美术编辑[mei3 shu4 bian1 ji2]) layout and graphics; graphic design; art editor; graphic designer"
+  },
+  "美耐板": {
+    "pinyin": "mei3 nai4 ban3",
+    "definition": "melamine veneer (loanword)"
+  },
+  "美耐皿": {
+    "pinyin": "mei3 nai4 min3",
+    "definition": "(Tw) (loanword) melamine"
+  },
+  "美聯儲": {
+    "pinyin": "Mei3 lian2 chu3",
+    "definition": "US Federal Reserve (Fed), the US central bank"
+  },
+  "美聯社": {
+    "pinyin": "Mei3 Lian2 she4",
+    "definition": "Associated Press (AP); abbr. for 美國聯合通訊社|美国联合通讯社[Mei3 guo2 Lian2 he2 Tong1 xun4 she4]"
+  },
+  "美聲": {
+    "pinyin": "mei3 sheng1",
+    "definition": "bel canto"
+  },
+  "美聲唱法": {
+    "pinyin": "mei3 sheng1 chang4 fa3",
+    "definition": "bel canto"
+  },
+  "美職籃": {
+    "pinyin": "Mei3 Zhi2 Lan2",
+    "definition": "National Basketball Association (NBA)"
+  },
+  "美色": {
+    "pinyin": "mei3 se4",
+    "definition": "charm; loveliness (of a woman)"
+  },
+  "美艷": {
+    "pinyin": "mei3 yan4",
+    "definition": "beautiful and alluring; glamorous; gorgeous"
+  },
+  "美英": {
+    "pinyin": "Mei3 Ying1",
+    "definition": "US and UK; Anglo-American"
+  },
+  "美藍": {
+    "pinyin": "mei3 lan2",
+    "definition": "methylene blue"
+  },
+  "美蘇": {
+    "pinyin": "Mei3 Su1",
+    "definition": "American-Soviet (tension, rapprochement etc)"
+  },
+  "美蘭": {
+    "pinyin": "Mei3 lan2",
+    "definition": "Meilan district of Haikou city 海口市[Hai3 kou3 shi4], Hainan"
+  },
+  "美蘭區": {
+    "pinyin": "Mei3 lan2 qu1",
+    "definition": "Meilan district of Haikou city 海口市[Hai3 kou3 shi4], Hainan"
+  },
+  "美術": {
+    "pinyin": "mei3 shu4",
+    "definition": "art; fine arts; painting; CL:種|种[zhong3]"
+  },
+  "美術史": {
+    "pinyin": "mei3 shu4 shi3",
+    "definition": "history of art"
+  },
+  "美術品": {
+    "pinyin": "mei3 shu4 pin3",
+    "definition": "an art object"
+  },
+  "美術編輯": {
+    "pinyin": "mei3 shu4 bian1 ji2",
+    "definition": "(publishing) layout and graphics; graphic design; art editor; graphic designer"
+  },
+  "美術館": {
+    "pinyin": "mei3 shu4 guan3",
+    "definition": "art gallery"
+  },
+  "美製": {
+    "pinyin": "Mei3 zhi4",
+    "definition": "American made"
+  },
+  "美觀": {
+    "pinyin": "mei3 guan1",
+    "definition": "pleasing to the eye; beautiful; artistic"
+  },
+  "美語": {
+    "pinyin": "Mei3 yu3",
+    "definition": "American English"
+  },
+  "美談": {
+    "pinyin": "mei3 tan2",
+    "definition": "anecdote passed on with approbation"
+  },
+  "美譽": {
+    "pinyin": "mei3 yu4",
+    "definition": "good name; good reputation"
+  },
+  "美貌": {
+    "pinyin": "mei3 mao4",
+    "definition": "good looks; beauty; good-looking"
+  },
+  "美軍": {
+    "pinyin": "Mei3 jun1",
+    "definition": "US army; US armed forces"
+  },
+  "美輪美奐": {
+    "pinyin": "mei3 lun2 - mei3 huan4",
+    "definition": "(idiom) (of houses, scenery etc) magnificent"
+  },
+  "美酒": {
+    "pinyin": "mei3 jiu3",
+    "definition": "good wine; fine liquor"
+  },
+  "美金": {
+    "pinyin": "Mei3 jin1",
+    "definition": "US dollar; USD"
+  },
+  "美鈔": {
+    "pinyin": "Mei3 chao1",
+    "definition": "US dollar bill; greenback"
+  },
+  "美顏": {
+    "pinyin": "mei3 yan2",
+    "definition": "to beautify sb's face (with cosmetics etc); to retouch a photo to make sb look more beautiful; beautiful face; beautified face"
+  },
+  "美顏相機": {
+    "pinyin": "Mei3 yan2 Xiang4 ji1",
+    "definition": "BeautyCam, a smartphone app for retouching selfies (abbr. to 美顏|美颜[Mei3 yan2])"
+  },
+  "美食": {
+    "pinyin": "mei3 shi2",
+    "definition": "culinary delicacy; fine food; gourmet food"
+  },
+  "美食家": {
+    "pinyin": "mei3 shi2 jia1",
+    "definition": "gourmet"
+  },
+  "美食沙漠": {
+    "pinyin": "mei3 shi2 sha1 mo4",
+    "definition": "culinary desert"
+  },
+  "美食荒漠": {
+    "pinyin": "mei3 shi2 huang1 mo4",
+    "definition": "culinary desert"
+  },
+  "美食街": {
+    "pinyin": "mei3 shi2 jie1",
+    "definition": "food court; food street"
+  },
+  "美餐": {
+    "pinyin": "mei3 can1",
+    "definition": "tasty meal; to eat a satisfying meal"
+  },
+  "美饌": {
+    "pinyin": "mei3 zhuan4",
+    "definition": "delicacy"
+  },
+  "美體小舖": {
+    "pinyin": "Mei3 ti3 Xiao3 pu4",
+    "definition": "The Body Shop (UK cosmetics company)"
+  },
+  "美髮": {
+    "pinyin": "mei3 fa4",
+    "definition": "hairdressing; to give sb's hair a cut or other beauty treatment; beautiful hair"
+  },
+  "美髮師": {
+    "pinyin": "mei3 fa4 shi1",
+    "definition": "hairdresser; beautician"
+  },
+  "美麗": {
+    "pinyin": "mei3 li4",
+    "definition": "beautiful"
+  },
+  "美麗島": {
+    "pinyin": "Mei3 li4 Dao3",
+    "definition": "Formosa (from Ilha Formosa, \"Beautiful Isle\", the name given to Taiwan Island by passing Portuguese mariners in 1544)"
+  },
+  "美麗島事件": {
+    "pinyin": "Mei3 li4 Dao3 Shi4 jian4",
+    "definition": "Kaohsiung Incident (aka Formosa Incident), a crackdown on pro-democracy demonstrations in Kaohsiung, Taiwan, on 10 December 1979 during Taiwan's martial law period"
+  },
+  "美麗新世界": {
+    "pinyin": "Mei3 li4 Xin1 Shi4 jie4",
+    "definition": "Brave New World, novel by Aldous Huxley 阿道司·赫胥黎[A1 dao4 si1 · He4 xu1 li2]"
+  }
+}

@@ -1,0 +1,1186 @@
+{
+  "水": {
+    "pinyin": "shui3",
+    "definition": "water; (after a name) ... River; to swim (used mostly in 會水|会水[hui4shui3] and 水性[shui3xing4]); (coll.) lacking in substance; shoddy; (bound form) additional cost; extra income; classifier for washings of a garment"
+  },
+  "水上": {
+    "pinyin": "shui3 shang4",
+    "definition": "on water; aquatic"
+  },
+  "水上摩托": {
+    "pinyin": "shui3 shang4 mo2 tuo1",
+    "definition": "jet ski"
+  },
+  "水上摩托車": {
+    "pinyin": "shui3 shang4 mo2 tuo1 che1",
+    "definition": "jet ski"
+  },
+  "水上樂園": {
+    "pinyin": "shui3 shang4 le4 yuan2",
+    "definition": "water park"
+  },
+  "水上芭蕾": {
+    "pinyin": "shui3 shang4 ba1 lei3",
+    "definition": "synchronized swimming"
+  },
+  "水上運動": {
+    "pinyin": "shui3 shang4 yun4 dong4",
+    "definition": "water sports; aquatic motion; movement over water"
+  },
+  "水上鄉": {
+    "pinyin": "Shui3 shang4 Xiang1",
+    "definition": "Shuishang Township in Chiayi County 嘉義縣|嘉义县[Jia1 yi4 Xian4], west Taiwan"
+  },
+  "水上電單車": {
+    "pinyin": "shui3 shang4 dian4 dan1 che1",
+    "definition": "see 水上摩托車|水上摩托车[shui3 shang4 mo2 tuo1 che1]"
+  },
+  "水上飛板": {
+    "pinyin": "shui3 shang4 fei1 ban3",
+    "definition": "flyboard"
+  },
+  "水上飛機": {
+    "pinyin": "shui3 shang4 fei1 ji1",
+    "definition": "seaplane"
+  },
+  "水下": {
+    "pinyin": "shui3 xia4",
+    "definition": "under the water; submarine"
+  },
+  "水下核爆炸": {
+    "pinyin": "shui3 xia4 he2 bao4 zha4",
+    "definition": "nuclear underwater burst; underwater nuclear explosion"
+  },
+  "水中撈月": {
+    "pinyin": "shui3 zhong1 - lao1 yue4",
+    "definition": "lit. to scoop the moon out of the water (idiom); fig. a hopeless endeavor"
+  },
+  "水井": {
+    "pinyin": "shui3 jing3",
+    "definition": "(water) well"
+  },
+  "水亮": {
+    "pinyin": "shui3 liang4",
+    "definition": "moist and glossy; wet look (of lipstick)"
+  },
+  "水仙": {
+    "pinyin": "shui3 xian1",
+    "definition": "narcissus; daffodil; legendary aquatic immortal; refers to those buried at sea; person who wanders abroad and does not return"
+  },
+  "水仙花": {
+    "pinyin": "shui3 xian1 hua1",
+    "definition": "daffodil; narcissus; CL:棵[ke1]"
+  },
+  "水位": {
+    "pinyin": "shui3 wei4",
+    "definition": "water level"
+  },
+  "水俁市": {
+    "pinyin": "Shui3 yu3 Shi4",
+    "definition": "Minamata City in Kumamoto prefecture, Japan"
+  },
+  "水俁病": {
+    "pinyin": "shui3 yu3 bing4",
+    "definition": "Minamata disease (neurological disease caused by mercury poisoning due to industrial pollution in Japan, first identified in 1956)"
+  },
+  "水兵": {
+    "pinyin": "shui3 bing1",
+    "definition": "enlisted sailor in navy"
+  },
+  "水冰": {
+    "pinyin": "shui3 bing1",
+    "definition": "water ice (i.e. frozen H2O)"
+  },
+  "水冷": {
+    "pinyin": "shui3 leng3",
+    "definition": "to water-cool"
+  },
+  "水凼": {
+    "pinyin": "shui3 dang4",
+    "definition": "pond"
+  },
+  "水分": {
+    "pinyin": "shui3 fen4",
+    "definition": "moisture content; (fig.) overstatement; padding"
+  },
+  "水刑": {
+    "pinyin": "shui3 xing2",
+    "definition": "water-boarding (torture)"
+  },
+  "水刑逼供": {
+    "pinyin": "shui3 xing2 bi1 gong4",
+    "definition": "water-boarding, interrogation technique used by CIA"
+  },
+  "水利": {
+    "pinyin": "shui3 li4",
+    "definition": "water conservancy; irrigation works"
+  },
+  "水利家": {
+    "pinyin": "shui3 li4 jia1",
+    "definition": "water manager; hydraulic engineer"
+  },
+  "水利工程": {
+    "pinyin": "shui3 li4 gong1 cheng2",
+    "definition": "hydraulic engineering"
+  },
+  "水利部": {
+    "pinyin": "Shui3 li4 bu4",
+    "definition": "Ministry of Water Resources (PRC)"
+  },
+  "水到渠成": {
+    "pinyin": "shui3 dao4 qu2 cheng2",
+    "definition": "lit. where water flows, a canal is formed (idiom); fig. when conditions are right, success will follow naturally"
+  },
+  "水力": {
+    "pinyin": "shui3 li4",
+    "definition": "hydraulic power"
+  },
+  "水力壓裂": {
+    "pinyin": "shui3 li4 ya1 lie4",
+    "definition": "hydraulic fracturing; fracking"
+  },
+  "水力學": {
+    "pinyin": "shui3 li4 xue2",
+    "definition": "hydraulics"
+  },
+  "水力發電": {
+    "pinyin": "shui3 li4 fa1 dian4",
+    "definition": "hydroelectricity"
+  },
+  "水力發電站": {
+    "pinyin": "shui3 li4 fa1 dian4 zhan4",
+    "definition": "hydroelectric power plant"
+  },
+  "水力鼓風": {
+    "pinyin": "shui3 li4 gu3 feng1",
+    "definition": "hydraulic bellows; water-driven ventilation (for metal smelting furnace)"
+  },
+  "水務": {
+    "pinyin": "shui3 wu4",
+    "definition": "water supply"
+  },
+  "水務局": {
+    "pinyin": "shui3 wu4 ju2",
+    "definition": "(municipal) water authority"
+  },
+  "水勺": {
+    "pinyin": "shui3 shao2",
+    "definition": "ladle; dipper (for water)"
+  },
+  "水化": {
+    "pinyin": "shui3 hua4",
+    "definition": "to hydrate"
+  },
+  "水印": {
+    "pinyin": "shui3 yin4",
+    "definition": "watermark"
+  },
+  "水原": {
+    "pinyin": "Shui3 yuan2",
+    "definition": "Suweon City, capital of Gyeonggi province 京畿道[Jing1 ji1 dao4], South Korea"
+  },
+  "水原市": {
+    "pinyin": "Shui3 yuan2 shi4",
+    "definition": "Suweon City, capital of Gyeonggi province 京畿道[Jing1 ji1 dao4], South Korea"
+  },
+  "水合": {
+    "pinyin": "shui3 he2",
+    "definition": "hydration reaction"
+  },
+  "水合物": {
+    "pinyin": "shui3 he2 wu4",
+    "definition": "hydrate; hydrated compound"
+  },
+  "水圈": {
+    "pinyin": "shui3 quan1",
+    "definition": "the earth's ocean; the hydrosphere (geology)"
+  },
+  "水土": {
+    "pinyin": "shui3 tu3",
+    "definition": "water and soil; surface water; natural environment (extended meaning); climate"
+  },
+  "水土不服": {
+    "pinyin": "shui3 tu3 bu4 fu2",
+    "definition": "not acclimatized"
+  },
+  "水土保持": {
+    "pinyin": "shui3 tu3 bao3 chi2",
+    "definition": "soil conservation"
+  },
+  "水坑": {
+    "pinyin": "shui3 keng1",
+    "definition": "puddle; water hole; sump"
+  },
+  "水垢": {
+    "pinyin": "shui3 gou4",
+    "definition": "limescale"
+  },
+  "水域": {
+    "pinyin": "shui3 yu4",
+    "definition": "waters; body of water"
+  },
+  "水培": {
+    "pinyin": "shui3 pei2",
+    "definition": "to grow plants hydroponically"
+  },
+  "水培法": {
+    "pinyin": "shui3 pei2 fa3",
+    "definition": "hydroponics"
+  },
+  "水基": {
+    "pinyin": "shui3 ji1",
+    "definition": "water-based"
+  },
+  "水塘": {
+    "pinyin": "shui3 tang2",
+    "definition": "pool"
+  },
+  "水墨": {
+    "pinyin": "shui3 mo4",
+    "definition": "ink (used in painting)"
+  },
+  "水墨畫": {
+    "pinyin": "shui3 mo4 hua4",
+    "definition": "ink and wash painting"
+  },
+  "水壓": {
+    "pinyin": "shui3 ya1",
+    "definition": "water pressure"
+  },
+  "水壩": {
+    "pinyin": "shui3 ba4",
+    "definition": "dam; dike"
+  },
+  "水壺": {
+    "pinyin": "shui3 hu2",
+    "definition": "kettle; canteen; watering can"
+  },
+  "水天一色": {
+    "pinyin": "shui3 tian1 yi1 se4",
+    "definition": "water and sky merge in one color (idiom)"
+  },
+  "水客": {
+    "pinyin": "shui3 ke4",
+    "definition": "smuggler, esp. of electronic goods from Macao or Hong Kong to Guangdong; boatman; fisherman; itinerant trader"
+  },
+  "水害": {
+    "pinyin": "shui3 hai4",
+    "definition": "flood damage"
+  },
+  "水師": {
+    "pinyin": "shui3 shi1",
+    "definition": "navy (in Qing times)"
+  },
+  "水幕": {
+    "pinyin": "shui3 mu4",
+    "definition": "water screen (screen formed of sprayed water droplets, used for displaying projected images, for temperature control, or for air purification)"
+  },
+  "水平": {
+    "pinyin": "shui3 ping2",
+    "definition": "level (of achievement etc); standard; horizontal"
+  },
+  "水平儀": {
+    "pinyin": "shui3 ping2 yi2",
+    "definition": "level (device to determine horizontal); spirit level; surveyor's level"
+  },
+  "水平尺": {
+    "pinyin": "shui3 ping2 chi3",
+    "definition": "spirit level"
+  },
+  "水平尾翼": {
+    "pinyin": "shui3 ping2 wei3 yi4",
+    "definition": "(aviation) tailplane; horizontal stabilizer"
+  },
+  "水平軸": {
+    "pinyin": "shui3 ping2 zhou2",
+    "definition": "horizontal shaft; horizontal axis (math.)"
+  },
+  "水平面": {
+    "pinyin": "shui3 ping2 mian4",
+    "definition": "horizontal plane; level surface; water level"
+  },
+  "水底": {
+    "pinyin": "shui3 di3",
+    "definition": "the bottom of a body of water"
+  },
+  "水底相機": {
+    "pinyin": "shui3 di3 xiang4 ji1",
+    "definition": "underwater camera"
+  },
+  "水庫": {
+    "pinyin": "shui3 ku4",
+    "definition": "reservoir; CL:座[zuo4]"
+  },
+  "水彈槍": {
+    "pinyin": "shui3 dan4 qiang1",
+    "definition": "gel blaster; gel gun"
+  },
+  "水彩": {
+    "pinyin": "shui3 cai3",
+    "definition": "watercolor"
+  },
+  "水彩畫": {
+    "pinyin": "shui3 cai3 hua4",
+    "definition": "watercolor; aquarelle"
+  },
+  "水彩筆": {
+    "pinyin": "shui3 cai3 bi3",
+    "definition": "colored markers"
+  },
+  "水性": {
+    "pinyin": "shui3 xing4",
+    "definition": "swimming ability; characteristics of a body of water (depth, currents etc); aqueous; water-based (paint etc)"
+  },
+  "水性楊花": {
+    "pinyin": "shui3 xing4 yang2 hua1",
+    "definition": "fickle (woman)"
+  },
+  "水怪": {
+    "pinyin": "shui3 guai4",
+    "definition": "sea monster; aquatic monster"
+  },
+  "水患": {
+    "pinyin": "shui3 huan4",
+    "definition": "flooding; inundation"
+  },
+  "水戶市": {
+    "pinyin": "Shui3 hu4 Shi4",
+    "definition": "Mito City, capital of Ibaraki Prefecture, Japan"
+  },
+  "水手": {
+    "pinyin": "shui3 shou3",
+    "definition": "mariner; sailor; seaman"
+  },
+  "水文": {
+    "pinyin": "shui3 wen2",
+    "definition": "hydrology"
+  },
+  "水族": {
+    "pinyin": "shui3 zu2",
+    "definition": "collective term for aquatic animals"
+  },
+  "水族箱": {
+    "pinyin": "shui3 zu2 xiang1",
+    "definition": "aquarium; fish tank"
+  },
+  "水族館": {
+    "pinyin": "shui3 zu2 guan3",
+    "definition": "aquarium (open to the public)"
+  },
+  "水星": {
+    "pinyin": "Shui3 xing1",
+    "definition": "(astronomy) Mercury"
+  },
+  "水晶": {
+    "pinyin": "shui3 jing1",
+    "definition": "crystal"
+  },
+  "水晶宮": {
+    "pinyin": "Shui3 jing1 gong1",
+    "definition": "The Crystal Palace"
+  },
+  "水晶球": {
+    "pinyin": "shui3 jing1 qiu2",
+    "definition": "crystal ball"
+  },
+  "水晶餃": {
+    "pinyin": "shui3 jing1 jiao3",
+    "definition": "crystal dumpling, a type of dumpling popular in southern China and Taiwan, named for its translucent, slightly chewy wrapper made with tapioca starch"
+  },
+  "水暖工": {
+    "pinyin": "shui3 nuan3 gong1",
+    "definition": "plumber; heating engineer"
+  },
+  "水曜日": {
+    "pinyin": "Shui3 yao4 ri4",
+    "definition": "Wednesday (used in ancient Chinese astronomy)"
+  },
+  "水杉": {
+    "pinyin": "shui3 shan1",
+    "definition": "metasequoia"
+  },
+  "水林": {
+    "pinyin": "Shui3 lin2",
+    "definition": "Shuilin township in Yunlin county 雲林縣|云林县[Yun2 lin2 xian4], Taiwan"
+  },
+  "水林鄉": {
+    "pinyin": "Shui3 lin2 xiang1",
+    "definition": "Shuilin township in Yunlin county 雲林縣|云林县[Yun2 lin2 xian4], Taiwan"
+  },
+  "水果": {
+    "pinyin": "shui3 guo3",
+    "definition": "fruit; CL:個|个[ge4]"
+  },
+  "水果刀": {
+    "pinyin": "shui3 guo3 dao1",
+    "definition": "paring knife; fruit knife; CL:把[ba3]"
+  },
+  "水果酒": {
+    "pinyin": "shui3 guo3 jiu3",
+    "definition": "(Tw) fruit wine"
+  },
+  "水柱": {
+    "pinyin": "shui3 zhu4",
+    "definition": "stream of water (as from a fountain or a faucet); jet of water"
+  },
+  "水栗": {
+    "pinyin": "shui3 li4",
+    "definition": "see 荸薺|荸荠[bi2 qi2]"
+  },
+  "水桶": {
+    "pinyin": "shui3 tong3",
+    "definition": "bucket"
+  },
+  "水梨": {
+    "pinyin": "shui3 li2",
+    "definition": "Asian pear; sand pear (Pyrus pyrifolia)"
+  },
+  "水棲": {
+    "pinyin": "shui3 qi1",
+    "definition": "aquatic; living in water"
+  },
+  "水楊酸": {
+    "pinyin": "shui3 yang2 suan1",
+    "definition": "salicylic acid"
+  },
+  "水槍": {
+    "pinyin": "shui3 qiang1",
+    "definition": "water pistol (toy); water gun; sprinkler; water cannon"
+  },
+  "水槽": {
+    "pinyin": "shui3 cao2",
+    "definition": "sink"
+  },
+  "水橫枝": {
+    "pinyin": "shui3 heng2 zhi1",
+    "definition": "cape jasmine (Gardenia jasminoides), esp. grown as bonsai"
+  },
+  "水母": {
+    "pinyin": "shui3 mu3",
+    "definition": "jellyfish; medusa"
+  },
+  "水母體": {
+    "pinyin": "shui3 mu3 ti3",
+    "definition": "jellyfish; medusa"
+  },
+  "水氣": {
+    "pinyin": "shui3 qi4",
+    "definition": "water vapor; steam"
+  },
+  "水汀": {
+    "pinyin": "shui3 ting1",
+    "definition": "steam (Shanghainese)"
+  },
+  "水池": {
+    "pinyin": "shui3 chi2",
+    "definition": "pond; pool; sink; washbasin"
+  },
+  "水污染": {
+    "pinyin": "shui3 wu1 ran3",
+    "definition": "water pollution"
+  },
+  "水汪汪": {
+    "pinyin": "shui3 wang1 wang1",
+    "definition": "watery; waterlogged (soil); limpid; bright and intelligent (eyes)"
+  },
+  "水汽": {
+    "pinyin": "shui3 qi4",
+    "definition": "water vapor; steam; moisture"
+  },
+  "水泡": {
+    "pinyin": "shui3 pao4",
+    "definition": "bubble; blister"
+  },
+  "水波": {
+    "pinyin": "shui3 bo1",
+    "definition": "wave; (water) ripple"
+  },
+  "水波爐": {
+    "pinyin": "shui3 bo1 lu2",
+    "definition": "superheated steam oven"
+  },
+  "水泥": {
+    "pinyin": "shui3 ni2",
+    "definition": "cement; CL:袋[dai4]"
+  },
+  "水泵": {
+    "pinyin": "shui3 beng4",
+    "definition": "water pump"
+  },
+  "水洩不通": {
+    "pinyin": "shui3 xie4 - bu4 tong1",
+    "definition": "lit. not one drop can trickle through (idiom); fig. (of crowds, traffic etc) impenetrable"
+  },
+  "水流": {
+    "pinyin": "shui3 liu2",
+    "definition": "river; stream"
+  },
+  "水淋淋": {
+    "pinyin": "shui3 lin2 lin2",
+    "definition": "dripping wet"
+  },
+  "水深": {
+    "pinyin": "shui3 shen1",
+    "definition": "depth (of waterway); sounding"
+  },
+  "水深火熱": {
+    "pinyin": "shui3 shen1 huo3 re4",
+    "definition": "deep water and scorching fire; abyss of suffering (idiom)"
+  },
+  "水淺養不住大魚": {
+    "pinyin": "shui3 qian3 yang3 bu4 zhu4 da4 yu2",
+    "definition": "lit. shallow waters cannot harbor big fish (idiom); fig. ambitious, talented people cannot reach their full potential in a small organization"
+  },
+  "水清無魚": {
+    "pinyin": "shui3 qing1 wu2 yu2",
+    "definition": "lit. water that is too clean holds no fish (idiom); fig. one who is too severe has no friends"
+  },
+  "水渠": {
+    "pinyin": "shui3 qu2",
+    "definition": "canal"
+  },
+  "水源": {
+    "pinyin": "shui3 yuan2",
+    "definition": "water source; water supply; headwaters of a river"
+  },
+  "水準": {
+    "pinyin": "shui3 zhun3",
+    "definition": "level (of achievement etc); standard; level (surveying)"
+  },
+  "水準儀": {
+    "pinyin": "shui3 zhun3 yi2",
+    "definition": "level (device to determine horizontal); spirit level; surveyor's level"
+  },
+  "水溝": {
+    "pinyin": "shui3 gou1",
+    "definition": "gutter; sewer"
+  },
+  "水溫": {
+    "pinyin": "shui3 wen1",
+    "definition": "water temperature"
+  },
+  "水溫表": {
+    "pinyin": "shui3 wen1 biao3",
+    "definition": "engine temperature gauge; coolant temperature gauge"
+  },
+  "水溶": {
+    "pinyin": "shui3 rong2",
+    "definition": "water soluble"
+  },
+  "水溶性": {
+    "pinyin": "shui3 rong2 xing4",
+    "definition": "soluble (in water); solubility"
+  },
+  "水滴": {
+    "pinyin": "shui3 di1",
+    "definition": "drop"
+  },
+  "水滴石穿": {
+    "pinyin": "shui3 di1 shi2 chuan1",
+    "definition": "dripping water penetrates the stone (idiom); constant perseverance yields success; You can achieve your aim if you try hard without giving up.; Persistent effort overcomes any difficulty."
+  },
+  "水滴魚": {
+    "pinyin": "shui3 di1 yu2",
+    "definition": "blobfish (Psychrolutes marcidus)"
+  },
+  "水滸": {
+    "pinyin": "shui3 hu3",
+    "definition": "edge of the water; shore or sea, lake or river; seashore"
+  },
+  "水滸傳": {
+    "pinyin": "Shui3 hu3 Zhuan4",
+    "definition": "Water Margin or Outlaws of the Marsh by Shi Nai'an 施耐庵[Shi1 Nai4 an1], one of the Four Classic Novels of Chinese literature"
+  },
+  "水滸全傳": {
+    "pinyin": "Shui3 hu3 Quan2 zhuan4",
+    "definition": "Water Margin or Outlaws of the Marsh by Shi Nai'an 施耐庵, one of the Four Classic Novels of Chinese literature; also written 水滸傳|水浒传"
+  },
+  "水滸後傳": {
+    "pinyin": "Shui3 hu3 Hou4 zhuan4",
+    "definition": "Water Margin Sequel, by Chen Chen 陳忱|陈忱[Chen2 Chen2]"
+  },
+  "水漉漉": {
+    "pinyin": "shui3 lu4 lu4",
+    "definition": "dripping wet"
+  },
+  "水漬": {
+    "pinyin": "shui3 zi4",
+    "definition": "water spot; water stain; wet spot; damp patch; water damage"
+  },
+  "水漲船高": {
+    "pinyin": "shui3 zhang3 chuan2 gao1",
+    "definition": "the tide rises, the boat floats (idiom); fig. to change with the overall trend; to develop according to the situation"
+  },
+  "水潭": {
+    "pinyin": "shui3 tan2",
+    "definition": "water pool; pond"
+  },
+  "水火不容": {
+    "pinyin": "shui3 huo3 bu4 rong2",
+    "definition": "completely incompatible; lit. incompatible as fire and water"
+  },
+  "水火無情": {
+    "pinyin": "shui3 huo3 wu2 qing2",
+    "definition": "fire and flood have no mercy (idiom)"
+  },
+  "水災": {
+    "pinyin": "shui3 zai1",
+    "definition": "flood; flood damage"
+  },
+  "水炮": {
+    "pinyin": "shui3 pao4",
+    "definition": "water cannon"
+  },
+  "水炮車": {
+    "pinyin": "shui3 pao4 che1",
+    "definition": "water cannon vehicle, common name for specialized crowd management vehicle 人群管理特別用途車|人群管理特别用途车[ren2 qun2 guan3 li3 te4 bie2 yong4 tu2 che1]"
+  },
+  "水煎包": {
+    "pinyin": "shui3 jian1 bao1",
+    "definition": "pan-fried bun (covered and steamed after pan-frying), usually with pork or vegetable filling"
+  },
+  "水煙": {
+    "pinyin": "shui3 yan1",
+    "definition": "shredded tobacco for water pipes"
+  },
+  "水煙壺": {
+    "pinyin": "shui3 yan1 hu2",
+    "definition": "bong; water pipe (for tobacco etc); hookah"
+  },
+  "水煙管": {
+    "pinyin": "shui3 yan1 guan3",
+    "definition": "bong; water pipe (for tobacco etc); hookah"
+  },
+  "水煙袋": {
+    "pinyin": "shui3 yan1 dai4",
+    "definition": "water bong; water pipe; hookah"
+  },
+  "水煮蛋": {
+    "pinyin": "shui3 zhu3 dan4",
+    "definition": "boiled egg"
+  },
+  "水煮魚": {
+    "pinyin": "shui3 zhu3 yu2",
+    "definition": "Sichuan poached sliced fish in hot chili oil"
+  },
+  "水牛": {
+    "pinyin": "shui3 niu2",
+    "definition": "water buffalo"
+  },
+  "水牛兒": {
+    "pinyin": "shui3 niu2 r5",
+    "definition": "(dialect) snail"
+  },
+  "水牢": {
+    "pinyin": "shui3 lao2",
+    "definition": "prison cell containing water, in which prisoners are forced to be partly immersed"
+  },
+  "水猴子": {
+    "pinyin": "shui3 hou2 zi5",
+    "definition": "mythical monster that preys on swimmers"
+  },
+  "水獺": {
+    "pinyin": "shui3 ta3",
+    "definition": "otter"
+  },
+  "水玉": {
+    "pinyin": "shui3 yu4",
+    "definition": "crystal; old word for 水晶"
+  },
+  "水珠": {
+    "pinyin": "shui3 zhu1",
+    "definition": "droplet; dewdrop"
+  },
+  "水球": {
+    "pinyin": "shui3 qiu2",
+    "definition": "water polo"
+  },
+  "水球場": {
+    "pinyin": "shui3 qiu2 chang3",
+    "definition": "water polo pool"
+  },
+  "水瓶座": {
+    "pinyin": "Shui3 ping2 zuo4",
+    "definition": "Aquarius (constellation and sign of the zodiac)"
+  },
+  "水生": {
+    "pinyin": "shui3 sheng1",
+    "definition": "aquatic (plant, animal)"
+  },
+  "水產": {
+    "pinyin": "shui3 chan3",
+    "definition": "aquatic product"
+  },
+  "水產品": {
+    "pinyin": "shui3 chan3 pin3",
+    "definition": "aquatic products (including fish, crabs, seaweed etc)"
+  },
+  "水產展": {
+    "pinyin": "shui3 chan3 zhan3",
+    "definition": "seafood show (trade fair)"
+  },
+  "水產業": {
+    "pinyin": "shui3 chan3 ye4",
+    "definition": "aquaculture"
+  },
+  "水產養殖": {
+    "pinyin": "shui3 chan3 yang3 zhi2",
+    "definition": "aquaculture"
+  },
+  "水田": {
+    "pinyin": "shui3 tian2",
+    "definition": "paddy field; rice paddy"
+  },
+  "水田芥": {
+    "pinyin": "shui3 tian2 jie4",
+    "definition": "watercress"
+  },
+  "水痘": {
+    "pinyin": "shui3 dou4",
+    "definition": "chickenpox; Varicella zoster (med.)"
+  },
+  "水療": {
+    "pinyin": "shui3 liao2",
+    "definition": "hydrotherapy; aquatherapy"
+  },
+  "水皰": {
+    "pinyin": "shui3 pao4",
+    "definition": "blister"
+  },
+  "水盂": {
+    "pinyin": "shui3 yu2",
+    "definition": "water pot or goblet (for Chinese calligraphy)"
+  },
+  "水盆": {
+    "pinyin": "shui3 pen2",
+    "definition": "basin"
+  },
+  "水相": {
+    "pinyin": "shui3 xiang4",
+    "definition": "aqueous solution"
+  },
+  "水碾": {
+    "pinyin": "shui3 nian3",
+    "definition": "water mill"
+  },
+  "水磨溝": {
+    "pinyin": "Shui3 mo4 gou1",
+    "definition": "Shuimogou district (Uighur: Shuymogu Rayoni) of Urumqi city 烏魯木齊市|乌鲁木齐市[Wu1 lu3 mu4 qi2 Shi4], Xinjiang"
+  },
+  "水磨溝區": {
+    "pinyin": "Shui3 mo4 gou1 qu1",
+    "definition": "Shuimogou district (Uighur: Shuymogu Rayoni) of Urumqi city 烏魯木齊市|乌鲁木齐市[Wu1 lu3 mu4 qi2 Shi4], Xinjiang"
+  },
+  "水磨石": {
+    "pinyin": "shui3 mo2 shi2",
+    "definition": "terrazzo"
+  },
+  "水神": {
+    "pinyin": "shui3 shen2",
+    "definition": "river God"
+  },
+  "水禽": {
+    "pinyin": "shui3 qin2",
+    "definition": "waterfowl"
+  },
+  "水稻": {
+    "pinyin": "shui3 dao4",
+    "definition": "rice; paddy; CL:株[zhu1]"
+  },
+  "水窪": {
+    "pinyin": "shui3 wa1",
+    "definition": "puddle"
+  },
+  "水立方": {
+    "pinyin": "Shui3 li4 fang1",
+    "definition": "Water Cube, nickname of Beijing National Aquatics Center 北京國家游泳中心|北京国家游泳中心, swimming venue of Beijing 2008 Olympic Games"
+  },
+  "水筲": {
+    "pinyin": "shui3 shao1",
+    "definition": "well bucket; pail made of bamboo strips"
+  },
+  "水管": {
+    "pinyin": "shui3 guan3",
+    "definition": "water pipe"
+  },
+  "水管工": {
+    "pinyin": "shui3 guan3 gong1",
+    "definition": "plumber"
+  },
+  "水管工人": {
+    "pinyin": "shui3 guan3 gong1 ren2",
+    "definition": "plumber"
+  },
+  "水管麵": {
+    "pinyin": "shui3 guan3 mian4",
+    "definition": "tube pasta (e.g. penne, rigatoni, ziti); macaroni"
+  },
+  "水箱": {
+    "pinyin": "shui3 xiang1",
+    "definition": "water tank; radiator (automobile); cistern; lavabo"
+  },
+  "水簾洞": {
+    "pinyin": "shui3 lian2 dong4",
+    "definition": "cave with a waterfall at its mouth"
+  },
+  "水系": {
+    "pinyin": "shui3 xi4",
+    "definition": "drainage system"
+  },
+  "水紋": {
+    "pinyin": "shui3 wen2",
+    "definition": "ripples"
+  },
+  "水絲": {
+    "pinyin": "shui3 si1",
+    "definition": "(silver) of low purity; low grade"
+  },
+  "水綠": {
+    "pinyin": "shui3 lu:4",
+    "definition": "light green"
+  },
+  "水缸": {
+    "pinyin": "shui3 gang1",
+    "definition": "water jar"
+  },
+  "水罐": {
+    "pinyin": "shui3 guan4",
+    "definition": "container for holding and pouring water (or other liquid): jug, pitcher, clay jar, jerry can, water bottle etc"
+  },
+  "水翼船": {
+    "pinyin": "shui3 yi4 chuan2",
+    "definition": "hydrofoil"
+  },
+  "水老鴉": {
+    "pinyin": "shui3 lao3 ya1",
+    "definition": "common name for cormorant"
+  },
+  "水耕法": {
+    "pinyin": "shui3 geng1 fa3",
+    "definition": "hydroponics"
+  },
+  "水肺": {
+    "pinyin": "shui3 fei4",
+    "definition": "scuba"
+  },
+  "水能": {
+    "pinyin": "shui3 neng2",
+    "definition": "hydroelectric power"
+  },
+  "水能源": {
+    "pinyin": "shui3 neng2 yuan2",
+    "definition": "hydroelectric power"
+  },
+  "水能載舟，亦能覆舟": {
+    "pinyin": "shui3 neng2 zai4 zhou1 , yi4 neng2 fu4 zhou1",
+    "definition": "lit. water may keep the boat afloat but may also sink it (proverb); fig. the people can support a regime or overturn it; if sth is used properly, one can benefit from it, otherwise it can do harm; things can be double-edged"
+  },
+  "水腫": {
+    "pinyin": "shui3 zhong3",
+    "definition": "(medicine) to suffer from edema (dropsy)"
+  },
+  "水至清則無魚，人至察則無徒": {
+    "pinyin": "shui3 zhi4 qing1 ze2 wu2 yu2 , ren2 zhi4 cha2 ze2 wu2 tu2",
+    "definition": "(idiom) water that is too clear has no fish, and one who is too severe has no friends"
+  },
+  "水花": {
+    "pinyin": "shui3 hua1",
+    "definition": "spray of water; splash; (dialect) chickenpox"
+  },
+  "水草": {
+    "pinyin": "shui3 cao3",
+    "definition": "aquatic plants; water and grass (i.e. favorable foraging land for livestock or wild animals); (Malaysia) (coll.) drinking straw"
+  },
+  "水菖蒲": {
+    "pinyin": "shui3 chang1 pu2",
+    "definition": "Acorus calamus; sweet sedge or sweet flag"
+  },
+  "水華": {
+    "pinyin": "shui3 hua2",
+    "definition": "algal bloom; water bloom"
+  },
+  "水落歸槽": {
+    "pinyin": "shui3 luo4 gui1 cao2",
+    "definition": "spilt water returns to the trough (idiom); fig. people remember where they belong"
+  },
+  "水落石出": {
+    "pinyin": "shui3 luo4 - shi2 chu1",
+    "definition": "lit. as the water recedes, the rocks appear (idiom); fig. the truth comes to light"
+  },
+  "水著": {
+    "pinyin": "shui3 zhuo2",
+    "definition": "(HK) swimsuit (loanword from Japanese \"mizugi\")"
+  },
+  "水蒲葦鶯": {
+    "pinyin": "shui3 pu2 wei3 ying1",
+    "definition": "(bird species of China) sedge warbler (Acrocephalus schoenobaenus)"
+  },
+  "水蒸氣": {
+    "pinyin": "shui3 zheng1 qi4",
+    "definition": "vapor"
+  },
+  "水蕹菜": {
+    "pinyin": "shui3 weng4 cai4",
+    "definition": "water spinach or ong choy (Ipomoea aquatica), used as a vegetable in south China and southeast Asia"
+  },
+  "水蘿蔔": {
+    "pinyin": "shui3 luo2 bo5",
+    "definition": "summer radish (the small red kind)"
+  },
+  "水虎魚": {
+    "pinyin": "shui3 hu3 yu2",
+    "definition": "piranha (fish)"
+  },
+  "水處理": {
+    "pinyin": "shui3 chu3 li3",
+    "definition": "water treatment"
+  },
+  "水蛇": {
+    "pinyin": "shui3 she2",
+    "definition": "water snake"
+  },
+  "水蛇座": {
+    "pinyin": "Shui3 she2 zuo4",
+    "definition": "Hydrus (constellation)"
+  },
+  "水蛇腰": {
+    "pinyin": "shui3 she2 yao1",
+    "definition": "slender and supple waist; lithe body; feminine pose"
+  },
+  "水蛭": {
+    "pinyin": "shui3 zhi4",
+    "definition": "leech"
+  },
+  "水蛭素": {
+    "pinyin": "shui3 zhi4 su4",
+    "definition": "hirudin"
+  },
+  "水蜜桃": {
+    "pinyin": "shui3 mi4 tao2",
+    "definition": "honey peach; juicy peach"
+  },
+  "水螅": {
+    "pinyin": "shui3 xi1",
+    "definition": "Hydra (freshwater polyp)"
+  },
+  "水螅體": {
+    "pinyin": "shui3 xi1 ti3",
+    "definition": "sessile polyp; sea anemone"
+  },
+  "水行俠": {
+    "pinyin": "Shui3 xing2 xia2",
+    "definition": "Aquaman, DC comic book superhero (Tw)"
+  },
+  "水表": {
+    "pinyin": "shui3 biao3",
+    "definition": "water meter; indicator of water level"
+  },
+  "水袖": {
+    "pinyin": "shui3 xiu4",
+    "definition": "flowing sleeves (part of theatrical costume)"
+  },
+  "水解": {
+    "pinyin": "shui3 jie3",
+    "definition": "hydrolysis (chemical reaction with water)"
+  },
+  "水豚": {
+    "pinyin": "shui3 tun2",
+    "definition": "capybara"
+  },
+  "水貂": {
+    "pinyin": "shui3 diao1",
+    "definition": "mink (Mustela lutreola, M. vison)"
+  },
+  "水貨": {
+    "pinyin": "shui3 huo4",
+    "definition": "smuggled goods; unauthorized goods"
+  },
+  "水費": {
+    "pinyin": "shui3 fei4",
+    "definition": "water bill"
+  },
+  "水質": {
+    "pinyin": "shui3 zhi4",
+    "definition": "water quality"
+  },
+  "水質污染": {
+    "pinyin": "shui3 zhi4 wu1 ran3",
+    "definition": "water pollution"
+  },
+  "水路": {
+    "pinyin": "shui3 lu4",
+    "definition": "waterway"
+  },
+  "水軍": {
+    "pinyin": "shui3 jun1",
+    "definition": "(archaic) navy; person employed to post messages on the Internet (abbr. for 網絡水軍|网络水军[Wang3luo4 shui3jun1])"
+  },
+  "水輪": {
+    "pinyin": "shui3 lun2",
+    "definition": "waterwheel; millwheel"
+  },
+  "水逆": {
+    "pinyin": "shui3 ni4",
+    "definition": "(astrology) Mercury retrograde (abbr. for 水星逆行[shui3 xing1 ni4 xing2]); (coll.) to have a period of bad luck; (TCM) water retention in the abdomen causing the vomiting of liquids as soon as one drinks"
+  },
+  "水運": {
+    "pinyin": "shui3 yun4",
+    "definition": "waterborne transport"
+  },
+  "水道": {
+    "pinyin": "shui3 dao4",
+    "definition": "watercourse (river, canal, drain etc); water route; lane (in a swimming pool)"
+  },
+  "水邊": {
+    "pinyin": "shui3 bian1",
+    "definition": "edge of the water; waterside; shore (of sea, lake or river)"
+  },
+  "水鄉": {
+    "pinyin": "shui3 xiang1",
+    "definition": "patchwork of waterways, esp. in Jiangsu; same as 江南水鄉|江南水乡[Jiang1 nan2 shui3 xiang1]"
+  },
+  "水里": {
+    "pinyin": "Shui3 li3",
+    "definition": "Shuili Township in Nantou County 南投縣|南投县[Nan2 tou2 Xian4], central Taiwan"
+  },
+  "水里鄉": {
+    "pinyin": "Shui3 li3 Xiang1",
+    "definition": "Shuili Township in Nantou County 南投縣|南投县[Nan2 tou2 Xian4], central Taiwan"
+  },
+  "水量": {
+    "pinyin": "shui3 liang4",
+    "definition": "volume of water; quantity of flow"
+  },
+  "水鈸": {
+    "pinyin": "shui3 bo2",
+    "definition": "splash cymbal (drum kit component)"
+  },
+  "水銀": {
+    "pinyin": "shui3 yin2",
+    "definition": "mercury; quicksilver"
+  },
+  "水銀燈": {
+    "pinyin": "shui3 yin2 deng1",
+    "definition": "mercury-vapor lamp"
+  },
+  "水門事件": {
+    "pinyin": "Shui3 men2 Shi4 jian4",
+    "definition": "Watergate scandal"
+  },
+  "水門汀": {
+    "pinyin": "shui3 men2 ting1",
+    "definition": "cement (Shanghainese) (loanword)"
+  },
+  "水閘": {
+    "pinyin": "shui3 zha2",
+    "definition": "sluice; water gate; waterlocks; floodgate; lock; dam"
+  },
+  "水陸": {
+    "pinyin": "shui3 lu4",
+    "definition": "water and land; by water and land (transport); amphibian; delicacies from land and sea"
+  },
+  "水陸交通": {
+    "pinyin": "shui3 lu4 jiao1 tong1",
+    "definition": "water and land transport"
+  },
+  "水陸兩用": {
+    "pinyin": "shui3 lu4 liang3 yong4",
+    "definition": "amphibious (vehicle)"
+  },
+  "水陸師": {
+    "pinyin": "shui3 lu4 shi1",
+    "definition": "army and navy (in Qing times)"
+  },
+  "水障礙": {
+    "pinyin": "shui3 zhang4 ai4",
+    "definition": "water hazard (golf)"
+  },
+  "水雉": {
+    "pinyin": "shui3 zhi4",
+    "definition": "(bird species of China) pheasant-tailed jacana (Hydrophasianus chirurgus)"
+  },
+  "水雞": {
+    "pinyin": "shui3 ji1",
+    "definition": "moorhen (genus Gallinula); gallinule; frog"
+  },
+  "水雷": {
+    "pinyin": "shui3 lei2",
+    "definition": "naval mine"
+  },
+  "水電": {
+    "pinyin": "shui3 dian4",
+    "definition": "hydroelectric power; plumbing and electricity"
+  },
+  "水電工": {
+    "pinyin": "shui3 dian4 gong1",
+    "definition": "plumbing and electrical work; tradesman who does both plumbing and electrical work"
+  },
+  "水電站": {
+    "pinyin": "shui3 dian4 zhan4",
+    "definition": "hydroelectric power plant"
+  },
+  "水靈": {
+    "pinyin": "shui3 ling2",
+    "definition": "(of fruit etc) fresh; (of a person etc) full of life; healthy-looking; (of eyes) moist and bright; lustrous"
+  },
+  "水靈靈": {
+    "pinyin": "shui3 ling2 ling2",
+    "definition": "see 水靈|水灵[shui3 ling2]"
+  },
+  "水面": {
+    "pinyin": "shui3 mian4",
+    "definition": "water surface"
+  },
+  "水飽": {
+    "pinyin": "shui3 bao3",
+    "definition": "feeling full from drinking a lot of water or consuming a liquid-heavy meal"
+  },
+  "水餃": {
+    "pinyin": "shui3 jiao3",
+    "definition": "boiled dumpling (made by wrapping a pasta skin around a filling, like ravioli)"
+  },
+  "水餃兒": {
+    "pinyin": "shui3 jiao3 r5",
+    "definition": "erhua variant of 水餃|水饺[shui3 jiao3]"
+  },
+  "水馬": {
+    "pinyin": "shui3 ma3",
+    "definition": "water-filled barrier"
+  },
+  "水體": {
+    "pinyin": "shui3 ti3",
+    "definition": "body of water"
+  },
+  "水鳥": {
+    "pinyin": "shui3 niao3",
+    "definition": "waterbird"
+  },
+  "水鵓鴣": {
+    "pinyin": "shui3 bo2 gu1",
+    "definition": "turtle dove or similar bird; oriental turtle dove (Streptopelia orientalis)"
+  },
+  "水鷚": {
+    "pinyin": "shui3 liu4",
+    "definition": "(bird species of China) water pipit (Anthus spinoletta)"
+  },
+  "水鹿": {
+    "pinyin": "shui3 lu4",
+    "definition": "sambar (Cervus unicolor)"
+  },
+  "水龍": {
+    "pinyin": "shui3 long2",
+    "definition": "hose; pipe; fire hose; (botany) water primrose (Jussiaea repens)"
+  },
+  "水龍卷": {
+    "pinyin": "shui3 long2 juan3",
+    "definition": "waterspout (meteorology)"
+  },
+  "水龍帶": {
+    "pinyin": "shui3 long2 dai4",
+    "definition": "layflat industrial hose; fire hose"
+  },
+  "水龍頭": {
+    "pinyin": "shui3 long2 tou2",
+    "definition": "faucet; tap"
+  }
+}

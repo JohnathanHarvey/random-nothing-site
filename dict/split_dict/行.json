@@ -1,0 +1,646 @@
+{
+  "行": {
+    "pinyin": "xing2",
+    "definition": "(bound form) to walk; to go; to travel; (literary) trip; journey; visit; (bound form) temporary; makeshift; (bound form) current; in circulation; (bound form) to do; to perform; capable; competent; all right; OK!; will do; behavior; conduct (Taiwan pr. [xing4]); (literary) about to; soon"
+  },
+  "行不從徑": {
+    "pinyin": "xing2 bu4 cong2 jing4",
+    "definition": "lit. not following the straight path (idiom); fig. looking for a shortcut to get ahead in work or study"
+  },
+  "行不改姓，坐不改名": {
+    "pinyin": "xing2 bu4 gai3 xing4 , zuo4 bu4 gai3 ming2",
+    "definition": "see 行不更名，坐不改姓[xing2 bu4 geng1 ming2 , zuo4 bu4 gai3 xing4]"
+  },
+  "行不更名，坐不改姓": {
+    "pinyin": "xing2 bu4 geng1 ming2 , zuo4 bu4 gai3 xing4",
+    "definition": "I am who I am and not ashamed of it; to be proud of one's name and stand by one's actions"
+  },
+  "行不由徑": {
+    "pinyin": "xing2 bu4 you2 jing4",
+    "definition": "lit. never taking a short-cut (idiom); fig. upright and honest"
+  },
+  "行不通": {
+    "pinyin": "xing2 bu5 tong1",
+    "definition": "won't work; will get (you) nowhere"
+  },
+  "行不顧言": {
+    "pinyin": "xing2 bu4 gu4 yan2",
+    "definition": "to say one thing and do another (idiom)"
+  },
+  "行之有效": {
+    "pinyin": "xing2 zhi1 you3 xiao4",
+    "definition": "to be effective (idiom)"
+  },
+  "行乞": {
+    "pinyin": "xing2 qi3",
+    "definition": "to beg; to ask for alms"
+  },
+  "行事": {
+    "pinyin": "xing2 shi4",
+    "definition": "to execute; to handle; behavior; action; conduct"
+  },
+  "行事曆": {
+    "pinyin": "xing2 shi4 li4",
+    "definition": "calendar; schedule"
+  },
+  "行人": {
+    "pinyin": "xing2 ren2",
+    "definition": "pedestrian; traveler on foot; passer-by; official responsible for arranging audiences with the emperor"
+  },
+  "行人徑": {
+    "pinyin": "xing2 ren2 jing4",
+    "definition": "footway"
+  },
+  "行令": {
+    "pinyin": "xing2 ling4",
+    "definition": "to issue orders; to order sb to drink in a drinking game"
+  },
+  "行使": {
+    "pinyin": "xing2 shi3",
+    "definition": "to exercise (a right etc)"
+  },
+  "行使職權": {
+    "pinyin": "xing2 shi3 zhi2 quan2",
+    "definition": "to exercise power"
+  },
+  "行俠仗義": {
+    "pinyin": "xing2 xia2 zhang4 yi4",
+    "definition": "to be chivalrous"
+  },
+  "行兇": {
+    "pinyin": "xing2 xiong1",
+    "definition": "violent crime; to commit a violent act (assault or murder)"
+  },
+  "行兇者": {
+    "pinyin": "xing2 xiong1 zhe3",
+    "definition": "perpetrator"
+  },
+  "行刑": {
+    "pinyin": "xing2 xing2",
+    "definition": "to carry out a (death) sentence; execution"
+  },
+  "行刑隊": {
+    "pinyin": "xing2 xing2 dui4",
+    "definition": "firing squad"
+  },
+  "行列": {
+    "pinyin": "hang2 lie4",
+    "definition": "formation; array; (fig.) ranks (as in \"join the ranks of ...\")"
+  },
+  "行列式": {
+    "pinyin": "hang2 lie4 shi4",
+    "definition": "determinant (math.)"
+  },
+  "行刺": {
+    "pinyin": "xing2 ci4",
+    "definition": "to assassinate"
+  },
+  "行動": {
+    "pinyin": "xing2 dong4",
+    "definition": "operation; action; CL:個|个[ge4]; to move about; mobile"
+  },
+  "行動不便": {
+    "pinyin": "xing2 dong4 bu4 bian4",
+    "definition": "unable to move freely; difficult to get about"
+  },
+  "行動主義": {
+    "pinyin": "xing2 dong4 zhu3 yi4",
+    "definition": "activism"
+  },
+  "行動值": {
+    "pinyin": "xing2 dong4 zhi2",
+    "definition": "(gaming) action points (points required to complete an action); (Tw) action level (the level of concentration of a harmful substance at which remedial action is considered necessary)"
+  },
+  "行動劇": {
+    "pinyin": "xing2 dong4 ju4",
+    "definition": "(Tw) street theater (esp. as a form of political expression)"
+  },
+  "行動方案": {
+    "pinyin": "xing2 dong4 fang1 an4",
+    "definition": "program of action"
+  },
+  "行動綱領": {
+    "pinyin": "xing2 dong4 gang1 ling3",
+    "definition": "action plan; program of action"
+  },
+  "行動自由": {
+    "pinyin": "xing2 dong4 zi4 you2",
+    "definition": "freedom of action"
+  },
+  "行動藝術": {
+    "pinyin": "xing2 dong4 yi4 shu4",
+    "definition": "performance art"
+  },
+  "行動藝術家": {
+    "pinyin": "xing2 dong4 yi4 shu4 jia1",
+    "definition": "performance artist"
+  },
+  "行動裝置": {
+    "pinyin": "xing2 dong4 zhuang1 zhi4",
+    "definition": "mobile device (Tw)"
+  },
+  "行動計劃": {
+    "pinyin": "xing2 dong4 ji4 hua4",
+    "definition": "action plan"
+  },
+  "行動電源": {
+    "pinyin": "xing2 dong4 dian4 yuan2",
+    "definition": "(Tw) power bank"
+  },
+  "行動電話": {
+    "pinyin": "xing2 dong4 dian4 hua4",
+    "definition": "mobile phone (Tw)"
+  },
+  "行員": {
+    "pinyin": "hang2 yuan2",
+    "definition": "(Tw) staff; clerk; employee (of a bank 銀行|银行[yin2hang2] or commercial firm 商行[shang1hang2])"
+  },
+  "行唐": {
+    "pinyin": "Xing2 tang2",
+    "definition": "Xingtang county in Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1], Hebei"
+  },
+  "行唐縣": {
+    "pinyin": "Xing2 tang2 xian4",
+    "definition": "Xingtang county in Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1], Hebei"
+  },
+  "行商": {
+    "pinyin": "hang2 shang1",
+    "definition": "traveling salesman; itinerant trader; hawker; peddler"
+  },
+  "行善": {
+    "pinyin": "xing2 shan4",
+    "definition": "to do good works; to be merciful"
+  },
+  "行囊": {
+    "pinyin": "xing2 nang2",
+    "definition": "traveling bag; luggage"
+  },
+  "行好": {
+    "pinyin": "xing2 hao3",
+    "definition": "to be charitable; to do a good deed"
+  },
+  "行客": {
+    "pinyin": "xing2 ke4",
+    "definition": "visitor; traveler"
+  },
+  "行宮": {
+    "pinyin": "xing2 gong1",
+    "definition": "temporary imperial residence"
+  },
+  "行家": {
+    "pinyin": "hang2 jia1",
+    "definition": "connoisseur; expert; veteran"
+  },
+  "行家裡手": {
+    "pinyin": "hang2 jia1 li3 shou3",
+    "definition": "connoisseur; expert"
+  },
+  "行將": {
+    "pinyin": "xing2 jiang1",
+    "definition": "ready to start on sth; about to act"
+  },
+  "行將告罄": {
+    "pinyin": "xing2 jiang1 gao4 qing4",
+    "definition": "to run short (idiom)"
+  },
+  "行將就木": {
+    "pinyin": "xing2 jiang1 jiu4 mu4",
+    "definition": "to approach one's coffin (idiom); with one foot in the grave"
+  },
+  "行將結束": {
+    "pinyin": "xing2 jiang1 jie2 shu4",
+    "definition": "approaching the end; about to conclude"
+  },
+  "行屍走肉": {
+    "pinyin": "xing2 shi1 zou3 rou4",
+    "definition": "walking corpse (idiom); zombie; person who lives only on the material level"
+  },
+  "行市": {
+    "pinyin": "hang2 shi4",
+    "definition": "quotation on market price"
+  },
+  "行徑": {
+    "pinyin": "xing2 jing4",
+    "definition": "(usu. pejorative) conduct; behavior; act; path; trail"
+  },
+  "行得通": {
+    "pinyin": "xing2 de5 tong1",
+    "definition": "practicable; realizable; will work"
+  },
+  "行情": {
+    "pinyin": "hang2 qing2",
+    "definition": "market price; quotation of market price; the current market situation"
+  },
+  "行房": {
+    "pinyin": "xing2 fang2",
+    "definition": "euphemism for sexual intercourse; to go to bed with sb"
+  },
+  "行拘": {
+    "pinyin": "xing2 ju1",
+    "definition": "to arrest without trial or charge (i.e. administrative detention) (abbr. for 行政拘留[xing2zheng4 ju1liu2]); (old) to arrest"
+  },
+  "行政": {
+    "pinyin": "xing2 zheng4",
+    "definition": "administration; (attributive) administrative; executive"
+  },
+  "行政公署": {
+    "pinyin": "xing2 zheng4 gong1 shu3",
+    "definition": "administrative office"
+  },
+  "行政區": {
+    "pinyin": "xing2 zheng4 qu1",
+    "definition": "administrative district"
+  },
+  "行政區劃": {
+    "pinyin": "xing2 zheng4 qu1 hua4",
+    "definition": "administrative subdivision"
+  },
+  "行政區劃圖": {
+    "pinyin": "xing2 zheng4 qu1 hua4 tu2",
+    "definition": "political map"
+  },
+  "行政區域": {
+    "pinyin": "xing2 zheng4 qu1 yu4",
+    "definition": "administrative area"
+  },
+  "行政區畫": {
+    "pinyin": "xing2 zheng4 qu1 hua4",
+    "definition": "administrative subdivision (e.g. of provinces into counties)"
+  },
+  "行政命令": {
+    "pinyin": "xing2 zheng4 ming4 ling4",
+    "definition": "executive order"
+  },
+  "行政員": {
+    "pinyin": "xing2 zheng4 yuan2",
+    "definition": "administrator"
+  },
+  "行政單位": {
+    "pinyin": "xing2 zheng4 dan1 wei4",
+    "definition": "administrative unit (e.g. province 省[sheng3], prefecture 地區|地区[di4 qu1] or county 縣|县[xian4])"
+  },
+  "行政拘留": {
+    "pinyin": "xing2 zheng4 ju1 liu2",
+    "definition": "to incarcerate sb for a violation of administrative law, typically for 10 days or less; administrative detention"
+  },
+  "行政救濟": {
+    "pinyin": "xing2 zheng4 jiu4 ji4",
+    "definition": "administrative remedy"
+  },
+  "行政會議": {
+    "pinyin": "Xing2 zheng4 Hui4 yi4",
+    "definition": "Executive Council (Hong Kong)"
+  },
+  "行政機關": {
+    "pinyin": "xing2 zheng4 ji1 guan1",
+    "definition": "administrative authority; branch of government"
+  },
+  "行政權": {
+    "pinyin": "xing2 zheng4 quan2",
+    "definition": "administrative authority; executive power"
+  },
+  "行政法": {
+    "pinyin": "xing2 zheng4 fa3",
+    "definition": "administrative law"
+  },
+  "行政管理": {
+    "pinyin": "xing2 zheng4 guan3 li3",
+    "definition": "administration; administrative management"
+  },
+  "行政總廚": {
+    "pinyin": "xing2 zheng4 zong3 chu2",
+    "definition": "executive chef"
+  },
+  "行政部門": {
+    "pinyin": "xing2 zheng4 bu4 men2",
+    "definition": "administrative department; administration; executive (government branch)"
+  },
+  "行政長官": {
+    "pinyin": "xing2 zheng4 zhang3 guan1",
+    "definition": "chief executive; magistrate"
+  },
+  "行政院": {
+    "pinyin": "Xing2 zheng4 yuan4",
+    "definition": "Executive Yuan, the executive branch of government under the constitution of Republic of China, then of Taiwan"
+  },
+  "行文": {
+    "pinyin": "xing2 wen2",
+    "definition": "writing style (formal); to send an official written communication"
+  },
+  "行旅": {
+    "pinyin": "xing2 lu:3",
+    "definition": "traveler; wanderer; vagabond; rolling stone"
+  },
+  "行星": {
+    "pinyin": "xing2 xing1",
+    "definition": "planet; CL:顆|颗[ke1]"
+  },
+  "行星際": {
+    "pinyin": "xing2 xing1 ji4",
+    "definition": "interplanetary"
+  },
+  "行書": {
+    "pinyin": "xing2 shu1",
+    "definition": "running script; semicursive script (Chinese calligraphic style)"
+  },
+  "行會": {
+    "pinyin": "xing2 hui4",
+    "definition": "(HK) executive council (abbr. for 行政會議|行政会议[xing2zheng4 hui4yi4])"
+  },
+  "行有餘力": {
+    "pinyin": "xing2 you3 yu2 li4",
+    "definition": "after that, any remaining energy (idiom from Analects); time for extracurricular activities"
+  },
+  "行期": {
+    "pinyin": "xing2 qi1",
+    "definition": "departure date"
+  },
+  "行李": {
+    "pinyin": "xing2 li5",
+    "definition": "luggage; CL:件[jian4]"
+  },
+  "行李傳送帶": {
+    "pinyin": "xing2 li5 chuan2 song4 dai4",
+    "definition": "luggage conveyor belt; baggage carousel"
+  },
+  "行李員": {
+    "pinyin": "xing2 li5 yuan2",
+    "definition": "porter; bellboy"
+  },
+  "行李房": {
+    "pinyin": "xing2 li5 fang2",
+    "definition": "luggage office"
+  },
+  "行李搬運工": {
+    "pinyin": "xing2 li3 ban1 yun4 gong1",
+    "definition": "baggage handler"
+  },
+  "行李架": {
+    "pinyin": "xing2 li5 jia4",
+    "definition": "luggage rack"
+  },
+  "行李票": {
+    "pinyin": "xing2 li5 piao4",
+    "definition": "baggage tag"
+  },
+  "行李箱": {
+    "pinyin": "xing2 li5 xiang1",
+    "definition": "suitcase; baggage compartment; overhead bin; (car) trunk; boot"
+  },
+  "行李袋": {
+    "pinyin": "xing2 li5 dai4",
+    "definition": "travel bag"
+  },
+  "行板": {
+    "pinyin": "xing2 ban3",
+    "definition": "andante; at a walking pace"
+  },
+  "行棧": {
+    "pinyin": "hang2 zhan4",
+    "definition": "warehouse"
+  },
+  "行業": {
+    "pinyin": "hang2 ye4",
+    "definition": "trade; profession; industry; business"
+  },
+  "行止": {
+    "pinyin": "xing2 zhi3",
+    "definition": "movements; attitude; behavior; whereabouts; tracks"
+  },
+  "行波管": {
+    "pinyin": "xing2 bo1 guan3",
+    "definition": "traveling wave tube (electronics)"
+  },
+  "行淫": {
+    "pinyin": "xing2 yin2",
+    "definition": "to commit adultery"
+  },
+  "行為": {
+    "pinyin": "xing2 wei2",
+    "definition": "action; conduct; behavior; activity"
+  },
+  "行為主義": {
+    "pinyin": "xing2 wei2 zhu3 yi4",
+    "definition": "behaviorism"
+  },
+  "行為數據": {
+    "pinyin": "xing2 wei2 shu4 ju4",
+    "definition": "behavioral data (marketing)"
+  },
+  "行為準則": {
+    "pinyin": "xing2 wei2 zhun3 ze2",
+    "definition": "code of conduct; standard of conduct"
+  },
+  "行為藝術": {
+    "pinyin": "xing2 wei2 yi4 shu4",
+    "definition": "performance art"
+  },
+  "行為藝術家": {
+    "pinyin": "xing2 wei2 yi4 shu4 jia1",
+    "definition": "performance artist"
+  },
+  "行狀": {
+    "pinyin": "xing2 zhuang4",
+    "definition": "(literary) brief obituary; one's past experience; one's past record; Taiwan pr. [xing4 zhuang4]"
+  },
+  "行當": {
+    "pinyin": "hang2 dang5",
+    "definition": "profession; role (acting)"
+  },
+  "行百里者半九十": {
+    "pinyin": "xing2 bai3 li3 zhe3 ban4 jiu3 shi2",
+    "definition": "lit. ninety li is merely a half of a hundred li journey (idiom); fig. the closer one is to completing a task, the tougher it gets; a task is not done until it's done"
+  },
+  "行省": {
+    "pinyin": "xing2 sheng3",
+    "definition": "province (old)"
+  },
+  "行禮": {
+    "pinyin": "xing2 li3",
+    "definition": "to salute; to make one's salutations"
+  },
+  "行禮如儀": {
+    "pinyin": "xing2 li3 ru2 yi2",
+    "definition": "to perform the ritual bows; to follow the customary ceremonies"
+  },
+  "行程": {
+    "pinyin": "xing2 cheng2",
+    "definition": "journey; travel route; distance of travel; course (of history); stroke (of a piston); (Tw) (computing) process"
+  },
+  "行程單": {
+    "pinyin": "xing2 cheng2 dan1",
+    "definition": "(e-ticket) itinerary receipt"
+  },
+  "行竊": {
+    "pinyin": "xing2 qie4",
+    "definition": "to steal; to commit a robbery"
+  },
+  "行篋": {
+    "pinyin": "xing2 qie4",
+    "definition": "traveling suitcase"
+  },
+  "行經": {
+    "pinyin": "xing2 jing1",
+    "definition": "to pass by; menstruation"
+  },
+  "行署": {
+    "pinyin": "xing2 shu3",
+    "definition": "administrative office"
+  },
+  "行者": {
+    "pinyin": "xing2 zhe3",
+    "definition": "pedestrian; walker; itinerant monk"
+  },
+  "行腳": {
+    "pinyin": "xing2 jiao3",
+    "definition": "(of a monk) to travel; itinerant"
+  },
+  "行船": {
+    "pinyin": "xing2 chuan2",
+    "definition": "to sail a boat; to navigate"
+  },
+  "行色匆匆": {
+    "pinyin": "xing2 se4 cong1 cong1",
+    "definition": "hurried; in a haste"
+  },
+  "行草": {
+    "pinyin": "xing2 cao3",
+    "definition": "semicursive script"
+  },
+  "行萬里路勝讀萬捲書": {
+    "pinyin": "xing2 wan4 li3 lu4 sheng4 du2 wan4 juan3 shu1",
+    "definition": "to travel a thousand miles beats reading a thousand books"
+  },
+  "行號": {
+    "pinyin": "hang2 hao4",
+    "definition": "(computing) (text file) line number; (data table or spreadsheet) row number; (Tw) unincorporated firm (typically a smaller business such as a sole proprietorship or partnership)"
+  },
+  "行行出狀元": {
+    "pinyin": "hang2 hang2 chu1 zhuang4 yuan2",
+    "definition": "lit. in every trade, a master appears (idiom); fig. You can produce outstanding achievements in any task, provided you put it enough love and diligence"
+  },
+  "行裝": {
+    "pinyin": "xing2 zhuang1",
+    "definition": "clothes and other items packed for traveling; baggage; luggage"
+  },
+  "行話": {
+    "pinyin": "hang2 hua4",
+    "definition": "jargon; language of the trade"
+  },
+  "行語": {
+    "pinyin": "hang2 yu3",
+    "definition": "slang; jargon; cant; lingo; patois; argot"
+  },
+  "行貨": {
+    "pinyin": "hang2 huo4",
+    "definition": "authorized goods; genuine goods; crudely-made goods"
+  },
+  "行賄": {
+    "pinyin": "xing2 hui4",
+    "definition": "to offer a bribe"
+  },
+  "行走": {
+    "pinyin": "xing2 zou3",
+    "definition": "to walk"
+  },
+  "行距": {
+    "pinyin": "hang2 ju4",
+    "definition": "row spacing"
+  },
+  "行跡": {
+    "pinyin": "xing2 ji4",
+    "definition": "tracks; traces; movements"
+  },
+  "行路": {
+    "pinyin": "xing2 lu4",
+    "definition": "to travel; transport"
+  },
+  "行蹤": {
+    "pinyin": "xing2 zong1",
+    "definition": "whereabouts; (lose) track (of)"
+  },
+  "行車": {
+    "pinyin": "xing2 che1",
+    "definition": "to drive a vehicle; movement of vehicles"
+  },
+  "行車記錄儀": {
+    "pinyin": "xing2 che1 ji4 lu4 yi2",
+    "definition": "dashcam"
+  },
+  "行軍": {
+    "pinyin": "xing2 jun1",
+    "definition": "(of troops) to march"
+  },
+  "行軍床": {
+    "pinyin": "xing2 jun1 chuang2",
+    "definition": "camp bed; bivouac"
+  },
+  "行軍禮": {
+    "pinyin": "xing2 jun1 li3",
+    "definition": "military salute"
+  },
+  "行輩": {
+    "pinyin": "hang2 bei4",
+    "definition": "generation and age ranking; seniority"
+  },
+  "行進": {
+    "pinyin": "xing2 jin4",
+    "definition": "to advance; forward motion"
+  },
+  "行進擋": {
+    "pinyin": "xing2 jin4 dang3",
+    "definition": "forward gear"
+  },
+  "行道": {
+    "pinyin": "xing2 dao4",
+    "definition": "path; road"
+  },
+  "行道樹": {
+    "pinyin": "xing2 dao4 shu4",
+    "definition": "roadside tree; street tree"
+  },
+  "行酒令": {
+    "pinyin": "xing2 jiu3 ling4",
+    "definition": "to play a drinking game"
+  },
+  "行醫": {
+    "pinyin": "xing2 yi1",
+    "definition": "to practice medicine (esp. in private practice)"
+  },
+  "行銷": {
+    "pinyin": "xing2 xiao1",
+    "definition": "to sell; to market; marketing"
+  },
+  "行銷訴求": {
+    "pinyin": "xing2 xiao1 su4 qiu2",
+    "definition": "marketing message"
+  },
+  "行長": {
+    "pinyin": "hang2 zhang3",
+    "definition": "bank president"
+  },
+  "行間": {
+    "pinyin": "hang2 jian1",
+    "definition": "between rows"
+  },
+  "行雲流水": {
+    "pinyin": "xing2 yun2 liu2 shui3",
+    "definition": "lit. moving clouds and flowing water (idiom); fig. very natural and flowing style of calligraphy, writing, etc; natural and unforced"
+  },
+  "行頭": {
+    "pinyin": "xing2 tou5",
+    "definition": "a person's clothing; outfit; actor's costume"
+  },
+  "行駛": {
+    "pinyin": "xing2 shi3",
+    "definition": "to travel along a route (of vehicles etc)"
+  },
+  "行騙": {
+    "pinyin": "xing2 pian4",
+    "definition": "to cheat; to deceive"
+  },
+  "行體": {
+    "pinyin": "xing2 ti3",
+    "definition": "see 行書|行书[xing2 shu1]"
+  }
+}

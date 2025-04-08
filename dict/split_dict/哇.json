@@ -1,0 +1,30 @@
+{
+  "哇": {
+    "pinyin": "wa5",
+    "definition": "replaces 啊[a5] when following the vowel \"u\" or \"ao\""
+  },
+  "哇哇": {
+    "pinyin": "wa1 wa1",
+    "definition": "sound of crying"
+  },
+  "哇噻": {
+    "pinyin": "wa1 sai1",
+    "definition": "variant of 哇塞[wa1sai1]"
+  },
+  "哇塞": {
+    "pinyin": "wa1 sai1",
+    "definition": "(slang) wow!; also pr. [wa1 sei1]"
+  },
+  "哇沙比": {
+    "pinyin": "wa1 sha1 bi3",
+    "definition": "wasabi (loanword) (Tw)"
+  },
+  "哇沙米": {
+    "pinyin": "wa1 sha1 mi3",
+    "definition": "wasabi (loanword) (Tw)"
+  },
+  "哇靠": {
+    "pinyin": "wa1 kao4",
+    "definition": "(Tw) whoa!; holy crap! jeez! (from Taiwanese 我哭, Tai-lo pr. [goá khàu], \"I cry!\")"
+  }
+}

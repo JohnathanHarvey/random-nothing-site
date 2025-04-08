@@ -1,0 +1,682 @@
+{
+  "風": {
+    "pinyin": "feng1",
+    "definition": "wind; news; style; custom; manner; CL:陣|阵[zhen4],絲|丝[si1]"
+  },
+  "風中之燭": {
+    "pinyin": "feng1 zhong1 zhi1 zhu2",
+    "definition": "lit. candle in the wind (idiom); fig. (of sb's life) feeble; hanging on a thread"
+  },
+  "風中燭，瓦上霜": {
+    "pinyin": "feng1 zhong1 zhu2 , wa3 shang4 shuang1",
+    "definition": "lit. like a candle in the wind, or frost on the roof (idiom); fig. (of sb's life) feeble; hanging on a thread"
+  },
+  "風乾": {
+    "pinyin": "feng1 gan1",
+    "definition": "to air-dry; to season (timber etc); air-dried; air-drying"
+  },
+  "風俗": {
+    "pinyin": "feng1 su2",
+    "definition": "social custom; CL:個|个[ge4]"
+  },
+  "風信子": {
+    "pinyin": "feng1 xin4 zi3",
+    "definition": "hyacinth (flower)"
+  },
+  "風傳": {
+    "pinyin": "feng1 chuan2",
+    "definition": "it is rumored that"
+  },
+  "風光": {
+    "pinyin": "feng1 guang1",
+    "definition": "scene; view; sight; landscape; to be well-regarded; to be well-off; grand (dialect); impressive (dialect)"
+  },
+  "風光旖旎": {
+    "pinyin": "feng1 guang1 - yi3 ni3",
+    "definition": "(idiom) idyllic scenery; picturesque landscape"
+  },
+  "風冷": {
+    "pinyin": "feng1 leng3",
+    "definition": "to air-cool"
+  },
+  "風切變": {
+    "pinyin": "feng1 qie1 bian4",
+    "definition": "wind shear (meteorology)"
+  },
+  "風力": {
+    "pinyin": "feng1 li4",
+    "definition": "wind force; wind power"
+  },
+  "風力水車": {
+    "pinyin": "feng1 li4 shui3 che1",
+    "definition": "wind-powered waterwheel"
+  },
+  "風力發電廠": {
+    "pinyin": "feng1 li4 fa1 dian4 chang3",
+    "definition": "wind farm; wind park"
+  },
+  "風化": {
+    "pinyin": "feng1 hua4",
+    "definition": "decency; public morals; to weather (rocks); wind erosion"
+  },
+  "風化作用": {
+    "pinyin": "feng1 hua4 zuo4 yong4",
+    "definition": "weathering (of rocks); erosion (by wind etc)"
+  },
+  "風化區": {
+    "pinyin": "feng1 hua4 qu1",
+    "definition": "see 紅燈區|红灯区[hong2 deng1 qu1]"
+  },
+  "風口": {
+    "pinyin": "feng1 kou3",
+    "definition": "air vent; drafty place; wind gap (geology); tuyere (furnace air nozzle); (fig.) hot trend; fad"
+  },
+  "風口浪尖": {
+    "pinyin": "feng1 kou3 lang4 jian1",
+    "definition": "where the wind and the waves are the fiercest; at the heart of the struggle"
+  },
+  "風向": {
+    "pinyin": "feng1 xiang4",
+    "definition": "wind direction; the way the wind is blowing; fig. trends (esp. unpredictable ones); how things are developing; course of events"
+  },
+  "風向標": {
+    "pinyin": "feng1 xiang4 biao1",
+    "definition": "vane; propellor blade; weather vane; windsock"
+  },
+  "風吹日曬": {
+    "pinyin": "feng1 chui1 ri4 shai4",
+    "definition": "(idiom) to be exposed to the elements"
+  },
+  "風吹草動": {
+    "pinyin": "feng1 chui1 - cao3 dong4",
+    "definition": "lit. grass stirring in the wind (idiom); fig. the slightest whiff of trouble"
+  },
+  "風吹雨打": {
+    "pinyin": "feng1 chui1 yu3 da3",
+    "definition": "lit. windswept and battered by rain; to undergo hardship (idiom)"
+  },
+  "風味": {
+    "pinyin": "feng1 wei4",
+    "definition": "distinctive flavor; distinctive style"
+  },
+  "風和日暄": {
+    "pinyin": "feng1 he2 ri4 xuan1",
+    "definition": "gentle wind and warm sunshine (idiom)"
+  },
+  "風和日暖": {
+    "pinyin": "feng1 he2 ri4 nuan3",
+    "definition": "gentle wind and warm sunshine (idiom)"
+  },
+  "風和日麗": {
+    "pinyin": "feng1 he2 ri4 li4",
+    "definition": "moderate wind, beautiful sun (idiom); fine sunny weather, esp. in springtime"
+  },
+  "風喻": {
+    "pinyin": "feng1 yu4",
+    "definition": "see 諷喻|讽喻[feng3 yu4]"
+  },
+  "風圈": {
+    "pinyin": "feng1 quan1",
+    "definition": "ring around the moon; lunar halo; solar halo"
+  },
+  "風土": {
+    "pinyin": "feng1 tu3",
+    "definition": "natural conditions and social customs of a place; local conditions"
+  },
+  "風土人情": {
+    "pinyin": "feng1 tu3 ren2 qing2",
+    "definition": "local conditions and customs (idiom)"
+  },
+  "風城": {
+    "pinyin": "Feng1 cheng2",
+    "definition": "the Windy City, nickname for Chicago 芝加哥[Zhi1jia1ge1], Wellington, New Zealand 惠靈頓|惠灵顿[Hui4ling2dun4] and Hsinchu, Taiwan 新竹[Xin1zhu2]"
+  },
+  "風場": {
+    "pinyin": "feng1 chang3",
+    "definition": "wind farm"
+  },
+  "風塵": {
+    "pinyin": "feng1 chen2",
+    "definition": "windblown dust; hardships of travel; vicissitudes of life; prostitution"
+  },
+  "風塵僕僕": {
+    "pinyin": "feng1 chen2 pu2 pu2",
+    "definition": "lit. covered in dust (idiom); fig. travel-worn"
+  },
+  "風姿": {
+    "pinyin": "feng1 zi1",
+    "definition": "good looks; good figure; graceful bearing; charm"
+  },
+  "風姿綽約": {
+    "pinyin": "feng1 zi1 - chuo4 yue1",
+    "definition": "(idiom) graceful; lovely"
+  },
+  "風寒": {
+    "pinyin": "feng1 han2",
+    "definition": "wind chill; cold weather; common cold (medicine)"
+  },
+  "風尚": {
+    "pinyin": "feng1 shang4",
+    "definition": "current custom; current way of doing things"
+  },
+  "風帆": {
+    "pinyin": "feng1 fan1",
+    "definition": "sail; sailing boat"
+  },
+  "風平浪靜": {
+    "pinyin": "feng1 ping2 lang4 jing4",
+    "definition": "lit. breeze is still, waves are quiet (idiom); tranquil environment; all is quiet; a dead calm (at sea)"
+  },
+  "風度": {
+    "pinyin": "feng1 du4",
+    "definition": "elegance (for men); elegant demeanor; grace; poise"
+  },
+  "風恬浪靜": {
+    "pinyin": "feng1 tian2 lang4 jing4",
+    "definition": "lit. breeze is still, waves are quiet (idiom); tranquil environment; All is quiet.; a dead calm (at sea)"
+  },
+  "風情": {
+    "pinyin": "feng1 qing2",
+    "definition": "mien; bearing; grace; amorous feelings; flirtatious expressions; local conditions and customs; wind force, direction etc"
+  },
+  "風情萬種": {
+    "pinyin": "feng1 qing2 wan4 zhong3",
+    "definition": "(idiom) captivating; charming"
+  },
+  "風成": {
+    "pinyin": "feng1 cheng2",
+    "definition": "produced by wind; eolian"
+  },
+  "風扇": {
+    "pinyin": "feng1 shan4",
+    "definition": "electric fan"
+  },
+  "風投": {
+    "pinyin": "feng1 tou2",
+    "definition": "venture capital investment (abbr. for 風險投資|风险投资[feng1 xian3 tou2 zi1])"
+  },
+  "風控": {
+    "pinyin": "feng1 kong4",
+    "definition": "risk control (abbr. for 風險控制|风险控制[feng1 xian3 kong4 zhi4])"
+  },
+  "風擋": {
+    "pinyin": "feng1 dang3",
+    "definition": "windshield"
+  },
+  "風景": {
+    "pinyin": "feng1 jing3",
+    "definition": "scenery; landscape"
+  },
+  "風景線": {
+    "pinyin": "feng1 jing3 xian4",
+    "definition": "a strip of scenic beauty (coast, river, road etc); (fig.) an eye-catching feature"
+  },
+  "風暴": {
+    "pinyin": "feng1 bao4",
+    "definition": "storm; violent commotion; fig. crisis (e.g. revolution, uprising, financial crisis etc)"
+  },
+  "風暴潮": {
+    "pinyin": "feng1 bao4 chao2",
+    "definition": "storm surge"
+  },
+  "風月": {
+    "pinyin": "feng1 yue4",
+    "definition": "romance; beautiful scenery; small or petty (of talk etc)"
+  },
+  "風格": {
+    "pinyin": "feng1 ge2",
+    "definition": "style"
+  },
+  "風標": {
+    "pinyin": "feng1 biao1",
+    "definition": "wind vane; anemometer; weathercock; fig. person who switches allegiance readily; turncoat"
+  },
+  "風機": {
+    "pinyin": "feng1 ji1",
+    "definition": "fan; ventilator"
+  },
+  "風檔玻璃": {
+    "pinyin": "feng1 dang4 bo1 li5",
+    "definition": "windscreen (car window)"
+  },
+  "風氣": {
+    "pinyin": "feng1 qi4",
+    "definition": "general mood; atmosphere; common practice"
+  },
+  "風水": {
+    "pinyin": "feng1 shui3",
+    "definition": "feng shui; geomancy"
+  },
+  "風水先生": {
+    "pinyin": "feng1 shui3 xian1 sheng5",
+    "definition": "feng shui master; geomancer; stock figure in folk tales, as a wise adviser or a charlatan"
+  },
+  "風水輪流": {
+    "pinyin": "feng1 shui3 - lun2 liu2",
+    "definition": "see 風水輪流轉|风水轮流转[feng1shui3 lun2liu2 zhuan4]"
+  },
+  "風水輪流轉": {
+    "pinyin": "feng1 shui3 lun2 liu2 zhuan4",
+    "definition": "fortunes rise and fall; times change"
+  },
+  "風沙": {
+    "pinyin": "feng1 sha1",
+    "definition": "sand blown by wind; sandstorm"
+  },
+  "風油精": {
+    "pinyin": "feng1 you2 jing1",
+    "definition": "essential balm containing menthol, eucalyptus oil etc, used as a mosquito repellant"
+  },
+  "風波": {
+    "pinyin": "feng1 bo1",
+    "definition": "disturbance; crisis; disputes; restlessness; CL:場|场[chang2]"
+  },
+  "風波不斷": {
+    "pinyin": "feng1 bo1 bu4 duan4",
+    "definition": "constantly in turmoil; crisis after crisis"
+  },
+  "風洞": {
+    "pinyin": "feng1 dong4",
+    "definition": "wind tunnel"
+  },
+  "風流": {
+    "pinyin": "feng1 liu2",
+    "definition": "distinguished and accomplished; outstanding; talented in letters and unconventional in lifestyle; romantic; dissolute; loose"
+  },
+  "風流佳話": {
+    "pinyin": "feng1 liu2 jia1 hua4",
+    "definition": "romance; romantic affair"
+  },
+  "風流倜儻": {
+    "pinyin": "feng1 liu2 - ti4 tang3",
+    "definition": "(idiom) suave; debonair; dashing"
+  },
+  "風流債": {
+    "pinyin": "feng1 liu2 zhai4",
+    "definition": "lit. love debt; fig. moral obligation in consequence of a love affair; karmic consequences of a love affair"
+  },
+  "風流蘊藉": {
+    "pinyin": "feng1 liu2 yun4 jie4",
+    "definition": "temperate and refined"
+  },
+  "風流雲散": {
+    "pinyin": "feng1 liu2 yun2 san4",
+    "definition": "lit. dispersed by wind and scattered like clouds (idiom); fig. scattered far and wide (of friends and relatives)"
+  },
+  "風流韻事": {
+    "pinyin": "feng1 liu2 yun4 shi4",
+    "definition": "poetic and passionate (idiom); romance; love affair"
+  },
+  "風浪": {
+    "pinyin": "feng1 lang4",
+    "definition": "wind and waves; rough waters; (fig.) hardship"
+  },
+  "風浪板": {
+    "pinyin": "feng1 lang4 ban3",
+    "definition": "(Tw) windsurfing; sailboard"
+  },
+  "風涼話": {
+    "pinyin": "feng1 liang2 hua4",
+    "definition": "sneering; sarcasm; cynical remarks"
+  },
+  "風潑": {
+    "pinyin": "feng1 po1",
+    "definition": "crazy"
+  },
+  "風潮": {
+    "pinyin": "feng1 chao2",
+    "definition": "tempest; wave (of popular sentiment etc); craze or fad"
+  },
+  "風濕": {
+    "pinyin": "feng1 shi1",
+    "definition": "rheumatism"
+  },
+  "風濕性關節炎": {
+    "pinyin": "feng1 shi1 xing4 guan1 jie2 yan2",
+    "definition": "rheumatoid arthritis"
+  },
+  "風濕熱": {
+    "pinyin": "feng1 shi1 re4",
+    "definition": "rheumatic fever"
+  },
+  "風濕關節炎": {
+    "pinyin": "feng1 shi1 guan1 jie2 yan2",
+    "definition": "rheumatoid arthritis"
+  },
+  "風火輪": {
+    "pinyin": "feng1 huo3 lun2",
+    "definition": "(martial arts) wind-and-fire wheel, weapon used in hand-to-hand fighting; (Daoism) a magical pair of wheels on which one can stand to ride at great speed, used by Nezha 哪吒[Ne2 zha5]; (fig.) never-ending treadmill"
+  },
+  "風災": {
+    "pinyin": "feng1 zai1",
+    "definition": "damaging storm; destructive typhoon"
+  },
+  "風燭殘年": {
+    "pinyin": "feng1 zhu2 can2 nian2",
+    "definition": "one's late days; to have one foot in the grave"
+  },
+  "風物": {
+    "pinyin": "feng1 wu4",
+    "definition": "scenery; sights"
+  },
+  "風琴": {
+    "pinyin": "feng1 qin2",
+    "definition": "pipe organ (musical instrument)"
+  },
+  "風生水起": {
+    "pinyin": "feng1 sheng1 shui3 qi3",
+    "definition": "lit. a breeze springs up and creates waves on the water (idiom); fig. flourishing; thriving; prosperous"
+  },
+  "風疹": {
+    "pinyin": "feng1 zhen3",
+    "definition": "rubella; urticaria"
+  },
+  "風痱": {
+    "pinyin": "feng1 fei4",
+    "definition": "(TCM) hemiplegia due to an apoplectic stroke"
+  },
+  "風癱": {
+    "pinyin": "feng1 tan1",
+    "definition": "to be paralyzed"
+  },
+  "風穴": {
+    "pinyin": "feng1 xue2",
+    "definition": "wind cave"
+  },
+  "風窗": {
+    "pinyin": "feng1 chuang1",
+    "definition": "air vent; louver; window"
+  },
+  "風笛": {
+    "pinyin": "feng1 di2",
+    "definition": "bagpipes"
+  },
+  "風箏": {
+    "pinyin": "feng1 zheng5",
+    "definition": "kite (Etymology: Kites with bamboo whistles attached produced musical sounds when flown.)"
+  },
+  "風箏衝浪": {
+    "pinyin": "feng1 zheng5 chong1 lang4",
+    "definition": "kitesurfing"
+  },
+  "風箱": {
+    "pinyin": "feng1 xiang1",
+    "definition": "bellows"
+  },
+  "風範": {
+    "pinyin": "feng1 fan4",
+    "definition": "air; manner; model; paragon; demeanor"
+  },
+  "風紀": {
+    "pinyin": "feng1 ji4",
+    "definition": "standard of behavior; moral standards; discipline"
+  },
+  "風聞": {
+    "pinyin": "feng1 wen2",
+    "definition": "to learn sth through hearsay; to get wind of sth"
+  },
+  "風聲": {
+    "pinyin": "feng1 sheng1",
+    "definition": "sound of the wind; rumor; talk; news; reputation"
+  },
+  "風聲緊": {
+    "pinyin": "feng1 sheng1 jin3",
+    "definition": "(fig.) the situation is tense"
+  },
+  "風聲鶴唳": {
+    "pinyin": "feng1 sheng1 he4 li4",
+    "definition": "lit. wind sighing and crane calling (idiom); fig. to panic at the slightest move; to be jittery"
+  },
+  "風能": {
+    "pinyin": "feng1 neng2",
+    "definition": "wind power"
+  },
+  "風致": {
+    "pinyin": "feng1 zhi4",
+    "definition": "natural charm; grace"
+  },
+  "風花雪月": {
+    "pinyin": "feng1 hua1 xue3 yue4",
+    "definition": "wind, flower, snow and moon, trite poetry subject (idiom); effete language without substance; love affair; romance is in the air; dissipated life"
+  },
+  "風華": {
+    "pinyin": "feng1 hua2",
+    "definition": "magnificent"
+  },
+  "風華正茂": {
+    "pinyin": "feng1 hua2 zheng4 mao4",
+    "definition": "in one's prime"
+  },
+  "風華絕代": {
+    "pinyin": "feng1 hua2 jue2 dai4",
+    "definition": "magnificent style unmatched in his generation (idiom); peerless talent"
+  },
+  "風蝕": {
+    "pinyin": "feng1 shi2",
+    "definition": "wind erosion"
+  },
+  "風行": {
+    "pinyin": "feng1 xing2",
+    "definition": "to become fashionable; to catch on; to be popular"
+  },
+  "風行一時": {
+    "pinyin": "feng1 xing2 yi1 shi2",
+    "definition": "to be popular for a while; to be all the rage for a time"
+  },
+  "風衣": {
+    "pinyin": "feng1 yi1",
+    "definition": "windbreaker; wind cheater; wind jacket; CL:件[jian4]"
+  },
+  "風評": {
+    "pinyin": "feng1 ping2",
+    "definition": "reputation"
+  },
+  "風調": {
+    "pinyin": "feng1 diao4",
+    "definition": "character (of a person, verse, object etc); style"
+  },
+  "風調雨順": {
+    "pinyin": "feng1 tiao2 - yu3 shun4",
+    "definition": "(idiom) to have good weather for crops"
+  },
+  "風諭": {
+    "pinyin": "feng1 yu4",
+    "definition": "see 諷喻|讽喻[feng3 yu4]"
+  },
+  "風貌": {
+    "pinyin": "feng1 mao4",
+    "definition": "style; manner; ethos"
+  },
+  "風起潮湧": {
+    "pinyin": "feng1 qi3 chao2 yong3",
+    "definition": "lit. wind rises, tide bubbles up; turbulent times; violent development (idiom)"
+  },
+  "風起雲湧": {
+    "pinyin": "feng1 qi3 yun2 yong3",
+    "definition": "to surge like a gathering storm (idiom); to grow by leaps and bounds"
+  },
+  "風趣": {
+    "pinyin": "feng1 qu4",
+    "definition": "charm; humor; wit; humorous; witty"
+  },
+  "風趣橫生": {
+    "pinyin": "feng1 qu4 heng2 sheng1",
+    "definition": "(idiom) spiced with wit; very witty"
+  },
+  "風車": {
+    "pinyin": "feng1 che1",
+    "definition": "pinwheel; windmill"
+  },
+  "風速": {
+    "pinyin": "feng1 su4",
+    "definition": "wind speed"
+  },
+  "風速計": {
+    "pinyin": "feng1 su4 ji4",
+    "definition": "anemometer"
+  },
+  "風邪": {
+    "pinyin": "feng1 xie2",
+    "definition": "pathogenic influence (TCM)"
+  },
+  "風采": {
+    "pinyin": "feng1 cai3",
+    "definition": "svelte; elegant manner; graceful bearing"
+  },
+  "風鈴": {
+    "pinyin": "feng1 ling2",
+    "definition": "wind chimes"
+  },
+  "風鏡": {
+    "pinyin": "feng1 jing4",
+    "definition": "goggles (esp. against wind and sandstorms)"
+  },
+  "風鑽": {
+    "pinyin": "feng1 zuan4",
+    "definition": "pneumatic drill; jackhammer"
+  },
+  "風阻尼器": {
+    "pinyin": "feng1 zu3 ni2 qi4",
+    "definition": "wind damper (engineering)"
+  },
+  "風險": {
+    "pinyin": "feng1 xian3",
+    "definition": "risk; hazard"
+  },
+  "風險估計": {
+    "pinyin": "feng1 xian3 gu1 ji4",
+    "definition": "risk assessment"
+  },
+  "風險投資": {
+    "pinyin": "feng1 xian3 tou2 zi1",
+    "definition": "venture capital investment"
+  },
+  "風險管理": {
+    "pinyin": "feng1 xian3 guan3 li3",
+    "definition": "risk management"
+  },
+  "風雅": {
+    "pinyin": "feng1 ya3",
+    "definition": "cultured; sophisticated"
+  },
+  "風雨": {
+    "pinyin": "feng1 yu3",
+    "definition": "wind and rain; the elements; (fig.) trials and hardships"
+  },
+  "風雨同舟": {
+    "pinyin": "feng1 yu3 tong2 zhou1",
+    "definition": "lit. in the same boat under wind and rain (idiom); fig. to stick together in hard times"
+  },
+  "風雨如晦": {
+    "pinyin": "feng1 yu3 ru2 hui4",
+    "definition": "lit. wind and rain darken the sky (idiom); fig. the situation looks grim"
+  },
+  "風雨晦冥": {
+    "pinyin": "feng1 yu3 hui4 ming2",
+    "definition": "conditions of extreme adversity (idiom)"
+  },
+  "風雨欲來": {
+    "pinyin": "feng1 yu3 yu4 lai2",
+    "definition": "lit. storm clouds approach; troubles lie ahead (idiom)"
+  },
+  "風雨淒淒": {
+    "pinyin": "feng1 yu3 qi1 qi1",
+    "definition": "wretched wind and rain"
+  },
+  "風雨漂搖": {
+    "pinyin": "feng1 yu3 piao1 yao2",
+    "definition": "tossed about by the wind and rain (idiom); (of a situation) unstable"
+  },
+  "風雨無阻": {
+    "pinyin": "feng1 yu3 wu2 zu3",
+    "definition": "regardless of weather conditions; rain, hail or shine"
+  },
+  "風雨飄搖": {
+    "pinyin": "feng1 yu3 piao1 yao2",
+    "definition": "tossed about by the wind and rain (idiom); (of a situation) unstable"
+  },
+  "風雲": {
+    "pinyin": "feng1 yun2",
+    "definition": "weather; unstable situation"
+  },
+  "風雲人物": {
+    "pinyin": "feng1 yun2 ren2 wu4",
+    "definition": "the man (or woman) of the moment (idiom); influential figure"
+  },
+  "風雲變幻": {
+    "pinyin": "feng1 yun2 bian4 huan4",
+    "definition": "changeable situation (idiom)"
+  },
+  "風電": {
+    "pinyin": "feng1 dian4",
+    "definition": "wind power"
+  },
+  "風電廠": {
+    "pinyin": "feng1 dian4 chang3",
+    "definition": "wind farm; wind park"
+  },
+  "風霜": {
+    "pinyin": "feng1 shuang1",
+    "definition": "wind and frost; fig. hardships"
+  },
+  "風霜雨雪": {
+    "pinyin": "feng1 - shuang1 - yu3 - xue3",
+    "definition": "lit. wind, frost, rain and snow (idiom); fig. all kinds of trials and hardships"
+  },
+  "風靡": {
+    "pinyin": "feng1 mi3",
+    "definition": "fashionable; popular"
+  },
+  "風靡一時": {
+    "pinyin": "feng1 mi3 yi1 shi2",
+    "definition": "fashionable for a while (idiom); all the rage"
+  },
+  "風韻": {
+    "pinyin": "feng1 yun4",
+    "definition": "charm; grace; elegant bearing (usually feminine)"
+  },
+  "風韻猶存": {
+    "pinyin": "feng1 yun4 you2 cun2",
+    "definition": "(of an aging woman) still attractive"
+  },
+  "風頭": {
+    "pinyin": "feng1 tou2",
+    "definition": "wind direction; the way the wind blows; fig. trend; direction of events; how things develop (esp. how they affect oneself); public opinion (concerning one's actions); publicity (usually derog.); limelight"
+  },
+  "風風火火": {
+    "pinyin": "feng1 feng1 huo3 huo3",
+    "definition": "bustling; energetic"
+  },
+  "風風雨雨": {
+    "pinyin": "feng1 feng1 yu3 yu3",
+    "definition": "trials and tribulations; ups and downs"
+  },
+  "風餐露宿": {
+    "pinyin": "feng1 can1 lu4 su4",
+    "definition": "lit. to eat in the open air and sleep outdoors (idiom); fig. to rough it"
+  },
+  "風馬旗": {
+    "pinyin": "feng1 ma3 qi2",
+    "definition": "Tibetan prayer flag"
+  },
+  "風馬牛不相及": {
+    "pinyin": "feng1 ma3 niu2 bu4 xiang1 ji2",
+    "definition": "to be completely unrelated to one another (idiom); irrelevant"
+  },
+  "風馳電掣": {
+    "pinyin": "feng1 chi2 dian4 che4",
+    "definition": "fast as lightning"
+  },
+  "風騷": {
+    "pinyin": "feng1 sao1",
+    "definition": "literary excellence; flirtatious behavior"
+  },
+  "風骨": {
+    "pinyin": "feng1 gu3",
+    "definition": "strength of character; vigorous style (of calligraphy)"
+  },
+  "風魔": {
+    "pinyin": "feng1 mo2",
+    "definition": "variant of 瘋魔|疯魔[feng1mo2]"
+  }
+}

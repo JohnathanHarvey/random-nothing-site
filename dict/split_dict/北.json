@@ -1,0 +1,822 @@
+{
+  "北": {
+    "pinyin": "bei3",
+    "definition": "north; (classical) to be defeated"
+  },
+  "北上": {
+    "pinyin": "bei3 shang4",
+    "definition": "to go up north"
+  },
+  "北上廣": {
+    "pinyin": "Bei3 Shang4 Guang3",
+    "definition": "Beijing, Shanghai and Guangzhou; abbr. for 北京、上海、廣州|北京、上海、广州"
+  },
+  "北上廣深": {
+    "pinyin": "Bei3 Shang4 Guang3 Shen1",
+    "definition": "Beijing, Shanghai, Guangzhou and Shenzhen; abbr. for 北京、上海、廣州、深圳|北京、上海、广州、深圳"
+  },
+  "北二外": {
+    "pinyin": "Bei3 Er4 wai4",
+    "definition": "abbr. for 北京第二外國語學院|北京第二外国语学院[Bei3 jing1 Di4 er4 Wai4 guo2 yu3 Xue2 yuan4]"
+  },
+  "北亞": {
+    "pinyin": "Bei3 Ya4",
+    "definition": "North Asia"
+  },
+  "北京": {
+    "pinyin": "Bei3 jing1",
+    "definition": "Beijing municipality, capital of the People's Republic of China (abbr. to 京[Jing1])"
+  },
+  "北京中醫藥大學": {
+    "pinyin": "Bei3 jing1 Zhong1 yi1 yao4 Da4 xue2",
+    "definition": "Beijing University of Chinese Medicine"
+  },
+  "北京人": {
+    "pinyin": "Bei3 jing1 ren2",
+    "definition": "Beijing resident; Peking ape-man, Homo erectus pekinensis (c. 600,000 BC), discovered in 1921 at Zhoukoudian 周口店[Zhou1 kou3 dian4], Beijing"
+  },
+  "北京南苑機場": {
+    "pinyin": "Bei3 jing1 Nan2 yuan4 Ji1 chang3",
+    "definition": "Beijing Nanyuan Airport, military air base and secondary civil airport of Beijing"
+  },
+  "北京周報": {
+    "pinyin": "Bei3 jing1 Zhou1 bao4",
+    "definition": "Beijing Review; also written 北京週報|北京周报"
+  },
+  "北京咳": {
+    "pinyin": "Bei3 jing1 ke2",
+    "definition": "\"Beijing cough\", respiratory problems caused by dry and polluted Beijing air, typically experienced by non-acclimated foreigners who would otherwise have no such problems"
+  },
+  "北京國家游泳中心": {
+    "pinyin": "Bei3 jing1 Guo2 jia1 You2 yong3 Zhong1 xin1",
+    "definition": "Beijing National Aquatics Center, swimming venue of the Beijing 2008 Olympic Games"
+  },
+  "北京國家體育場": {
+    "pinyin": "Bei3 jing1 Guo2 jia1 Ti3 yu4 chang3",
+    "definition": "Beijing National Stadium"
+  },
+  "北京外國語大學": {
+    "pinyin": "Bei3 jing1 Wai4 guo2 yu3 Da4 xue2",
+    "definition": "Beijing Foreign Studies University (BFSU)"
+  },
+  "北京大學": {
+    "pinyin": "Bei3 jing1 Da4 xue2",
+    "definition": "Peking University"
+  },
+  "北京大興國際機場": {
+    "pinyin": "Bei3 jing1 Da4 xing1 Guo2 ji4 Ji1 chang3",
+    "definition": "Beijing Daxing International Airport (PKX)"
+  },
+  "北京工人體育場": {
+    "pinyin": "Bei3 jing1 Gong1 ren2 Ti3 yu4 chang3",
+    "definition": "Workers Stadium"
+  },
+  "北京工業大學": {
+    "pinyin": "Bei3 jing1 Gong1 ye4 Da4 xue2",
+    "definition": "Beijing University of Technology"
+  },
+  "北京市": {
+    "pinyin": "Bei3 jing1 Shi4",
+    "definition": "Beijing municipality, capital of the People's Republic of China (abbr. to 京[Jing1])"
+  },
+  "北京師範大學": {
+    "pinyin": "Bei3 jing1 Shi1 fan4 Da4 xue2",
+    "definition": "Beijing Normal University"
+  },
+  "北京廣播學院": {
+    "pinyin": "Bei3 jing1 Guang3 bo1 Xue2 yuan4",
+    "definition": "Beijing Broadcasting Institute, former name of 中國傳媒大學|中国传媒大学[Zhong1 guo2 Chuan2 mei2 Da4 xue2]"
+  },
+  "北京教育學院": {
+    "pinyin": "Bei3 jing1 Jiao4 yu4 Xue2 yuan4",
+    "definition": "Beijing Institute of Education"
+  },
+  "北京日報": {
+    "pinyin": "Bei3 jing1 Ri4 bao4",
+    "definition": "Beijing Daily (newspaper), www.bjd.com.cn"
+  },
+  "北京時間": {
+    "pinyin": "Bei3 jing1 Shi2 jian1",
+    "definition": "Beijing Time (BJT); China Standard Time (CST)"
+  },
+  "北京晚報": {
+    "pinyin": "Bei3 jing1 Wan3 bao4",
+    "definition": "Beijing Evening News"
+  },
+  "北京晨報": {
+    "pinyin": "Bei3 jing1 Chen2 bao4",
+    "definition": "Beijing Morning Post, newspaper published 1998-2018"
+  },
+  "北京林業大學": {
+    "pinyin": "Bei3 jing1 Lin2 ye4 Da4 xue2",
+    "definition": "Beijing Forestry University"
+  },
+  "北京核武器研究所": {
+    "pinyin": "Bei3 jing1 he2 wu3 qi4 yan2 jiu1 suo3",
+    "definition": "Nuclear Weapon Institute in Beijing"
+  },
+  "北京汽車製造廠有限公司": {
+    "pinyin": "Bei3 jing1 Qi4 che1 Zhi4 zao4 chang3 You3 xian4 Gong1 si1",
+    "definition": "Beijing Automobile Works (BAW)"
+  },
+  "北京烤鴨": {
+    "pinyin": "Bei3 jing1 kao3 ya1",
+    "definition": "Peking Duck"
+  },
+  "北京物資學院": {
+    "pinyin": "Bei3 jing1 Wu4 zi1 Xue2 yuan4",
+    "definition": "Beijing Materials University"
+  },
+  "北京猿人": {
+    "pinyin": "Bei3 jing1 yuan2 ren2",
+    "definition": "Peking ape-man; Homo erectus pekinensis (c. 600,000 BC), discovered in Zhoukoudian 周口店[Zhou1 kou3 dian4] in 1921"
+  },
+  "北京理工大學": {
+    "pinyin": "Bei3 jing1 Li3 gong1 Da4 xue2",
+    "definition": "Beijing Institute of Technology"
+  },
+  "北京環球金融中心": {
+    "pinyin": "Bei3 jing1 Huan2 qiu2 Jin1 rong2 Zhong1 xin1",
+    "definition": "Beijing World Financial Center, skyscraper"
+  },
+  "北京產權交易所": {
+    "pinyin": "Bei3 jing1 chan3 quan2 jiao1 yi4 suo3",
+    "definition": "China Beijing Equity Exchange (CBEX)"
+  },
+  "北京癱": {
+    "pinyin": "Bei3 jing1 tan1",
+    "definition": "\"Beijing slouch\", sitting posture said to be adopted esp. by Beijingers, popularized by 葛優|葛优[Ge3 You1]"
+  },
+  "北京科技大學": {
+    "pinyin": "Bei3 jing1 Ke1 ji4 Da4 xue2",
+    "definition": "University of Science and Technology Beijing"
+  },
+  "北京第二外國語學院": {
+    "pinyin": "Bei3 jing1 Di4 er4 Wai4 guo2 yu3 Xue2 yuan4",
+    "definition": "Beijing International Studies University (BISU)"
+  },
+  "北京舞蹈學院": {
+    "pinyin": "Bei3 jing1 Wu3 dao3 Xue2 yuan4",
+    "definition": "Beijing Dance Academy"
+  },
+  "北京航空航天大學": {
+    "pinyin": "Bei3 jing1 Hang2 kong1 Hang2 tian1 Da4 xue2",
+    "definition": "Beijing University of Aeronautics and Astronautics"
+  },
+  "北京話": {
+    "pinyin": "Bei3 jing1 hua4",
+    "definition": "Beijing dialect"
+  },
+  "北京語言大學": {
+    "pinyin": "Bei3 jing1 Yu3 yan2 Da4 xue2",
+    "definition": "Beijing Language and Culture University (BLCU)"
+  },
+  "北京語言學院": {
+    "pinyin": "Bei3 jing1 Yu3 yan2 Xue2 yuan4",
+    "definition": "Beijing Language Institute; former name of 北京語言大學|北京语言大学[Bei3 jing1 Yu3 yan2 Da4 xue2] Beijing Language and Culture University (BLCU)"
+  },
+  "北京週報": {
+    "pinyin": "Bei3 jing1 Zhou1 bao4",
+    "definition": "Beijing Review"
+  },
+  "北京電影學院": {
+    "pinyin": "Bei3 jing1 Dian4 ying3 Xue2 yuan4",
+    "definition": "Beijing Film Academy"
+  },
+  "北京青年報": {
+    "pinyin": "Bei3 jing1 Qing1 nian2 Bao4",
+    "definition": "Beijing Youth Daily, newspaper founded in 1949"
+  },
+  "北京音": {
+    "pinyin": "Bei3 jing1 yin1",
+    "definition": "Beijing pronunciation"
+  },
+  "北伐": {
+    "pinyin": "Bei3 fa2",
+    "definition": "the Northern Expedition, the Nationalists' campaign of 1926-1928 under Chiang Kai-shek, against the rule of local warlords"
+  },
+  "北伐軍": {
+    "pinyin": "bei3 fa2 jun1",
+    "definition": "the Northern Expeditionary Army"
+  },
+  "北佬": {
+    "pinyin": "bei3 lao3",
+    "definition": "northerner, person from Northern China (Cantonese)"
+  },
+  "北侖": {
+    "pinyin": "Bei3 lun2",
+    "definition": "Beilun district of Ningbo city 寧波市|宁波市[Ning2 bo1 shi4], Zhejiang"
+  },
+  "北侖區": {
+    "pinyin": "Bei3 lun2 qu1",
+    "definition": "Beilun district of Ningbo city 寧波市|宁波市[Ning2 bo1 shi4], Zhejiang"
+  },
+  "北倉區": {
+    "pinyin": "Bei3 cang1 qu1",
+    "definition": "erroneous variant of 北侖區|北仑区[Bei3 lun2 qu1], Beilun district of Ningbo, Zhejiang"
+  },
+  "北側": {
+    "pinyin": "bei3 ce4",
+    "definition": "north side; north face"
+  },
+  "北冕座": {
+    "pinyin": "Bei3 mian3 zuo4",
+    "definition": "Corona Borealis (constellation)"
+  },
+  "北冰洋": {
+    "pinyin": "Bei3 bing1 yang2",
+    "definition": "Arctic ocean"
+  },
+  "北半球": {
+    "pinyin": "Bei3 ban4 qiu2",
+    "definition": "Northern Hemisphere"
+  },
+  "北卡羅來納": {
+    "pinyin": "Bei3 Ka3 luo2 lai2 na4",
+    "definition": "North Carolina, US state"
+  },
+  "北卡羅來納州": {
+    "pinyin": "Bei3 Ka3 luo2 lai2 na4 zhou1",
+    "definition": "North Carolina, US state"
+  },
+  "北印度語": {
+    "pinyin": "bei3 Yin4 du4 yu3",
+    "definition": "Hindi; a north Indian language"
+  },
+  "北叟失馬": {
+    "pinyin": "bei3 sou3 shi1 ma3",
+    "definition": "lit. the old man lost his horse, but it all turned out for the best (idiom); fig. a blessing in disguise; it's an ill wind that blows nobody any good"
+  },
+  "北史": {
+    "pinyin": "Bei3 shi3",
+    "definition": "History of the Northern Dynasties, fifteenth of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled by Li Yanshou 李延壽|李延寿[Li3 Yan2 shou4] in 659 during Tang Dynasty, 100 scrolls"
+  },
+  "北周": {
+    "pinyin": "Bei3 Zhou1",
+    "definition": "the Northern Zhou Dynasty (557-581); one of the Northern Dynasties"
+  },
+  "北噪鴉": {
+    "pinyin": "bei3 zao4 ya1",
+    "definition": "(bird species of China) Siberian jay (Perisoreus infaustus)"
+  },
+  "北回歸線": {
+    "pinyin": "Bei3 hui2 gui1 xian4",
+    "definition": "Tropic of Cancer"
+  },
+  "北國": {
+    "pinyin": "bei3 guo2",
+    "definition": "the northern part of the country; the North"
+  },
+  "北圻": {
+    "pinyin": "Bei3 qi2",
+    "definition": "Tonkin, northern Vietnam during the French colonial period"
+  },
+  "北坡": {
+    "pinyin": "bei3 po1",
+    "definition": "north slope"
+  },
+  "北埔": {
+    "pinyin": "Bei3 pu3",
+    "definition": "Beipu or Peipu Township in Hsinchu County 新竹縣|新竹县[Xin1 zhu2 Xian4], northwest Taiwan"
+  },
+  "北埔鄉": {
+    "pinyin": "Bei3 pu3 Xiang1",
+    "definition": "Beipu or Peipu Township in Hsinchu County 新竹縣|新竹县[Xin1 zhu2 Xian4], northwest Taiwan"
+  },
+  "北塔": {
+    "pinyin": "Bei3 ta3",
+    "definition": "North tower; Beita district of Shaoyang city 邵陽市|邵阳市[Shao4 yang2 shi4], Hunan"
+  },
+  "北塔區": {
+    "pinyin": "Bei3 ta3 Qu1",
+    "definition": "Beita District of Shaoyang City 邵陽市|邵阳市[Shao4 yang2 Shi4], Hunan"
+  },
+  "北外": {
+    "pinyin": "Bei3 Wai4",
+    "definition": "abbr. for 北京外國語大學|北京外国语大学[Bei3 jing1 Wai4 guo2 yu3 Da4 xue2]"
+  },
+  "北大": {
+    "pinyin": "Bei3 Da4",
+    "definition": "Peking University (abbr. for 北京大學|北京大学)"
+  },
+  "北大荒": {
+    "pinyin": "bei3 da4 huang1",
+    "definition": "the Great Northern Wilderness (in Northern China)"
+  },
+  "北大西洋": {
+    "pinyin": "Bei3 Da4 xi1 yang2",
+    "definition": "North Atlantic"
+  },
+  "北大西洋公約組織": {
+    "pinyin": "Bei3 Da4 xi1 Yang2 Gong1 yue1 Zu3 zhi1",
+    "definition": "North Atlantic Treaty Organization, NATO"
+  },
+  "北威州": {
+    "pinyin": "Bei3 wei1 zhou1",
+    "definition": "North Rhine-Westphalia, Germany"
+  },
+  "北安": {
+    "pinyin": "Bei3 an1",
+    "definition": "see 北安市[Bei3an1 Shi4]"
+  },
+  "北安市": {
+    "pinyin": "Bei3 an1 Shi4",
+    "definition": "Bei'an, county-level city in Heihe 黑河市[Hei1he2 Shi4], Heilongjiang"
+  },
+  "北安普敦": {
+    "pinyin": "Bei3 an1 pu3 dun1",
+    "definition": "Northampton, town in central England, county town of Northamptonshire 北安普敦郡[Bei3 an1 pu3 dun1 jun4]"
+  },
+  "北宋": {
+    "pinyin": "Bei3 Song4",
+    "definition": "the Northern Song Dynasty (960-1127)"
+  },
+  "北宋四大部書": {
+    "pinyin": "Bei3 Song4 si4 da4 bu4 shu1",
+    "definition": "Four great compilations of Northern Song dynasty, namely: Extensive records of the Taiping era (978) 太平廣記|太平广记, Imperial readings of the Taiping era 太平御覽|太平御览, Prime tortoise of the record bureau 冊府元龜|册府元龟, Finest blossoms in the garden of literature 文苑英華|文苑英华"
+  },
+  "北寒帶": {
+    "pinyin": "bei3 han2 dai4",
+    "definition": "the north frigid zone"
+  },
+  "北屯": {
+    "pinyin": "Bei3 tun2",
+    "definition": "Beitun, city in Altay Prefecture 阿勒泰地區|阿勒泰地区[A1le4tai4 Di4qu1], Xinjiang"
+  },
+  "北屯區": {
+    "pinyin": "Bei3 tun2 Qu1",
+    "definition": "Beitun District of Taichung, Taiwan"
+  },
+  "北屯市": {
+    "pinyin": "Bei3 tun2 Shi4",
+    "definition": "Beitun, city in Altay Prefecture 阿勒泰地區|阿勒泰地区[A1le4tai4 Di4qu1], Xinjiang"
+  },
+  "北山": {
+    "pinyin": "Bei3 shan1",
+    "definition": "northern mountain; refers to Mt Mang 邙山 at Luoyang in Henan"
+  },
+  "北山羊": {
+    "pinyin": "bei3 shan1 yang2",
+    "definition": "ibex"
+  },
+  "北島": {
+    "pinyin": "Bei3 Dao3",
+    "definition": "Bei Dao (1949-), Chinese poet"
+  },
+  "北嶽": {
+    "pinyin": "Bei3 yue4",
+    "definition": "Mt Heng 恆山|恒山[Heng2 Shan1] in Shanxi, one of the Five Sacred Mountains 五嶽|五岳[Wu3 yue4]"
+  },
+  "北川": {
+    "pinyin": "Bei3 chuan1",
+    "definition": "see 北川羌族自治縣|北川羌族自治县[Bei3chuan1 Qiang1zu2 Zi4zhi4xian4]"
+  },
+  "北川縣": {
+    "pinyin": "Bei3 chuan1 xian4",
+    "definition": "Beichuan Qiang autonomous county in Mianyang 綿陽|绵阳[Mian2 yang2], north Sichuan"
+  },
+  "北川羌族自治縣": {
+    "pinyin": "Bei3 chuan1 Qiang1 zu2 Zi4 zhi4 xian4",
+    "definition": "Beichuan Qiang Autonomous County in Mianyang 綿陽市|绵阳市[Mian2yang2 Shi4], Sichuan"
+  },
+  "北布拉班特": {
+    "pinyin": "Bei3 Bu4 la1 ban1 te4",
+    "definition": "Noord Brabant, Netherlands"
+  },
+  "北師大": {
+    "pinyin": "Bei3 Shi1 Da4",
+    "definition": "Beijing Normal University; abbr. for 北京師範大學|北京师范大学[Bei3 jing1 Shi1 fan4 Da4 xue2]"
+  },
+  "北平": {
+    "pinyin": "Bei3 ping2",
+    "definition": "Peiping or Beiping (name of Beijing at different periods, esp. 1928-1949)"
+  },
+  "北征": {
+    "pinyin": "bei3 zheng1",
+    "definition": "punitive expedition to the north"
+  },
+  "北愛": {
+    "pinyin": "Bei3 Ai4",
+    "definition": "abbr. for 北愛爾蘭|北爱尔兰[Bei3 Ai4 er3 lan2], Northern Ireland"
+  },
+  "北愛爾蘭": {
+    "pinyin": "Bei3 Ai4 er3 lan2",
+    "definition": "Northern Ireland"
+  },
+  "北戴河": {
+    "pinyin": "Bei3 dai4 he2",
+    "definition": "Beidaihe district of Qinhuangdao city 秦皇島市|秦皇岛市[Qin2 huang2 dao3 shi4], Hebei"
+  },
+  "北戴河區": {
+    "pinyin": "Bei3 dai4 he2 qu1",
+    "definition": "Beidaihe district of Qinhuangdao city 秦皇島市|秦皇岛市[Qin2 huang2 dao3 shi4], Hebei"
+  },
+  "北投": {
+    "pinyin": "Bei3 tou2",
+    "definition": "Beitou or Peitou District of Taipei City 臺北市|台北市[Tai2 bei3 Shi4], Taiwan"
+  },
+  "北投區": {
+    "pinyin": "Bei3 tou2 Qu1",
+    "definition": "Beitou or Peitou District of Taipei City 臺北市|台北市[Tai2 bei3 Shi4], Taiwan"
+  },
+  "北斗": {
+    "pinyin": "Bei3 dou3",
+    "definition": "Great Bear; Big Dipper; Beidou or Peitou Town in Changhua County 彰化縣|彰化县[Zhang1 hua4 Xian4], Taiwan"
+  },
+  "北斗七星": {
+    "pinyin": "Bei3 dou3 Qi1 xing1",
+    "definition": "(astronomy) Big Dipper"
+  },
+  "北斗星": {
+    "pinyin": "Bei3 dou3 xing1",
+    "definition": "the Big Dipper; the Plow"
+  },
+  "北斗衛星導航系統": {
+    "pinyin": "Bei3 Dou3 Wei4 xing1 Dao3 hang2 Xi4 tong3",
+    "definition": "BeiDou Navigation Satellite System (BDS) (similar to GPS)"
+  },
+  "北斗鎮": {
+    "pinyin": "Bei3 dou3 Zhen4",
+    "definition": "Beidou or Peitou Town in Changhua County 彰化縣|彰化县[Zhang1 hua4 Xian4], Taiwan"
+  },
+  "北方": {
+    "pinyin": "bei3 fang1",
+    "definition": "north; the northern part a country; China north of the Yellow River"
+  },
+  "北方中杜鵑": {
+    "pinyin": "bei3 fang1 zhong1 du4 juan1",
+    "definition": "(bird species of China) oriental cuckoo (Cuculus optatus)"
+  },
+  "北方佬": {
+    "pinyin": "bei3 fang1 lao3",
+    "definition": "northerner; guy from the north; Yankee"
+  },
+  "北方工業": {
+    "pinyin": "Bei3 fang1 Gong1 ye4",
+    "definition": "Norinco, PRC state-run conglomerate"
+  },
+  "北方民族大學": {
+    "pinyin": "Bei3 fang1 Min2 zu2 Da4 xue2",
+    "definition": "Northern Nationalities University NNU at Yingchuan, Ningxia (former Northwestern Second College for Nationalities)"
+  },
+  "北方邦": {
+    "pinyin": "Bei3 fang1 bang1",
+    "definition": "Uttar Pradesh (state in India)"
+  },
+  "北朝": {
+    "pinyin": "Bei3 Chao2",
+    "definition": "Northern Dynasties (386-581)"
+  },
+  "北朝鮮": {
+    "pinyin": "Bei3 Chao2 xian3",
+    "definition": "North Korea"
+  },
+  "北朱雀": {
+    "pinyin": "bei3 zhu1 que4",
+    "definition": "(bird species of China) Pallas's rosefinch (Carpodacus roseus)"
+  },
+  "北林": {
+    "pinyin": "Bei3 lin2",
+    "definition": "Beilin District of Suihua City 綏化市|绥化市[Sui2 hua4 Shi4], Heilongjiang"
+  },
+  "北林區": {
+    "pinyin": "Bei3 lin2 Qu1",
+    "definition": "Beilin District of Suihua City 綏化市|绥化市[Sui2 hua4 Shi4], Heilongjiang"
+  },
+  "北柴胡": {
+    "pinyin": "bei3 chai2 hu2",
+    "definition": "honewort; Cryptotaenia japonica"
+  },
+  "北椋鳥": {
+    "pinyin": "bei3 liang2 niao3",
+    "definition": "(bird species of China) Daurian starling; purple-backed starling (Agropsar sturninus)"
+  },
+  "北極": {
+    "pinyin": "bei3 ji2",
+    "definition": "the North Pole; the Arctic Pole; the north magnetic pole"
+  },
+  "北極光": {
+    "pinyin": "bei3 ji2 guang1",
+    "definition": "northern lights; aurora borealis"
+  },
+  "北極圈": {
+    "pinyin": "Bei3 ji2 quan1",
+    "definition": "Arctic Circle"
+  },
+  "北極星": {
+    "pinyin": "Bei3 ji2 xing1",
+    "definition": "North Star; Polaris"
+  },
+  "北極熊": {
+    "pinyin": "bei3 ji2 xiong2",
+    "definition": "polar bear"
+  },
+  "北極狐": {
+    "pinyin": "bei3 ji2 hu2",
+    "definition": "arctic fox"
+  },
+  "北極鷗": {
+    "pinyin": "bei3 ji2 ou1",
+    "definition": "(bird species of China) glaucous gull (Larus hyperboreus)"
+  },
+  "北歐": {
+    "pinyin": "Bei3 Ou1",
+    "definition": "north Europe; Scandinavia"
+  },
+  "北歐航空公司": {
+    "pinyin": "Bei3 Ou1 Hang2 kong1 Gong1 si1",
+    "definition": "Scandinavian Airlines (SAS)"
+  },
+  "北江": {
+    "pinyin": "Bei3 jiang1",
+    "definition": "Beijiang River"
+  },
+  "北汽": {
+    "pinyin": "Bei3 qi4",
+    "definition": "Beijing Automobile Works (BAW); abbr. for 北京汽車製造廠有限公司|北京汽车制造厂有限公司[Bei3 jing1 Qi4 che1 Zhi4 zao4 chang3 You3 xian4 Gong1 si1]"
+  },
+  "北洋": {
+    "pinyin": "Bei3 yang2",
+    "definition": "the Qing Dynasty name for the coastal provinces of Liaoning, Hebei, and Shandong"
+  },
+  "北洋政府": {
+    "pinyin": "Bei3 yang2 zheng4 fu3",
+    "definition": "the Warlord government of Northern China that developed from the Qing Beiyang army 北洋軍閥|北洋军阀 after the Xinhai revolution of 1911"
+  },
+  "北洋水師": {
+    "pinyin": "Bei3 yang2 shui3 shi1",
+    "definition": "north China navy (esp. the ill-fated Chinese navy in the 1895 war with Japan)"
+  },
+  "北洋系": {
+    "pinyin": "Bei3 yang2 xi4",
+    "definition": "Beiyang faction of Northern Warlords"
+  },
+  "北洋軍": {
+    "pinyin": "Bei3 yang2 jun1",
+    "definition": "north China army, a modernizing Western-style army set up during late Qing, and a breeding ground for the Northern Warlords after the Qinghai revolution"
+  },
+  "北洋軍閥": {
+    "pinyin": "Bei3 yang2 Jun1 fa2",
+    "definition": "the Northern Warlords (1912-1927)"
+  },
+  "北洋陸軍": {
+    "pinyin": "Bei3 yang2 lu4 jun1",
+    "definition": "north China army (esp. during the warlords period)"
+  },
+  "北派螳螂拳": {
+    "pinyin": "bei3 pai4 tang2 lang2 quan2",
+    "definition": "Beipai Tanglang Quan - \"Northern Praying Mantis\" (Chinese Martial Art)"
+  },
+  "北流": {
+    "pinyin": "Bei3 liu2",
+    "definition": "see 北流市[Bei3liu2 Shi4]"
+  },
+  "北流市": {
+    "pinyin": "Bei3 liu2 Shi4",
+    "definition": "Beiliu, county-level city in Yulin 玉林市[Yu4lin2 Shi4], Guangxi"
+  },
+  "北海": {
+    "pinyin": "Bei3 hai3",
+    "definition": "see 北海公園|北海公园[Bei3hai3 Gong1yuan2]; see 北海市[Bei3hai3 Shi4]"
+  },
+  "北海公園": {
+    "pinyin": "Bei3 hai3 Gong1 yuan2",
+    "definition": "Beihai Park, in Beijing to the northwest of the Forbidden City"
+  },
+  "北海市": {
+    "pinyin": "Bei3 hai3 Shi4",
+    "definition": "Beihai, prefecture-level city in Guangxi Zhuang Autonomous Region 廣西壯族自治區|广西壮族自治区[Guang3xi1 Zhuang4zu2 Zi4zhi4qu1]"
+  },
+  "北海艦隊": {
+    "pinyin": "Bei3 hai3 Jian4 dui4",
+    "definition": "North Sea Fleet"
+  },
+  "北海道": {
+    "pinyin": "Bei3 hai3 dao4",
+    "definition": "Hokkaidō, Japan"
+  },
+  "北涼": {
+    "pinyin": "Bei3 Liang2",
+    "definition": "Northern Liang of the Sixteen Kingdoms (398-439)"
+  },
+  "北港": {
+    "pinyin": "Bei3 gang3",
+    "definition": "Beigang or Peikang town in Yunlin county 雲林縣|云林县[Yun2 lin2 xian4], Taiwan"
+  },
+  "北港鎮": {
+    "pinyin": "Bei3 gang3 zhen4",
+    "definition": "Beigang or Peikang town in Yunlin county 雲林縣|云林县[Yun2 lin2 xian4], Taiwan"
+  },
+  "北湖區": {
+    "pinyin": "Bei3 hu2 qu1",
+    "definition": "North lake district; Beihu district of Chenzhou city 郴州市[Chen1 zhou1 shi4], Hunan"
+  },
+  "北溫帶": {
+    "pinyin": "bei3 wen1 dai4",
+    "definition": "the north temperate zone"
+  },
+  "北漂": {
+    "pinyin": "bei3 piao1",
+    "definition": "to migrate to Beijing or Taipei in search of better job opportunities; migrant worker living and working in Beijing or Taipei without a residence permit"
+  },
+  "北漢": {
+    "pinyin": "Bei3 Han4",
+    "definition": "Han of the Five dynasties (951-979), one of ten kingdoms during the Five Dynasties, Ten Kingdoms period (907-960)"
+  },
+  "北燕": {
+    "pinyin": "Bei3 Yan1",
+    "definition": "Northern Yan of the Sixteen Kingdoms (409-436)"
+  },
+  "北疆": {
+    "pinyin": "bei3 jiang1",
+    "definition": "northern frontier"
+  },
+  "北短翅鶯": {
+    "pinyin": "bei3 duan3 chi4 ying1",
+    "definition": "(bird species of China) Baikal bush warbler (Locustella davidi)"
+  },
+  "北碚": {
+    "pinyin": "Bei3 bei4",
+    "definition": "Beibei, a district of Chongqing 重慶|重庆[Chong2qing4]"
+  },
+  "北碚區": {
+    "pinyin": "Bei3 bei4 Qu1",
+    "definition": "Beibei, a district of Chongqing 重慶|重庆[Chong2qing4]"
+  },
+  "北票": {
+    "pinyin": "Bei3 piao4",
+    "definition": "see 北票市[Bei3piao4 Shi4]"
+  },
+  "北票市": {
+    "pinyin": "Bei3 piao4 Shi4",
+    "definition": "Beipiao, county-level city in Chaoyang 朝陽市|朝阳市[Chao2yang2 Shi4], Liaoning"
+  },
+  "北端": {
+    "pinyin": "bei3 duan1",
+    "definition": "northern extremity"
+  },
+  "北竿": {
+    "pinyin": "Bei3 gan1",
+    "definition": "Peikan Island, one of the Matsu Islands; Peikan township in Lienchiang county 連江縣|连江县[Lian2 jiang1 xian4], Taiwan"
+  },
+  "北竿鄉": {
+    "pinyin": "Bei3 gan1 xiang1",
+    "definition": "Peikan township in Lienchiang county 連江縣|连江县[Lian2 jiang1 xian4] i.e. the Matsu Islands, Taiwan"
+  },
+  "北約": {
+    "pinyin": "Bei3 yue1",
+    "definition": "NATO (North Atlantic Treaty Organization) (abbr. for 北大西洋公約組織|北大西洋公约组织[Bei3 Da4xi1 Yang2 Gong1yue1 Zu3zhi1])"
+  },
+  "北紅尾鴝": {
+    "pinyin": "bei3 hong2 wei3 qu2",
+    "definition": "(bird species of China) Daurian redstart (Phoenicurus auroreus)"
+  },
+  "北緯": {
+    "pinyin": "bei3 wei3",
+    "definition": "north latitude"
+  },
+  "北美": {
+    "pinyin": "Bei3 mei3",
+    "definition": "North America"
+  },
+  "北美洲": {
+    "pinyin": "Bei3 mei3 zhou1",
+    "definition": "North America"
+  },
+  "北苑": {
+    "pinyin": "Bei3 yuan4",
+    "definition": "Beiyuan neighborhood of Beijing"
+  },
+  "北荷蘭": {
+    "pinyin": "Bei3 He2 lan2",
+    "definition": "North Holland, a province of the Netherlands"
+  },
+  "北萊茵·威斯特法倫州": {
+    "pinyin": "Bei3 lai2 yin1 · Wei1 si1 te4 fa3 lun2 zhou1",
+    "definition": "Nordrhein-Westfalen, state of Germany"
+  },
+  "北蝗鶯": {
+    "pinyin": "bei3 huang2 ying1",
+    "definition": "(bird species of China) Middendorff's grasshopper warbler (Helopsaltes ochotensis)"
+  },
+  "北角": {
+    "pinyin": "Bei3 Jiao3",
+    "definition": "North Point district of Hong Kong"
+  },
+  "北越": {
+    "pinyin": "Bei3 Yue4",
+    "definition": "North Vietnam; North Vietnamese"
+  },
+  "北車": {
+    "pinyin": "Bei3 che1",
+    "definition": "(coll.) Taipei Railway Station (abbr. for 台北車站|台北车站[Tai2 bei3 Che1 zhan4]) (Tw)"
+  },
+  "北辰": {
+    "pinyin": "Bei3 chen2",
+    "definition": "Polaris; North Star"
+  },
+  "北辰區": {
+    "pinyin": "Bei3 chen2 qu1",
+    "definition": "Beichen suburban district of Tianjin municipality 天津市[Tian1 jin1 shi4]"
+  },
+  "北達科他": {
+    "pinyin": "Bei3 Da2 ke1 ta1",
+    "definition": "North Dakota, US state"
+  },
+  "北達科他州": {
+    "pinyin": "Bei3 Da2 ke1 ta1 zhou1",
+    "definition": "North Dakota, US state"
+  },
+  "北邊": {
+    "pinyin": "bei3 bian1",
+    "definition": "north; north side; northern part; to the north of"
+  },
+  "北邊兒": {
+    "pinyin": "bei3 bian1 r5",
+    "definition": "erhua variant of 北邊|北边[bei3 bian1]"
+  },
+  "北邙": {
+    "pinyin": "Bei3 Mang2",
+    "definition": "Mt Mang at Luoyang in Henan, with many Han, Wei and Jin dynasty royal tombs"
+  },
+  "北部": {
+    "pinyin": "bei3 bu4",
+    "definition": "northern part"
+  },
+  "北部灣": {
+    "pinyin": "Bei3 bu4 Wan1",
+    "definition": "Gulf of Tonkin"
+  },
+  "北鎮": {
+    "pinyin": "Bei3 zhen4",
+    "definition": "see 北鎮市|北镇市[Bei3zhen4 Shi4]"
+  },
+  "北鎮市": {
+    "pinyin": "Bei3 zhen4 Shi4",
+    "definition": "Beizhen, county-level city in Jinzhou 錦州市|锦州市[Jin3zhou1 Shi4], Liaoning"
+  },
+  "北長尾山雀": {
+    "pinyin": "bei3 chang2 wei3 shan1 que4",
+    "definition": "(bird species of China) long-tailed tit (Aegithalos caudatus)"
+  },
+  "北關": {
+    "pinyin": "Bei3 guan1",
+    "definition": "Beiguan district of Anyang city 安陽市|安阳市[An1 yang2 shi4], Henan"
+  },
+  "北關區": {
+    "pinyin": "Bei3 guan1 qu1",
+    "definition": "Beiguan district of Anyang city 安陽市|安阳市[An1 yang2 shi4], Henan"
+  },
+  "北非": {
+    "pinyin": "Bei3 Fei1",
+    "definition": "North Africa"
+  },
+  "北面": {
+    "pinyin": "bei3 mian4",
+    "definition": "northern side; north"
+  },
+  "北韓": {
+    "pinyin": "Bei3 han2",
+    "definition": "(Tw, HK) North Korea"
+  },
+  "北領地": {
+    "pinyin": "Bei3 ling3 di4",
+    "definition": "Northern Territory, sparsely populated federal territory extending from center to north of Australia"
+  },
+  "北領角鴞": {
+    "pinyin": "bei3 ling3 jiao3 xiao1",
+    "definition": "(bird species of China) Japanese scops owl (Otus semitorques)"
+  },
+  "北馬里亞納": {
+    "pinyin": "Bei3 Ma3 li3 ya4 na4",
+    "definition": "Northern Mariana Islands"
+  },
+  "北馬里亞納群島": {
+    "pinyin": "Bei3 Ma3 li3 ya4 na4 Qun2 dao3",
+    "definition": "Northern Mariana Islands"
+  },
+  "北魏": {
+    "pinyin": "Bei3 Wei4",
+    "definition": "Wei of the Northern Dynasties (386-534), founded by the Tuoba 拓跋 branch of Xianbei 鮮卑|鲜卑"
+  },
+  "北鷚": {
+    "pinyin": "bei3 liu4",
+    "definition": "(bird species of China) Pechora pipit (Anthus gustavi)"
+  },
+  "北鷹鵑": {
+    "pinyin": "bei3 ying1 juan1",
+    "definition": "(bird species of China) rufous hawk-cuckoo (Hierococcyx hyperythrus)"
+  },
+  "北鼻": {
+    "pinyin": "bei3 bi2",
+    "definition": "baby (loanword)"
+  },
+  "北齊": {
+    "pinyin": "Bei3 Qi2",
+    "definition": "Qi of the Northern Dynasties (550-557)"
+  },
+  "北齊書": {
+    "pinyin": "Bei3 Qi2 shu1",
+    "definition": "History of Qi of the Northern Dynasties, eleventh of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled by Li Baiyao 李百藥|李百药[Li3 Bai3 yao4] in 636 during Tang Dynasty, 50 scrolls"
+  }
+}

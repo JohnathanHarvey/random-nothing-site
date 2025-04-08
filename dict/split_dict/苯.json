@@ -1,0 +1,78 @@
+{
+  "苯": {
+    "pinyin": "ben3",
+    "definition": "benzene; benzol (chemistry)"
+  },
+  "苯丙氨酸": {
+    "pinyin": "ben3 bing3 an1 suan1",
+    "definition": "phenylalanine (Phe), an essential amino acid"
+  },
+  "苯丙胺": {
+    "pinyin": "ben3 bing3 an4",
+    "definition": "amphetamine (medical)"
+  },
+  "苯丙酮尿症": {
+    "pinyin": "ben3 bing3 tong2 niao4 zheng4",
+    "definition": "(medicine) phenylketonuria"
+  },
+  "苯並噻吩": {
+    "pinyin": "ben3 bing4 sai1 fen1",
+    "definition": "benzothiophene C8H9, a heterocyclic compound (with one benzene ring and one cyclopentene ring)"
+  },
+  "苯乙烯": {
+    "pinyin": "ben3 yi3 xi1",
+    "definition": "Styrene"
+  },
+  "苯二氮䓬": {
+    "pinyin": "ben3 er4 dan4 zhuo2",
+    "definition": "(organic chemistry, pharmacology) benzodiazepine"
+  },
+  "苯基": {
+    "pinyin": "ben3 ji1",
+    "definition": "phenyl group"
+  },
+  "苯氧基": {
+    "pinyin": "ben3 yang3 ji1",
+    "definition": "phenoxy (chemistry)"
+  },
+  "苯環": {
+    "pinyin": "ben3 huan2",
+    "definition": "benzene ring (chemistry)"
+  },
+  "苯環利定": {
+    "pinyin": "ben3 huan2 li4 ding4",
+    "definition": "phencyclidine (PCP)"
+  },
+  "苯甲酰氯": {
+    "pinyin": "ben3 jia3 xian1 lu:4",
+    "definition": "benzoil chloride C6H5COCl"
+  },
+  "苯甲酸": {
+    "pinyin": "ben3 jia3 suan1",
+    "definition": "benzoic acid C6H5COOH"
+  },
+  "苯甲酸鈉": {
+    "pinyin": "ben3 jia3 suan1 na4",
+    "definition": "sodium benzoate, E211 (a food preservative)"
+  },
+  "苯甲醛": {
+    "pinyin": "ben3 jia3 quan2",
+    "definition": "benzaldehyde C6H5CHO, the simplest aromatic aldehyde"
+  },
+  "苯胺": {
+    "pinyin": "ben3 an4",
+    "definition": "aniline C6H5NH2; aminobenzene"
+  },
+  "苯那辛": {
+    "pinyin": "ben3 na4 xin1",
+    "definition": "benactyzine"
+  },
+  "苯酚": {
+    "pinyin": "ben3 fen1",
+    "definition": "phenol C6H5OH"
+  },
+  "苯酮尿症": {
+    "pinyin": "ben3 tong2 niao4 zheng4",
+    "definition": "phenylketonuria (PKU)"
+  }
+}

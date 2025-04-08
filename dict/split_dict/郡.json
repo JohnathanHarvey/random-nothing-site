@@ -1,0 +1,26 @@
+{
+  "郡": {
+    "pinyin": "jun4",
+    "definition": "canton; county; region"
+  },
+  "郡守": {
+    "pinyin": "jun4 shou3",
+    "definition": "senior provincial official in imperial China"
+  },
+  "郡會": {
+    "pinyin": "jun4 hui4",
+    "definition": "county capital"
+  },
+  "郡望": {
+    "pinyin": "jun4 wang4",
+    "definition": "choronym (a family's region of origin, used as an indicator of superior social status in a surname-choronym combination) (For example, the Tang writer Han Yu 韓愈|韩愈[Han2 Yu4] is also known as 韓昌黎|韩昌黎[Han2 Chang1li2], where 韓|韩[Han2] is his surname and 昌黎[Chang1li2] is his clan's ancestral prefecture 郡[jun4].)"
+  },
+  "郡治": {
+    "pinyin": "jun4 zhi4",
+    "definition": "seat of the principal county magistrate in imperial China"
+  },
+  "郡治安官": {
+    "pinyin": "jun4 zhi4 an1 guan1",
+    "definition": "sheriff"
+  }
+}

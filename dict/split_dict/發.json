@@ -1,0 +1,946 @@
+{
+  "發": {
+    "pinyin": "fa1",
+    "definition": "to send out; to show (one's feeling); to issue; to develop; to make a bundle of money; classifier for gunshots (rounds)"
+  },
+  "發交": {
+    "pinyin": "fa1 jiao1",
+    "definition": "to issue and deliver (to people)"
+  },
+  "發亮": {
+    "pinyin": "fa1 liang4",
+    "definition": "to shine; shiny"
+  },
+  "發人深思": {
+    "pinyin": "fa1 ren2 shen1 si1",
+    "definition": "(idiom) thought-provoking; to give one food for thought"
+  },
+  "發人深省": {
+    "pinyin": "fa1 ren2 shen1 xing3",
+    "definition": "to provide food for thought (idiom); thought-provoking"
+  },
+  "發人深醒": {
+    "pinyin": "fa1 ren2 shen1 xing3",
+    "definition": "variant of 發人深省|发人深省[fa1 ren2 shen1 xing3]"
+  },
+  "發令": {
+    "pinyin": "fa1 ling4",
+    "definition": "to issue an order"
+  },
+  "發令槍": {
+    "pinyin": "fa1 ling4 qiang1",
+    "definition": "starting pistol"
+  },
+  "發件人": {
+    "pinyin": "fa1 jian4 ren2",
+    "definition": "(mail or email) sender"
+  },
+  "發佈": {
+    "pinyin": "fa1 bu4",
+    "definition": "variant of 發布|发布[fa1bu4]"
+  },
+  "發佈會": {
+    "pinyin": "fa1 bu4 hui4",
+    "definition": "news conference; briefing"
+  },
+  "發作": {
+    "pinyin": "fa1 zuo4",
+    "definition": "to flare up; to break out"
+  },
+  "發作性嗜睡病": {
+    "pinyin": "fa1 zuo4 xing4 shi4 shui4 bing4",
+    "definition": "narcolepsy"
+  },
+  "發信": {
+    "pinyin": "fa1 xin4",
+    "definition": "to post a letter"
+  },
+  "發光": {
+    "pinyin": "fa1 guang1",
+    "definition": "to emit light; to shine; to glow; to glisten; to be luminous"
+  },
+  "發光二極管": {
+    "pinyin": "fa1 guang1 er4 ji2 guan3",
+    "definition": "light-emitting diode; LED"
+  },
+  "發光二極體": {
+    "pinyin": "fa1 guang1 er4 ji2 ti3",
+    "definition": "light-emitting diode (LED) (Tw)"
+  },
+  "發光強度": {
+    "pinyin": "fa1 guang1 qiang2 du4",
+    "definition": "luminous intensity"
+  },
+  "發兵": {
+    "pinyin": "fa1 bing1",
+    "definition": "to dispatch an army; to send troops"
+  },
+  "發冷": {
+    "pinyin": "fa1 leng3",
+    "definition": "to feel a chill (as an emotional response); to feel cold (as a clinical symptom)"
+  },
+  "發出": {
+    "pinyin": "fa1 chu1",
+    "definition": "to issue (an order, decree etc); to send out; to dispatch; to produce (a sound); to let out (a laugh)"
+  },
+  "發出指示": {
+    "pinyin": "fa1 chu1 zhi3 shi4",
+    "definition": "to issue instructions"
+  },
+  "發刊": {
+    "pinyin": "fa1 kan1",
+    "definition": "to publish; to put out (a document)"
+  },
+  "發刊詞": {
+    "pinyin": "fa1 kan1 ci2",
+    "definition": "foreword; preface (to a publication)"
+  },
+  "發力": {
+    "pinyin": "fa1 li4",
+    "definition": "to exert oneself; to apply force; (of an enterprise etc) to gain momentum; to perform strongly"
+  },
+  "發動": {
+    "pinyin": "fa1 dong4",
+    "definition": "to start; to launch; to unleash; to mobilize; to arouse"
+  },
+  "發動力": {
+    "pinyin": "fa1 dong4 li4",
+    "definition": "motive power"
+  },
+  "發動機": {
+    "pinyin": "fa1 dong4 ji1",
+    "definition": "engine; motor; CL:臺|台[tai2]"
+  },
+  "發包": {
+    "pinyin": "fa1 bao1",
+    "definition": "to put out to contract"
+  },
+  "發卡": {
+    "pinyin": "fa1 ka3",
+    "definition": "to issue a card; (slang) to reject a guy or a girl; to chuck"
+  },
+  "發呆": {
+    "pinyin": "fa1 dai1",
+    "definition": "to stare blankly; to be stunned; to be lost in thought"
+  },
+  "發售": {
+    "pinyin": "fa1 shou4",
+    "definition": "to sell"
+  },
+  "發問": {
+    "pinyin": "fa1 wen4",
+    "definition": "to question; to ask; to raise a question"
+  },
+  "發喉急": {
+    "pinyin": "fa1 hou2 ji2",
+    "definition": "to get in a rage"
+  },
+  "發喪": {
+    "pinyin": "fa1 sang1",
+    "definition": "to hold a funeral"
+  },
+  "發噓聲": {
+    "pinyin": "fa1 xu1 sheng1",
+    "definition": "to hiss (as a sign of displeasure)"
+  },
+  "發回": {
+    "pinyin": "fa1 hui2",
+    "definition": "to send back; to return"
+  },
+  "發國難財": {
+    "pinyin": "fa1 guo2 nan4 cai2",
+    "definition": "to profiteer in a time of national calamity"
+  },
+  "發報": {
+    "pinyin": "fa1 bao4",
+    "definition": "to send a message"
+  },
+  "發報人": {
+    "pinyin": "fa1 bao4 ren2",
+    "definition": "sender (of a message)"
+  },
+  "發奮": {
+    "pinyin": "fa1 fen4",
+    "definition": "to make an effort; to push for sth; to work hard"
+  },
+  "發奮圖強": {
+    "pinyin": "fa1 fen4 tu2 qiang2",
+    "definition": "to make an effort to become strong (idiom); determined to do better; to pull one's socks up"
+  },
+  "發奮有為": {
+    "pinyin": "fa1 fen4 you3 wei2",
+    "definition": "to prove one's worth through firm resolve (idiom)"
+  },
+  "發好人卡": {
+    "pinyin": "fa1 hao3 ren2 ka3",
+    "definition": "(slang) to reject sb (by labeling them a \"nice guy\")"
+  },
+  "發威": {
+    "pinyin": "fa1 wei1",
+    "definition": "to unleash one's power; (of an animal) to go on a rampage; (of a typhoon, earthquake etc) to wreak havoc; (of a figure of authority) to erupt in anger; to assert one's dominance"
+  },
+  "發家": {
+    "pinyin": "fa1 jia1",
+    "definition": "to lay down a family fortune; to get rich; to become prosperous"
+  },
+  "發射": {
+    "pinyin": "fa1 she4",
+    "definition": "to shoot (a projectile); to fire (a rocket); to launch; to emit (a particle); to discharge; emanation; emission"
+  },
+  "發射井": {
+    "pinyin": "fa1 she4 jing3",
+    "definition": "launching silo"
+  },
+  "發射器": {
+    "pinyin": "fa1 she4 qi4",
+    "definition": "radio transmitter"
+  },
+  "發射場": {
+    "pinyin": "fa1 she4 chang3",
+    "definition": "launch site"
+  },
+  "發射星雲": {
+    "pinyin": "fa1 she4 xing1 yun2",
+    "definition": "emission nebula"
+  },
+  "發射機": {
+    "pinyin": "fa1 she4 ji1",
+    "definition": "transmitter"
+  },
+  "發射機應答器": {
+    "pinyin": "fa1 she4 ji1 ying4 da2 qi4",
+    "definition": "transponder; electronic device that responds to a radio code"
+  },
+  "發射站": {
+    "pinyin": "fa1 she4 zhan4",
+    "definition": "launch pad (for rocket or projectile)"
+  },
+  "發射臺": {
+    "pinyin": "fa1 she4 tai2",
+    "definition": "launchpad; (radio, TV) transmitter"
+  },
+  "發展": {
+    "pinyin": "fa1 zhan3",
+    "definition": "development; growth; to develop; to grow; to expand"
+  },
+  "發展中": {
+    "pinyin": "fa1 zhan3 zhong1",
+    "definition": "developing; under development; in the pipeline"
+  },
+  "發展中國家": {
+    "pinyin": "fa1 zhan3 zhong1 guo2 jia1",
+    "definition": "developing country"
+  },
+  "發展商": {
+    "pinyin": "fa1 zhan3 shang1",
+    "definition": "(real estate etc) developer"
+  },
+  "發展研究中心": {
+    "pinyin": "Fa1 zhan3 Yan2 jiu1 Zhong1 xin1",
+    "definition": "Development Research Center (PRC State Council institution)"
+  },
+  "發工資日": {
+    "pinyin": "fa1 gong1 zi1 ri4",
+    "definition": "payday"
+  },
+  "發布": {
+    "pinyin": "fa1 bu4",
+    "definition": "to release; to issue; to announce; to distribute"
+  },
+  "發布會": {
+    "pinyin": "fa1 bu4 hui4",
+    "definition": "news conference; briefing"
+  },
+  "發帖": {
+    "pinyin": "fa1 tie3",
+    "definition": "to post (an item on a forum)"
+  },
+  "發怒": {
+    "pinyin": "fa1 nu4",
+    "definition": "to get angry"
+  },
+  "發怔": {
+    "pinyin": "fa1 zheng1",
+    "definition": "baffled; nonplussed"
+  },
+  "發急": {
+    "pinyin": "fa1 ji2",
+    "definition": "to fret; to get impatient; to become anxious"
+  },
+  "發怵": {
+    "pinyin": "fa1 chu4",
+    "definition": "to feel terrified; to grow apprehensive"
+  },
+  "發情": {
+    "pinyin": "fa1 qing2",
+    "definition": "(zoology) (of a female) to be in heat; (of a male) to be in rut"
+  },
+  "發情期": {
+    "pinyin": "fa1 qing2 qi1",
+    "definition": "the breeding season (zool.); oestrus (period of sexual receptivity of female mammals)"
+  },
+  "發想": {
+    "pinyin": "fa1 xiang3",
+    "definition": "to come up with an idea; generation of ideas; inspiration"
+  },
+  "發愁": {
+    "pinyin": "fa1 chou2",
+    "definition": "to worry; to fret; to be anxious; to become sad"
+  },
+  "發愣": {
+    "pinyin": "fa1 leng4",
+    "definition": "to stare blankly; to be in a daze"
+  },
+  "發慌": {
+    "pinyin": "fa1 huang1",
+    "definition": "to become agitated; to feel nervous"
+  },
+  "發憤": {
+    "pinyin": "fa1 fen4",
+    "definition": "to make a determined effort"
+  },
+  "發憤圖強": {
+    "pinyin": "fa1 fen4 tu2 qiang2",
+    "definition": "to be strongly determined to succeed (idiom)"
+  },
+  "發憤忘食": {
+    "pinyin": "fa1 fen4 wang4 shi2",
+    "definition": "so dedicated as to forget one's meals (idiom)"
+  },
+  "發憷": {
+    "pinyin": "fa1 chu4",
+    "definition": "variant of 發怵|发怵[fa1 chu4]"
+  },
+  "發懵": {
+    "pinyin": "fa1 meng3",
+    "definition": "to feel dizzy; to be confused; to be at a loss; to stare blankly; Taiwan pr. [fa1 meng2]"
+  },
+  "發抖": {
+    "pinyin": "fa1 dou3",
+    "definition": "to tremble; to shake; to shiver"
+  },
+  "發掘": {
+    "pinyin": "fa1 jue2",
+    "definition": "to excavate; to explore; (fig.) to unearth; to tap into"
+  },
+  "發揚": {
+    "pinyin": "fa1 yang2",
+    "definition": "to develop; to make full use of"
+  },
+  "發揚光大": {
+    "pinyin": "fa1 yang2 guang1 da4",
+    "definition": "to develop and promote; to carry forward; to bring to great height of development"
+  },
+  "發揚踔厲": {
+    "pinyin": "fa1 yang2 chuo1 li4",
+    "definition": "to be full of vigor (idiom)"
+  },
+  "發揚蹈厲": {
+    "pinyin": "fa1 yang2 dao3 li4",
+    "definition": "see 發揚踔厲|发扬踔厉[fa1 yang2 chuo1 li4]"
+  },
+  "發揮": {
+    "pinyin": "fa1 hui1",
+    "definition": "to display; to exhibit; to bring out implicit or innate qualities; to express (a thought or moral); to develop (an idea); to elaborate (on a theme)"
+  },
+  "發改委": {
+    "pinyin": "Fa1 gai3 wei3",
+    "definition": "abbr. for 國家發展和改革委員會|国家发展和改革委员会, PRC National Development and Reform Commission (NDRC), formed in 2003"
+  },
+  "發放": {
+    "pinyin": "fa1 fang4",
+    "definition": "to provide; to give; to grant"
+  },
+  "發散": {
+    "pinyin": "fa1 san4",
+    "definition": "to disperse; to diverge"
+  },
+  "發文": {
+    "pinyin": "fa1 wen2",
+    "definition": "to issue a document; document issued by an authority; outgoing messages; (Internet) to post an article online"
+  },
+  "發明": {
+    "pinyin": "fa1 ming2",
+    "definition": "to invent; an invention; CL:個|个[ge4]"
+  },
+  "發明人": {
+    "pinyin": "fa1 ming2 ren2",
+    "definition": "inventor"
+  },
+  "發明創造": {
+    "pinyin": "fa1 ming2 chuang4 zao4",
+    "definition": "to invent and innovate; inventions and innovations"
+  },
+  "發明家": {
+    "pinyin": "fa1 ming2 jia1",
+    "definition": "inventor"
+  },
+  "發明者": {
+    "pinyin": "fa1 ming2 zhe3",
+    "definition": "inventor"
+  },
+  "發昏": {
+    "pinyin": "fa1 hun1",
+    "definition": "to faint"
+  },
+  "發春": {
+    "pinyin": "fa1 chun1",
+    "definition": "in heat"
+  },
+  "發暈": {
+    "pinyin": "fa1 yun1",
+    "definition": "to feel dizzy"
+  },
+  "發暗": {
+    "pinyin": "fa1 an4",
+    "definition": "to darken; to become tarnished"
+  },
+  "發案": {
+    "pinyin": "fa1 an4",
+    "definition": "occurrence (refers to time and place esp. of a criminal act); to take place; to occur; to advertise freelance work"
+  },
+  "發條": {
+    "pinyin": "fa1 tiao2",
+    "definition": "clockwork spring (used to power a watch or windup toy etc); (attributive) windup; clockwork"
+  },
+  "發棵": {
+    "pinyin": "fa1 ke1",
+    "definition": "budding"
+  },
+  "發榜": {
+    "pinyin": "fa1 bang3",
+    "definition": "to publish a roll-call of successful candidates"
+  },
+  "發橫財": {
+    "pinyin": "fa1 heng4 cai2",
+    "definition": "to make easy money; to make a fortune; to line one's pockets"
+  },
+  "發毛": {
+    "pinyin": "fa1 mao2",
+    "definition": "to rant and rave; to be scared, upset (Beijing dialect)"
+  },
+  "發氣": {
+    "pinyin": "fa1 qi4",
+    "definition": "to get angry"
+  },
+  "發水": {
+    "pinyin": "fa1 shui3",
+    "definition": "to flood"
+  },
+  "發汗": {
+    "pinyin": "fa1 han4",
+    "definition": "to sweat"
+  },
+  "發泡": {
+    "pinyin": "fa1 pao4",
+    "definition": "to produce foam; (of a beverage) fizzy; sparkling"
+  },
+  "發泡劑": {
+    "pinyin": "fa1 pao4 ji4",
+    "definition": "foaming agent; blowing agent"
+  },
+  "發泡膠": {
+    "pinyin": "fa1 pao4 jiao1",
+    "definition": "expanded polystyrene (EPS); styrofoam"
+  },
+  "發洩": {
+    "pinyin": "fa1 xie4",
+    "definition": "to give vent to (one's feelings)"
+  },
+  "發源": {
+    "pinyin": "fa1 yuan2",
+    "definition": "to rise; to originate; source; derivation"
+  },
+  "發源地": {
+    "pinyin": "fa1 yuan2 di4",
+    "definition": "place of origin; birthplace; source"
+  },
+  "發火": {
+    "pinyin": "fa1 huo3",
+    "definition": "to catch fire; to ignite; to detonate; to get angry"
+  },
+  "發炎": {
+    "pinyin": "fa1 yan2",
+    "definition": "to become inflamed; inflammation"
+  },
+  "發熱": {
+    "pinyin": "fa1 re4",
+    "definition": "to have a high temperature; feverish; unable to think calmly; to emit heat"
+  },
+  "發熱伴血小板減少綜合徵": {
+    "pinyin": "fa1 re4 ban4 xue4 xiao3 ban3 jian3 shao3 zong1 he2 zheng1",
+    "definition": "severe fever with thrombocytopenia syndrome (SFTS)"
+  },
+  "發燒": {
+    "pinyin": "fa1 shao1",
+    "definition": "to have a high temperature (from illness); to have a fever; (fig.) to be fascinated with; to obsess over; (fig.) flourishing; thriving; popular"
+  },
+  "發燒友": {
+    "pinyin": "fa1 shao1 you3",
+    "definition": "fan; zealot"
+  },
+  "發燙": {
+    "pinyin": "fa1 tang4",
+    "definition": "burning hot"
+  },
+  "發牌": {
+    "pinyin": "fa1 pai2",
+    "definition": "to deal (cards)"
+  },
+  "發牢騷": {
+    "pinyin": "fa1 lao2 sao1",
+    "definition": "to whine; to be grouchy"
+  },
+  "發狂": {
+    "pinyin": "fa1 kuang2",
+    "definition": "crazy; mad; madly"
+  },
+  "發獎": {
+    "pinyin": "fa1 jiang3",
+    "definition": "to award a prize"
+  },
+  "發現": {
+    "pinyin": "fa1 xian4",
+    "definition": "to notice; to become aware of; to discover; to find; to detect; a discovery"
+  },
+  "發現物": {
+    "pinyin": "fa1 xian4 wu4",
+    "definition": "a find"
+  },
+  "發現號": {
+    "pinyin": "Fa1 xian4 Hao4",
+    "definition": "Space Shuttle Discovery"
+  },
+  "發球": {
+    "pinyin": "fa1 qiu2",
+    "definition": "(tennis etc) to serve; (golf) to tee off"
+  },
+  "發球區": {
+    "pinyin": "fa1 qiu2 qu1",
+    "definition": "teeing ground (golf)"
+  },
+  "發生": {
+    "pinyin": "fa1 sheng1",
+    "definition": "to happen; to occur; to take place; to break out"
+  },
+  "發生率": {
+    "pinyin": "fa1 sheng1 lu:4",
+    "definition": "rate of occurrence"
+  },
+  "發生關係": {
+    "pinyin": "fa1 sheng1 guan1 xi5",
+    "definition": "to have sexual relations with sb; to have dealings with"
+  },
+  "發病": {
+    "pinyin": "fa1 bing4",
+    "definition": "(of an illness) to occur; (of a person) to get sick; to fall ill; onset (of a medical condition)"
+  },
+  "發病率": {
+    "pinyin": "fa1 bing4 lu:4",
+    "definition": "incidence of a disease; disease rate"
+  },
+  "發痛": {
+    "pinyin": "fa1 tong4",
+    "definition": "to ache; to be sore; to feel painful"
+  },
+  "發瘋": {
+    "pinyin": "fa1 feng1",
+    "definition": "to go mad; to go crazy; to lose one's mind"
+  },
+  "發癢": {
+    "pinyin": "fa1 yang3",
+    "definition": "to tickle; to itch"
+  },
+  "發癲": {
+    "pinyin": "fa1 dian1",
+    "definition": "to go crazy; to lose one's mind"
+  },
+  "發白": {
+    "pinyin": "fa1 bai2",
+    "definition": "to turn pale; to lose color; to go white"
+  },
+  "發直": {
+    "pinyin": "fa1 zhi2",
+    "definition": "to stare; to look blank; to be fixed (of eyes)"
+  },
+  "發睏": {
+    "pinyin": "fa1 kun4",
+    "definition": "to get sleepy"
+  },
+  "發短信": {
+    "pinyin": "fa1 duan3 xin4",
+    "definition": "to text; to send SMS messages"
+  },
+  "發神經": {
+    "pinyin": "fa1 shen2 jing1",
+    "definition": "(coll.) to go crazy; to lose it; demented; unhinged"
+  },
+  "發祥": {
+    "pinyin": "fa1 xiang2",
+    "definition": "to give rise to (sth good); to emanate from"
+  },
+  "發祥地": {
+    "pinyin": "fa1 xiang2 di4",
+    "definition": "the birthplace (of sth good); the cradle (e.g. of art)"
+  },
+  "發票": {
+    "pinyin": "fa1 piao4",
+    "definition": "invoice; receipt; bill; uniform invoice (abbr. for 統一發票|统一发票[tong3yi1 fa1piao4])"
+  },
+  "發福": {
+    "pinyin": "fa1 fu2",
+    "definition": "to put on weight; to get fat (a sign of prosperity, so a compliment)"
+  },
+  "發稿": {
+    "pinyin": "fa1 gao3",
+    "definition": "(of a publisher) to send a manuscript off to the printer; (of a journalist) to send a dispatch"
+  },
+  "發積": {
+    "pinyin": "fa1 ji1",
+    "definition": "see 發跡|发迹[fa1 ji4]"
+  },
+  "發窘": {
+    "pinyin": "fa1 jiong3",
+    "definition": "to feel embarrassment; disconcerted; embarrassed"
+  },
+  "發端": {
+    "pinyin": "fa1 duan1",
+    "definition": "to originate; to initiate; beginning; origin"
+  },
+  "發笑": {
+    "pinyin": "fa1 xiao4",
+    "definition": "to burst out laughing; to laugh"
+  },
+  "發粉": {
+    "pinyin": "fa1 fen3",
+    "definition": "baking powder"
+  },
+  "發糕": {
+    "pinyin": "fa1 gao1",
+    "definition": "fa gao, a type of steamed sponge cake, usu. sweetened, commonly consumed at Chinese New Year"
+  },
+  "發紅": {
+    "pinyin": "fa1 hong2",
+    "definition": "to turn red; to blush; to flush"
+  },
+  "發紺": {
+    "pinyin": "fa1 gan4",
+    "definition": "cyanosis (blue skin due to lack of oxygen in blood)"
+  },
+  "發給": {
+    "pinyin": "fa1 gei3",
+    "definition": "to issue; to grant; to distribute"
+  },
+  "發聲": {
+    "pinyin": "fa1 sheng1",
+    "definition": "to produce a sound; to vocalize; to give voice; to articulate views or demands"
+  },
+  "發聲器": {
+    "pinyin": "fa1 sheng1 qi4",
+    "definition": "sound device"
+  },
+  "發聲器官": {
+    "pinyin": "fa1 sheng1 qi4 guan1",
+    "definition": "vocal organs; vocal cords"
+  },
+  "發聲法": {
+    "pinyin": "fa1 sheng1 fa3",
+    "definition": "intonation"
+  },
+  "發聾振聵": {
+    "pinyin": "fa1 long2 zhen4 kui4",
+    "definition": "lit. so loud that even the deaf can hear (idiom); rousing even the apathetic"
+  },
+  "發育": {
+    "pinyin": "fa1 yu4",
+    "definition": "to develop; to mature; growth; development; (sexually) mature"
+  },
+  "發育期": {
+    "pinyin": "fa1 yu4 qi1",
+    "definition": "puberty; period of development"
+  },
+  "發育生物學": {
+    "pinyin": "fa1 yu4 sheng1 wu4 xue2",
+    "definition": "developmental biology"
+  },
+  "發胖": {
+    "pinyin": "fa1 pang4",
+    "definition": "to put on weight; to get fat"
+  },
+  "發脆": {
+    "pinyin": "fa1 cui4",
+    "definition": "to become brittle; to become crisp"
+  },
+  "發脫口齒": {
+    "pinyin": "fa1 tuo1 kou3 chi3",
+    "definition": "diction; enunciation"
+  },
+  "發脹": {
+    "pinyin": "fa1 zhang4",
+    "definition": "to swell up; swelling"
+  },
+  "發脾氣": {
+    "pinyin": "fa1 pi2 qi4",
+    "definition": "to lose one's temper; to fly into a rage; to throw a tantrum"
+  },
+  "發自": {
+    "pinyin": "fa1 zi4",
+    "definition": "to evolve from"
+  },
+  "發臭": {
+    "pinyin": "fa1 chou4",
+    "definition": "smelly; to smell bad"
+  },
+  "發芽": {
+    "pinyin": "fa1 ya2",
+    "definition": "(of a seed) to germinate; (of a plant) to sprout; to bud; (fig.) (of an idea or plan etc) to start to develop"
+  },
+  "發落": {
+    "pinyin": "fa1 luo4",
+    "definition": "to deal with (an offender)"
+  },
+  "發蒙": {
+    "pinyin": "fa1 meng2",
+    "definition": "(old) to instruct the young; to teach a child to read and write; as easy as ABC"
+  },
+  "發蔫": {
+    "pinyin": "fa1 nian1",
+    "definition": "to wilt; to droop; to appear listless"
+  },
+  "發薪": {
+    "pinyin": "fa1 xin1",
+    "definition": "to pay wages or salary"
+  },
+  "發薪日": {
+    "pinyin": "fa1 xin1 ri4",
+    "definition": "payday"
+  },
+  "發虛": {
+    "pinyin": "fa1 xu1",
+    "definition": "to feel weak; to be diffident"
+  },
+  "發號施令": {
+    "pinyin": "fa1 hao4 shi1 ling4",
+    "definition": "to boss people around (idiom)"
+  },
+  "發行": {
+    "pinyin": "fa1 xing2",
+    "definition": "to publish; to issue; to release; to distribute"
+  },
+  "發行人": {
+    "pinyin": "fa1 xing2 ren2",
+    "definition": "publisher; issuer"
+  },
+  "發行備忘錄": {
+    "pinyin": "fa1 xing2 bei4 wang4 lu4",
+    "definition": "offering memorandum (for public stock issue); publication memorandum"
+  },
+  "發行商": {
+    "pinyin": "fa1 xing2 shang1",
+    "definition": "publisher; distributor; issuer"
+  },
+  "發行紅利股": {
+    "pinyin": "fa1 xing2 hong2 li4 gu3",
+    "definition": "a bonus issue (a form of dividend payment)"
+  },
+  "發行額": {
+    "pinyin": "fa1 xing2 e2",
+    "definition": "(periodical) circulation"
+  },
+  "發表": {
+    "pinyin": "fa1 biao3",
+    "definition": "to issue; to publish"
+  },
+  "發表會": {
+    "pinyin": "fa1 biao3 hui4",
+    "definition": "press conference; unveiling ceremony; (product) launch; (fashion) show; (dance) performance; (music) recital; (political) rally; (thesis) presentation seminar"
+  },
+  "發表演講": {
+    "pinyin": "fa1 biao3 yan3 jiang3",
+    "definition": "to give a speech"
+  },
+  "發覺": {
+    "pinyin": "fa1 jue2",
+    "definition": "to become aware; to detect; to realize; to perceive"
+  },
+  "發言": {
+    "pinyin": "fa1 yan2",
+    "definition": "to make a speech; statement; utterance; CL:個|个[ge4]"
+  },
+  "發言人": {
+    "pinyin": "fa1 yan2 ren2",
+    "definition": "spokesperson"
+  },
+  "發言權": {
+    "pinyin": "fa1 yan2 quan2",
+    "definition": "the right of speech"
+  },
+  "發誓": {
+    "pinyin": "fa1 shi4",
+    "definition": "to vow; to pledge; to swear"
+  },
+  "發語詞": {
+    "pinyin": "fa1 yu3 ci2",
+    "definition": "form word; in Classical Chinese, the first character of phrase having auxiliary grammatical function"
+  },
+  "發語辭": {
+    "pinyin": "fa1 yu3 ci2",
+    "definition": "literary auxiliary particle, comes at the beginning of a sentence"
+  },
+  "發財": {
+    "pinyin": "fa1 cai2",
+    "definition": "to get rich"
+  },
+  "發財致富": {
+    "pinyin": "fa1 cai2 zhi4 fu4",
+    "definition": "to become rich; enrichment"
+  },
+  "發財車": {
+    "pinyin": "fa1 cai2 che1",
+    "definition": "(Tw) mini truck; Kei truck"
+  },
+  "發貨": {
+    "pinyin": "fa1 huo4",
+    "definition": "to dispatch; to send out goods"
+  },
+  "發貼": {
+    "pinyin": "fa1 tie1",
+    "definition": "to stick sth up (on the wall); to post (on a noticeboard or website)"
+  },
+  "發起": {
+    "pinyin": "fa1 qi3",
+    "definition": "to originate; to initiate; to launch (an attack, an initiative etc); to start; to propose sth (for the first time)"
+  },
+  "發起人": {
+    "pinyin": "fa1 qi3 ren2",
+    "definition": "proposer; initiator; founding member"
+  },
+  "發跡": {
+    "pinyin": "fa1 ji4",
+    "definition": "to make one's mark; to go up in the world; to make one's fortune"
+  },
+  "發車": {
+    "pinyin": "fa1 che1",
+    "definition": "departure (of a coach or train); to dispatch a vehicle"
+  },
+  "發軔": {
+    "pinyin": "fa1 ren4",
+    "definition": "to set (sth) afoot; to initiate; beginning; origin; commencement"
+  },
+  "發軟": {
+    "pinyin": "fa1 ruan3",
+    "definition": "to weaken; to go soft (at the knees)"
+  },
+  "發送": {
+    "pinyin": "fa1 song4",
+    "definition": "to transmit; to dispatch; to issue (an official document or credential)"
+  },
+  "發送功率": {
+    "pinyin": "fa1 song4 gong1 lu:4",
+    "definition": "transmission power; output power"
+  },
+  "發送器": {
+    "pinyin": "fa1 song4 qi4",
+    "definition": "transmitter"
+  },
+  "發運": {
+    "pinyin": "fa1 yun4",
+    "definition": "(of goods) to dispatch; shipment; shipping"
+  },
+  "發達": {
+    "pinyin": "fa1 da2",
+    "definition": "well-developed; flourishing; to develop; to promote; to expand; (literary) to achieve fame and fortune; to prosper"
+  },
+  "發達國": {
+    "pinyin": "fa1 da2 guo2",
+    "definition": "developed nation"
+  },
+  "發達國家": {
+    "pinyin": "fa1 da2 guo2 jia1",
+    "definition": "developed nation"
+  },
+  "發達地區": {
+    "pinyin": "fa1 da2 di4 qu1",
+    "definition": "developed area"
+  },
+  "發配": {
+    "pinyin": "fa1 pei4",
+    "definition": "to send away to serve a penal sentence"
+  },
+  "發酒瘋": {
+    "pinyin": "fa1 jiu3 feng1",
+    "definition": "to get wildly drunk"
+  },
+  "發酵": {
+    "pinyin": "fa1 jiao4",
+    "definition": "to ferment; (fig.) (of trends, emotions or repercussions etc) to bubble away; to simmer; to develop"
+  },
+  "發難": {
+    "pinyin": "fa1 nan4",
+    "definition": "to rise in revolt; to raise difficult questions"
+  },
+  "發電": {
+    "pinyin": "fa1 dian4",
+    "definition": "to generate electricity; to send a telegram"
+  },
+  "發電廠": {
+    "pinyin": "fa1 dian4 chang3",
+    "definition": "power plant"
+  },
+  "發電機": {
+    "pinyin": "fa1 dian4 ji1",
+    "definition": "electricity generator; dynamo"
+  },
+  "發電站": {
+    "pinyin": "fa1 dian4 zhan4",
+    "definition": "power station"
+  },
+  "發電量": {
+    "pinyin": "fa1 dian4 liang4",
+    "definition": "(power station, solar panel etc) output; capacity"
+  },
+  "發霉": {
+    "pinyin": "fa1 mei2",
+    "definition": "to become moldy"
+  },
+  "發音": {
+    "pinyin": "fa1 yin1",
+    "definition": "to pronounce; pronunciation; to emit sound"
+  },
+  "發音器官": {
+    "pinyin": "fa1 yin1 qi4 guan1",
+    "definition": "vocal organs; vocal cords"
+  },
+  "發音體": {
+    "pinyin": "fa1 yin1 ti3",
+    "definition": "sound producing object (soundboard, vibrating string, membrane etc)"
+  },
+  "發願": {
+    "pinyin": "fa1 yuan4",
+    "definition": "to vow"
+  },
+  "發顫": {
+    "pinyin": "fa1 chan4",
+    "definition": "to shiver"
+  },
+  "發飄": {
+    "pinyin": "fa1 piao1",
+    "definition": "to feel shaky; to feel wobbly"
+  },
+  "發飆": {
+    "pinyin": "fa1 biao1",
+    "definition": "to flip out; to act out violently"
+  },
+  "發騷": {
+    "pinyin": "fa1 sao1",
+    "definition": "horny; lecherous"
+  },
+  "發麵": {
+    "pinyin": "fa1 mian4",
+    "definition": "to leaven dough; to make bread"
+  },
+  "發麻": {
+    "pinyin": "fa1 ma2",
+    "definition": "to feel numb"
+  }
+}

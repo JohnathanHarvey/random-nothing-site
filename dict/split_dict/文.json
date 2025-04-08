@@ -1,0 +1,746 @@
+{
+  "文": {
+    "pinyin": "wen2",
+    "definition": "language; culture; writing; formal; literary; gentle; (old) classifier for coins; Kangxi radical 67"
+  },
+  "文不加點": {
+    "pinyin": "wen2 bu4 jia1 dian3",
+    "definition": "to write a flawless essay in one go (idiom); to be quick-witted and skilled at writing compositions"
+  },
+  "文不對題": {
+    "pinyin": "wen2 bu4 dui4 ti2",
+    "definition": "irrelevant; beside the point"
+  },
+  "文人": {
+    "pinyin": "wen2 ren2",
+    "definition": "cultivated individual; scholar; literati"
+  },
+  "文人相輕": {
+    "pinyin": "wen2 ren2 xiang1 qing1",
+    "definition": "scholars tend to disparage one another (idiom)"
+  },
+  "文以載道": {
+    "pinyin": "wen2 yi3 zai4 dao4",
+    "definition": "words of truth; moral expressed in words; written article explaining a moral"
+  },
+  "文件": {
+    "pinyin": "wen2 jian4",
+    "definition": "document; file; CL:份[fen4]"
+  },
+  "文件大小": {
+    "pinyin": "wen2 jian4 da4 xiao3",
+    "definition": "file size"
+  },
+  "文件夾": {
+    "pinyin": "wen2 jian4 jia1",
+    "definition": "folder; file (paper)"
+  },
+  "文件服務器": {
+    "pinyin": "wen2 jian4 fu2 wu4 qi4",
+    "definition": "file server"
+  },
+  "文件格式": {
+    "pinyin": "wen2 jian4 ge2 shi4",
+    "definition": "file format"
+  },
+  "文具": {
+    "pinyin": "wen2 ju4",
+    "definition": "stationery; item of stationery (pen, pencil, eraser, pencil sharpener etc)"
+  },
+  "文具商": {
+    "pinyin": "wen2 ju4 shang1",
+    "definition": "stationer"
+  },
+  "文具店": {
+    "pinyin": "wen2 ju4 dian4",
+    "definition": "stationery store"
+  },
+  "文創": {
+    "pinyin": "wen2 chuang4",
+    "definition": "(Tw) blending of cultural heritage elements with creative modern designs to produce innovative products and services (often used attributively, as in 文創商品|文创商品[wen2chuang4 shang1pin3]) (abbr. for 文化創意|文化创意[wen2hua4 chuang4yi4])"
+  },
+  "文創商品": {
+    "pinyin": "wen2 chuang4 shang1 pin3",
+    "definition": "product that incorporates traditional culture or local elements with innovative design ideas"
+  },
+  "文創產業": {
+    "pinyin": "wen2 chuang4 chan3 ye4",
+    "definition": "creative industries (design, music, publishing etc) (abbr. for 文化創意產業|文化创意产业[wen2 hua4 chuang4 yi4 chan3 ye4])"
+  },
+  "文化": {
+    "pinyin": "wen2 hua4",
+    "definition": "culture; civilization; cultural; CL:個|个[ge4],種|种[zhong3]"
+  },
+  "文化交流": {
+    "pinyin": "wen2 hua4 jiao1 liu2",
+    "definition": "cultural exchange"
+  },
+  "文化傳統": {
+    "pinyin": "wen2 hua4 chuan2 tong3",
+    "definition": "cultural tradition"
+  },
+  "文化史": {
+    "pinyin": "wen2 hua4 shi3",
+    "definition": "cultural history"
+  },
+  "文化和旅遊部": {
+    "pinyin": "Wen2 hua4 he2 Lu:3 you2 bu4",
+    "definition": "(PRC) Ministry of Culture and Tourism"
+  },
+  "文化圈": {
+    "pinyin": "wen2 hua4 quan1",
+    "definition": "sphere of cultural influence"
+  },
+  "文化城": {
+    "pinyin": "wen2 hua4 cheng2",
+    "definition": "city of culture"
+  },
+  "文化大革命": {
+    "pinyin": "Wen2 hua4 Da4 ge2 ming4",
+    "definition": "Cultural Revolution (1966-1976)"
+  },
+  "文化宮": {
+    "pinyin": "wen2 hua4 gong1",
+    "definition": "cultural palace"
+  },
+  "文化層": {
+    "pinyin": "wen2 hua4 ceng2",
+    "definition": "cultural layer (in an archaeological dig)"
+  },
+  "文化水平": {
+    "pinyin": "wen2 hua4 shui3 ping2",
+    "definition": "educational level"
+  },
+  "文化沙漠": {
+    "pinyin": "wen2 hua4 sha1 mo4",
+    "definition": "cultural desert"
+  },
+  "文化熱": {
+    "pinyin": "wen2 hua4 re4",
+    "definition": "cultural fever; cultural craze"
+  },
+  "文化荒漠": {
+    "pinyin": "wen2 hua4 huang1 mo4",
+    "definition": "cultural desert"
+  },
+  "文化衝擊": {
+    "pinyin": "wen2 hua4 chong1 ji1",
+    "definition": "culture shock"
+  },
+  "文化遺產": {
+    "pinyin": "wen2 hua4 yi2 chan3",
+    "definition": "cultural heritage"
+  },
+  "文化障礙": {
+    "pinyin": "wen2 hua4 zhang4 ai4",
+    "definition": "cultural barrier"
+  },
+  "文史": {
+    "pinyin": "wen2 shi3",
+    "definition": "literature and history"
+  },
+  "文告": {
+    "pinyin": "wen2 gao4",
+    "definition": "written statement; proclamation; announcement"
+  },
+  "文員": {
+    "pinyin": "wen2 yuan2",
+    "definition": "office worker; clerk"
+  },
+  "文在寅": {
+    "pinyin": "Wen2 Zai4 yin2",
+    "definition": "Moon Jae-in (1953-), Korean politician and human rights lawyer, president of Korea from 2017"
+  },
+  "文墨": {
+    "pinyin": "wen2 mo4",
+    "definition": "writing; culture"
+  },
+  "文壇": {
+    "pinyin": "wen2 tan2",
+    "definition": "literary circles"
+  },
+  "文士": {
+    "pinyin": "wen2 shi4",
+    "definition": "literati; scholar"
+  },
+  "文天祥": {
+    "pinyin": "Wen2 Tian1 xiang2",
+    "definition": "Wen Tianxiang (1236-1283), Song dynasty politician and poet, folk hero in resisting Mongol invasion in Jiangxi in 1275"
+  },
+  "文如其人": {
+    "pinyin": "wen2 ru2 qi2 ren2",
+    "definition": "the writing style mirrors the writer (idiom)"
+  },
+  "文娛": {
+    "pinyin": "wen2 yu2",
+    "definition": "cultural recreation; entertainment"
+  },
+  "文字": {
+    "pinyin": "wen2 zi4",
+    "definition": "character; script; writing; written language; writing style; phraseology; CL:個|个[ge4]"
+  },
+  "文字學": {
+    "pinyin": "wen2 zi4 xue2",
+    "definition": "philology"
+  },
+  "文字學家": {
+    "pinyin": "wen2 zi4 xue2 jia1",
+    "definition": "expert on writing systems"
+  },
+  "文字改革": {
+    "pinyin": "wen2 zi4 gai3 ge2",
+    "definition": "reform of the writing system"
+  },
+  "文字檔": {
+    "pinyin": "wen2 zi4 dang4",
+    "definition": "text file"
+  },
+  "文字獄": {
+    "pinyin": "wen2 zi4 yu4",
+    "definition": "literary inquisition; official persecution of intellectuals for their writing"
+  },
+  "文字處理": {
+    "pinyin": "wen2 zi4 chu3 li3",
+    "definition": "word processing"
+  },
+  "文學": {
+    "pinyin": "wen2 xue2",
+    "definition": "literature; CL:種|种[zhong3]"
+  },
+  "文學博士": {
+    "pinyin": "wen2 xue2 bo2 shi4",
+    "definition": "Doctor of Letters"
+  },
+  "文學史": {
+    "pinyin": "wen2 xue2 shi3",
+    "definition": "history of literature"
+  },
+  "文學士": {
+    "pinyin": "wen2 xue2 shi4",
+    "definition": "Bachelor of Arts; B.A.; BA; A.B.; Artium Baccalaureus"
+  },
+  "文學家": {
+    "pinyin": "wen2 xue2 jia1",
+    "definition": "writer; man of letters; CL:個|个[ge4]"
+  },
+  "文學巨匠": {
+    "pinyin": "wen2 xue2 ju4 jiang4",
+    "definition": "literary master"
+  },
+  "文安": {
+    "pinyin": "Wen2 an1",
+    "definition": "Wen'an county in Langfang 廊坊[Lang2 fang2], Hebei"
+  },
+  "文安縣": {
+    "pinyin": "Wen2 an1 xian4",
+    "definition": "Wen'an county in Langfang 廊坊[Lang2 fang2], Hebei"
+  },
+  "文宗": {
+    "pinyin": "wen2 zong1",
+    "definition": "(literary) writer whose works are venerated as exemplary; eminent writer"
+  },
+  "文宣": {
+    "pinyin": "wen2 xuan1",
+    "definition": "promotional material; propaganda"
+  },
+  "文宣部": {
+    "pinyin": "wen2 xuan1 bu4",
+    "definition": "propaganda department"
+  },
+  "文山": {
+    "pinyin": "Wen2 shan1",
+    "definition": "see 文山壯族苗族自治州|文山壮族苗族自治州[Wen2shan1 Zhuang4zu2 Miao2zu2 Zi4zhi4zhou1]; see 文山區|文山区[Wen2shan1 Qu1]"
+  },
+  "文山區": {
+    "pinyin": "Wen2 shan1 Qu1",
+    "definition": "Wenshan District in Taipei 臺北市|台北市[Tai2bei3 Shi4], Taiwan"
+  },
+  "文山壯族苗族自治州": {
+    "pinyin": "Wen2 shan1 Zhuang4 zu2 Miao2 zu2 Zi4 zhi4 zhou1",
+    "definition": "Wenshan Zhuang and Miao Autonomous Prefecture, in Yunnan Province 雲南省|云南省[Yun2nan2 Sheng3]"
+  },
+  "文山州": {
+    "pinyin": "Wen2 shan1 Zhou1",
+    "definition": "see 文山壯族苗族自治州|文山壮族苗族自治州[Wen2shan1 Zhuang4zu2 Miao2zu2 Zi4zhi4zhou1]"
+  },
+  "文山會海": {
+    "pinyin": "wen2 shan1 hui4 hai3",
+    "definition": "a mountain of paperwork and a sea of meetings (idiom)"
+  },
+  "文山線": {
+    "pinyin": "Wen2 shan1 xian4",
+    "definition": "Taipei Metro Wenshan Line (known as the Muzha Line 木柵線|木栅线[Mu4 zha4 xian4] prior to October 8, 2009)"
+  },
+  "文峰": {
+    "pinyin": "Wen2 feng1",
+    "definition": "Wenfeng district of Anyang city 安陽市|安阳市[An1 yang2 shi4], Henan"
+  },
+  "文峰區": {
+    "pinyin": "Wen2 feng1 qu1",
+    "definition": "Wenfeng district of Anyang city 安陽市|安阳市[An1 yang2 shi4], Henan"
+  },
+  "文峰鎮": {
+    "pinyin": "Wen2 feng1 zhen4",
+    "definition": "Wenfeng town (common place name)"
+  },
+  "文庫": {
+    "pinyin": "wen2 ku4",
+    "definition": "collection of documents; library; book series; sequence of data, esp. genome"
+  },
+  "文康": {
+    "pinyin": "Wen2 Kang1",
+    "definition": "Wen Kang (mid-19th century), Manchu-born novelist, author of The Gallant Maid 兒女英雄傳|儿女英雄传[Er2 nu:3 Ying1 xiong2 Zhuan4]"
+  },
+  "文康活動": {
+    "pinyin": "wen2 kang1 huo2 dong4",
+    "definition": "cultural and recreational activities (Tw)"
+  },
+  "文弱書生": {
+    "pinyin": "wen2 ruo4 shu1 sheng1",
+    "definition": "(idiom) frail scholar"
+  },
+  "文彙報": {
+    "pinyin": "Wen2 hui4 Bao4",
+    "definition": "Wen Wei Po (Hong Kong newspaper); Wenhui News (Shanghai newspaper)"
+  },
+  "文徵明": {
+    "pinyin": "Wen2 Zheng1 ming2",
+    "definition": "Wen Zhengming (1470-1559), Ming painter, one of Four great southern talents of the Ming 江南四大才子"
+  },
+  "文思": {
+    "pinyin": "wen2 si1",
+    "definition": "the train of thought in writing"
+  },
+  "文愛": {
+    "pinyin": "wen2 ai4",
+    "definition": "(slang) to have cybersex"
+  },
+  "文憑": {
+    "pinyin": "wen2 ping2",
+    "definition": "diploma"
+  },
+  "文成": {
+    "pinyin": "Wen2 cheng2",
+    "definition": "Wencheng county in Wenzhou 溫州|温州[Wen1 zhou1], Zhejiang"
+  },
+  "文成縣": {
+    "pinyin": "Wen2 cheng2 xian4",
+    "definition": "Wencheng county in Wenzhou 溫州|温州[Wen1 zhou1], Zhejiang"
+  },
+  "文房四寶": {
+    "pinyin": "wen2 fang2 si4 bao3",
+    "definition": "Four Treasures of the Study, namely 筆|笔[bi3], 墨[mo4], 紙|纸[zhi3] and 硯|砚[yan4]; the essentials of calligraphy and scholarship (idiom)"
+  },
+  "文抄公": {
+    "pinyin": "wen2 chao1 gong1",
+    "definition": "plagiarist"
+  },
+  "文摘": {
+    "pinyin": "wen2 zhai1",
+    "definition": "digest (of literature); to make a digest (of data); summary"
+  },
+  "文攻武嚇": {
+    "pinyin": "wen2 gong1 wu3 xia4",
+    "definition": "(of a nation) to denounce and threaten with military force; to try to coerce"
+  },
+  "文教": {
+    "pinyin": "wen2 jiao4",
+    "definition": "culture and education"
+  },
+  "文旅": {
+    "pinyin": "wen2 lu:3",
+    "definition": "cultural tourism"
+  },
+  "文旅部": {
+    "pinyin": "Wen2 Lu:3 bu4",
+    "definition": "(PRC) Ministry of Culture and Tourism (abbr. for 文化和旅遊部|文化和旅游部[Wen2 hua4 he2 Lu:3 you2 bu4])"
+  },
+  "文旦": {
+    "pinyin": "wen2 dan4",
+    "definition": "pomelo"
+  },
+  "文昌": {
+    "pinyin": "Wen2 chang1",
+    "definition": "Wenchang City, Hainan"
+  },
+  "文昌市": {
+    "pinyin": "Wen2 chang1 shi4",
+    "definition": "Wenchang City, Hainan"
+  },
+  "文昌魚": {
+    "pinyin": "wen2 chang1 yu2",
+    "definition": "lancelet (Branchiostoma lanceolatum), a primitive fish"
+  },
+  "文明": {
+    "pinyin": "wen2 ming2",
+    "definition": "civilized; civilization; culture; CL:個|个[ge4]"
+  },
+  "文明化": {
+    "pinyin": "wen2 ming2 hua4",
+    "definition": "civilize"
+  },
+  "文明小史": {
+    "pinyin": "Wen2 ming2 Xiao3 shi3",
+    "definition": "Short History of Civilization, late Qing novel by Li Boyuan 李伯元[Li3 Bo2 yuan2] or Li Baojia 李寶嘉|李宝嘉[Li3 Bao3 jia1] describing the turmoil after the 1900 Eight-Nation Alliance 八國聯軍|八国联军[Ba1 guo2 Lian2 jun1]"
+  },
+  "文明病": {
+    "pinyin": "wen2 ming2 bing4",
+    "definition": "lifestyle diseases"
+  },
+  "文曲星": {
+    "pinyin": "Wen2 qu3 xing1",
+    "definition": "constellation governing scholarship and examinations; (fig.) renowned literary genius; brand name of handheld electronic dictionaries made by Beijing company Golden Global View"
+  },
+  "文書": {
+    "pinyin": "wen2 shu1",
+    "definition": "document; official correspondence; secretary; secretariat"
+  },
+  "文書處理": {
+    "pinyin": "wen2 shu1 chu3 li3",
+    "definition": "paperwork; clerical tasks; (Tw) word processing"
+  },
+  "文本": {
+    "pinyin": "wen2 ben3",
+    "definition": "a text (article, script, contract etc); version of a text (copy, translation, abridged version etc); (computing) text"
+  },
+  "文本框": {
+    "pinyin": "wen2 ben3 kuang4",
+    "definition": "(computing) text box"
+  },
+  "文本編輯器": {
+    "pinyin": "wen2 ben3 bian1 ji2 qi4",
+    "definition": "text editor"
+  },
+  "文案": {
+    "pinyin": "wen2 an4",
+    "definition": "(newspapers etc) copy; copywriter; (office etc) paperwork; (old) secretary; clerk"
+  },
+  "文檔": {
+    "pinyin": "wen2 dang4",
+    "definition": "(computer) file; document; documentation"
+  },
+  "文檔對象模型": {
+    "pinyin": "Wen2 dang4 Dui4 xiang4 Mo2 xing2",
+    "definition": "Document Object Model (DOM)"
+  },
+  "文武": {
+    "pinyin": "wen2 wu3",
+    "definition": "civil and military"
+  },
+  "文武合一": {
+    "pinyin": "wen2 wu3 he2 yi1",
+    "definition": "civilians and the military (working) hand in hand (idiom)"
+  },
+  "文武百官": {
+    "pinyin": "wen2 wu3 bai3 guan1",
+    "definition": "civil and military officials"
+  },
+  "文武雙全": {
+    "pinyin": "wen2 wu3 shuang1 quan2",
+    "definition": "well versed in letters and military technology (idiom); fine scholar and soldier; master of pen and sword"
+  },
+  "文殊": {
+    "pinyin": "Wen2 shu1",
+    "definition": "Manjushri, the Bodhisattva of keen awareness"
+  },
+  "文殊師利菩薩": {
+    "pinyin": "Wen2 shu1 shi1 li4 Pu2 sa4",
+    "definition": "Manjushri, the Bodhisattva of keen awareness"
+  },
+  "文殊菩薩": {
+    "pinyin": "Wen2 shu1 Pu2 sa4",
+    "definition": "Manjushri, the Bodhisattva of keen awareness"
+  },
+  "文氣": {
+    "pinyin": "wen2 qi4",
+    "definition": "the impact of a piece of writing on the reader; gentle; refined"
+  },
+  "文水": {
+    "pinyin": "Wen2 shui3",
+    "definition": "Wenshui county in Lüliang 呂梁|吕梁[Lu:3 liang2], Shanxi 山西"
+  },
+  "文水縣": {
+    "pinyin": "Wen2 shui3 xian4",
+    "definition": "Wenshui county in Lüliang 呂梁|吕梁[Lu:3 liang2], Shanxi 山西"
+  },
+  "文江學海": {
+    "pinyin": "wen2 jiang1 xue2 hai3",
+    "definition": "river of literacy, sea of learning (idiom); ars longa, vita brevis"
+  },
+  "文治武功": {
+    "pinyin": "wen2 zhi4 wu3 gong1",
+    "definition": "political and military achievements (idiom)"
+  },
+  "文法": {
+    "pinyin": "wen2 fa3",
+    "definition": "grammar"
+  },
+  "文火": {
+    "pinyin": "wen2 huo3",
+    "definition": "small flame (when cooking, simmering etc)"
+  },
+  "文牒": {
+    "pinyin": "wen2 die2",
+    "definition": "official document"
+  },
+  "文牘": {
+    "pinyin": "wen2 du2",
+    "definition": "paperwork; official documents and letters; (old) secretary"
+  },
+  "文牘主義": {
+    "pinyin": "wen2 du2 zhu3 yi4",
+    "definition": "red tape"
+  },
+  "文物": {
+    "pinyin": "wen2 wu4",
+    "definition": "cultural relic; historical relic; CL:件[jian4],個|个[ge4]"
+  },
+  "文物徑": {
+    "pinyin": "wen2 wu4 jing4",
+    "definition": "heritage trail"
+  },
+  "文獻": {
+    "pinyin": "wen2 xian4",
+    "definition": "reference material (used in scholarly study)"
+  },
+  "文獻學": {
+    "pinyin": "wen2 xian4 xue2",
+    "definition": "Philology; Historical Linguistics"
+  },
+  "文理": {
+    "pinyin": "wen2 li3",
+    "definition": "arts and sciences"
+  },
+  "文盲": {
+    "pinyin": "wen2 mang2",
+    "definition": "illiterate"
+  },
+  "文石": {
+    "pinyin": "wen2 shi2",
+    "definition": "aragonite (geology)"
+  },
+  "文科": {
+    "pinyin": "wen2 ke1",
+    "definition": "liberal arts; humanities"
+  },
+  "文科學士": {
+    "pinyin": "wen2 ke1 xue2 shi4",
+    "definition": "Bachelor of Arts B.A."
+  },
+  "文秘": {
+    "pinyin": "wen2 mi4",
+    "definition": "secretary"
+  },
+  "文種": {
+    "pinyin": "Wen2 Zhong3",
+    "definition": "Wen Zhong (-467 BC), adviser to the state of Yue during Spring and Autumn period"
+  },
+  "文稿": {
+    "pinyin": "wen2 gao3",
+    "definition": "manuscript; article (in newspaper); draft"
+  },
+  "文章": {
+    "pinyin": "wen2 zhang1",
+    "definition": "article; essay; literary works; writings; hidden meaning; CL:篇[pian1],段[duan4],頁|页[ye4]"
+  },
+  "文童": {
+    "pinyin": "wen2 tong2",
+    "definition": "a person studying for the imperial examinations"
+  },
+  "文竹": {
+    "pinyin": "wen2 zhu2",
+    "definition": "setose asparagus"
+  },
+  "文筆": {
+    "pinyin": "wen2 bi3",
+    "definition": "writings; writing style"
+  },
+  "文約": {
+    "pinyin": "wen2 yue1",
+    "definition": "contract; written agreement"
+  },
+  "文縐縐": {
+    "pinyin": "wen2 zhou1 zhou1",
+    "definition": "bookish; genteel; erudite"
+  },
+  "文縣": {
+    "pinyin": "Wen2 xian4",
+    "definition": "Wen county in Longnan 隴南|陇南[Long3 nan2], Gansu"
+  },
+  "文聖區": {
+    "pinyin": "Wen2 sheng4 qu1",
+    "definition": "Wensheng district of Liaoyang city 遼陽市|辽阳市[Liao2 yang2 shi4], Liaoning"
+  },
+  "文聯": {
+    "pinyin": "Wen2 lian2",
+    "definition": "abbr. for 中國文學藝術界聯合會|中国文学艺术界联合会, China Federation of Literary and Art Circles (CFLAC)"
+  },
+  "文職": {
+    "pinyin": "wen2 zhi2",
+    "definition": "civilian post (as opposed to military); civil service; administration"
+  },
+  "文胸": {
+    "pinyin": "wen2 xiong1",
+    "definition": "bra"
+  },
+  "文臣": {
+    "pinyin": "wen2 chen2",
+    "definition": "civilian court official (in former times)"
+  },
+  "文苑": {
+    "pinyin": "wen2 yuan4",
+    "definition": "the literary world"
+  },
+  "文苑英華": {
+    "pinyin": "Wen2 yuan4 Ying1 hua2",
+    "definition": "Finest Blossoms in the Garden of Literature, Song dynasty collection of poetry, odes, songs and writings compiled during 982-986 under Li Fang 李昉[Li3 Fang3], Xu Xuan 徐鉉|徐铉[Xu2 Xuan4], Song Bai 宋白[Song4 Bai2] and Su Yijian 蘇易簡|苏易简[Su1 Yi4 jian3], 1000 scrolls"
+  },
+  "文萊": {
+    "pinyin": "Wen2 lai2",
+    "definition": "Brunei Darussalam, independent sultanate in northwest Borneo"
+  },
+  "文萊達魯薩蘭國": {
+    "pinyin": "Wen2 lai2 Da2 lu3 sa4 lan2 guo2",
+    "definition": "Brunei Darussalam"
+  },
+  "文藝": {
+    "pinyin": "wen2 yi4",
+    "definition": "literature and art"
+  },
+  "文藝作品": {
+    "pinyin": "wen2 yi4 zuo4 pin3",
+    "definition": "literary work; art work"
+  },
+  "文藝兵": {
+    "pinyin": "wen2 yi4 bing1",
+    "definition": "PLA military personnel who specialize in literary or artistic pursuits"
+  },
+  "文藝復興": {
+    "pinyin": "Wen2 yi4 fu4 xing1",
+    "definition": "the Renaissance"
+  },
+  "文藝演出": {
+    "pinyin": "wen2 yi4 yan3 chu1",
+    "definition": "theatrical performance; CL:場|场[chang3]"
+  },
+  "文號": {
+    "pinyin": "wen2 hao4",
+    "definition": "document identifier code (typically including an abbreviation for the name of the issuing organization, the date and a serial number)"
+  },
+  "文蛤": {
+    "pinyin": "wen2 ge2",
+    "definition": "clam; bivalve mollusk, many spp."
+  },
+  "文言": {
+    "pinyin": "wen2 yan2",
+    "definition": "Classical Chinese"
+  },
+  "文言文": {
+    "pinyin": "wen2 yan2 wen2",
+    "definition": "Classical Chinese writing"
+  },
+  "文詞": {
+    "pinyin": "wen2 ci2",
+    "definition": "variant of 文辭|文辞[wen2ci2]"
+  },
+  "文謅謅": {
+    "pinyin": "wen2 zhou1 zhou1",
+    "definition": "bookish; genteel; erudite"
+  },
+  "文讀": {
+    "pinyin": "wen2 du2",
+    "definition": "literary (rather than colloquial) pronunciation of a Chinese character"
+  },
+  "文豪": {
+    "pinyin": "wen2 hao2",
+    "definition": "literary giant; great writer; eminent writer"
+  },
+  "文責自負": {
+    "pinyin": "wen2 ze2 zi4 fu4",
+    "definition": "the author takes sole responsibility for the views expressed here (disclaimer)"
+  },
+  "文質彬彬": {
+    "pinyin": "wen2 zhi4 bin1 bin1",
+    "definition": "refined in manner; gentle"
+  },
+  "文身": {
+    "pinyin": "wen2 shen1",
+    "definition": "to tattoo; tattoo"
+  },
+  "文辭": {
+    "pinyin": "wen2 ci2",
+    "definition": "language; use of words; phraseology; articles; essays; writing"
+  },
+  "文過飾非": {
+    "pinyin": "wen2 guo4 shi4 fei1",
+    "definition": "(idiom) to cover up one's faults; to whitewash"
+  },
+  "文選": {
+    "pinyin": "wen2 xuan3",
+    "definition": "compilation; selected works"
+  },
+  "文部": {
+    "pinyin": "Wen2 bu4",
+    "definition": "Wenbu or Ombu village in Nyima county 尼瑪縣|尼玛县[Ni2 ma3 xian4], Nagchu prefecture, central Tibet; Tang dynasty equivalent of 吏部, personnel office"
+  },
+  "文部省": {
+    "pinyin": "Wen2 bu4 sheng3",
+    "definition": "Ministry of Education, Science and Culture (Japan), ceased to exist in 2001 when it was merged with another ministry"
+  },
+  "文部鄉": {
+    "pinyin": "Wen2 bu4 xiang1",
+    "definition": "Wenbu or Ombu village in Nyima county 尼瑪縣|尼玛县[Ni2 ma3 xian4], Nagchu prefecture, central Tibet"
+  },
+  "文采": {
+    "pinyin": "wen2 cai3",
+    "definition": "literary talent; literary grace; rich and bright colors"
+  },
+  "文錦渡": {
+    "pinyin": "Wen2 Jin3 Du4",
+    "definition": "Man Kam To (place in Hong Kong)"
+  },
+  "文雅": {
+    "pinyin": "wen2 ya3",
+    "definition": "elegant; refined"
+  },
+  "文集": {
+    "pinyin": "wen2 ji2",
+    "definition": "collected works"
+  },
+  "文青": {
+    "pinyin": "wen2 qing1",
+    "definition": "young person who adopts an outwardly artistic or intellectual style (abbr. for 文藝青年|文艺青年[wen2 yi4 qing1 nian2])"
+  },
+  "文靜": {
+    "pinyin": "wen2 jing4",
+    "definition": "(of a person's manner or character) gentle and quiet"
+  },
+  "文面": {
+    "pinyin": "wen2 mian4",
+    "definition": "to tattoo the face; face tattoo; to brand (ancient punishment)"
+  },
+  "文革": {
+    "pinyin": "Wen2 ge2",
+    "definition": "Cultural Revolution (1966-76) (abbr. for 文化大革命[Wen2 hua4 Da4 ge2 ming4])"
+  },
+  "文風": {
+    "pinyin": "wen2 feng1",
+    "definition": "writing style; (used with 鼎盛[ding3 sheng4]) cultural activity"
+  },
+  "文風不動": {
+    "pinyin": "wen2 feng1 bu4 dong4",
+    "definition": "absolutely still; fig. not the slightest change; also written 紋風不動|纹风不动"
+  },
+  "文飾": {
+    "pinyin": "wen2 shi4",
+    "definition": "to polish a text; rhetoric; ornate language; to use florid language to conceal errors; to gloss over"
+  },
+  "文體": {
+    "pinyin": "wen2 ti3",
+    "definition": "genre of writing; literary form; style; literary recreation and sporting activities"
+  },
+  "文鬚雀": {
+    "pinyin": "wen2 xu1 que4",
+    "definition": "(bird species of China) bearded reedling (Panurus biarmicus)"
+  }
+}

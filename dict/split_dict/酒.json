@@ -1,0 +1,406 @@
+{
+  "酒": {
+    "pinyin": "jiu3",
+    "definition": "wine (esp. rice wine); liquor; spirits; alcoholic beverage; CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"
+  },
+  "酒不醉人人自醉，色不迷人人自迷": {
+    "pinyin": "jiu3 bu4 zui4 ren2 ren2 zi4 zui4 , se4 bu4 mi2 ren2 ren2 zi4 mi2",
+    "definition": "wine doesn't make men drunk: men get themselves intoxicated. Lust does not overpower men: men surrender themselves to lust"
+  },
+  "酒井": {
+    "pinyin": "Jiu3 jing3",
+    "definition": "Sakai (Japanese surname)"
+  },
+  "酒令": {
+    "pinyin": "jiu3 ling4",
+    "definition": "wine-drinking game"
+  },
+  "酒令兒": {
+    "pinyin": "jiu3 ling4 r5",
+    "definition": "erhua variant of 酒令[jiu3 ling4]"
+  },
+  "酒伴": {
+    "pinyin": "jiu3 ban4",
+    "definition": "drinking buddy"
+  },
+  "酒保": {
+    "pinyin": "jiu3 bao3",
+    "definition": "barman; bartender"
+  },
+  "酒具": {
+    "pinyin": "jiu3 ju4",
+    "definition": "wine vessel; wine cup"
+  },
+  "酒刺": {
+    "pinyin": "jiu3 ci4",
+    "definition": "acne"
+  },
+  "酒力": {
+    "pinyin": "jiu3 li4",
+    "definition": "capacity for alcohol; ability to hold drink"
+  },
+  "酒友": {
+    "pinyin": "jiu3 you3",
+    "definition": "drinking buddy"
+  },
+  "酒吧": {
+    "pinyin": "jiu3 ba1",
+    "definition": "bar (place to buy drinks); CL:家[jia1]"
+  },
+  "酒味": {
+    "pinyin": "jiu3 wei4",
+    "definition": "smell of alcohol; flavoring of rum or other liquor in food; aroma or nose (of wine)"
+  },
+  "酒單": {
+    "pinyin": "jiu3 dan1",
+    "definition": "wine list (in a restaurant etc)"
+  },
+  "酒器": {
+    "pinyin": "jiu3 qi4",
+    "definition": "drinking vessel; wine cup"
+  },
+  "酒囊飯袋": {
+    "pinyin": "jiu3 nang2 fan4 dai4",
+    "definition": "wine sack, food bag (idiom); useless person, only fit for guzzling and boozing"
+  },
+  "酒壺": {
+    "pinyin": "jiu3 hu2",
+    "definition": "wine pot; wine cup"
+  },
+  "酒宴": {
+    "pinyin": "jiu3 yan4",
+    "definition": "feast; repose"
+  },
+  "酒家": {
+    "pinyin": "jiu3 jia1",
+    "definition": "restaurant; bartender; (old) wineshop; tavern"
+  },
+  "酒帘": {
+    "pinyin": "jiu3 lian2",
+    "definition": "wine shop sign"
+  },
+  "酒席": {
+    "pinyin": "jiu3 xi2",
+    "definition": "feast; banquet"
+  },
+  "酒店": {
+    "pinyin": "jiu3 dian4",
+    "definition": "wine shop; pub (public house); hotel; restaurant; (Tw) hostess club"
+  },
+  "酒店業": {
+    "pinyin": "jiu3 dian4 ye4",
+    "definition": "the catering industry; the hotel and restaurant business"
+  },
+  "酒廊": {
+    "pinyin": "jiu3 lang2",
+    "definition": "bar"
+  },
+  "酒廠": {
+    "pinyin": "jiu3 chang3",
+    "definition": "wine factory; distillery"
+  },
+  "酒後": {
+    "pinyin": "jiu3 hou4",
+    "definition": "after drinking; under the influence of alcohol"
+  },
+  "酒後吐真言": {
+    "pinyin": "jiu3 hou4 tu3 zhen1 yan2",
+    "definition": "after wine, spit out the truth; in vino veritas"
+  },
+  "酒後駕車": {
+    "pinyin": "jiu3 hou4 jia4 che1",
+    "definition": "driving under the influence"
+  },
+  "酒後駕駛": {
+    "pinyin": "jiu3 hou4 jia4 shi3",
+    "definition": "driving under the influence of alcohol (DUI)"
+  },
+  "酒徒": {
+    "pinyin": "jiu3 tu2",
+    "definition": "drunkard"
+  },
+  "酒德": {
+    "pinyin": "jiu3 de2",
+    "definition": "good manners in drinking; drinking as personality test"
+  },
+  "酒意": {
+    "pinyin": "jiu3 yi4",
+    "definition": "tipsy feeling"
+  },
+  "酒托": {
+    "pinyin": "jiu3 tuo1",
+    "definition": "person hired to lure customers to high-priced bars"
+  },
+  "酒托女": {
+    "pinyin": "jiu3 tuo1 nu:3",
+    "definition": "woman hired to lure men to high-priced bars"
+  },
+  "酒會": {
+    "pinyin": "jiu3 hui4",
+    "definition": "drinking party; wine reception"
+  },
+  "酒杯": {
+    "pinyin": "jiu3 bei1",
+    "definition": "wine cup"
+  },
+  "酒桌文化": {
+    "pinyin": "jiu3 zhuo1 wen2 hua4",
+    "definition": "drinking culture"
+  },
+  "酒棗": {
+    "pinyin": "jiu3 zao3",
+    "definition": "dates in liquor"
+  },
+  "酒樓": {
+    "pinyin": "jiu3 lou2",
+    "definition": "restaurant"
+  },
+  "酒櫃": {
+    "pinyin": "jiu3 gui4",
+    "definition": "liquor cabinet"
+  },
+  "酒殽": {
+    "pinyin": "jiu3 yao2",
+    "definition": "wine and meat; food and drink"
+  },
+  "酒水": {
+    "pinyin": "jiu3 shui3",
+    "definition": "beverage; drink"
+  },
+  "酒水飲料": {
+    "pinyin": "jiu3 shui3 yin3 liao4",
+    "definition": "drink (on a menu)"
+  },
+  "酒池肉林": {
+    "pinyin": "jiu3 chi2 rou4 lin2",
+    "definition": "lakes of wine and forests of meat (idiom); debauchery; sumptuous entertainment"
+  },
+  "酒泉": {
+    "pinyin": "Jiu3 quan2",
+    "definition": "see 酒泉市[Jiu3quan2 Shi4]"
+  },
+  "酒泉市": {
+    "pinyin": "Jiu3 quan2 Shi4",
+    "definition": "Jiuquan, prefecture-level city in Gansu Province 甘肅省|甘肃省[Gan1su4 Sheng3]"
+  },
+  "酒渣鼻": {
+    "pinyin": "jiu3 zha1 bi2",
+    "definition": "rosacea (dermatological condition of the face and nose); brandy nose"
+  },
+  "酒渦": {
+    "pinyin": "jiu3 wo1",
+    "definition": "variant of 酒窩|酒窝[jiu3wo1]"
+  },
+  "酒測": {
+    "pinyin": "jiu3 ce4",
+    "definition": "to take a breathalyzer test"
+  },
+  "酒漿": {
+    "pinyin": "jiu3 jiang1",
+    "definition": "wine"
+  },
+  "酒癮": {
+    "pinyin": "jiu3 yin3",
+    "definition": "alcohol addiction"
+  },
+  "酒盅": {
+    "pinyin": "jiu3 zhong1",
+    "definition": "wine cup; goblet"
+  },
+  "酒石酸": {
+    "pinyin": "jiu3 shi2 suan1",
+    "definition": "tartaric acid"
+  },
+  "酒神": {
+    "pinyin": "Jiu3 shen2",
+    "definition": "Bacchus (the Greek god of wine), aka Dionysus"
+  },
+  "酒窖": {
+    "pinyin": "jiu3 jiao4",
+    "definition": "wine cellar"
+  },
+  "酒窩": {
+    "pinyin": "jiu3 wo1",
+    "definition": "dimple (on the cheek when smiling)"
+  },
+  "酒筵": {
+    "pinyin": "jiu3 yan2",
+    "definition": "feast; banquet"
+  },
+  "酒籌": {
+    "pinyin": "jiu3 chou2",
+    "definition": "drinking game chips (typically in the form of strips of bamboo inscribed with lines of poetry)"
+  },
+  "酒精": {
+    "pinyin": "jiu3 jing1",
+    "definition": "(coll.) ethanol; ethyl alcohol"
+  },
+  "酒精中毒": {
+    "pinyin": "jiu3 jing1 zhong4 du2",
+    "definition": "alcoholism; alcohol poisoning"
+  },
+  "酒精性": {
+    "pinyin": "jiu3 jing1 xing4",
+    "definition": "alcoholic (beverage)"
+  },
+  "酒精洗手液": {
+    "pinyin": "jiu3 jing1 xi3 shou3 ye4",
+    "definition": "alcohol-based hand sanitizer"
+  },
+  "酒精燈": {
+    "pinyin": "jiu3 jing1 deng1",
+    "definition": "spirit lamp"
+  },
+  "酒精飲料": {
+    "pinyin": "jiu3 jing1 yin3 liao4",
+    "definition": "liquor"
+  },
+  "酒糟": {
+    "pinyin": "jiu3 zao1",
+    "definition": "distiller's grain; wine lees"
+  },
+  "酒糟鼻": {
+    "pinyin": "jiu3 zao1 bi2",
+    "definition": "rosacea (dermatological condition of the face and nose); brandy nose"
+  },
+  "酒紅朱雀": {
+    "pinyin": "jiu3 hong2 zhu1 que4",
+    "definition": "(bird species of China) vinaceous rosefinch (Carpodacus vinaceus)"
+  },
+  "酒缸": {
+    "pinyin": "jiu3 gang1",
+    "definition": "wine jar; (dialect) drinking house"
+  },
+  "酒肆": {
+    "pinyin": "jiu3 si4",
+    "definition": "wine shop; liquor store; bottle shop; bar; pub"
+  },
+  "酒肉朋友": {
+    "pinyin": "jiu3 rou4 peng2 you5",
+    "definition": "lit. drinking buddy (idiom); fig. fair-weather friend"
+  },
+  "酒至半酣": {
+    "pinyin": "jiu3 zhi4 ban4 han1",
+    "definition": "to drink until one is half drunk"
+  },
+  "酒興": {
+    "pinyin": "jiu3 xing4",
+    "definition": "interest in wine; passion for drinking"
+  },
+  "酒色": {
+    "pinyin": "jiu3 se4",
+    "definition": "wine and women; color of wine; drunken expression"
+  },
+  "酒色之徒": {
+    "pinyin": "jiu3 se4 zhi1 tu2",
+    "definition": "follower of wine and women; dissolute person"
+  },
+  "酒色財氣": {
+    "pinyin": "jiu3 se4 cai2 qi4",
+    "definition": "wine, sex, avarice and temper (idiom); four cardinal vices"
+  },
+  "酒花": {
+    "pinyin": "jiu3 hua1",
+    "definition": "hops"
+  },
+  "酒莊": {
+    "pinyin": "jiu3 zhuang1",
+    "definition": "winery"
+  },
+  "酒菜": {
+    "pinyin": "jiu3 cai4",
+    "definition": "food and drink; food to accompany wine"
+  },
+  "酒蒙子": {
+    "pinyin": "jiu3 meng1 zi5",
+    "definition": "(dialect) drunkard; alcoholic"
+  },
+  "酒藥": {
+    "pinyin": "jiu3 yao4",
+    "definition": "brewer's yeast; yeast for fermenting rice wine"
+  },
+  "酒言酒語": {
+    "pinyin": "jiu3 yan2 jiu3 yu3",
+    "definition": "words spoken under the influence of alcohol (idiom)"
+  },
+  "酒資": {
+    "pinyin": "jiu3 zi1",
+    "definition": "(old) drinking money; tip"
+  },
+  "酒足飯飽": {
+    "pinyin": "jiu3 zu2 fan4 bao3",
+    "definition": "to have eaten and drunk to one's heart's content"
+  },
+  "酒逢知己千杯少": {
+    "pinyin": "jiu3 feng2 zhi1 ji3 qian1 bei1 shao3",
+    "definition": "a thousand cups of wine is not too much when best friends meet (idiom); when you're with close friends, you can let your hair down"
+  },
+  "酒酣耳熱": {
+    "pinyin": "jiu3 han1 er3 re4",
+    "definition": "tipsy and merry (idiom)"
+  },
+  "酒醉": {
+    "pinyin": "jiu3 zui4",
+    "definition": "to become drunk"
+  },
+  "酒醒": {
+    "pinyin": "jiu3 xing3",
+    "definition": "to sober up"
+  },
+  "酒釀": {
+    "pinyin": "jiu3 niang4",
+    "definition": "sweet fermented rice; glutinous rice wine"
+  },
+  "酒量": {
+    "pinyin": "jiu3 liang4",
+    "definition": "capacity for liquor; how much one can drink"
+  },
+  "酒鋪": {
+    "pinyin": "jiu3 pu4",
+    "definition": "tavern; wine shop"
+  },
+  "酒錢": {
+    "pinyin": "jiu3 qian2",
+    "definition": "tip"
+  },
+  "酒食": {
+    "pinyin": "jiu3 shi2",
+    "definition": "food and drink"
+  },
+  "酒飯": {
+    "pinyin": "jiu3 fan4",
+    "definition": "food and drink"
+  },
+  "酒館": {
+    "pinyin": "jiu3 guan3",
+    "definition": "tavern; pub; wine shop"
+  },
+  "酒館兒": {
+    "pinyin": "jiu3 guan3 r5",
+    "definition": "a hotel; a restaurant; a wine shop"
+  },
+  "酒香不怕巷子深": {
+    "pinyin": "jiu3 xiang1 bu4 pa4 xiang4 zi5 shen1",
+    "definition": "fragrant wine fears no dark alley (idiom); quality goods need no advertising"
+  },
+  "酒駕": {
+    "pinyin": "jiu3 jia4",
+    "definition": "driving while intoxicated; DWI; to drink and drive"
+  },
+  "酒鬼": {
+    "pinyin": "jiu3 gui3",
+    "definition": "drunkard"
+  },
+  "酒鬼酒": {
+    "pinyin": "Jiu3 gui3 jiu3",
+    "definition": "Jiugui Liquor, liquor company from 吉首[Ji2 shou3]"
+  },
+  "酒麴": {
+    "pinyin": "jiu3 qu1",
+    "definition": "brewer's yeast"
+  },
+  "酒齡": {
+    "pinyin": "jiu3 ling2",
+    "definition": "age of wine (i.e. how long it has been matured)"
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "氣": {
+    "pinyin": "qi4",
+    "definition": "gas; air; smell; weather; to make angry; to annoy; to get angry; vital energy; qi"
+  },
+  "氣不公": {
+    "pinyin": "qi4 bu4 gong1",
+    "definition": "indignant"
+  },
+  "氣不平": {
+    "pinyin": "qi4 bu4 ping2",
+    "definition": "angry at unfairness"
+  },
+  "氣不忿兒": {
+    "pinyin": "qi4 bu4 fen4 r5",
+    "definition": "furious; indignant"
+  },
+  "氣不過": {
+    "pinyin": "qi4 bu5 guo4",
+    "definition": "so angry it's unbearable; bitter about unbearable grievances"
+  },
+  "氣人": {
+    "pinyin": "qi4 ren2",
+    "definition": "to anger; to annoy"
+  },
+  "氣候": {
+    "pinyin": "qi4 hou4",
+    "definition": "(meteorology) climate; (fig.) climate; prevailing conditions (in human affairs); CL:種|种[zhong3]"
+  },
+  "氣候學": {
+    "pinyin": "qi4 hou4 xue2",
+    "definition": "climatology"
+  },
+  "氣候學家": {
+    "pinyin": "qi4 hou4 xue2 jia1",
+    "definition": "a climatologist"
+  },
+  "氣候暖化": {
+    "pinyin": "qi4 hou4 nuan3 hua4",
+    "definition": "climate warming"
+  },
+  "氣候狀況": {
+    "pinyin": "qi4 hou4 zhuang4 kuang4",
+    "definition": "climatic conditions; atmospheric conditions"
+  },
+  "氣候變化": {
+    "pinyin": "qi4 hou4 bian4 hua4",
+    "definition": "climate change"
+  },
+  "氣冷式反應堆": {
+    "pinyin": "qi4 leng3 shi4 fan3 ying4 dui1",
+    "definition": "gas-cooled reactor"
+  },
+  "氣凝膠": {
+    "pinyin": "qi4 ning2 jiao1",
+    "definition": "aerogel"
+  },
+  "氣切": {
+    "pinyin": "qi4 qie1",
+    "definition": "(medicine) tracheotomy (abbr. for 氣管切開術|气管切开术[qi4guan3 qie1kai1shu4])"
+  },
+  "氣力": {
+    "pinyin": "qi4 li4",
+    "definition": "strength; energy; vigor; talent"
+  },
+  "氣功": {
+    "pinyin": "qi4 gong1",
+    "definition": "qigong, a traditional Chinese system of cultivating vital energy 氣|气[qi4] through coordinated breathing, movement and meditation"
+  },
+  "氣動": {
+    "pinyin": "qi4 dong4",
+    "definition": "pneumatic"
+  },
+  "氣動噪聲": {
+    "pinyin": "qi4 dong4 zao4 sheng1",
+    "definition": "aerodynamic noise"
+  },
+  "氣動式": {
+    "pinyin": "qi4 dong4 shi4",
+    "definition": "pneumatic"
+  },
+  "氣動控制": {
+    "pinyin": "qi4 dong4 kong4 zhi4",
+    "definition": "pneumatic control"
+  },
+  "氣動泵": {
+    "pinyin": "qi4 dong4 beng4",
+    "definition": "pneumatic pump"
+  },
+  "氣動葫蘆": {
+    "pinyin": "qi4 dong4 hu2 lu5",
+    "definition": "pneumatic hoist pulley"
+  },
+  "氣動開關": {
+    "pinyin": "qi4 dong4 kai1 guan1",
+    "definition": "pneumatic switch"
+  },
+  "氣動閘": {
+    "pinyin": "qi4 dong4 zha2",
+    "definition": "pneumatic brake"
+  },
+  "氣勢": {
+    "pinyin": "qi4 shi4",
+    "definition": "imposing manner; loftiness; grandeur; energetic looks; vigor"
+  },
+  "氣勢凌人": {
+    "pinyin": "qi4 shi4 ling2 ren2",
+    "definition": "arrogant and overbearing"
+  },
+  "氣勢宏偉": {
+    "pinyin": "qi4 shi4 hong2 wei3",
+    "definition": "imposing; majestic"
+  },
+  "氣勢洶洶": {
+    "pinyin": "qi4 shi4 xiong1 xiong1",
+    "definition": "aggressive; truculent; overbearing"
+  },
+  "氣包子": {
+    "pinyin": "qi4 bao1 zi5",
+    "definition": "quick-tempered person"
+  },
+  "氣化": {
+    "pinyin": "qi4 hua4",
+    "definition": "to vaporize; evaporation; carburetion; 氣|气[qi4] transformation in TCM (i.e. transformation of yin yang vital breath); unvoicing of voiced consonant"
+  },
+  "氣口": {
+    "pinyin": "qi4 kou3",
+    "definition": "location on wrist over the radial artery where pulse is taken in TCM"
+  },
+  "氣吁吁": {
+    "pinyin": "qi4 xu1 xu1",
+    "definition": "to pant; to gasp for breath"
+  },
+  "氣味": {
+    "pinyin": "qi4 wei4",
+    "definition": "odor; scent"
+  },
+  "氣呼呼": {
+    "pinyin": "qi4 hu1 hu1",
+    "definition": "panting with rage"
+  },
+  "氣咻咻": {
+    "pinyin": "qi4 xiu1 xiu1",
+    "definition": "to pant; to gasp for breath"
+  },
+  "氣哼哼": {
+    "pinyin": "qi4 heng1 heng1",
+    "definition": "enraged; furious; livid"
+  },
+  "氣喘": {
+    "pinyin": "qi4 chuan3",
+    "definition": "to gasp for breath; asthma"
+  },
+  "氣喘吁吁": {
+    "pinyin": "qi4 chuan3 xu1 xu1",
+    "definition": "to pant; to gasp for breath"
+  },
+  "氣喘喘": {
+    "pinyin": "qi4 chuan3 chuan3",
+    "definition": "breathless"
+  },
+  "氣喘如牛": {
+    "pinyin": "qi4 chuan3 ru2 niu2",
+    "definition": "to breathe heavily like an ox (idiom); to huff and puff"
+  },
+  "氣喘病": {
+    "pinyin": "qi4 chuan3 bing4",
+    "definition": "asthma"
+  },
+  "氣囊": {
+    "pinyin": "qi4 nang2",
+    "definition": "air sac; aerostat gasbag"
+  },
+  "氣圈": {
+    "pinyin": "qi4 quan1",
+    "definition": "(planet) atmosphere; (medical) air ring; air cushion"
+  },
+  "氣團": {
+    "pinyin": "qi4 tuan2",
+    "definition": "air mass"
+  },
+  "氣場": {
+    "pinyin": "qi4 chang3",
+    "definition": "qi field (in qigong or feng shui); vibe (of a person or place); aura; atmosphere"
+  },
+  "氣塞": {
+    "pinyin": "qi4 sai1",
+    "definition": "airlock; air block; fipple (in the mouthpiece of wind instrument)"
+  },
+  "氣墊": {
+    "pinyin": "qi4 dian4",
+    "definition": "air cushion (as on hovercraft)"
+  },
+  "氣墊船": {
+    "pinyin": "qi4 dian4 chuan2",
+    "definition": "hovercraft; air cushion vehicle"
+  },
+  "氣壓": {
+    "pinyin": "qi4 ya1",
+    "definition": "atmospheric pressure; barometric pressure"
+  },
+  "氣壓表": {
+    "pinyin": "qi4 ya1 biao3",
+    "definition": "barometer"
+  },
+  "氣壓計": {
+    "pinyin": "qi4 ya1 ji4",
+    "definition": "barometer"
+  },
+  "氣壞": {
+    "pinyin": "qi4 huai4",
+    "definition": "furious; very angry"
+  },
+  "氣壯山河": {
+    "pinyin": "qi4 zhuang4 shan1 he2",
+    "definition": "magnificent; inspiring"
+  },
+  "氣孔": {
+    "pinyin": "qi4 kong3",
+    "definition": "air-bubble; pore; stoma"
+  },
+  "氣宇": {
+    "pinyin": "qi4 yu3",
+    "definition": "bearing; manner"
+  },
+  "氣宇軒昂": {
+    "pinyin": "qi4 yu3 xuan1 ang2",
+    "definition": "to have an imposing or impressive appearance; impressive appearance; straight and impressive looking"
+  },
+  "氣定神閒": {
+    "pinyin": "qi4 ding4 shen2 xian2",
+    "definition": "calm and composed (idiom)"
+  },
+  "氣密": {
+    "pinyin": "qi4 mi4",
+    "definition": "airtight"
+  },
+  "氣度": {
+    "pinyin": "qi4 du4",
+    "definition": "bearing; manner; presence"
+  },
+  "氣度恢宏": {
+    "pinyin": "qi4 du4 hui1 hong2",
+    "definition": "broad-minded; magnanimous"
+  },
+  "氣急敗壞": {
+    "pinyin": "qi4 ji2 bai4 huai4",
+    "definition": "flustered and exasperated; utterly discomfited"
+  },
+  "氣息": {
+    "pinyin": "qi4 xi1",
+    "definition": "breath; smell; odor; flavor"
+  },
+  "氣息奄奄": {
+    "pinyin": "qi4 xi1 yan3 yan3",
+    "definition": "to have only a breath of life (idiom)"
+  },
+  "氣惱": {
+    "pinyin": "qi4 nao3",
+    "definition": "to be annoyed; to get angry"
+  },
+  "氣態": {
+    "pinyin": "qi4 tai4",
+    "definition": "gaseous state (physics); manner; air; bearing"
+  },
+  "氣憤": {
+    "pinyin": "qi4 fen4",
+    "definition": "indignant; furious"
+  },
+  "氣數": {
+    "pinyin": "qi4 shu5",
+    "definition": "fate; destiny; one's lot"
+  },
+  "氣旋": {
+    "pinyin": "qi4 xuan2",
+    "definition": "cyclone"
+  },
+  "氣昂昂": {
+    "pinyin": "qi4 ang2 ang2",
+    "definition": "full of vigor; spirited; valiant"
+  },
+  "氣根": {
+    "pinyin": "qi4 gen1",
+    "definition": "aerial root (botany)"
+  },
+  "氣概": {
+    "pinyin": "qi4 gai4",
+    "definition": "lofty quality; mettle; spirit"
+  },
+  "氣槍": {
+    "pinyin": "qi4 qiang1",
+    "definition": "an air gun"
+  },
+  "氣樓": {
+    "pinyin": "qi4 lou2",
+    "definition": "small ventilation tower on roof of building"
+  },
+  "氣死": {
+    "pinyin": "qi4 si3",
+    "definition": "to infuriate; to be furious; to die from an excess of anger"
+  },
+  "氣氛": {
+    "pinyin": "qi4 fen1",
+    "definition": "atmosphere; mood"
+  },
+  "氣沖沖": {
+    "pinyin": "qi4 chong1 chong1",
+    "definition": "furious; enraged"
+  },
+  "氣沖牛斗": {
+    "pinyin": "qi4 chong1 - niu2 dou3",
+    "definition": "(idiom) extremely angry; infuriated"
+  },
+  "氣沖霄漢": {
+    "pinyin": "qi4 chong1 xiao1 han4",
+    "definition": "(idiom) dauntless; courageous; spirited"
+  },
+  "氣泡": {
+    "pinyin": "qi4 pao4",
+    "definition": "bubble; blister (in metal); (of beverages) sparkling; carbonated"
+  },
+  "氣泡布": {
+    "pinyin": "qi4 pao4 bu4",
+    "definition": "bubble wrap"
+  },
+  "氣泡膜": {
+    "pinyin": "qi4 pao4 mo2",
+    "definition": "bubble wrap"
+  },
+  "氣泵": {
+    "pinyin": "qi4 beng4",
+    "definition": "air pump"
+  },
+  "氣派": {
+    "pinyin": "qi4 pai4",
+    "definition": "impressive; stylish; magnificent; imposing manner; dignified air"
+  },
+  "氣流": {
+    "pinyin": "qi4 liu2",
+    "definition": "stream of air; airflow; slipstream; draft; breath; turbulence (of aircraft)"
+  },
+  "氣溫": {
+    "pinyin": "qi4 wen1",
+    "definition": "air temperature"
+  },
+  "氣溶膠": {
+    "pinyin": "qi4 rong2 jiao1",
+    "definition": "aerosol"
+  },
+  "氣滯": {
+    "pinyin": "qi4 zhi4",
+    "definition": "stagnation of 氣|气[qi4] (TCM)"
+  },
+  "氣潭": {
+    "pinyin": "qi4 tan2",
+    "definition": "air pocket"
+  },
+  "氣炸": {
+    "pinyin": "qi4 zha4",
+    "definition": "to burst with rage; to blow one's top"
+  },
+  "氣焊": {
+    "pinyin": "qi4 han4",
+    "definition": "gas welding"
+  },
+  "氣焰": {
+    "pinyin": "qi4 yan4",
+    "definition": "arrogance; haughtiness"
+  },
+  "氣焰囂張": {
+    "pinyin": "qi4 yan4 - xiao1 zhang1",
+    "definition": "see 囂張氣焰|嚣张气焰[xiao1zhang1-qi4yan4]"
+  },
+  "氣煤": {
+    "pinyin": "qi4 mei2",
+    "definition": "gas coal"
+  },
+  "氣球": {
+    "pinyin": "qi4 qiu2",
+    "definition": "balloon"
+  },
+  "氣瓶": {
+    "pinyin": "qi4 ping2",
+    "definition": "gas cylinder; air bottle; air tank (diving)"
+  },
+  "氣生根": {
+    "pinyin": "qi4 sheng1 gen1",
+    "definition": "aerial root (botany)"
+  },
+  "氣田": {
+    "pinyin": "qi4 tian2",
+    "definition": "gas field"
+  },
+  "氣盛": {
+    "pinyin": "qi4 sheng4",
+    "definition": "red-blooded; full of vim; impetuous"
+  },
+  "氣笑": {
+    "pinyin": "qi4 xiao4",
+    "definition": "to be angry about sth but also find it laughable"
+  },
+  "氣筒": {
+    "pinyin": "qi4 tong3",
+    "definition": "inflator; bicycle pump"
+  },
+  "氣管": {
+    "pinyin": "qi4 guan3",
+    "definition": "windpipe; trachea; respiratory tract; air duct; gas pipe"
+  },
+  "氣管切開術": {
+    "pinyin": "qi4 guan3 qie1 kai1 shu4",
+    "definition": "(medicine) tracheotomy"
+  },
+  "氣管插管術": {
+    "pinyin": "qi4 guan3 cha1 guan3 shu4",
+    "definition": "endotracheal intubation (medicine)"
+  },
+  "氣管炎": {
+    "pinyin": "qi4 guan3 yan2",
+    "definition": "bacterial tracheitis (inflammation of the windpipe, often caused by Staphylococcus aureus); henpecked (a pun on 妻子管得嚴|妻子管得严[qi1 zi5 guan3 de5 yan2] used in comic theater)"
+  },
+  "氣管痙攣": {
+    "pinyin": "qi4 guan3 jing4 luan2",
+    "definition": "breathing convulsions (as in asthma); tracheospasm"
+  },
+  "氣節": {
+    "pinyin": "qi4 jie2",
+    "definition": "moral integrity; unflinching righteousness"
+  },
+  "氣籠": {
+    "pinyin": "qi4 long2",
+    "definition": "air pipe; bamboo air pipe used to aerate granary"
+  },
+  "氣粗": {
+    "pinyin": "qi4 cu1",
+    "definition": "irascible; overbearing"
+  },
+  "氣絕": {
+    "pinyin": "qi4 jue2",
+    "definition": "to take one's last breath; dying"
+  },
+  "氣缸": {
+    "pinyin": "qi4 gang1",
+    "definition": "cylinder (engine)"
+  },
+  "氣胸": {
+    "pinyin": "qi4 xiong1",
+    "definition": "pneumothorax (medicine)"
+  },
+  "氣膠": {
+    "pinyin": "qi4 jiao1",
+    "definition": "aerosol"
+  },
+  "氣色": {
+    "pinyin": "qi4 se4",
+    "definition": "complexion"
+  },
+  "氣虛": {
+    "pinyin": "qi4 xu1",
+    "definition": "deficiency of 氣|气[qi4] (TCM)"
+  },
+  "氣血": {
+    "pinyin": "qi4 xue4",
+    "definition": "qi and blood (two basic bodily fluids of Chinese medicine)"
+  },
+  "氣話": {
+    "pinyin": "qi4 hua4",
+    "definition": "angry words; sth said in the moment of anger"
+  },
+  "氣象": {
+    "pinyin": "qi4 xiang4",
+    "definition": "meteorological condition; weather; meteorology; atmosphere; ambience; scene"
+  },
+  "氣象台": {
+    "pinyin": "qi4 xiang4 tai2",
+    "definition": "meteorological office; weather forecasting office"
+  },
+  "氣象學": {
+    "pinyin": "qi4 xiang4 xue2",
+    "definition": "meteorology"
+  },
+  "氣象學者": {
+    "pinyin": "qi4 xiang4 xue2 zhe3",
+    "definition": "a meteorologist"
+  },
+  "氣象局": {
+    "pinyin": "qi4 xiang4 ju2",
+    "definition": "weather bureau; meteorological office"
+  },
+  "氣象廳": {
+    "pinyin": "qi4 xiang4 ting1",
+    "definition": "meteorological office"
+  },
+  "氣象站": {
+    "pinyin": "qi4 xiang4 zhan4",
+    "definition": "weather station"
+  },
+  "氣象衛星": {
+    "pinyin": "qi4 xiang4 wei4 xing1",
+    "definition": "weather satellite"
+  },
+  "氣象觀測站": {
+    "pinyin": "qi4 xiang4 guan1 ce4 zhan4",
+    "definition": "weather station"
+  },
+  "氣貫長虹": {
+    "pinyin": "qi4 guan4 chang2 hong2",
+    "definition": "spirit reaches to the rainbow; full of noble aspiration and daring"
+  },
+  "氣質": {
+    "pinyin": "qi4 zhi4",
+    "definition": "personality traits; temperament; disposition; aura; air; feel; vibe; refinement; sophistication; class"
+  },
+  "氣逆": {
+    "pinyin": "qi4 ni4",
+    "definition": "reverse flow of 氣|气[qi4] (TCM)"
+  },
+  "氣道": {
+    "pinyin": "qi4 dao4",
+    "definition": "flue; air duct; air passage; respiratory tract"
+  },
+  "氣量": {
+    "pinyin": "qi4 liang4",
+    "definition": "(lit. quantity of spirit); moral character; degree of forbearance; broad-mindedness or otherwise; tolerance; magnanimity"
+  },
+  "氣錘": {
+    "pinyin": "qi4 chui2",
+    "definition": "air hammer; pneumatic hammer"
+  },
+  "氣鑽": {
+    "pinyin": "qi4 zuan4",
+    "definition": "pneumatic drill"
+  },
+  "氣門": {
+    "pinyin": "qi4 men2",
+    "definition": "valve (esp. tire valve); accelerator (obsolete term for 油門|油门); stigma (zool.); spiracle"
+  },
+  "氣閘": {
+    "pinyin": "qi4 zha2",
+    "definition": "pneumatic brake; airlock"
+  },
+  "氣阱": {
+    "pinyin": "qi4 jing3",
+    "definition": "air pocket"
+  },
+  "氣陷": {
+    "pinyin": "qi4 xian4",
+    "definition": "collapse of 氣|气[qi4] (TCM)"
+  },
+  "氣隙": {
+    "pinyin": "qi4 xi4",
+    "definition": "air vent; air gap"
+  },
+  "氣霧免疫": {
+    "pinyin": "qi4 wu4 mian3 yi4",
+    "definition": "aerosol immunization"
+  },
+  "氣霧劑": {
+    "pinyin": "qi4 wu4 ji4",
+    "definition": "aerosol"
+  },
+  "氣霧室": {
+    "pinyin": "qi4 wu4 shi4",
+    "definition": "cloud chamber"
+  },
+  "氣韻": {
+    "pinyin": "qi4 yun4",
+    "definition": "(of literature, art) distinct style; flavor; spirit; character"
+  },
+  "氣頭上": {
+    "pinyin": "qi4 tou2 shang5",
+    "definition": "(in) a fit of anger; (in) a foul mood"
+  },
+  "氣餒": {
+    "pinyin": "qi4 nei3",
+    "definition": "to be discouraged"
+  },
+  "氣體": {
+    "pinyin": "qi4 ti3",
+    "definition": "gas (i.e. gaseous substance)"
+  },
+  "氣體擴散": {
+    "pinyin": "qi4 ti3 kuo4 san4",
+    "definition": "gaseous diffusion"
+  },
+  "氣魄": {
+    "pinyin": "qi4 po4",
+    "definition": "spirit; boldness; positive outlook; imposing attitude"
+  },
+  "氣鳴樂器": {
+    "pinyin": "qi4 ming2 yue4 qi4",
+    "definition": "aerophone (music)"
+  },
+  "氣鼓鼓": {
+    "pinyin": "qi4 gu3 gu3",
+    "definition": "seething; fuming"
+  }
+}

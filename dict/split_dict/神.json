@@ -1,0 +1,702 @@
+{
+  "神": {
+    "pinyin": "shen2",
+    "definition": "god; deity; supernatural; magical; mysterious; spirit; mind; energy; lively; expressive; look; expression; (coll.) awesome; amazing"
+  },
+  "神不守舍": {
+    "pinyin": "shen2 bu4 shou3 she4",
+    "definition": "(idiom) absentminded; dazed; distracted"
+  },
+  "神不知鬼不覺": {
+    "pinyin": "shen2 bu4 zhi1 gui3 bu4 jue2",
+    "definition": "top secret; hush-hush"
+  },
+  "神乎其技": {
+    "pinyin": "shen2 hu1 qi2 ji4",
+    "definition": "(idiom) brilliant; extremely skillful; virtuosic"
+  },
+  "神交": {
+    "pinyin": "shen2 jiao1",
+    "definition": "soul brothers; friends in spirit who have never met; to commune with"
+  },
+  "神人": {
+    "pinyin": "shen2 ren2",
+    "definition": "God; deity"
+  },
+  "神仙": {
+    "pinyin": "shen2 xian1",
+    "definition": "Daoist immortal; supernatural entity; (in modern fiction) fairy, elf, leprechaun etc; fig. lighthearted person"
+  },
+  "神似": {
+    "pinyin": "shen2 si4",
+    "definition": "similar in expression and spirit; to bear a remarkable resemblance to"
+  },
+  "神位": {
+    "pinyin": "shen2 wei4",
+    "definition": "spirit tablet; ancestral tablet"
+  },
+  "神佛": {
+    "pinyin": "Shen2 Fo2",
+    "definition": "Gods and Buddhas"
+  },
+  "神作": {
+    "pinyin": "shen2 zuo4",
+    "definition": "(slang) masterpiece"
+  },
+  "神偷": {
+    "pinyin": "shen2 tou1",
+    "definition": "master thief"
+  },
+  "神傷": {
+    "pinyin": "shen2 shang1",
+    "definition": "depressed; dispirited; dejected"
+  },
+  "神像": {
+    "pinyin": "shen2 xiang4",
+    "definition": "likeness of a god or Buddha; (old) portrait of the deceased"
+  },
+  "神入": {
+    "pinyin": "shen2 ru4",
+    "definition": "(psychology) empathy; to empathize with"
+  },
+  "神出鬼沒": {
+    "pinyin": "shen2 chu1 - gui3 mo4",
+    "definition": "lit. to appear and disappear unpredictably like a spirit or a ghost (idiom); fig. elusive"
+  },
+  "神力": {
+    "pinyin": "shen2 li4",
+    "definition": "occult force; the power of a God or spirit"
+  },
+  "神功": {
+    "pinyin": "shen2 gong1",
+    "definition": "amazing powers; miraculous skill"
+  },
+  "神勇": {
+    "pinyin": "shen2 yong3",
+    "definition": "extraordinarily brave; heroic"
+  },
+  "神勞形瘁": {
+    "pinyin": "shen2 lao2 xing2 cui4",
+    "definition": "to be completely drained both emotionally and physically (idiom)"
+  },
+  "神化": {
+    "pinyin": "shen2 hua4",
+    "definition": "to make divine; apotheosis"
+  },
+  "神器": {
+    "pinyin": "shen2 qi4",
+    "definition": "magical object; object symbolic of imperial power; fine weapon; very useful tool"
+  },
+  "神奇": {
+    "pinyin": "shen2 qi2",
+    "definition": "magical; mystical; miraculous"
+  },
+  "神奇寶貝": {
+    "pinyin": "Shen2 qi2 Bao3 bei4",
+    "definition": "Pokémon or Pocket Monsters, popular Japanese video game, anime and manga"
+  },
+  "神奈川": {
+    "pinyin": "Shen2 nai4 chuan1",
+    "definition": "Kanagawa, Japan"
+  },
+  "神奈川縣": {
+    "pinyin": "Shen2 nai4 chuan1 xian4",
+    "definition": "Kanagawa prefecture, Japan"
+  },
+  "神奧": {
+    "pinyin": "shen2 ao4",
+    "definition": "mysterious; an enigma"
+  },
+  "神女": {
+    "pinyin": "shen2 nu:3",
+    "definition": "goddess; (old) prostitute"
+  },
+  "神女峰": {
+    "pinyin": "Shen2 nu:3 Feng1",
+    "definition": "name of a peak by the Three Gorges 長江三峽|长江三峡[Chang2 Jiang1 San1 xia2]"
+  },
+  "神女有心，襄王無夢": {
+    "pinyin": "shen2 nu:3 you3 xin1 , Xiang1 Wang2 wu2 meng4",
+    "definition": "lit. the fairy is willing, but King Xiang doesn't dream (idiom); (said of a woman's unrequited love)"
+  },
+  "神妙": {
+    "pinyin": "shen2 miao4",
+    "definition": "marvelous; wondrous"
+  },
+  "神妙雋美": {
+    "pinyin": "shen2 miao4 juan4 mei3",
+    "definition": "outstanding and elegant; remarkable and refined"
+  },
+  "神學": {
+    "pinyin": "shen2 xue2",
+    "definition": "theological; theology"
+  },
+  "神學士": {
+    "pinyin": "shen2 xue2 shi4",
+    "definition": "student of theology; Bachelor of Divinity; Taleban (Farsi: student)"
+  },
+  "神學家": {
+    "pinyin": "shen2 xue2 jia1",
+    "definition": "theologian"
+  },
+  "神學研究所": {
+    "pinyin": "shen2 xue2 yan2 jiu1 suo3",
+    "definition": "seminary"
+  },
+  "神學院": {
+    "pinyin": "shen2 xue2 yuan4",
+    "definition": "seminary"
+  },
+  "神山": {
+    "pinyin": "shen2 shan1",
+    "definition": "sacred mountain"
+  },
+  "神州": {
+    "pinyin": "Shen2 zhou1",
+    "definition": "old name for China"
+  },
+  "神工鬼斧": {
+    "pinyin": "shen2 gong1 gui3 fu3",
+    "definition": "supernaturally fine craft (idiom); the work of the Gods; uncanny workmanship; superlative craftsmanship"
+  },
+  "神差鬼使": {
+    "pinyin": "shen2 chai1 gui3 shi3",
+    "definition": "the work of gods and devils (idiom); unexplained event crying out for a supernatural explanation; curious coincidence"
+  },
+  "神廚": {
+    "pinyin": "shen2 chu2",
+    "definition": "master chef"
+  },
+  "神廟": {
+    "pinyin": "shen2 miao4",
+    "definition": "temple"
+  },
+  "神往": {
+    "pinyin": "shen2 wang3",
+    "definition": "to be fascinated; to be rapt; to long for; to dream of"
+  },
+  "神志": {
+    "pinyin": "shen2 zhi4",
+    "definition": "consciousness; state of mind; compos mentis"
+  },
+  "神志不清": {
+    "pinyin": "shen2 zhi4 bu4 qing1",
+    "definition": "to be delirious; to be mentally confused"
+  },
+  "神志昏迷": {
+    "pinyin": "shen2 zhi4 hun1 mi2",
+    "definition": "to be in a state of delirium"
+  },
+  "神思": {
+    "pinyin": "shen2 si1",
+    "definition": "state of mind"
+  },
+  "神思恍惚": {
+    "pinyin": "shen2 si1 huang3 hu1",
+    "definition": "abstracted; absent-minded; in a trance"
+  },
+  "神性": {
+    "pinyin": "shen2 xing4",
+    "definition": "divinity"
+  },
+  "神怪": {
+    "pinyin": "shen2 guai4",
+    "definition": "spirits and devils (usually harmful); demon"
+  },
+  "神情": {
+    "pinyin": "shen2 qing2",
+    "definition": "look; expression"
+  },
+  "神態": {
+    "pinyin": "shen2 tai4",
+    "definition": "appearance; manner; bearing; deportment; look; expression; mien"
+  },
+  "神慰": {
+    "pinyin": "shen2 wei4",
+    "definition": "spiritual consolation"
+  },
+  "神憎鬼厭": {
+    "pinyin": "shen2 zeng1 - gui3 yan4",
+    "definition": "(idiom) despicable; loathsome"
+  },
+  "神戶": {
+    "pinyin": "Shen2 hu4",
+    "definition": "Kobe, city in Japan"
+  },
+  "神探": {
+    "pinyin": "shen2 tan4",
+    "definition": "master sleuth; lit. miraculous detective; cf Sherlock Holmes 福爾摩斯|福尔摩斯[Fu2 er3 mo2 si1] or Di Renjie 狄仁傑|狄仁杰[Di2 Ren2 jie2]"
+  },
+  "神明": {
+    "pinyin": "shen2 ming2",
+    "definition": "deities; gods"
+  },
+  "神智": {
+    "pinyin": "shen2 zhi4",
+    "definition": "mind; wisdom; consciousness"
+  },
+  "神曲": {
+    "pinyin": "shen2 qu1",
+    "definition": "medicated leaven (used in TCM to treat indigestion)"
+  },
+  "神枯": {
+    "pinyin": "shen2 ku1",
+    "definition": "spiritual desolation"
+  },
+  "神格": {
+    "pinyin": "shen2 ge2",
+    "definition": "Godhead"
+  },
+  "神槍手": {
+    "pinyin": "shen2 qiang1 shou3",
+    "definition": "sharpshooter"
+  },
+  "神機妙算": {
+    "pinyin": "shen2 ji1 miao4 suan4",
+    "definition": "divine strategy and wonderful planning (idiom); clever scheme; supremely clever in his schemes"
+  },
+  "神權": {
+    "pinyin": "shen2 quan2",
+    "definition": "divine right (of kings)"
+  },
+  "神權政治": {
+    "pinyin": "shen2 quan2 zheng4 zhi4",
+    "definition": "theocracy"
+  },
+  "神權統治": {
+    "pinyin": "shen2 quan2 tong3 zhi4",
+    "definition": "theocracy"
+  },
+  "神殿": {
+    "pinyin": "shen2 dian4",
+    "definition": "shrine"
+  },
+  "神氣": {
+    "pinyin": "shen2 qi4",
+    "definition": "expression; manner; vigorous; impressive; lofty; pretentious"
+  },
+  "神氣活現": {
+    "pinyin": "shen2 qi4 huo2 xian4",
+    "definition": "arrogant appearance; smug appearance; to act condescending; to put on airs"
+  },
+  "神池": {
+    "pinyin": "Shen2 chi2",
+    "definition": "Shenchi county in Xinzhou 忻州[Xin1 zhou1], Shanxi"
+  },
+  "神池縣": {
+    "pinyin": "Shen2 chi2 xian4",
+    "definition": "Shenchi county in Xinzhou 忻州[Xin1 zhou1], Shanxi"
+  },
+  "神治": {
+    "pinyin": "shen2 zhi4",
+    "definition": "theocratic; theocracy"
+  },
+  "神治國": {
+    "pinyin": "shen2 zhi4 guo2",
+    "definition": "theocracy; also written 神權統治|神权统治[shen2 quan2 tong3 zhi4] or 神權政治|神权政治[shen2 quan2 zheng4 zhi4]"
+  },
+  "神清氣爽": {
+    "pinyin": "shen2 qing1 qi4 shuang3",
+    "definition": "(idiom) full of vitality; relaxed and alert"
+  },
+  "神游": {
+    "pinyin": "shen2 you2",
+    "definition": "to go on a mental journey"
+  },
+  "神漢": {
+    "pinyin": "shen2 han4",
+    "definition": "sorcerer"
+  },
+  "神父": {
+    "pinyin": "shen2 fu5",
+    "definition": "father (Catholic or Orthodox priest)"
+  },
+  "神獸": {
+    "pinyin": "shen2 shou4",
+    "definition": "mythological animal"
+  },
+  "神甫": {
+    "pinyin": "shen2 fu5",
+    "definition": "variant of 神父[shen2 fu5]"
+  },
+  "神異": {
+    "pinyin": "shen2 yi4",
+    "definition": "magical; miraculous; mystical"
+  },
+  "神社": {
+    "pinyin": "shen2 she4",
+    "definition": "shrine"
+  },
+  "神祇": {
+    "pinyin": "shen2 qi2",
+    "definition": "god; deity"
+  },
+  "神祕莫測": {
+    "pinyin": "shen2 mi4 mo4 ce4",
+    "definition": "mystery; unfathomable; enigmatic"
+  },
+  "神祖": {
+    "pinyin": "shen2 zu3",
+    "definition": "Godhead"
+  },
+  "神神叨叨": {
+    "pinyin": "shen2 shen5 dao1 dao1",
+    "definition": "see 神神道道[shen2 shen5 dao4 dao4]"
+  },
+  "神神道道": {
+    "pinyin": "shen2 shen5 dao4 dao4",
+    "definition": "odd; weird; abnormal"
+  },
+  "神祠": {
+    "pinyin": "shen2 ci2",
+    "definition": "shrine"
+  },
+  "神秘": {
+    "pinyin": "shen2 mi4",
+    "definition": "mysterious; mystery"
+  },
+  "神秘主義": {
+    "pinyin": "shen2 mi4 zhu3 yi4",
+    "definition": "mysticism"
+  },
+  "神秘面紗": {
+    "pinyin": "shen2 mi4 mian4 sha1",
+    "definition": "veil of mystery"
+  },
+  "神童": {
+    "pinyin": "shen2 tong2",
+    "definition": "child prodigy"
+  },
+  "神筆": {
+    "pinyin": "shen2 bi3",
+    "definition": "lit. divine pen; fig. outstanding writing"
+  },
+  "神經": {
+    "pinyin": "shen2 jing1",
+    "definition": "nerve; mental state; (coll.) unhinged; nutjob"
+  },
+  "神經元": {
+    "pinyin": "shen2 jing1 yuan2",
+    "definition": "neuron"
+  },
+  "神經元網": {
+    "pinyin": "shen2 jing1 yuan2 wang3",
+    "definition": "neural network"
+  },
+  "神經原": {
+    "pinyin": "shen2 jing1 yuan2",
+    "definition": "neuron; also written 神經元|神经元"
+  },
+  "神經外科": {
+    "pinyin": "shen2 jing1 wai4 ke1",
+    "definition": "neurosurgery"
+  },
+  "神經大條": {
+    "pinyin": "shen2 jing1 da4 tiao2",
+    "definition": "thick-skinned; insensitive"
+  },
+  "神經失常": {
+    "pinyin": "shen2 jing1 shi1 chang2",
+    "definition": "mental aberration; nervous abnormality"
+  },
+  "神經學": {
+    "pinyin": "shen2 jing1 xue2",
+    "definition": "neurology"
+  },
+  "神經學家": {
+    "pinyin": "shen2 jing1 xue2 jia1",
+    "definition": "neurologist"
+  },
+  "神經官能症": {
+    "pinyin": "shen2 jing1 guan1 neng2 zheng4",
+    "definition": "neurosis"
+  },
+  "神經性": {
+    "pinyin": "shen2 jing1 xing4",
+    "definition": "neural; mental; neurological"
+  },
+  "神經性毒劑": {
+    "pinyin": "shen2 jing1 xing4 du2 ji4",
+    "definition": "nerve agent; nerve gas"
+  },
+  "神經毒素": {
+    "pinyin": "shen2 jing1 du2 su4",
+    "definition": "neurotoxin"
+  },
+  "神經氨酸酶": {
+    "pinyin": "shen2 jing1 an1 suan1 mei2",
+    "definition": "neuraminidase (the N of virus such as bird flu H5N1)"
+  },
+  "神經生物學": {
+    "pinyin": "shen2 jing1 sheng1 wu4 xue2",
+    "definition": "neurobiology"
+  },
+  "神經病": {
+    "pinyin": "shen2 jing1 bing4",
+    "definition": "mental disorder; neuropathy; (derog.) mental case"
+  },
+  "神經症": {
+    "pinyin": "shen2 jing1 zheng4",
+    "definition": "neurosis"
+  },
+  "神經痛": {
+    "pinyin": "shen2 jing1 tong4",
+    "definition": "neuralgia (medicine)"
+  },
+  "神經科": {
+    "pinyin": "shen2 jing1 ke1",
+    "definition": "neurology department"
+  },
+  "神經突": {
+    "pinyin": "shen2 jing1 tu1",
+    "definition": "nerve process"
+  },
+  "神經管": {
+    "pinyin": "shen2 jing1 guan3",
+    "definition": "neural tube (embryology)"
+  },
+  "神經節": {
+    "pinyin": "shen2 jing1 jie2",
+    "definition": "(anatomy) ganglion"
+  },
+  "神經系統": {
+    "pinyin": "shen2 jing1 xi4 tong3",
+    "definition": "nervous system"
+  },
+  "神經索": {
+    "pinyin": "shen2 jing1 suo3",
+    "definition": "nerve cord"
+  },
+  "神經細胞": {
+    "pinyin": "shen2 jing1 xi4 bao1",
+    "definition": "nerve cell; neuron"
+  },
+  "神經網": {
+    "pinyin": "shen2 jing1 wang3",
+    "definition": "neural net"
+  },
+  "神經網絡": {
+    "pinyin": "shen2 jing1 wang3 luo4",
+    "definition": "neural network"
+  },
+  "神經網路": {
+    "pinyin": "shen2 jing1 wang3 lu4",
+    "definition": "neural network (artificial or biological)"
+  },
+  "神經纖維": {
+    "pinyin": "shen2 jing1 xian1 wei2",
+    "definition": "neurofibril"
+  },
+  "神經纖維瘤": {
+    "pinyin": "shen2 jing1 xian1 wei2 liu2",
+    "definition": "neurofibroma"
+  },
+  "神經膠質": {
+    "pinyin": "shen2 jing1 jiao1 zhi4",
+    "definition": "glial cell; neuroglia"
+  },
+  "神經膠質細胞": {
+    "pinyin": "shen2 jing1 jiao1 zhi4 xi4 bao1",
+    "definition": "glial cell (provide support to neuron); neuroglia"
+  },
+  "神經衰弱": {
+    "pinyin": "shen2 jing1 shuai1 ruo4",
+    "definition": "nervous exhaustion; neurasthenia; mental breakdown (often used to describe what is now understood to be clinical depression)"
+  },
+  "神經質": {
+    "pinyin": "shen2 jing1 zhi4",
+    "definition": "nervous; on edge; excitable; neurotic"
+  },
+  "神經過敏": {
+    "pinyin": "shen2 jing1 guo4 min3",
+    "definition": "jumpy; nervous; oversensitive"
+  },
+  "神聖": {
+    "pinyin": "shen2 sheng4",
+    "definition": "divine; hallow; holy; sacred"
+  },
+  "神聖不可侵犯": {
+    "pinyin": "shen2 sheng4 bu4 ke3 qin1 fan4",
+    "definition": "sacred; inviolable"
+  },
+  "神聖羅馬帝國": {
+    "pinyin": "Shen2 sheng4 Luo2 ma3 Di4 guo2",
+    "definition": "the Holy Roman Empire (history)"
+  },
+  "神聖週": {
+    "pinyin": "shen2 sheng4 zhou1",
+    "definition": "Holy week; Easter week (esp. Catholic)"
+  },
+  "神職": {
+    "pinyin": "shen2 zhi2",
+    "definition": "clergy; clerical"
+  },
+  "神職人員": {
+    "pinyin": "shen2 zhi2 ren2 yuan2",
+    "definition": "clergy; cleric"
+  },
+  "神舟": {
+    "pinyin": "Shen2 zhou1",
+    "definition": "Shenzhou (spacecraft); Hasee (computer manufacturer)"
+  },
+  "神舟號飛船": {
+    "pinyin": "Shen2 zhou1 hao4 fei1 chuan2",
+    "definition": "Shenzhou (spacecraft)"
+  },
+  "神舟電腦": {
+    "pinyin": "shen2 zhou1 dian4 nao3",
+    "definition": "Hasee (computer manufacturer)"
+  },
+  "神色": {
+    "pinyin": "shen2 se4",
+    "definition": "expression; look"
+  },
+  "神話": {
+    "pinyin": "shen2 hua4",
+    "definition": "legend; fairy tale; myth; mythology"
+  },
+  "神話故事": {
+    "pinyin": "shen2 hua4 gu4 shi5",
+    "definition": "mythical story; myth"
+  },
+  "神諭": {
+    "pinyin": "shen2 yu4",
+    "definition": "oracle"
+  },
+  "神譜": {
+    "pinyin": "shen2 pu3",
+    "definition": "list of Gods and Immortals; pantheon"
+  },
+  "神跡": {
+    "pinyin": "shen2 ji4",
+    "definition": "miracle"
+  },
+  "神輿": {
+    "pinyin": "shen2 yu2",
+    "definition": "mikoshi (Japanese portable Shinto shrine)"
+  },
+  "神農": {
+    "pinyin": "Shen2 nong2",
+    "definition": "Shennong or Farmer God (c. 2000 BC), first of the legendary Flame Emperors, 炎帝[Yan2 di4] and creator of agriculture"
+  },
+  "神農本草經": {
+    "pinyin": "Shen2 nong2 Ben3 cao3 Jing1",
+    "definition": "Shennong's Compendium of Materia Medica, a Han dynasty pharmacological compendium, 3 scrolls"
+  },
+  "神農架": {
+    "pinyin": "Shen2 nong2 jia4",
+    "definition": "Shennongjialin, directly administered forestry reserve in east Hubei"
+  },
+  "神農架地區": {
+    "pinyin": "Shen2 nong2 jia4 di4 qu1",
+    "definition": "Shennongjialin, directly administered forestry reserve in east Hubei"
+  },
+  "神農架林區": {
+    "pinyin": "Shen2 nong2 jia4 lin2 qu1",
+    "definition": "Shennongjialin, directly administered forestry reserve in east Hubei"
+  },
+  "神農氏": {
+    "pinyin": "Shen2 nong2 shi4",
+    "definition": "Shennong or Farmer God (c. 2000 BC), first of the legendary Flame Emperors, 炎帝[Yan2 di4] and creator of agriculture in China; followers or clan of Shennong 神農|神农[Shen2 nong2]"
+  },
+  "神通": {
+    "pinyin": "shen2 tong1",
+    "definition": "remarkable ability; magical power"
+  },
+  "神通廣大": {
+    "pinyin": "shen2 tong1 guang3 da4",
+    "definition": "(idiom) to possess great magical power; to possess remarkable abilities"
+  },
+  "神速": {
+    "pinyin": "shen2 su4",
+    "definition": "lightning speed; amazingly rapid; incredible pace of development"
+  },
+  "神造論": {
+    "pinyin": "shen2 zao4 lun4",
+    "definition": "creationism"
+  },
+  "神道": {
+    "pinyin": "Shen2 dao4",
+    "definition": "Shinto (Japanese religion)"
+  },
+  "神道教": {
+    "pinyin": "Shen2 dao4 jiao4",
+    "definition": "Shinto"
+  },
+  "神采": {
+    "pinyin": "shen2 cai3",
+    "definition": "expression; spirit; vigor"
+  },
+  "神采奕奕": {
+    "pinyin": "shen2 cai3 yi4 yi4",
+    "definition": "in glowing spirits (idiom); bursting with life; radiating health and vigor"
+  },
+  "神采飛揚": {
+    "pinyin": "shen2 cai3 fei1 yang2",
+    "definition": "in high spirits (idiom); glowing with health and vigor"
+  },
+  "神隱": {
+    "pinyin": "shen2 yin3",
+    "definition": "to be concealed by supernatural forces; to disappear mysteriously; (fig.) to be out of the public eye"
+  },
+  "神雕俠侶": {
+    "pinyin": "Shen2 diao1 Xia2 lu:3",
+    "definition": "variant of 神鵰俠侶|神雕侠侣[Shen2 diao1 Xia2 lu:3]"
+  },
+  "神靈": {
+    "pinyin": "shen2 ling2",
+    "definition": "god; spirit; demon; occult or supernatural entities in general"
+  },
+  "神韻": {
+    "pinyin": "shen2 yun4",
+    "definition": "charm or grace (in poetry or art)"
+  },
+  "神風特攻隊": {
+    "pinyin": "Shen2 feng1 Te4 gong1 dui4",
+    "definition": "Kamikaze Unit (Japanese corps of suicide pilots in World War II); kamikaze (vodka-based cocktail)"
+  },
+  "神風突擊隊": {
+    "pinyin": "shen2 feng1 tu1 ji1 dui4",
+    "definition": "kamikaze unit (Japanese corps of suicide pilots in World War II)"
+  },
+  "神馬": {
+    "pinyin": "shen2 ma3",
+    "definition": "mythical horse; Internet slang for 什麼|什么[shen2 me5]"
+  },
+  "神髓": {
+    "pinyin": "shen2 sui3",
+    "definition": "lit. spirit and marrow; the essential character"
+  },
+  "神體": {
+    "pinyin": "shen2 ti3",
+    "definition": "Godhead"
+  },
+  "神魂": {
+    "pinyin": "shen2 hun2",
+    "definition": "mind; state of mind (often abnormal)"
+  },
+  "神魂顛倒": {
+    "pinyin": "shen2 hun2 dian1 dao3",
+    "definition": "lit. spirit and soul upside down (idiom); infatuated and head over heels in love; fascinated; captivated"
+  },
+  "神魔小說": {
+    "pinyin": "shen2 mo2 xiao3 shuo1",
+    "definition": "supernatural novel; novel of ghosts and goblins"
+  },
+  "神鳥": {
+    "pinyin": "shen2 niao3",
+    "definition": "supernatural bird"
+  },
+  "神鵰俠侶": {
+    "pinyin": "Shen2 diao1 Xia2 lu:3",
+    "definition": "\"The Return of the Condor Heroes\" (1959-61 wuxia novel by Jin Yong 金庸[Jin1 Yong1])"
+  },
+  "神龍汽車": {
+    "pinyin": "Shen2 long2 Qi4 che1",
+    "definition": "Dongfeng Peugeot-Citroën (automobile company)"
+  },
+  "神龕": {
+    "pinyin": "shen2 kan1",
+    "definition": "shrine; niche; household shrine"
+  }
+}

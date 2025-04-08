@@ -1,0 +1,646 @@
+{
+  "空": {
+    "pinyin": "kong4",
+    "definition": "to empty; vacant; unoccupied; space; leisure; free time"
+  },
+  "空中": {
+    "pinyin": "kong1 zhong1",
+    "definition": "in the sky; in the air"
+  },
+  "空中交通管制": {
+    "pinyin": "kong1 zhong1 jiao1 tong1 guan3 zhi4",
+    "definition": "air traffic control"
+  },
+  "空中交通管制員": {
+    "pinyin": "kong1 zhong1 jiao1 tong1 guan3 zhi4 yuan2",
+    "definition": "air traffic controller"
+  },
+  "空中分列": {
+    "pinyin": "kong1 zhong1 fen1 lie4",
+    "definition": "(military) flyover"
+  },
+  "空中劫持": {
+    "pinyin": "kong1 zhong1 jie2 chi2",
+    "definition": "to hijack (a plane); aircraft hijacking; skyjacking"
+  },
+  "空中客車": {
+    "pinyin": "Kong1 zhong1 Ke4 che1",
+    "definition": "Airbus (aerospace company)"
+  },
+  "空中小姐": {
+    "pinyin": "kong1 zhong1 xiao3 jie3",
+    "definition": "stewardess; air hostess"
+  },
+  "空中少爺": {
+    "pinyin": "kong1 zhong1 shao4 ye5",
+    "definition": "airline steward"
+  },
+  "空中接力": {
+    "pinyin": "kong1 zhong1 jie1 li4",
+    "definition": "alley-oop (basketball)"
+  },
+  "空中格鬥": {
+    "pinyin": "kong1 zhong1 ge2 dou4",
+    "definition": "dogfight (of planes)"
+  },
+  "空中樓閣": {
+    "pinyin": "kong1 zhong1 lou2 ge2",
+    "definition": "pavilion in the air (idiom); unrealistic Utopian construction; castles in Spain; imaginary future plans"
+  },
+  "空中砲艦": {
+    "pinyin": "kong1 zhong1 pao4 jian4",
+    "definition": "gunship (aircraft)"
+  },
+  "空中花園": {
+    "pinyin": "kong1 zhong1 hua1 yuan2",
+    "definition": "hanging gardens (Babylon etc); rooftop garden"
+  },
+  "空中飄浮": {
+    "pinyin": "kong1 zhong1 piao1 fu2",
+    "definition": "to float in the air"
+  },
+  "空中飛人": {
+    "pinyin": "kong1 zhong1 fei1 ren2",
+    "definition": "trapeze artist; frequent flyer"
+  },
+  "空乘": {
+    "pinyin": "kong1 cheng2",
+    "definition": "flight attendant; on-board service"
+  },
+  "空位": {
+    "pinyin": "kong1 wei4",
+    "definition": "empty place; room (for sb)"
+  },
+  "空值": {
+    "pinyin": "kong1 zhi2",
+    "definition": "null value (in a relational database)"
+  },
+  "空兒": {
+    "pinyin": "kong4 r5",
+    "definition": "spare time; free time"
+  },
+  "空前": {
+    "pinyin": "kong1 qian2",
+    "definition": "unprecedented"
+  },
+  "空前絕後": {
+    "pinyin": "kong1 qian2 jue2 hou4",
+    "definition": "unprecedented and never to be duplicated; the first and the last; unmatched; unique"
+  },
+  "空匱": {
+    "pinyin": "kong4 kui4",
+    "definition": "scarce; poor"
+  },
+  "空口": {
+    "pinyin": "kong1 kou3",
+    "definition": "incomplete meal of a single dish; meat or vegetable dish without rice or wine; rice without meat or vegetables"
+  },
+  "空口無憑": {
+    "pinyin": "kong1 kou3 wu2 ping2",
+    "definition": "mere verbal statement cannot be taken as proof (idiom)"
+  },
+  "空口白話": {
+    "pinyin": "kong1 kou3 bai2 hua4",
+    "definition": "empty promises"
+  },
+  "空口說白話": {
+    "pinyin": "kong1 kou3 shuo1 bai2 hua4",
+    "definition": "to make empty promises"
+  },
+  "空名": {
+    "pinyin": "kong1 ming2",
+    "definition": "vacuous reputation; name without substance; in name only; so-called"
+  },
+  "空喊": {
+    "pinyin": "kong1 han3",
+    "definition": "idle clamor; to prattle"
+  },
+  "空地": {
+    "pinyin": "kong4 di4",
+    "definition": "vacant land; open space"
+  },
+  "空地導彈": {
+    "pinyin": "kong1 di4 dao3 dan4",
+    "definition": "air-to-surface missile"
+  },
+  "空城計": {
+    "pinyin": "kong1 cheng2 ji4",
+    "definition": "the empty city stratagem (in which Zhuge Liang presents himself as unperturbed while making it evident that his city is undefended, hoping his adversary will suspect an ambush); double bluff"
+  },
+  "空姐": {
+    "pinyin": "kong1 jie3",
+    "definition": "abbr. for 空中小姐; stewardess; air hostess; female flight attendant"
+  },
+  "空嫂": {
+    "pinyin": "kong1 sao3",
+    "definition": "married stewardess of mature age"
+  },
+  "空子": {
+    "pinyin": "kong4 zi5",
+    "definition": "gap; unoccupied space or time; fig. gap; loophole"
+  },
+  "空客": {
+    "pinyin": "Kong1 ke4",
+    "definition": "Airbus (abbr. for 空中客車|空中客车[Kong1 zhong1 Ke4 che1])"
+  },
+  "空室清野": {
+    "pinyin": "kong1 shi4 qing1 ye3",
+    "definition": "empty room, clean field (idiom); clean out everything to leave nothing for the enemy; scorched earth policy"
+  },
+  "空寂": {
+    "pinyin": "kong1 ji4",
+    "definition": "empty and silent; desolate"
+  },
+  "空對地": {
+    "pinyin": "kong1 dui4 di4",
+    "definition": "air-to-surface (missile)"
+  },
+  "空對空導彈": {
+    "pinyin": "kong1 dui4 kong1 dao3 dan4",
+    "definition": "air-to-air missile"
+  },
+  "空少": {
+    "pinyin": "kong1 shao4",
+    "definition": "airline steward (abbr. for 空中少爺|空中少爷[kong1 zhong1 shao4 ye5])"
+  },
+  "空巢": {
+    "pinyin": "kong1 chao2",
+    "definition": "empty nest; a home where the kids have grown up and moved out"
+  },
+  "空幻": {
+    "pinyin": "kong1 huan4",
+    "definition": "vanity; empty fantasy; illusion"
+  },
+  "空心": {
+    "pinyin": "kong4 xin1",
+    "definition": "on an empty stomach"
+  },
+  "空心兒": {
+    "pinyin": "kong4 xin1 r5",
+    "definition": "erhua variant of 空心[kong4 xin1]"
+  },
+  "空心大老官": {
+    "pinyin": "kong1 xin1 da4 lao3 guan1",
+    "definition": "fake important personage; sham"
+  },
+  "空心牆": {
+    "pinyin": "kong1 xin1 qiang2",
+    "definition": "cavity wall; hollow wall"
+  },
+  "空心球": {
+    "pinyin": "kong1 xin1 qiu2",
+    "definition": "hollow ball; (basketball) swish shot"
+  },
+  "空心老大": {
+    "pinyin": "kong1 xin1 lao3 da4",
+    "definition": "pretentious and vacuous person"
+  },
+  "空心菜": {
+    "pinyin": "kong1 xin1 cai4",
+    "definition": "see 蕹菜[weng4 cai4]"
+  },
+  "空心蘿蔔": {
+    "pinyin": "kong1 xin1 luo2 bo5",
+    "definition": "useless person"
+  },
+  "空心麵": {
+    "pinyin": "kong1 xin1 mian4",
+    "definition": "macaroni"
+  },
+  "空怒": {
+    "pinyin": "kong1 nu4",
+    "definition": "air rage"
+  },
+  "空性": {
+    "pinyin": "kong1 xing4",
+    "definition": "emptiness"
+  },
+  "空想": {
+    "pinyin": "kong1 xiang3",
+    "definition": "daydream; fantasy; to fantasize"
+  },
+  "空想家": {
+    "pinyin": "kong1 xiang3 jia1",
+    "definition": "impractical dreamer"
+  },
+  "空想性錯視": {
+    "pinyin": "kong1 xiang3 xing4 cuo4 shi4",
+    "definition": "pareidolia"
+  },
+  "空想社會主義": {
+    "pinyin": "kong1 xiang3 she4 hui4 zhu3 yi4",
+    "definition": "utopian socialism"
+  },
+  "空戰": {
+    "pinyin": "kong1 zhan4",
+    "definition": "air war; air warfare"
+  },
+  "空房間": {
+    "pinyin": "kong1 fang2 jian1",
+    "definition": "vacant room"
+  },
+  "空手": {
+    "pinyin": "kong1 shou3",
+    "definition": "empty-handed; unarmed; (painting, embroidery etc) without following a model; (abbr. for 空手道[kong1 shou3 dao4]) karate"
+  },
+  "空手套白狼": {
+    "pinyin": "kong1 shou3 tao4 bai2 lang2",
+    "definition": "(coll.) to make big gains without putting in effort or resources"
+  },
+  "空手而歸": {
+    "pinyin": "kong1 shou3 er2 gui1",
+    "definition": "to return empty-handed; to fail to win anything"
+  },
+  "空手道": {
+    "pinyin": "kong1 shou3 dao4",
+    "definition": "karate"
+  },
+  "空投": {
+    "pinyin": "kong1 tou2",
+    "definition": "to airdrop"
+  },
+  "空拍": {
+    "pinyin": "kong1 pai1",
+    "definition": "aerial photography (video or still) (Tw)"
+  },
+  "空拍機": {
+    "pinyin": "kong1 pai1 ji1",
+    "definition": "drone equipped for aerial photography"
+  },
+  "空擋": {
+    "pinyin": "kong1 dang3",
+    "definition": "neutral gear"
+  },
+  "空日": {
+    "pinyin": "kong4 ri4",
+    "definition": "day that is named but not numbered (on ethnic calendar)"
+  },
+  "空暇": {
+    "pinyin": "kong4 xia2",
+    "definition": "idle; free time; leisure"
+  },
+  "空曠": {
+    "pinyin": "kong1 kuang4",
+    "definition": "spacious and empty; void"
+  },
+  "空服員": {
+    "pinyin": "kong1 fu2 yuan2",
+    "definition": "flight attendant; cabin crew"
+  },
+  "空格": {
+    "pinyin": "kong4 ge2",
+    "definition": "blank; blank space on a form; space; 囗 (indicating missing or illegible character)"
+  },
+  "空格鍵": {
+    "pinyin": "kong4 ge2 jian4",
+    "definition": "space bar (keyboard)"
+  },
+  "空檔": {
+    "pinyin": "kong4 dang4",
+    "definition": "gap (between two objects); interval of time (between events); opening in one's schedule; free time; (fig.) gap (in the market etc)"
+  },
+  "空殼": {
+    "pinyin": "kong1 ke2",
+    "definition": "empty shell"
+  },
+  "空殼公司": {
+    "pinyin": "kong1 ke2 gong1 si1",
+    "definition": "shell company; shell corporation"
+  },
+  "空氣": {
+    "pinyin": "kong1 qi4",
+    "definition": "air; atmosphere"
+  },
+  "空氣動力": {
+    "pinyin": "kong1 qi4 dong4 li4",
+    "definition": "aerodynamic force"
+  },
+  "空氣動力學": {
+    "pinyin": "kong1 qi4 dong4 li4 xue2",
+    "definition": "aerodynamics"
+  },
+  "空氣取樣": {
+    "pinyin": "kong1 qi4 qu3 yang4",
+    "definition": "air sampling"
+  },
+  "空氣取樣器": {
+    "pinyin": "kong1 qi4 qu3 yang4 qi4",
+    "definition": "air sampler"
+  },
+  "空氣污染": {
+    "pinyin": "kong1 qi4 wu1 ran3",
+    "definition": "air pollution"
+  },
+  "空氣流": {
+    "pinyin": "kong1 qi4 liu2",
+    "definition": "flow of air; draft"
+  },
+  "空氣流通": {
+    "pinyin": "kong1 qi4 liu2 tong1",
+    "definition": "ventilation; air circulation"
+  },
+  "空氣淨化器": {
+    "pinyin": "kong1 qi4 jing4 hua4 qi4",
+    "definition": "air purifier"
+  },
+  "空氣炸鍋": {
+    "pinyin": "kong1 qi4 zha2 guo1",
+    "definition": "air fryer"
+  },
+  "空氣調節": {
+    "pinyin": "kong1 qi4 tiao2 jie2",
+    "definition": "air conditioning"
+  },
+  "空氣阻力": {
+    "pinyin": "kong1 qi4 zu3 li4",
+    "definition": "atmospheric drag"
+  },
+  "空氣鳳梨": {
+    "pinyin": "kong1 qi4 feng4 li2",
+    "definition": "air plant (genus Tillandsia 鐵蘭屬|铁兰属[tie3lan2shu3])"
+  },
+  "空泛": {
+    "pinyin": "kong1 fan4",
+    "definition": "vague and general; not specific; shallow; empty"
+  },
+  "空洞": {
+    "pinyin": "kong1 dong4",
+    "definition": "cavity; empty; vacuous"
+  },
+  "空洞洞": {
+    "pinyin": "kong1 dong4 dong4",
+    "definition": "empty; deserted"
+  },
+  "空洞無物": {
+    "pinyin": "kong1 dong4 wu2 wu4",
+    "definition": "empty cave, nothing there (idiom); devoid of substance; nothing new to show"
+  },
+  "空港": {
+    "pinyin": "kong1 gang3",
+    "definition": "airport (abbr. for 航空港[hang2 kong1 gang3])"
+  },
+  "空無一人": {
+    "pinyin": "kong1 wu2 yi1 ren2",
+    "definition": "not a soul in sight (idiom)"
+  },
+  "空無所有": {
+    "pinyin": "kong1 wu2 suo3 you3",
+    "definition": "having nothing (idiom); utterly destitute; without two sticks to rub together"
+  },
+  "空當": {
+    "pinyin": "kong4 dang1",
+    "definition": "gap; interval"
+  },
+  "空疏": {
+    "pinyin": "kong1 shu1",
+    "definition": "shallow; empty"
+  },
+  "空白": {
+    "pinyin": "kong4 bai2",
+    "definition": "blank space"
+  },
+  "空白支票": {
+    "pinyin": "kong4 bai2 zhi1 piao4",
+    "definition": "blank check"
+  },
+  "空白點": {
+    "pinyin": "kong4 bai2 dian3",
+    "definition": "gap; empty space"
+  },
+  "空穴": {
+    "pinyin": "kong4 xue2",
+    "definition": "electron hole (physics)"
+  },
+  "空穴來風": {
+    "pinyin": "kong1 xue2 lai2 feng1",
+    "definition": "lit. wind from an empty cave (idiom); fig. unfounded (story); baseless (claim)"
+  },
+  "空穴來風未必無因": {
+    "pinyin": "kong4 xue2 lai2 feng1 wei4 bi4 wu2 yin1",
+    "definition": "wind does not come from an empty cave without reason; there's no smoke without fire (idiom)"
+  },
+  "空空": {
+    "pinyin": "kong1 kong1",
+    "definition": "empty; vacuous; nothing; vacant; in vain; all for nothing; air-to-air (missile)"
+  },
+  "空空如也": {
+    "pinyin": "kong1 kong1 ru2 ye3",
+    "definition": "as empty as anything (idiom); completely bereft; to have nothing; vacuous; hollow; empty (argument, head etc)"
+  },
+  "空空導彈": {
+    "pinyin": "kong1 kong1 dao3 dan4",
+    "definition": "air-to-air missile"
+  },
+  "空空洞洞": {
+    "pinyin": "kong1 kong1 dong4 dong4",
+    "definition": "empty; hollow; lacking in substance"
+  },
+  "空空盪盪": {
+    "pinyin": "kong1 kong1 dang4 dang4",
+    "definition": "deserted"
+  },
+  "空空蕩蕩": {
+    "pinyin": "kong1 kong1 dang4 dang4",
+    "definition": "absolutely empty (space); complete vacuum"
+  },
+  "空窗期": {
+    "pinyin": "kong1 chuang1 qi1",
+    "definition": "window period (time between infection and the appearance of detectable antibodies); period during which sth is lacking (boyfriend or girlfriend, work, revenue, production of a commodity etc); lull; hiatus"
+  },
+  "空竹": {
+    "pinyin": "kong1 zhu2",
+    "definition": "Chinese yo-yo"
+  },
+  "空缺": {
+    "pinyin": "kong4 que1",
+    "definition": "vacancy"
+  },
+  "空置": {
+    "pinyin": "kong1 zhi4",
+    "definition": "to set sth aside; to let sth lie idle; idle; unused"
+  },
+  "空翻": {
+    "pinyin": "kong1 fan1",
+    "definition": "flip; somersault"
+  },
+  "空耳": {
+    "pinyin": "kong1 er3",
+    "definition": "to intentionally reinterpret a spoken expression as if one had misheard it, for the sake of humor (often, it is a phrase in a foreign language twisted into a similar-sounding phrase in one's native language with a completely different meaning) (orthographic borrowing from Japanese 空耳 \"soramimi\")"
+  },
+  "空腔": {
+    "pinyin": "kong1 qiang1",
+    "definition": "cavity"
+  },
+  "空腸": {
+    "pinyin": "kong1 chang2",
+    "definition": "jejunum (empty gut, middle segment of small intestine between duodenum 十二指腸|十二指肠[shi2 er4 zhi3 chang2] and ileum 回腸|回肠[hui2 chang2])"
+  },
+  "空腹": {
+    "pinyin": "kong1 fu4",
+    "definition": "an empty stomach"
+  },
+  "空腹高心": {
+    "pinyin": "kong1 fu4 gao1 xin1",
+    "definition": "ambitious despite a lack of talent (idiom)"
+  },
+  "空落落": {
+    "pinyin": "kong1 luo4 luo4",
+    "definition": "empty; desolate"
+  },
+  "空著手": {
+    "pinyin": "kong1 zhe5 shou3",
+    "definition": "empty-handed"
+  },
+  "空蕩蕩": {
+    "pinyin": "kong1 dang4 dang4",
+    "definition": "empty; deserted"
+  },
+  "空虛": {
+    "pinyin": "kong1 xu1",
+    "definition": "hollow; emptiness; meaningless"
+  },
+  "空號": {
+    "pinyin": "kong1 hao4",
+    "definition": "disconnected phone number; unassigned phone number"
+  },
+  "空襲": {
+    "pinyin": "kong1 xi2",
+    "definition": "to make an air raid"
+  },
+  "空話": {
+    "pinyin": "kong1 hua4",
+    "definition": "empty talk; bunk; malicious gossip"
+  },
+  "空話連篇": {
+    "pinyin": "kong1 hua4 lian2 pian1",
+    "definition": "long-winded empty talk"
+  },
+  "空調": {
+    "pinyin": "kong1 tiao2",
+    "definition": "air conditioning; air conditioner (including units that have a heating mode); CL:臺|台[tai2]"
+  },
+  "空調車": {
+    "pinyin": "kong1 tiao2 che1",
+    "definition": "air conditioned vehicle"
+  },
+  "空談": {
+    "pinyin": "kong1 tan2",
+    "definition": "prattle; idle chit-chat"
+  },
+  "空谷足音": {
+    "pinyin": "kong1 gu3 - zu2 yin1",
+    "definition": "lit. the sound of footsteps in a deserted valley (idiom); fig. sth hard to come by; sth wonderful and rare"
+  },
+  "空跑一趟": {
+    "pinyin": "kong1 pao3 yi1 tang4",
+    "definition": "to make a journey for nothing"
+  },
+  "空身": {
+    "pinyin": "kong1 shen1",
+    "definition": "empty handed (carrying nothing); alone"
+  },
+  "空軍": {
+    "pinyin": "kong1 jun1",
+    "definition": "air force; (slang) to fail to catch anything (on a fishing trip); to get skunked"
+  },
+  "空軍一號": {
+    "pinyin": "Kong1 jun1 Yi1 hao4",
+    "definition": "Air Force One, US presidential jet"
+  },
+  "空軍司令": {
+    "pinyin": "kong1 jun1 si1 ling4",
+    "definition": "air commodore; top commander of air force"
+  },
+  "空軍基地": {
+    "pinyin": "kong1 jun1 ji1 di4",
+    "definition": "air base"
+  },
+  "空載": {
+    "pinyin": "kong1 zai4",
+    "definition": "(of a ship, train etc) not carrying any load (i.e. no passengers or freight etc); (electricity) no-load (used to describe the condition of a transformer when there is no load connected to its secondary coil)"
+  },
+  "空運": {
+    "pinyin": "kong1 yun4",
+    "definition": "air transport"
+  },
+  "空運費": {
+    "pinyin": "kong1 yun4 fei4",
+    "definition": "air freight (cost of air transport)"
+  },
+  "空鐘": {
+    "pinyin": "kong1 zhong5",
+    "definition": "diabolo (Chinese yo-yo)"
+  },
+  "空閒": {
+    "pinyin": "kong4 xian2",
+    "definition": "leisure; spare time; (of a person) free; unoccupied; (of equipment, rooms etc) unoccupied; unused; idle; vacant; spare"
+  },
+  "空間": {
+    "pinyin": "kong1 jian1",
+    "definition": "space; room; (fig.) scope; leeway; (astronomy) outer space; (physics, math.) space"
+  },
+  "空間局": {
+    "pinyin": "kong1 jian1 ju2",
+    "definition": "space agency"
+  },
+  "空間探測": {
+    "pinyin": "kong1 jian1 tan4 ce4",
+    "definition": "space exploration"
+  },
+  "空間探測器": {
+    "pinyin": "kong1 jian1 tan4 ce4 qi4",
+    "definition": "space probe"
+  },
+  "空間站": {
+    "pinyin": "kong1 jian1 zhan4",
+    "definition": "space station"
+  },
+  "空闃": {
+    "pinyin": "kong1 qu4",
+    "definition": "empty and quiet"
+  },
+  "空防": {
+    "pinyin": "kong1 fang2",
+    "definition": "air force; air defense"
+  },
+  "空降": {
+    "pinyin": "kong1 jiang4",
+    "definition": "to drop from the sky; (fig.) to appear out of nowhere; (attributive) airborne"
+  },
+  "空降兵": {
+    "pinyin": "kong1 jiang4 bing1",
+    "definition": "paratroopers"
+  },
+  "空隙": {
+    "pinyin": "kong4 xi4",
+    "definition": "crack; gap between two objects; gap in time between two events"
+  },
+  "空集": {
+    "pinyin": "kong1 ji2",
+    "definition": "empty set (set theory)"
+  },
+  "空難": {
+    "pinyin": "kong1 nan4",
+    "definition": "air crash; aviation accident or incident"
+  },
+  "空頭": {
+    "pinyin": "kong1 tou2",
+    "definition": "phony; so-called; armchair (expert); vain (promise); (finance) short-seller; bear (market); short (selling)"
+  },
+  "空頭市場": {
+    "pinyin": "kong1 tou2 shi4 chang3",
+    "definition": "bear market"
+  },
+  "空頭支票": {
+    "pinyin": "kong1 tou2 zhi1 piao4",
+    "definition": "bounced check; bad check; (idiom) empty promise"
+  },
+  "空額": {
+    "pinyin": "kong4 e2",
+    "definition": "vacancy; unfilled work place"
+  },
+  "空餘": {
+    "pinyin": "kong4 yu2",
+    "definition": "free; vacant; unoccupied"
+  }
+}

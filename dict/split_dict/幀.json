@@ -1,0 +1,30 @@
+{
+  "幀": {
+    "pinyin": "zhen1",
+    "definition": "frame; classifier for paintings etc; Taiwan pr. [zheng4]"
+  },
+  "幀中繼": {
+    "pinyin": "zhen1 zhong1 ji4",
+    "definition": "frame relay"
+  },
+  "幀格式": {
+    "pinyin": "zhen1 ge2 shi4",
+    "definition": "frame format"
+  },
+  "幀檢驗序列": {
+    "pinyin": "zhen1 jian3 yan4 xu4 lie4",
+    "definition": "frame check sequence (FCS)"
+  },
+  "幀率": {
+    "pinyin": "zhen1 lu:4",
+    "definition": "frame rate"
+  },
+  "幀頻": {
+    "pinyin": "zhen1 pin2",
+    "definition": "frame rate; frame frequency"
+  },
+  "幀首定界符": {
+    "pinyin": "zhen1 shou3 ding4 jie4 fu2",
+    "definition": "start frame delimiter (SFD)"
+  }
+}

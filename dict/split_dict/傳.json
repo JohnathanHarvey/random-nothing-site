@@ -1,0 +1,582 @@
+{
+  "傳": {
+    "pinyin": "zhuan4",
+    "definition": "biography; historical narrative; commentaries; relay station"
+  },
+  "傳三過四": {
+    "pinyin": "chuan2 san1 guo4 si4",
+    "definition": "to spread rumors; to gossip"
+  },
+  "傳世": {
+    "pinyin": "chuan2 shi4",
+    "definition": "handed down from ancient times; family heirloom"
+  },
+  "傳人": {
+    "pinyin": "chuan2 ren2",
+    "definition": "to teach; to impart; a disciple; descendant"
+  },
+  "傳代": {
+    "pinyin": "chuan2 dai4",
+    "definition": "to pass to the next generation"
+  },
+  "傳令": {
+    "pinyin": "chuan2 ling4",
+    "definition": "to transmit an order"
+  },
+  "傳令兵": {
+    "pinyin": "chuan2 ling4 bing1",
+    "definition": "(military) messenger; orderly"
+  },
+  "傳來": {
+    "pinyin": "chuan2 lai2",
+    "definition": "(of a sound) to come through; to be heard; (of news) to arrive"
+  },
+  "傳入": {
+    "pinyin": "chuan2 ru4",
+    "definition": "to import; transmitted inwards; afferent"
+  },
+  "傳入神經": {
+    "pinyin": "chuan2 ru4 shen2 jing1",
+    "definition": "afferent nerve (transmitting in to the brain); afferent neuron"
+  },
+  "傳出": {
+    "pinyin": "chuan2 chu1",
+    "definition": "to transmit outwards; to disseminate; efferent (nerve)"
+  },
+  "傳出神經": {
+    "pinyin": "chuan2 chu1 shen2 jing1",
+    "definition": "efferent nerve (transmitting out from the brain); efferent neuron; motor nerve"
+  },
+  "傳動": {
+    "pinyin": "chuan2 dong4",
+    "definition": "drive (transmission in an engine)"
+  },
+  "傳動器": {
+    "pinyin": "chuan2 dong4 qi4",
+    "definition": "drive (engine)"
+  },
+  "傳動帶": {
+    "pinyin": "chuan2 dong4 dai4",
+    "definition": "transmission belt"
+  },
+  "傳動機構": {
+    "pinyin": "chuan2 dong4 ji1 gou4",
+    "definition": "transmission mechanism"
+  },
+  "傳動比": {
+    "pinyin": "chuan2 dong4 bi3",
+    "definition": "transmission ratio; gear ratio"
+  },
+  "傳動系統": {
+    "pinyin": "chuan2 dong4 xi4 tong3",
+    "definition": "transmission system; power drive"
+  },
+  "傳動裝置": {
+    "pinyin": "chuan2 dong4 zhuang1 zhi4",
+    "definition": "(automobile) transmission"
+  },
+  "傳動軸": {
+    "pinyin": "chuan2 dong4 zhou2",
+    "definition": "drive shaft"
+  },
+  "傳參": {
+    "pinyin": "chuan2 can1",
+    "definition": "to pass an argument (computing) (abbr. for 傳遞參數|传递参数[chuan2 di4 can1 shu4])"
+  },
+  "傳名": {
+    "pinyin": "chuan2 ming2",
+    "definition": "to spread one's reputation"
+  },
+  "傳告": {
+    "pinyin": "chuan2 gao4",
+    "definition": "to pass on (a message); to relay (the information)"
+  },
+  "傳呼": {
+    "pinyin": "chuan2 hu1",
+    "definition": "to notify sb of a call; to call sb to the phone"
+  },
+  "傳呼機": {
+    "pinyin": "chuan2 hu1 ji1",
+    "definition": "pager; beeper"
+  },
+  "傳呼電話": {
+    "pinyin": "chuan2 hu1 dian4 hua4",
+    "definition": "neighborhood telephone, with sb in charge of notifying others when they receive a call"
+  },
+  "傳唱": {
+    "pinyin": "chuan2 chang4",
+    "definition": "to pass on a song"
+  },
+  "傳喚": {
+    "pinyin": "chuan2 huan4",
+    "definition": "a summons (to the police); subpoena"
+  },
+  "傳單": {
+    "pinyin": "chuan2 dan1",
+    "definition": "leaflet; flier; pamphlet"
+  },
+  "傳回": {
+    "pinyin": "chuan2 hui2",
+    "definition": "to send back"
+  },
+  "傳報": {
+    "pinyin": "chuan2 bao4",
+    "definition": "notification; memorial"
+  },
+  "傳奇": {
+    "pinyin": "chuan2 qi2",
+    "definition": "legendary; fantasy saga; romance; short stories of the Tang and Song Dynasty"
+  },
+  "傳奇人物": {
+    "pinyin": "chuan2 qi2 ren2 wu4",
+    "definition": "legendary person; legend (i.e. person)"
+  },
+  "傳媒": {
+    "pinyin": "chuan2 mei2",
+    "definition": "media"
+  },
+  "傳宗接代": {
+    "pinyin": "chuan2 zong1 jie1 dai4",
+    "definition": "to carry on one's ancestral line"
+  },
+  "傳家": {
+    "pinyin": "chuan2 jia1",
+    "definition": "to pass on through the generations"
+  },
+  "傳家寶": {
+    "pinyin": "chuan2 jia1 bao3",
+    "definition": "family heirloom"
+  },
+  "傳寄": {
+    "pinyin": "chuan2 ji4",
+    "definition": "to send (message to sb); to communicate; to forward (message)"
+  },
+  "傳寫": {
+    "pinyin": "chuan2 xie3",
+    "definition": "to copy; to pass on a copy"
+  },
+  "傳導": {
+    "pinyin": "chuan2 dao3",
+    "definition": "to conduct (heat, electricity etc)"
+  },
+  "傳布": {
+    "pinyin": "chuan2 bu4",
+    "definition": "to spread; to propagate; to disseminate"
+  },
+  "傳幫帶": {
+    "pinyin": "chuan2 bang1 dai4",
+    "definition": "to pass on experience (to the next generation)"
+  },
+  "傳心術": {
+    "pinyin": "chuan2 xin1 shu4",
+    "definition": "telepathy"
+  },
+  "傳情": {
+    "pinyin": "chuan2 qing2",
+    "definition": "to pass on amorous feelings; to send one's love to sb"
+  },
+  "傳感": {
+    "pinyin": "chuan2 gan3",
+    "definition": "sensing (electronics); telepathy"
+  },
+  "傳感器": {
+    "pinyin": "chuan2 gan3 qi4",
+    "definition": "sensor; transducer"
+  },
+  "傳戒": {
+    "pinyin": "chuan2 jie4",
+    "definition": "(Buddhism) to initiate sb for monkhood or nunhood"
+  },
+  "傳承": {
+    "pinyin": "chuan2 cheng2",
+    "definition": "to pass on (to future generations); passed on (from former times); a continued tradition; an inheritance"
+  },
+  "傳抄": {
+    "pinyin": "chuan2 chao1",
+    "definition": "to copy (a text) from person to person; (of a text) to be transmitted by copying"
+  },
+  "傳授": {
+    "pinyin": "chuan2 shou4",
+    "definition": "to impart; to pass on; to teach"
+  },
+  "傳揚": {
+    "pinyin": "chuan2 yang2",
+    "definition": "to spread (by word of mouth)"
+  },
+  "傳播": {
+    "pinyin": "chuan2 bo1",
+    "definition": "to disseminate; to propagate; to spread"
+  },
+  "傳播四方": {
+    "pinyin": "chuan2 bo1 si4 fang1",
+    "definition": "to disseminate in every direction (idiom)"
+  },
+  "傳教": {
+    "pinyin": "chuan2 jiao4",
+    "definition": "to preach; missionary; to evangelize"
+  },
+  "傳教團": {
+    "pinyin": "chuan2 jiao4 tuan2",
+    "definition": "a mission (group of missionaries)"
+  },
+  "傳教士": {
+    "pinyin": "chuan2 jiao4 shi4",
+    "definition": "missionary"
+  },
+  "傳旨": {
+    "pinyin": "chuan2 zhi3",
+    "definition": "issue a decree"
+  },
+  "傳書鴿": {
+    "pinyin": "chuan2 shu1 ge1",
+    "definition": "carrier pigeon (used for mail)"
+  },
+  "傳本": {
+    "pinyin": "chuan2 ben3",
+    "definition": "edition (of a book) currently in circulation"
+  },
+  "傳染": {
+    "pinyin": "chuan2 ran3",
+    "definition": "to infect; contagious"
+  },
+  "傳染性": {
+    "pinyin": "chuan2 ran3 xing4",
+    "definition": "infectious; contagious; infectiousness; transmissibility"
+  },
+  "傳染源": {
+    "pinyin": "chuan2 ran3 yuan2",
+    "definition": "source of an infection"
+  },
+  "傳染病": {
+    "pinyin": "chuan2 ran3 bing4",
+    "definition": "infectious disease; contagious disease; communicable disease"
+  },
+  "傳染病學": {
+    "pinyin": "chuan2 ran3 bing4 xue2",
+    "definition": "epidemiology"
+  },
+  "傳檄": {
+    "pinyin": "chuan2 xi2",
+    "definition": "to circulate (a protest or call to arms); to promulgate"
+  },
+  "傳法": {
+    "pinyin": "chuan2 fa3",
+    "definition": "to pass on doctrines from master to disciple (Buddhism)"
+  },
+  "傳流": {
+    "pinyin": "chuan2 liu2",
+    "definition": "to spread; to hand down; to circulate"
+  },
+  "傳熱": {
+    "pinyin": "chuan2 re4",
+    "definition": "to transmit heat"
+  },
+  "傳熱學": {
+    "pinyin": "zhuan4 re4 xue2",
+    "definition": "theory of heat; heat transmission (physics)"
+  },
+  "傳燈": {
+    "pinyin": "chuan2 deng1",
+    "definition": "to pass on the light of Buddha"
+  },
+  "傳球": {
+    "pinyin": "chuan2 qiu2",
+    "definition": "(sports) to pass the ball"
+  },
+  "傳產": {
+    "pinyin": "chuan2 chan3",
+    "definition": "traditional industry (abbr. for 傳統產業|传统产业[chuan2tong3 chan3ye4])"
+  },
+  "傳略": {
+    "pinyin": "zhuan4 lu:e4",
+    "definition": "biographical sketch"
+  },
+  "傳發": {
+    "pinyin": "chuan2 fa1",
+    "definition": "to order sb to start on a journey"
+  },
+  "傳真": {
+    "pinyin": "chuan2 zhen1",
+    "definition": "to fax; a fax; (literary) to portray vividly in painting"
+  },
+  "傳真機": {
+    "pinyin": "chuan2 zhen1 ji1",
+    "definition": "fax machine"
+  },
+  "傳真號碼": {
+    "pinyin": "chuan2 zhen1 hao4 ma3",
+    "definition": "fax number"
+  },
+  "傳真電報": {
+    "pinyin": "chuan2 zhen1 dian4 bao4",
+    "definition": "phototelegram"
+  },
+  "傳神": {
+    "pinyin": "chuan2 shen2",
+    "definition": "vivid; lifelike"
+  },
+  "傳票": {
+    "pinyin": "chuan2 piao4",
+    "definition": "summons; subpoena; voucher"
+  },
+  "傳種": {
+    "pinyin": "chuan2 zhong3",
+    "definition": "to reproduce; to propagate"
+  },
+  "傳粉": {
+    "pinyin": "chuan2 fen3",
+    "definition": "pollination; to pollinate"
+  },
+  "傳給": {
+    "pinyin": "chuan2 gei3",
+    "definition": "to pass on to; to transfer to; to hand on to; (in football etc) to pass to"
+  },
+  "傳統": {
+    "pinyin": "chuan2 tong3",
+    "definition": "tradition; traditional; convention; conventional; CL:個|个[ge4]"
+  },
+  "傳統中國醫藥": {
+    "pinyin": "chuan2 tong3 zhong1 guo2 yi1 yao4",
+    "definition": "Chinese traditional medicine"
+  },
+  "傳統醫藥": {
+    "pinyin": "chuan2 tong3 yi1 yao4",
+    "definition": "Chinese traditional medicine"
+  },
+  "傳經": {
+    "pinyin": "chuan2 jing1",
+    "definition": "to pass on scripture; to teach Confucian doctrine; to pass on one's experience"
+  },
+  "傳習": {
+    "pinyin": "chuan2 xi2",
+    "definition": "teaching and learning; to study and impart"
+  },
+  "傳聞": {
+    "pinyin": "chuan2 wen2",
+    "definition": "rumor"
+  },
+  "傳聞證據": {
+    "pinyin": "chuan2 wen2 zheng4 ju4",
+    "definition": "hearsay (law)"
+  },
+  "傳聲": {
+    "pinyin": "chuan2 sheng1",
+    "definition": "to transmit sound"
+  },
+  "傳聲器": {
+    "pinyin": "chuan2 sheng1 qi4",
+    "definition": "microphone"
+  },
+  "傳聲筒": {
+    "pinyin": "chuan2 sheng1 tong3",
+    "definition": "loudhailer; megaphone; one who parrots sb; mouthpiece"
+  },
+  "傳藝": {
+    "pinyin": "chuan2 yi4",
+    "definition": "to impart skills; to pass on one's art"
+  },
+  "傳見": {
+    "pinyin": "chuan2 jian4",
+    "definition": "to summon for an interview"
+  },
+  "傳觀": {
+    "pinyin": "chuan2 guan1",
+    "definition": "to pass sth around (for others to look at)"
+  },
+  "傳言": {
+    "pinyin": "chuan2 yan2",
+    "definition": "rumor; hearsay"
+  },
+  "傳訊": {
+    "pinyin": "chuan2 xun4",
+    "definition": "to summon (a witness); to subpoena"
+  },
+  "傳記": {
+    "pinyin": "zhuan4 ji4",
+    "definition": "biography; CL:篇[pian1],部[bu4]"
+  },
+  "傳話": {
+    "pinyin": "chuan2 hua4",
+    "definition": "to pass on a story; to communicate a message"
+  },
+  "傳話人": {
+    "pinyin": "chuan2 hua4 ren2",
+    "definition": "messenger; communicator; relay"
+  },
+  "傳語": {
+    "pinyin": "chuan2 yu3",
+    "definition": "to pass on (information)"
+  },
+  "傳誦": {
+    "pinyin": "chuan2 song4",
+    "definition": "widely known; on everyone's lips"
+  },
+  "傳說": {
+    "pinyin": "chuan2 shuo1",
+    "definition": "legend; folk tale; to repeat from mouth to mouth; they say that..."
+  },
+  "傳講": {
+    "pinyin": "chuan2 jiang3",
+    "definition": "to preach"
+  },
+  "傳謠": {
+    "pinyin": "chuan2 yao2",
+    "definition": "to spread rumors"
+  },
+  "傳譯": {
+    "pinyin": "chuan2 yi4",
+    "definition": "to translate; to interpret"
+  },
+  "傳質": {
+    "pinyin": "chuan2 zhi4",
+    "definition": "(chemistry) mass transfer (as observed in processes like evaporation, distillation and membrane filtration)"
+  },
+  "傳贊": {
+    "pinyin": "zhuan4 zan4",
+    "definition": "postscript to a biography"
+  },
+  "傳載": {
+    "pinyin": "chuan2 zai3",
+    "definition": "to reprint; to repost; to transmit (in writing etc)"
+  },
+  "傳輸": {
+    "pinyin": "chuan2 shu1",
+    "definition": "to transmit; transmission"
+  },
+  "傳輸協定": {
+    "pinyin": "chuan2 shu1 xie2 ding4",
+    "definition": "transfer protocol; transportation protocol"
+  },
+  "傳輸媒質": {
+    "pinyin": "chuan2 shu1 mei2 zhi4",
+    "definition": "transmission medium"
+  },
+  "傳輸媒體": {
+    "pinyin": "chuan2 shu1 mei2 ti3",
+    "definition": "transmission medium"
+  },
+  "傳輸層": {
+    "pinyin": "chuan2 shu1 ceng2",
+    "definition": "transport layer"
+  },
+  "傳輸技術": {
+    "pinyin": "chuan2 shu1 ji4 shu4",
+    "definition": "transmission technology"
+  },
+  "傳輸控制": {
+    "pinyin": "chuan2 shu1 kong4 zhi4",
+    "definition": "transmission control"
+  },
+  "傳輸控制協定": {
+    "pinyin": "chuan2 shu1 kong4 zhi4 xie2 ding4",
+    "definition": "transmission control protocol; TCP"
+  },
+  "傳輸服務": {
+    "pinyin": "chuan2 shu1 fu2 wu4",
+    "definition": "transport service"
+  },
+  "傳輸模式": {
+    "pinyin": "chuan2 shu1 mo2 shi4",
+    "definition": "transfer mode; transmission method"
+  },
+  "傳輸率": {
+    "pinyin": "chuan2 shu1 lu:4",
+    "definition": "transmission rate"
+  },
+  "傳輸線": {
+    "pinyin": "chuan2 shu1 xian4",
+    "definition": "transmission line"
+  },
+  "傳輸設備": {
+    "pinyin": "chuan2 shu1 she4 bei4",
+    "definition": "transmission facility; transmission equipment"
+  },
+  "傳輸距離": {
+    "pinyin": "chuan2 shu1 ju4 li2",
+    "definition": "transmission distance"
+  },
+  "傳輸通道": {
+    "pinyin": "chuan2 shu1 tong1 dao4",
+    "definition": "transport channel"
+  },
+  "傳輸速率": {
+    "pinyin": "chuan2 shu1 su4 lu:4",
+    "definition": "transmission rate; transmission speed"
+  },
+  "傳述": {
+    "pinyin": "chuan2 shu4",
+    "definition": "to relay; to retell"
+  },
+  "傳送": {
+    "pinyin": "chuan2 song4",
+    "definition": "to convey; to deliver; to transmit"
+  },
+  "傳送帶": {
+    "pinyin": "chuan2 song4 dai4",
+    "definition": "conveyor belt; transmission belt"
+  },
+  "傳送服務": {
+    "pinyin": "chuan2 song4 fu2 wu4",
+    "definition": "delivery service"
+  },
+  "傳遍": {
+    "pinyin": "chuan2 bian4",
+    "definition": "to spread widely"
+  },
+  "傳道": {
+    "pinyin": "chuan2 dao4",
+    "definition": "to lecture on doctrine; to expound the wisdom of ancient sages; to preach; a sermon"
+  },
+  "傳道受業": {
+    "pinyin": "chuan2 dao4 shou4 ye4",
+    "definition": "to teach (idiom); lit. to give moral and practical instruction"
+  },
+  "傳道書": {
+    "pinyin": "Chuan2 dao4 Shu1",
+    "definition": "Ecclesiastes (biblical book of sermons)"
+  },
+  "傳道者": {
+    "pinyin": "chuan2 dao4 zhe3",
+    "definition": "missionary; preacher"
+  },
+  "傳道部": {
+    "pinyin": "chuan2 dao4 bu4",
+    "definition": "mission"
+  },
+  "傳達": {
+    "pinyin": "chuan2 da2",
+    "definition": "to pass on; to convey; to relay; to transmit; transmission"
+  },
+  "傳達員": {
+    "pinyin": "chuan2 da2 yuan2",
+    "definition": "usher; receptionist"
+  },
+  "傳達室": {
+    "pinyin": "chuan2 da2 shi4",
+    "definition": "reception office; janitor's office"
+  },
+  "傳遞": {
+    "pinyin": "chuan2 di4",
+    "definition": "to transmit; to pass on to sb else; (math.) transitive"
+  },
+  "傳遞者": {
+    "pinyin": "chuan2 di4 zhe3",
+    "definition": "messenger; transmitter (of information)"
+  },
+  "傳銷": {
+    "pinyin": "chuan2 xiao1",
+    "definition": "multi-level marketing"
+  },
+  "傳開": {
+    "pinyin": "chuan2 kai1",
+    "definition": "(of news) to spread; to get around"
+  },
+  "傳閱": {
+    "pinyin": "chuan2 yue4",
+    "definition": "to read and pass on; to pass on for perusal"
+  },
+  "傳頌": {
+    "pinyin": "chuan2 song4",
+    "definition": "to eulogize; to pass on praise"
+  }
+}
