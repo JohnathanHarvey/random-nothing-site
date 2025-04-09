@@ -68,14 +68,24 @@
     if (!cache[firstChar] && !fetched.has(firstChar)) {
       console.log('Fetching data for char:', firstChar);
       try {
-        const res = await fetch(`${API_BASE}/${firstChar}.json`);
+        // Create the proper URL encoding for the character
+        const encodedChar = encodeURIComponent(firstChar);
+        console.log('Encoded character:', encodedChar);
+
+        // Construct the URL with the encoded character
+        const url = `${API_BASE}/${encodedChar}.json`;
+        console.log('Fetching URL:', url);
+
+        const res = await fetch(url);
+        console.log('Fetch response status:', res.status);
+
         if (res.ok) {
           const data = await res.json();
           cache[firstChar] = data;
           console.log('Data fetched and cached for char:', firstChar, data);
         } else {
           cache[firstChar] = {}; // prevent retry loop
-          console.warn('Failed to fetch data for char:', firstChar, res.status);
+          console.warn('Failed to fetch data for char:', firstChar, 'HTTP status:', res.status);
         }
       } catch (err) {
         cache[firstChar] = {};
