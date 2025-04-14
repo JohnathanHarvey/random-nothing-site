@@ -1,14 +1,356 @@
-<h1>TEST</h1>
-一周有七天
-<br/>
-<br/>
-丑陋的脸
-<br/>
-<br/>
-一杯葡萄酒
-<br/>
-<br/>
-一只小鸟
-<br/>
-<br/>
-一只小狗
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conlang Lexicon Manager</title>
+    <style>
+      body {
+          font-family: system-ui, -apple-system, sans-serif;
+          line-height: 1.6;
+          max-width: 1200px;
+          margin: 0 auto;
+          padding: 20px;
+      }
+      h1, h2, h3 {
+          color: #2c3e50;
+      }
+      .form-container {
+          background-color: #f8f9fa;
+          border-radius: 8px;
+          padding: 20px;
+          margin-bottom: 20px;
+      }
+      .form-group {
+          margin-bottom: 15px;
+      }
+      label {
+          display: block;
+          font-weight: bold;
+          margin-bottom: 5px;
+      }
+      input[type="text"], textarea, select {
+          width: 100%;
+          padding: 8px;
+          border: 1px solid #ddd;
+          border-radius: 4px;
+          box-sizing: border-box;
+      }
+      button {
+          background-color: #4CAF50;
+          color: white;
+          padding: 10px 15px;
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+      }
+      button:hover {
+          background-color: #45a049;
+      }
+      .tab-content {
+          display: none;
+      }
+      .tab-content.active {
+          display: block;
+      }
+      .tabs {
+          display: flex;
+          margin-bottom: 20px;
+      }
+      .tab {
+          padding: 10px 20px;
+          background-color: #e9ecef;
+          cursor: pointer;
+          border: 1px solid #dee2e6;
+          border-bottom: none;
+          border-radius: 5px 5px 0 0;
+      }
+      .tab.active {
+          background-color: #f8f9fa;
+          font-weight: bold;
+      }
+      .allomorph {
+          border: 1px solid #ddd;
+          padding: 10px;
+          margin-bottom: 10px;
+          border-radius: 4px;
+      }
+      .constraints {
+          border: 1px solid #ddd;
+          padding: 10px;
+          margin-top: 10px;
+          border-radius: 4px;
+      }
+      .help-text {
+          font-size: 0.85em;
+          color: #6c757d;
+          margin-top: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Conlang Lexicon Manager</h1>
+    <div class="tabs">
+      <div class="tab active" onclick="switchTab('morpheme')">Add Morpheme</div>
+      <div class="tab" onclick="switchTab('word')">Add Word</div>
+      <div class="tab" onclick="switchTab('search')">Search Lexicon</div>
+    </div>
+    <!-- MORPHEME FORM -->
+    <div id="morpheme-tab" class="tab-content active">
+      <div class="form-container">
+        <h2>Add New Morpheme</h2>
+        <form id="morpheme-form">
+          <div class="form-group">
+            <label for="morpheme">Morpheme:</label>
+            <input type="text" id="morpheme" name="morpheme" required>
+            <div class="help-text">The orthographic form. Use conventions like '-suffix' or 'prefix-' for clarity.</div>
+          </div>
+          <div class="form-group">
+            <label for="type">Type:</label>
+            <select id="type" name="type" required>
+              <option value="root">Root</option>
+              <option value="prefix">Prefix</option>
+              <option value="suffix">Suffix</option>
+              <option value="infix">Infix</option>
+              <option value="circumfix">Circumfix</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="pos">Part of Speech:</label>
+            <select id="pos" name="pos">
+              <option value="noun">Noun</option>
+              <option value="verb">Verb</option>
+              <option value="adj">Adjective</option>
+              <option value="adv">Adverb</option>
+              <option value="prep">Preposition</option>
+              <option value="conj">Conjunction</option>
+              <option value="part">Particle</option>
+              <option value="n/a">Not Applicable</option>
+            </select>
+            <div class="help-text">For roots: the POS of the resulting stem; for some affixes this may be less relevant.</div>
+          </div>
+          <div class="form-group">
+            <label for="gloss">Gloss:</label>
+            <input type="text" id="gloss" name="gloss" required>
+            <div class="help-text">Meaning or grammatical function. Use notation like N.PL.ACC for grammatical features.</div>
+          </div>
+          <div class="form-group">
+            <label for="ipa">IPA Pronunciation:</label>
+            <input type="text" id="ipa" name="ipa">
+            <div class="help-text">Base IPA representation.</div>
+          </div>
+          <div class="form-group">
+            <label for="notes">Notes:</label>
+            <textarea id="notes" name="notes" rows="3"></textarea>
+          </div>
+          <div id="affix-options" style="display: none;">
+            <h3>Affix Properties</h3>
+            <div class="constraints">
+              <h4>Attachment Constraints</h4>
+              <div class="form-group">
+                <label>Attaches to Parts of Speech:</label>
+                <div>
+                  <input type="checkbox" id="attach-noun" name="attaches_to" value="noun">
+                  <label for="attach-noun" style="display: inline;">Noun</label>
+                </div>
+                <div>
+                  <input type="checkbox" id="attach-verb" name="attaches_to" value="verb">
+                  <label for="attach-verb" style="display: inline;">Verb</label>
+                </div>
+                <div>
+                  <input type="checkbox" id="attach-adj" name="attaches_to" value="adj">
+                  <label for="attach-adj" style="display: inline;">Adjective</label>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="slot">Affix Slot (if applicable):</label>
+                <input type="number" id="slot" name="slot" min="1">
+              </div>
+            </div>
+            <div class="constraints">
+              <h4>Morphological Constraints</h4>
+              <div class="form-group">
+                <label for="requires">Requires (morphemes that must be present):</label>
+                <input type="text" id="requires" name="requires">
+                <div class="help-text">Comma-separated list of morphemes that must co-occur with this one.</div>
+              </div>
+              <div class="form-group">
+                <label for="prohibits">Prohibits (morphemes that cannot co-occur):</label>
+                <input type="text" id="prohibits" name="prohibits">
+                <div class="help-text">Comma-separated list of morphemes that cannot co-occur with this one.</div>
+              </div>
+            </div>
+            <div class="form-group">
+              <h4>Allomorphs</h4>
+              <div id="allomorphs-container">
+                <!-- Initially empty, will be populated by JavaScript -->
+              </div>
+              <button type="button" id="add-allomorph">Add Allomorph</button>
+            </div>
+          </div>
+          <button type="submit">Save Morpheme</button>
+        </form>
+      </div>
+    </div>
+    <!-- WORD FORM -->
+    <div id="word-tab" class="tab-content">
+      <div class="form-container">
+        <h2>Add Irregular/Exception Word</h2>
+        <form id="word-form">
+          <div class="form-group">
+            <label for="word">Word:</label>
+            <input type="text" id="word" name="word" required>
+          </div>
+          <div class="form-group">
+            <label for="word-gloss">Gloss:</label>
+            <input type="text" id="word-gloss" name="gloss" required>
+            <div class="help-text">Meaning or translation. Use dot notation for grammatical features.</div>
+          </div>
+          <div class="form-group">
+            <label for="word-pos">Part of Speech:</label>
+            <select id="word-pos" name="pos" required>
+              <option value="noun">Noun</option>
+              <option value="verb">Verb</option>
+              <option value="adj">Adjective</option>
+              <option value="adv">Adverb</option>
+              <option value="prep">Preposition</option>
+              <option value="conj">Conjunction</option>
+              <option value="part">Particle</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="word-ipa">IPA Pronunciation:</label>
+            <input type="text" id="word-ipa" name="ipa">
+          </div>
+          <div class="form-group">
+            <label for="word-notes">Notes:</label>
+            <textarea id="word-notes" name="notes" rows="3"></textarea>
+            <div class="help-text">Explanation of why this is an exception or any other relevant details.</div>
+          </div>
+          <button type="submit">Save Word</button>
+        </form>
+      </div>
+    </div>
+    <!-- SEARCH FORM -->
+    <div id="search-tab" class="tab-content">
+      <div class="form-container">
+        <h2>Search Lexicon</h2>
+        <form id="search-form">
+          <div class="form-group">
+            <label for="search-term">Search Term:</label>
+            <input type="text" id="search-term" name="search-term">
+          </div>
+          <div class="form-group">
+            <label>Search In:</label>
+            <div>
+              <input type="checkbox" id="search-morphemes" name="search-in" value="morphemes" checked>
+              <label for="search-morphemes" style="display: inline;">Morphemes</label>
+            </div>
+            <div>
+              <input type="checkbox" id="search-words" name="search-in" value="words" checked>
+              <label for="search-words" style="display: inline;">Words</label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Filter By Type:</label>
+            <div>
+              <input type="checkbox" id="filter-root" name="filter-type" value="root" checked>
+              <label for="filter-root" style="display: inline;">Roots</label>
+            </div>
+            <div>
+              <input type="checkbox" id="filter-prefix" name="filter-type" value="prefix" checked>
+              <label for="filter-prefix" style="display: inline;">Prefixes</label>
+            </div>
+            <div>
+              <input type="checkbox" id="filter-suffix" name="filter-type" value="suffix" checked>
+              <label for="filter-suffix" style="display: inline;">Suffixes</label>
+            </div>
+            <div>
+              <input type="checkbox" id="filter-infix" name="filter-type" value="infix" checked>
+              <label for="filter-infix" style="display: inline;">Infixes</label>
+            </div>
+          </div>
+          <button type="submit">Search</button>
+        </form>
+        <div id="search-results" style="margin-top: 20px;">
+          <!-- Search results will be displayed here -->
+        </div>
+      </div>
+    </div>
+    <script>
+      // Handle tab switching
+      function switchTab(tabName) {
+          const tabs = document.querySelectorAll('.tab');
+          const tabContents = document.querySelectorAll('.tab-content');
+
+          tabs.forEach(tab => tab.classList.remove('active'));
+          tabContents.forEach(content => content.classList.remove('active'));
+
+          document.querySelector(`.tab:nth-child(${tabName === 'morpheme' ? 1 : tabName === 'word' ? 2 : 3})`).classList.add('active');
+          document.getElementById(`${tabName}-tab`).classList.add('active');
+      }
+
+      // Show/hide affix options based on morpheme type
+      document.getElementById('type').addEventListener('change', function() {
+          const affixOptions = document.getElementById('affix-options');
+          if (this.value === 'root') {
+              affixOptions.style.display = 'none';
+          } else {
+              affixOptions.style.display = 'block';
+          }
+      });
+
+      // Add allomorph functionality
+      document.getElementById('add-allomorph').addEventListener('click', function() {
+          const container = document.getElementById('allomorphs-container');
+          const allomorphIndex = container.children.length;
+
+          const allomorphDiv = document.createElement('div');
+          allomorphDiv.className = 'allomorph';
+          allomorphDiv.innerHTML = `
+              <h5>Allomorph ${allomorphIndex + 1}</h5>
+              <div class="form-group">
+                  <label for="allomorph-form-${allomorphIndex}">Form:</label>
+                  <input type="text" id="allomorph-form-${allomorphIndex}" name="allomorph-form-${allomorphIndex}" required>
+              </div>
+              <div class="form-group">
+                  <label for="allomorph-ipa-${allomorphIndex}">IPA:</label>
+                  <input type="text" id="allomorph-ipa-${allomorphIndex}" name="allomorph-ipa-${allomorphIndex}">
+              </div>
+              <div class="form-group">
+                  <label for="allomorph-condition-${allomorphIndex}">Condition:</label>
+                  <input type="text" id="allomorph-condition-${allomorphIndex}" name="allomorph-condition-${allomorphIndex}" placeholder="e.g., 'follows voiced C', 'elsewhere'">
+              </div>
+              <button type="button" onclick="this.parentElement.remove()">Remove</button>
+          `;
+
+          container.appendChild(allomorphDiv);
+      });
+
+      // Form submission handling
+      document.getElementById('morpheme-form').addEventListener('submit', function(e) {
+          e.preventDefault();
+          // Here you would handle form submission, likely with AJAX
+          alert('Morpheme submission would be processed here');
+          // Reset form
+          this.reset();
+          document.getElementById('affix-options').style.display = 'none';
+      });
+
+      document.getElementById('word-form').addEventListener('submit', function(e) {
+          e.preventDefault();
+          // Here you would handle form submission, likely with AJAX
+          alert('Word submission would be processed here');
+          // Reset form
+          this.reset();
+      });
+
+      document.getElementById('search-form').addEventListener('submit', function(e) {
+          e.preventDefault();
+          // Here you would handle search, likely with AJAX
+          const resultsDiv = document.getElementById('search-results');
+          resultsDiv.innerHTML = '<p>Search results would appear here.</p>';
+      });
+    </script>
+  </body>
+</html>
