@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import sqlite3
 import json
-import yaml
 import os
 
 app = Flask(__name__)
@@ -82,7 +81,7 @@ def add_morpheme():
     c = conn.cursor()
 
     affix_props = json.dumps(data.get('affixProperties')) if data.get('affixProperties') else None
-    allomorphs = json.dumps(data.get('allomorphs')) if data.get('allomorphs')) else None
+    allomorphs = json.dumps(data.get('allomorphs')) if data.get('allomorphs') else None
 
     c.execute('''
     INSERT INTO morphemes (morpheme, type, pos, gloss, ipa, notes, affix_properties, allomorphs)
@@ -182,123 +181,6 @@ def search_lexicon():
         "morphemes": morphemes,
         "words": words
     })
-
-# Import YAML data
-@app.route('/api/import', methods=['POST'])
-def import_yaml():
-    if 'file' not in request.files:
-        return jsonify({"error": "No file part"}), 400
-
-    file = request.files['file']
-    if file.filename == '':
-        return jsonify({"error": "No selected file"}), 400
-
-    try:
-        yaml_content = file.read().decode('utf-8')
-        data = yaml.safe_load(yaml_content)
-
-        conn = sqlite3.connect(DB_PATH)
-        c = conn.cursor()
-
-        # Clear existing data
-        c.execute('DELETE FROM morphemes')
-        c.execute('DELETE FROM words')
-
-        # Import morphemes
-        for morpheme in data.get('morphemes', []):
-            affix_props = json.dumps(morpheme.get('affixProperties')) if morpheme.get('affixProperties')) else None
-            allomorphs = json.dumps(morpheme.get('allomorphs')) if morpheme.get('allomorphs')) else None
-
-            c.execute('''
-            INSERT INTO morphemes (morpheme, type, pos, gloss, ipa, notes, affix_properties, allomorphs)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (
-                morpheme.get('morpheme'),
-                morpheme.get('type'),
-                morpheme.get('pos'),
-                morpheme.get('gloss'),
-                morpheme.get('ipa'),
-                morpheme.get('notes'),
-                affix_props,
-                allomorphs
-            ))
-
-        # Import words
-        for word in data.get('words', []):
-            c.execute('''
-            INSERT INTO words (word, gloss, pos, ipa, notes)
-            VALUES (?, ?, ?, ?, ?)
-            ''', (
-                word.get('word'),
-                word.get('gloss'),
-                word.get('pos'),
-                word.get('ipa'),
-                word.get('notes')
-            ))
-
-        conn.commit()
-        conn.close()
-
-        return jsonify({"message": "YAML data imported successfully"})
-
-    except Exception as e:
-        return jsonify({"error": str(e)}), 400
-
-# Export data as YAML
-@app.route('/api/export', methods=['GET'])
-def export_yaml():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    c = conn.cursor()
-
-    # Get morphemes
-    c.execute('SELECT * FROM morphemes')
-    morpheme_rows = c.fetchall()
-    morphemes = []
-
-    for row in morpheme_rows:
-        morpheme = {
-            "morpheme": row['morpheme'],
-            "type": row['type'],
-            "pos": row['pos'],
-            "gloss": row['gloss'],
-            "ipa": row['ipa'],
-            "notes": row['notes']
-        }
-
-        if row['affix_properties']:
-            morpheme['affixProperties'] = json.loads(row['affix_properties'])
-
-        if row['allomorphs']:
-            morpheme['allomorphs'] = json.loads(row['allomorphs'])
-
-        morphemes.append(morpheme)
-
-    # Get words
-    c.execute('SELECT * FROM words')
-    word_rows = c.fetchall()
-    words = []
-
-    for row in word_rows:
-        word = {
-            "word": row['word'],
-            "gloss": row['gloss'],
-            "pos": row['pos'],
-            "ipa": row['ipa'],
-            "notes": row['notes']
-        }
-        words.append(word)
-
-    conn.close()
-
-    data = {
-        "morphemes": morphemes,
-        "words": words
-    }
-
-    yaml_content = yaml.dump(data, sort_keys=False, default_flow_style=False)
-
-    return jsonify({"yaml": yaml_content})
 
 if __name__ == '__main__':
     init_db()

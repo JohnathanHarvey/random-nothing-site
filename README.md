@@ -4,356 +4,197 @@ A web-based tool for constructing and managing a lexicon for constructed languag
 
 ## Current Implementation
 
-The application currently runs as a client-side only web app with:
-- Forms for adding morphemes and words
-- Search functionality
-- Export/import of data in YAML format
+The application consists of:
+- Client-side web app with forms for adding morphemes and words
+- Python Flask server with SQLite database for persistent storage
+- Search functionality to find words and morphemes
 
-## Server Setup (Raspberry Pi)
+## Setup with Virtual Environment
 
 ### Prerequisites
-- Raspberry Pi with SSH access
-- Python 3 installed
-- Basic knowledge of terminal commands
+- Python 3.8+ installed on your macOS
+- pipx (recommended for global tool installation)
 
-### Setting Up a SQLite Database Server
+### Setting Up with pipx and venv
 
-1. Connect to your Raspberry Pi via SSH:
-```
-ssh pi@your-raspberry-pi-ip
-```
-
-2. Install required Python packages:
-```
-pip3 install flask flask-cors pyyaml
+1. Install pipx if you don't have it already:
+```bash
+# Install pipx using Homebrew
+brew install pipx
+pipx ensurepath
 ```
 
-3. Create a project directory:
-```
-mkdir -p ~/conlang-lexicon-server
-cd ~/conlang-lexicon-server
-```
+2. Create a virtual environment for the project:
+```bash
+# Navigate to your project directory
+cd /Users/bart/Code/random-nothing-site
 
-4. Create a Python script (`server.py`):
-```python
-from flask import Flask, request, jsonify
-from flask_cors import CORS
-import sqlite3
-import json
-import yaml
-import os
+# Create a virtual environment
+python3 -m venv venv
 
-app = Flask(__name__)
-CORS(app)  # This enables CORS for all routes
-
-DB_PATH = 'lexicon.db'
-
-# Initialize the database if it doesn't exist
-def init_db():
-    if not os.path.exists(DB_PATH):
-        conn = sqlite3.connect(DB_PATH)
-        c = conn.cursor()
-
-        # Create morphemes table
-        c.execute('''
-        CREATE TABLE morphemes (
-            id INTEGER PRIMARY KEY,
-            morpheme TEXT,
-            type TEXT,
-            pos TEXT,
-            gloss TEXT,
-            ipa TEXT,
-            notes TEXT,
-            affix_properties TEXT,
-            allomorphs TEXT
-        )
-        ''')
-
-        # Create words table
-        c.execute('''
-        CREATE TABLE words (
-            id INTEGER PRIMARY KEY,
-            word TEXT,
-            gloss TEXT,
-            pos TEXT,
-            ipa TEXT,
-            notes TEXT
-        )
-        ''')
-
-        conn.commit()
-        conn.close()
-        print("Database initialized.")
-
-# Convert JSON string to Python object and vice versa
-def json_or_none(value):
-    if value is None:
-        return None
-    return json.loads(value)
-
-# Get all morphemes
-@app.route('/api/morphemes', methods=['GET'])
-def get_morphemes():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    c = conn.cursor()
-
-    c.execute('SELECT * FROM morphemes')
-    rows = c.fetchall()
-
-    result = []
-    for row in rows:
-        morpheme = dict(row)
-        morpheme['affix_properties'] = json_or_none(morpheme['affix_properties'])
-        morpheme['allomorphs'] = json_or_none(morpheme['allomorphs'])
-        result.append(morpheme)
-
-    conn.close()
-    return jsonify(result)
-
-# Add a new morpheme
-@app.route('/api/morphemes', methods=['POST'])
-def add_morpheme():
-    data = request.json
-
-    conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
-
-    affix_props = json.dumps(data.get('affixProperties')) if data.get('affixProperties') else None
-    allomorphs = json.dumps(data.get('allomorphs')) if data.get('allomorphs')) else None
-
-    c.execute('''
-    INSERT INTO morphemes (morpheme, type, pos, gloss, ipa, notes, affix_properties, allomorphs)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (
-        data.get('morpheme'),
-        data.get('type'),
-        data.get('pos'),
-        data.get('gloss'),
-        data.get('ipa'),
-        data.get('notes'),
-        affix_props,
-        allomorphs
-    ))
-
-    conn.commit()
-    morpheme_id = c.lastrowid
-    conn.close()
-
-    return jsonify({"id": morpheme_id, "message": "Morpheme added successfully"})
-
-# Get all words
-@app.route('/api/words', methods=['GET'])
-def get_words():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    c = conn.cursor()
-
-    c.execute('SELECT * FROM words')
-    rows = c.fetchall()
-
-    result = [dict(row) for row in rows]
-
-    conn.close()
-    return jsonify(result)
-
-# Add a new word
-@app.route('/api/words', methods=['POST'])
-def add_word():
-    data = request.json
-
-    conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
-
-    c.execute('''
-    INSERT INTO words (word, gloss, pos, ipa, notes)
-    VALUES (?, ?, ?, ?, ?)
-    ''', (
-        data.get('word'),
-        data.get('gloss'),
-        data.get('pos'),
-        data.get('ipa'),
-        data.get('notes')
-    ))
-
-    conn.commit()
-    word_id = c.lastrowid
-    conn.close()
-
-    return jsonify({"id": word_id, "message": "Word added successfully"})
-
-# Search lexicon
-@app.route('/api/search', methods=['GET'])
-def search_lexicon():
-    query = request.args.get('query', '').lower()
-
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    c = conn.cursor()
-
-    # Search morphemes
-    c.execute('''
-    SELECT * FROM morphemes
-    WHERE lower(morpheme) LIKE ? OR lower(gloss) LIKE ?
-    ''', (f'%{query}%', f'%{query}%'))
-
-    morpheme_rows = c.fetchall()
-    morphemes = []
-    for row in morpheme_rows:
-        morpheme = dict(row)
-        morpheme['affix_properties'] = json_or_none(morpheme['affix_properties'])
-        morpheme['allomorphs'] = json_or_none(morpheme['allomorphs'])
-        morphemes.append(morpheme)
-
-    # Search words
-    c.execute('''
-    SELECT * FROM words
-    WHERE lower(word) LIKE ? OR lower(gloss) LIKE ?
-    ''', (f'%{query}%', f'%{query}%'))
-
-    word_rows = c.fetchall()
-    words = [dict(row) for row in word_rows]
-
-    conn.close()
-
-    return jsonify({
-        "morphemes": morphemes,
-        "words": words
-    })
-
-# Import YAML data
-@app.route('/api/import', methods=['POST'])
-def import_yaml():
-    if 'file' not in request.files:
-        return jsonify({"error": "No file part"}), 400
-
-    file = request.files['file']
-    if file.filename == '':
-        return jsonify({"error": "No selected file"}), 400
-
-    try:
-        yaml_content = file.read().decode('utf-8')
-        data = yaml.safe_load(yaml_content)
-
-        conn = sqlite3.connect(DB_PATH)
-        c = conn.cursor()
-
-        # Clear existing data
-        c.execute('DELETE FROM morphemes')
-        c.execute('DELETE FROM words')
-
-        # Import morphemes
-        for morpheme in data.get('morphemes', []):
-            affix_props = json.dumps(morpheme.get('affixProperties')) if morpheme.get('affixProperties')) else None
-            allomorphs = json.dumps(morpheme.get('allomorphs')) if morpheme.get('allomorphs')) else None
-
-            c.execute('''
-            INSERT INTO morphemes (morpheme, type, pos, gloss, ipa, notes, affix_properties, allomorphs)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (
-                morpheme.get('morpheme'),
-                morpheme.get('type'),
-                morpheme.get('pos'),
-                morpheme.get('gloss'),
-                morpheme.get('ipa'),
-                morpheme.get('notes'),
-                affix_props,
-                allomorphs
-            ))
-
-        # Import words
-        for word in data.get('words', []):
-            c.execute('''
-            INSERT INTO words (word, gloss, pos, ipa, notes)
-            VALUES (?, ?, ?, ?, ?)
-            ''', (
-                word.get('word'),
-                word.get('gloss'),
-                word.get('pos'),
-                word.get('ipa'),
-                word.get('notes')
-            ))
-
-        conn.commit()
-        conn.close()
-
-        return jsonify({"message": "YAML data imported successfully"})
-
-    except Exception as e:
-        return jsonify({"error": str(e)}), 400
-
-# Export data as YAML
-@app.route('/api/export', methods=['GET'])
-def export_yaml():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    c = conn.cursor()
-
-    # Get morphemes
-    c.execute('SELECT * FROM morphemes')
-    morpheme_rows = c.fetchall()
-    morphemes = []
-
-    for row in morpheme_rows:
-        morpheme = {
-            "morpheme": row['morpheme'],
-            "type": row['type'],
-            "pos": row['pos'],
-            "gloss": row['gloss'],
-            "ipa": row['ipa'],
-            "notes": row['notes']
-        }
-
-        if row['affix_properties']:
-            morpheme['affixProperties'] = json.loads(row['affix_properties'])
-
-        if row['allomorphs']:
-            morpheme['allomorphs'] = json.loads(row['allomorphs'])
-
-        morphemes.append(morpheme)
-
-    # Get words
-    c.execute('SELECT * FROM words')
-    word_rows = c.fetchall()
-    words = []
-
-    for row in word_rows:
-        word = {
-            "word": row['word'],
-            "gloss": row['gloss'],
-            "pos": row['pos'],
-            "ipa": row['ipa'],
-            "notes": row['notes']
-        }
-        words.append(word)
-
-    conn.close()
-
-    data = {
-        "morphemes": morphemes,
-        "words": words
-    }
-
-    yaml_content = yaml.dump(data, sort_keys=False, default_flow_style=False)
-
-    return jsonify({"yaml": yaml_content})
-
-if __name__ == '__main__':
-    init_db()
-    app.run(host='0.0.0.0', port=5000, debug=True)
+# Activate the virtual environment
+source venv/bin/activate
 ```
 
-5. Run the server:
+3. Install required dependencies in your virtual environment:
+```bash
+# Make sure your virtual environment is activated
+pip install flask flask-cors
 ```
-python3 server.py
+
+4. Create a requirements.txt file for easier dependency management:
+```bash
+pip freeze > requirements.txt
 ```
 
-The server will start on port 5000. Make sure to allow this port in your Raspberry Pi's firewall if needed.
+5. Start the server from the project root:
+```bash
+# Make sure your virtual environment is activated
+python3 api/server.py
+```
 
-## Accessing the Server
+The server will start on port 5000 and be accessible at: `http://localhost:5000/api`
 
-Your Raspberry Pi server will be accessible at: `http://your-raspberry-pi-ip:5000`
+### Managing Your Virtual Environment
 
-## Client Integration
+- To activate the virtual environment: `source venv/bin/activate`
+- To deactivate when you're done: `deactivate`
+- To reinstall dependencies on a new system: `pip install -r requirements.txt`
 
-Update your web application to connect to this server for saving and retrieving lexicon data.
+## Running the Application
+
+1. Start the server (make sure your virtual environment is activated):
+```bash
+source venv/bin/activate
+python3 api/server.py
+```
+
+2. Open the application in a web browser:
+   - You can simply open the `index.html` file directly in your browser
+   - Or serve it using a simple HTTP server: `python -m http.server`
+
+The web application is configured to connect to your local server at `http://localhost:5000/api`.
+
+## Backup and Restore
+
+The lexicon manager includes a backup script (`backup.sh`) that creates timestamped backups of your SQLite database.
+
+### Running Backups Manually
+
+You can run backups manually using the following commands:
+
+```bash
+# Default backup method (using SQLite's native backup command)
+./backup.sh
+
+# Simple file copy backup
+./backup.sh simple
+
+# Compressed backup (saves disk space)
+./backup.sh compressed
+```
+
+### Automating Backups with launchd (macOS)
+
+To schedule automatic backups using macOS's launchd:
+
+1. Create a plist file for the backup job:
+
+```bash
+# Create the LaunchAgents directory if it doesn't exist
+mkdir -p ~/Library/LaunchAgents
+
+# Create the plist file
+cat > ~/Library/LaunchAgents/com.conlanglexicon.backup.plist << 'EOF'
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.conlanglexicon.backup</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/bart/Code/random-nothing-site/backup.sh</string>
+        <string>compressed</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>2</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>WorkingDirectory</key>
+    <string>/Users/bart/Code/random-nothing-site</string>
+    <key>StandardOutPath</key>
+    <string>/Users/bart/Code/random-nothing-site/backups/backup.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/bart/Code/random-nothing-site/backups/backup_error.log</string>
+</dict>
+</plist>
+EOF
+```
+
+2. Load the launchd job:
+
+```bash
+launchctl load ~/Library/LaunchAgents/com.conlanglexicon.backup.plist
+```
+
+This will run a compressed backup every day at 2:00 AM.
+
+3. To unload (disable) the scheduled backup:
+
+```bash
+launchctl unload ~/Library/LaunchAgents/com.conlanglexicon.backup.plist
+```
+
+### Restoring from Backup
+
+If you need to restore your database from a backup:
+
+1. For standard backups:
+
+```bash
+# Make sure the server is not running
+sqlite3 lexicon.db '.restore backups/lexicon_20250413_123456.db'
+```
+
+2. For compressed backups:
+
+```bash
+# Make sure the server is not running
+gunzip -c backups/lexicon_20250413_123456.db.gz | sqlite3 lexicon.db
+```
+
+Replace `20250413_123456` with the timestamp of the backup you want to restore.
+
+3. Verify the restoration:
+
+```bash
+# Check that the database is valid
+sqlite3 lexicon.db "PRAGMA integrity_check;"
+
+# Optional: count the number of entries
+sqlite3 lexicon.db "SELECT COUNT(*) FROM morphemes;"
+sqlite3 lexicon.db "SELECT COUNT(*) FROM words;"
+```
+
+## Development
+
+For development purposes, you might want to install additional tools using pipx:
+
+```bash
+# Install useful Python tools globally without conflicts
+pipx install black       # Code formatter
+pipx install flake8      # Linter
+pipx install pytest      # Testing framework
+```
+
+## Client Configuration
+
+If you need to modify the server connection settings, update the API_BASE_URL in js/app.js:
+```javascript
+const API_BASE_URL = 'http://localhost:5000/api';
+```

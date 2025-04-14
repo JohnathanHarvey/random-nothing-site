@@ -10,8 +10,8 @@ window.switchTab = function(tabName) {
     document.getElementById(`${tabName}-tab`).classList.add('active');
 }
 
-// API URL - change this to your Raspberry Pi's IP address
-const API_BASE_URL = 'http://your-raspberry-pi-ip:5000/api';
+// API URL - configured for local server
+const API_BASE_URL = 'http://localhost:5000/api';
 
 // Document ready function
 document.addEventListener('DOMContentLoaded', function() {
@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', function() {
             console.error('Error loading data:', error);
             // Display error message in search results
             document.getElementById('search-results').innerHTML =
-                '<p class="error">Error connecting to server. Make sure your Raspberry Pi server is running.</p>';
+                '<p class="error">Error connecting to server. Make sure your local server is running with "python3 api/server.py"</p>';
         });
     }
 
@@ -243,54 +243,4 @@ document.addEventListener('DOMContentLoaded', function() {
             alert('Error searching. See console for details.');
         });
     });
-
-    // Export data to YAML
-    window.exportToYAML = function() {
-        fetch(`${API_BASE_URL}/export`)
-        .then(response => response.json())
-        .then(data => {
-            const yamlContent = data.yaml;
-
-            // Create a downloadable link for the YAML file
-            const blob = new Blob([yamlContent], { type: 'text/yaml' });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'conlang_lexicon.yaml';
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            URL.revokeObjectURL(url);
-        })
-        .catch(error => {
-            console.error('Error exporting data:', error);
-            alert('Error exporting data. See console for details.');
-        });
-    };
-
-    // Import data from YAML file
-    window.importFromYAML = function(fileInput) {
-        const file = fileInput.files[0];
-        if (!file) return;
-
-        const formData = new FormData();
-        formData.append('file', file);
-
-        fetch(`${API_BASE_URL}/import`, {
-            method: 'POST',
-            body: formData
-        })
-        .then(response => response.json())
-        .then(data => {
-            alert('YAML file imported successfully!');
-            loadDataFromServer(); // Refresh data
-        })
-        .catch(error => {
-            console.error('Error importing YAML:', error);
-            alert('Error importing YAML file. See console for details.');
-        });
-    };
-
-    // Display any existing data on page load
-    loadDataFromServer();
 });
