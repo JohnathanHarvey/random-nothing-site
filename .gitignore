@@ -1,1 +1,27 @@
-./lexicon.db
+# Ignore the SQLite database file
+lexicon.db
+
+# Ignore backup files and directories
+backups/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore node_modules (if applicable in the future)
+node_modules/
