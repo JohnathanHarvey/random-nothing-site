@@ -1,41 +1,3 @@
-# Conlang Lexicon Manager
-
-A web-based tool for constructing and managing a lexicon for constructed languages.
-
-## Current Implementation
-
-The application currently runs as a client-side only web app with:
-- Forms for adding morphemes and words
-- Search functionality
-- Export/import of data in YAML format
-
-## Server Setup (Raspberry Pi)
-
-### Prerequisites
-- Raspberry Pi with SSH access
-- Python 3 installed
-- Basic knowledge of terminal commands
-
-### Setting Up a SQLite Database Server
-
-1. Connect to your Raspberry Pi via SSH:
-```
-ssh pi@your-raspberry-pi-ip
-```
-
-2. Install required Python packages:
-```
-pip3 install flask flask-cors pyyaml
-```
-
-3. Create a project directory:
-```
-mkdir -p ~/conlang-lexicon-server
-cd ~/conlang-lexicon-server
-```
-
-4. Create a Python script (`server.py`):
-```python
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import sqlite3
@@ -341,19 +303,3 @@ def export_yaml():
 if __name__ == '__main__':
     init_db()
     app.run(host='0.0.0.0', port=5000, debug=True)
-```
-
-5. Run the server:
-```
-python3 server.py
-```
-
-The server will start on port 5000. Make sure to allow this port in your Raspberry Pi's firewall if needed.
-
-## Accessing the Server
-
-Your Raspberry Pi server will be accessible at: `http://your-raspberry-pi-ip:5000`
-
-## Client Integration
-
-Update your web application to connect to this server for saving and retrieving lexicon data.

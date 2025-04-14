@@ -8,6 +8,14 @@
   </head>
   <body>
     <h1>Conlang Lexicon Manager</h1>
+
+    <!-- Data Management Buttons -->
+    <div class="data-controls">
+      <button onclick="exportToYAML()">Export to YAML</button>
+      <label for="import-yaml" class="import-label">Import from YAML</label>
+      <input type="file" id="import-yaml" accept=".yaml,.yml" style="display: none;" onchange="importFromYAML(this)">
+    </div>
+
     <div class="tabs">
       <div class="tab active" onclick="switchTab('morpheme')">Add Morpheme</div>
       <div class="tab" onclick="switchTab('word')">Add Word</div>

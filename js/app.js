@@ -10,6 +10,9 @@ window.switchTab = function(tabName) {
     document.getElementById(`${tabName}-tab`).classList.add('active');
 }
 
+// API URL - change this to your Raspberry Pi's IP address
+const API_BASE_URL = 'http://your-raspberry-pi-ip:5000/api';
+
 // Document ready function
 document.addEventListener('DOMContentLoaded', function() {
     // Show/hide affix options based on morpheme type
@@ -49,28 +52,245 @@ document.addEventListener('DOMContentLoaded', function() {
         container.appendChild(allomorphDiv);
     });
 
+    // Load data from server
+    loadDataFromServer();
+
     // Form submission handling
     document.getElementById('morpheme-form').addEventListener('submit', function(e) {
         e.preventDefault();
-        // Here you would handle form submission, likely with AJAX
-        alert('Morpheme submission would be processed here');
-        // Reset form
-        this.reset();
-        document.getElementById('affix-options').style.display = 'none';
+
+        // Get form data
+        const formData = {
+            morpheme: document.getElementById('morpheme').value,
+            type: document.getElementById('type').value,
+            pos: document.getElementById('pos').value,
+            gloss: document.getElementById('gloss').value,
+            ipa: document.getElementById('ipa').value,
+            notes: document.getElementById('notes').value
+        };
+
+        // If it's an affix, get the affix-specific data
+        if (formData.type !== 'root') {
+            formData.affixProperties = {
+                attachesTo: [],
+                slot: document.getElementById('slot').value,
+                requires: document.getElementById('requires').value,
+                prohibits: document.getElementById('prohibits').value
+            };
+
+            // Get checked parts of speech
+            ['noun', 'verb', 'adj'].forEach(pos => {
+                if (document.getElementById(`attach-${pos}`).checked) {
+                    formData.affixProperties.attachesTo.push(pos);
+                }
+            });
+
+            // Get allomorphs
+            formData.allomorphs = [];
+            const allomorphDivs = document.querySelectorAll('#allomorphs-container .allomorph');
+            allomorphDivs.forEach((div, index) => {
+                formData.allomorphs.push({
+                    form: document.getElementById(`allomorph-form-${index}`).value,
+                    ipa: document.getElementById(`allomorph-ipa-${index}`).value,
+                    condition: document.getElementById(`allomorph-condition-${index}`).value
+                });
+            });
+        }
+
+        // Send to server
+        fetch(`${API_BASE_URL}/morphemes`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(formData)
+        })
+        .then(response => response.json())
+        .then(data => {
+            alert('Morpheme saved successfully!');
+            this.reset();
+            document.getElementById('affix-options').style.display = 'none';
+            loadDataFromServer(); // Refresh data
+        })
+        .catch(error => {
+            console.error('Error saving morpheme:', error);
+            alert('Error saving morpheme. See console for details.');
+        });
     });
 
     document.getElementById('word-form').addEventListener('submit', function(e) {
         e.preventDefault();
-        // Here you would handle form submission, likely with AJAX
-        alert('Word submission would be processed here');
-        // Reset form
-        this.reset();
+
+        // Get form data
+        const formData = {
+            word: document.getElementById('word').value,
+            gloss: document.getElementById('word-gloss').value,
+            pos: document.getElementById('word-pos').value,
+            ipa: document.getElementById('word-ipa').value,
+            notes: document.getElementById('word-notes').value
+        };
+
+        // Send to server
+        fetch(`${API_BASE_URL}/words`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(formData)
+        })
+        .then(response => response.json())
+        .then(data => {
+            alert('Word saved successfully!');
+            this.reset();
+            loadDataFromServer(); // Refresh data
+        })
+        .catch(error => {
+            console.error('Error saving word:', error);
+            alert('Error saving word. See console for details.');
+        });
     });
 
+    // Function to load data from server
+    function loadDataFromServer() {
+        // Get morphemes
+        fetch(`${API_BASE_URL}/morphemes`)
+        .then(response => response.json())
+        .then(morphemes => {
+            // Get words
+            fetch(`${API_BASE_URL}/words`)
+            .then(response => response.json())
+            .then(words => {
+                displayData(morphemes, words);
+            });
+        })
+        .catch(error => {
+            console.error('Error loading data:', error);
+            // Display error message in search results
+            document.getElementById('search-results').innerHTML =
+                '<p class="error">Error connecting to server. Make sure your Raspberry Pi server is running.</p>';
+        });
+    }
+
+    // Display data in search results
+    function displayData(morphemes, words) {
+        let html = '<h3>Stored Morphemes</h3>';
+        if (morphemes.length === 0) {
+            html += '<p>No morphemes stored yet.</p>';
+        } else {
+            html += '<ul>';
+            morphemes.forEach(m => {
+                html += `<li><strong>${m.morpheme}</strong> - ${m.gloss} (${m.type})</li>`;
+            });
+            html += '</ul>';
+        }
+
+        html += '<h3>Stored Words</h3>';
+        if (words.length === 0) {
+            html += '<p>No words stored yet.</p>';
+        } else {
+            html += '<ul>';
+            words.forEach(w => {
+                html += `<li><strong>${w.word}</strong> - ${w.gloss} (${w.pos})</li>`;
+            });
+            html += '</ul>';
+        }
+
+        document.getElementById('search-results').innerHTML = html;
+    }
+
+    // Search functionality
     document.getElementById('search-form').addEventListener('submit', function(e) {
         e.preventDefault();
-        // Here you would handle search, likely with AJAX
-        const resultsDiv = document.getElementById('search-results');
-        resultsDiv.innerHTML = '<p>Search results would appear here.</p>';
+
+        const searchTerm = document.getElementById('search-term').value;
+
+        // Search on server
+        fetch(`${API_BASE_URL}/search?query=${encodeURIComponent(searchTerm)}`)
+        .then(response => response.json())
+        .then(data => {
+            const morphemes = data.morphemes;
+            const words = data.words;
+
+            // Display results
+            let html = '';
+
+            html += '<h3>Matching Morphemes</h3>';
+            if (morphemes.length === 0) {
+                html += '<p>No matching morphemes found.</p>';
+            } else {
+                html += '<ul>';
+                morphemes.forEach(m => {
+                    html += `<li><strong>${m.morpheme}</strong> - ${m.gloss} (${m.type})</li>`;
+                });
+                html += '</ul>';
+            }
+
+            html += '<h3>Matching Words</h3>';
+            if (words.length === 0) {
+                html += '<p>No matching words found.</p>';
+            } else {
+                html += '<ul>';
+                words.forEach(w => {
+                    html += `<li><strong>${w.word}</strong> - ${w.gloss} (${w.pos})</li>`;
+                });
+                html += '</ul>';
+            }
+
+            document.getElementById('search-results').innerHTML = html;
+        })
+        .catch(error => {
+            console.error('Error searching:', error);
+            alert('Error searching. See console for details.');
+        });
     });
+
+    // Export data to YAML
+    window.exportToYAML = function() {
+        fetch(`${API_BASE_URL}/export`)
+        .then(response => response.json())
+        .then(data => {
+            const yamlContent = data.yaml;
+
+            // Create a downloadable link for the YAML file
+            const blob = new Blob([yamlContent], { type: 'text/yaml' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'conlang_lexicon.yaml';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        })
+        .catch(error => {
+            console.error('Error exporting data:', error);
+            alert('Error exporting data. See console for details.');
+        });
+    };
+
+    // Import data from YAML file
+    window.importFromYAML = function(fileInput) {
+        const file = fileInput.files[0];
+        if (!file) return;
+
+        const formData = new FormData();
+        formData.append('file', file);
+
+        fetch(`${API_BASE_URL}/import`, {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            alert('YAML file imported successfully!');
+            loadDataFromServer(); // Refresh data
+        })
+        .catch(error => {
+            console.error('Error importing YAML:', error);
+            alert('Error importing YAML file. See console for details.');
+        });
+    };
+
+    // Display any existing data on page load
+    loadDataFromServer();
 });

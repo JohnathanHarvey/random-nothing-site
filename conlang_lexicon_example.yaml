@@ -1,0 +1,56 @@
+morphemes:
+  - morpheme: "tark"
+    type: root
+    pos: noun
+    gloss: "tree"
+    ipa: "tɑrk"
+    notes: |
+      Basic noun for tree or woody plant.
+
+  - morpheme: "-ik"
+    type: suffix
+    pos: n/a
+    gloss: "DIM"
+    ipa: "ik"
+    notes: |
+      Diminutive suffix, makes things smaller or cuter.
+    affixProperties:
+      attachesTo:
+        - noun
+        - adj
+      slot: 1
+    allomorphs:
+      -
+        form: "-ik"
+        ipa: "ik"
+        condition: "after consonants"
+      -
+        form: "-k"
+        ipa: "k"
+        condition: "after vowels"
+
+  - morpheme: "su-"
+    type: prefix
+    pos: n/a
+    gloss: "CAUS"
+    ipa: "su"
+    notes: |
+      Causative prefix, attaches to verbs to mean "to cause/make X happen"
+    affixProperties:
+      attachesTo:
+        - verb
+      slot: 1
+      prohibits: "ne-"
+
+words:
+  - word: "tarkik"
+    gloss: "sapling"
+    pos: noun
+    ipa: "tɑrkik"
+    notes: |
+      Literally "little tree", formed from tark + -ik
+
+  - word: "nemel"
+    gloss: "to go"
+    pos: verb
+    ipa: "nɛmɛl"
