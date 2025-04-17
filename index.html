@@ -13,6 +13,7 @@
       <div class="tab active" onclick="switchTab('morpheme')">Add Morpheme</div>
       <div class="tab" onclick="switchTab('word')">Add Word</div>
       <div class="tab" onclick="switchTab('search')">Search Lexicon</div>
+      <div class="tab" onclick="switchTab('phonology')">Phonology Builder</div>
     </div>
     <!-- MORPHEME FORM -->
     <div id="morpheme-tab" class="tab-content active">
@@ -193,6 +194,90 @@
         </form>
         <div id="search-results" style="margin-top: 20px;">
           <!-- Search results will be displayed here -->
+        </div>
+      </div>
+    </div>
+
+    <!-- PHONOLOGY BUILDER -->
+    <div id="phonology-tab" class="tab-content">
+      <div class="form-container">
+        <h2>Phonology Builder</h2>
+        <form id="phonology-form">
+          <div class="form-group">
+            <label for="sound-category">Category:</label>
+            <select id="sound-category" name="category" required>
+              <option value="consonants">Consonants</option>
+              <option value="vowels">Vowels</option>
+              <option value="diphthongs">Diphthongs</option>
+              <option value="clusters">Consonant Clusters</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="sounds">Sounds (comma-separated IPA):</label>
+            <input type="text" id="sounds" name="sounds" required>
+            <div class="help-text">Enter IPA symbols separated by commas, e.g., "p, b, t, d, k, g"</div>
+          </div>
+
+          <div class="form-group">
+            <label for="features">Features:</label>
+            <div id="feature-grid">
+              <div>
+                <input type="checkbox" id="feature-voiced" name="features" value="voiced">
+                <label for="feature-voiced">Voiced</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-nasal" name="features" value="nasal">
+                <label for="feature-nasal">Nasal</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-stop" name="features" value="stop">
+                <label for="feature-stop">Stop</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-fricative" name="features" value="fricative">
+                <label for="feature-fricative">Fricative</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-approximant" name="features" value="approximant">
+                <label for="feature-approximant">Approximant</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-high" name="features" value="high">
+                <label for="feature-high">High</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-low" name="features" value="low">
+                <label for="feature-low">Low</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-front" name="features" value="front">
+                <label for="feature-front">Front</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-back" name="features" value="back">
+                <label for="feature-back">Back</label>
+              </div>
+              <div>
+                <input type="checkbox" id="feature-rounded" name="features" value="rounded">
+                <label for="feature-rounded">Rounded</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="phonology-notes">Notes:</label>
+            <textarea id="phonology-notes" name="notes" rows="3"></textarea>
+            <div class="help-text">Add any additional information about distribution, allophones, etc.</div>
+          </div>
+
+          <button type="submit">Save Category</button>
+        </form>
+
+        <div id="phonology-display" style="margin-top: 20px;">
+          <h3>Current Phonology</h3>
+          <!-- Phonology data will be displayed here -->
         </div>
       </div>
     </div>

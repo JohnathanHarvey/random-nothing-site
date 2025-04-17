@@ -101,3 +101,64 @@ button:hover {
 .import-label:hover {
     background-color: #45a049;
 }
+
+/* Phonology feature grid */
+#feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+#feature-grid div {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+#feature-grid label {
+    display: inline;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+#phonology-display {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.phonology-category {
+    margin-bottom: 20px;
+}
+
+.phonology-category h4 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.sound-list {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.1em;
+    margin: 5px 0;
+}
+
+.feature-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin: 5px 0;
+}
+
+.feature-tag {
+    background-color: #e9ecef;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.9em;
+    color: #495057;
+}

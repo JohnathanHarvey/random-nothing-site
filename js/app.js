@@ -6,7 +6,11 @@ window.switchTab = function(tabName) {
     tabs.forEach(tab => tab.classList.remove('active'));
     tabContents.forEach(content => content.classList.remove('active'));
 
-    document.querySelector(`.tab:nth-child(${tabName === 'morpheme' ? 1 : tabName === 'word' ? 2 : 3})`).classList.add('active');
+    document.querySelector(`.tab:nth-child(${
+        tabName === 'morpheme' ? 1 :
+        tabName === 'word' ? 2 :
+        tabName === 'search' ? 3 : 4
+    })`).classList.add('active');
     document.getElementById(`${tabName}-tab`).classList.add('active');
 }
 
@@ -150,6 +154,102 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+    // Phonology form submission handling
+    document.getElementById('phonology-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+
+        // Get selected features
+        const selectedFeatures = [];
+        document.querySelectorAll('#feature-grid input[type="checkbox"]:checked').forEach(checkbox => {
+            selectedFeatures.push(checkbox.value);
+        });
+
+        // Get form data
+        const formData = {
+            category: document.getElementById('sound-category').value,
+            sounds: document.getElementById('sounds').value.split(',').map(s => s.trim()),
+            features: selectedFeatures,
+            notes: document.getElementById('phonology-notes').value
+        };
+
+        // Send to server
+        fetch(`${API_BASE_URL}/phonology`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(formData)
+        })
+        .then(response => response.json())
+        .then(data => {
+            alert(data.message);
+            this.reset();
+            loadPhonologyData(); // Refresh display
+        })
+        .catch(error => {
+            console.error('Error saving phonology:', error);
+            alert('Error saving phonology. See console for details.');
+        });
+    });
+
+    // Function to load phonology data
+    function loadPhonologyData() {
+        fetch(`${API_BASE_URL}/phonology`)
+        .then(response => response.json())
+        .then(categories => {
+            const display = document.getElementById('phonology-display');
+            if (categories.length === 0) {
+                display.innerHTML = '<p>No phonology data stored yet.</p>';
+                return;
+            }
+
+            let html = '';
+            categories.forEach(category => {
+                const sounds = JSON.parse(category.sounds);
+                const features = JSON.parse(category.features);
+
+                html += `
+                    <div class="phonology-category">
+                        <h4>${category.category.charAt(0).toUpperCase() + category.category.slice(1)}</h4>
+                        <div class="sound-list">${sounds.join(', ')}</div>
+                        ${features.length > 0 ? `
+                            <div class="feature-tags">
+                                ${features.map(f => `<span class="feature-tag">${f}</span>`).join('')}
+                            </div>
+                        ` : ''}
+                        ${category.notes ? `<div class="notes">${category.notes}</div>` : ''}
+                        <button onclick="deletePhonologyCategory('${category.category}')">Delete</button>
+                    </div>
+                `;
+            });
+
+            display.innerHTML = html;
+        })
+        .catch(error => {
+            console.error('Error loading phonology data:', error);
+            document.getElementById('phonology-display').innerHTML =
+                '<p class="error">Error loading phonology data. See console for details.</p>';
+        });
+    }
+
+    // Function to delete a phonology category
+    window.deletePhonologyCategory = function(category) {
+        if (confirm(`Are you sure you want to delete the ${category} category?`)) {
+            fetch(`${API_BASE_URL}/phonology/${category}`, {
+                method: 'DELETE'
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                loadPhonologyData(); // Refresh display
+            })
+            .catch(error => {
+                console.error('Error deleting category:', error);
+                alert('Error deleting category. See console for details.');
+            });
+        }
+    }
+
     // Function to load data from server
     function loadDataFromServer() {
         // Get morphemes
@@ -243,4 +343,8 @@ document.addEventListener('DOMContentLoaded', function() {
             alert('Error searching. See console for details.');
         });
     });
+
+    // Load initial data
+    loadDataFromServer();
+    loadPhonologyData();
 });

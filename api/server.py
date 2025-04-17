@@ -42,6 +42,17 @@ def init_db():
         )
         ''')
 
+        # Create phonology table
+        c.execute('''
+        CREATE TABLE phonology (
+            id INTEGER PRIMARY KEY,
+            category TEXT,
+            sounds TEXT,
+            features TEXT,
+            notes TEXT
+        )
+        ''')
+
         conn.commit()
         conn.close()
         print("Database initialized.")
@@ -181,6 +192,76 @@ def search_lexicon():
         "morphemes": morphemes,
         "words": words
     })
+
+# Get all phonology entries
+@app.route('/api/phonology', methods=['GET'])
+def get_phonology():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    c = conn.cursor()
+
+    c.execute('SELECT * FROM phonology')
+    rows = c.fetchall()
+    result = [dict(row) for row in rows]
+
+    conn.close()
+    return jsonify(result)
+
+# Add or update phonology entry
+@app.route('/api/phonology', methods=['POST'])
+def add_phonology():
+    data = request.json
+
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+
+    # Check if category already exists
+    c.execute('SELECT id FROM phonology WHERE category = ?', (data.get('category'),))
+    existing = c.fetchone()
+
+    if existing:
+        # Update existing entry
+        c.execute('''
+        UPDATE phonology
+        SET sounds = ?, features = ?, notes = ?
+        WHERE category = ?
+        ''', (
+            json.dumps(data.get('sounds')),
+            json.dumps(data.get('features')),
+            data.get('notes'),
+            data.get('category')
+        ))
+        message = "Phonology updated successfully"
+    else:
+        # Insert new entry
+        c.execute('''
+        INSERT INTO phonology (category, sounds, features, notes)
+        VALUES (?, ?, ?, ?)
+        ''', (
+            data.get('category'),
+            json.dumps(data.get('sounds')),
+            json.dumps(data.get('features')),
+            data.get('notes')
+        ))
+        message = "Phonology added successfully"
+
+    conn.commit()
+    entry_id = c.lastrowid
+    conn.close()
+
+    return jsonify({"id": entry_id, "message": message})
+
+# Delete phonology entry
+@app.route('/api/phonology/<category>', methods=['DELETE'])
+def delete_phonology(category):
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+
+    c.execute('DELETE FROM phonology WHERE category = ?', (category,))
+    conn.commit()
+    conn.close()
+
+    return jsonify({"message": f"Phonology category {category} deleted successfully"})
 
 if __name__ == '__main__':
     init_db()
