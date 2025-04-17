@@ -42,14 +42,28 @@ def init_db():
         )
         ''')
 
-        # Create phonology table
+        # Create phonological_inventory table
         c.execute('''
-        CREATE TABLE phonology (
+        CREATE TABLE phonological_inventory (
             id INTEGER PRIMARY KEY,
-            category TEXT,
-            sounds TEXT,
-            features TEXT,
-            notes TEXT
+            type TEXT,  -- 'consonant' or 'vowel'
+            sound TEXT,
+            manner TEXT,
+            place TEXT,
+            height TEXT,
+            backness TEXT,
+            features TEXT  -- JSON string of additional features
+        )
+        ''')
+
+        # Create phonotactics table
+        c.execute('''
+        CREATE TABLE phonotactics (
+            id INTEGER PRIMARY KEY,
+            syllable_structure TEXT,
+            cluster_constraints TEXT,
+            processes TEXT,
+            features TEXT  -- JSON string of system-wide features (gemination, tone, etc.)
         )
         ''')
 
@@ -263,6 +277,110 @@ def delete_phonology(category):
 
     return jsonify({"message": f"Phonology category {category} deleted successfully"})
 
+# Get phonological inventory
+@app.route('/api/phonology/inventory', methods=['GET'])
+def get_phonological_inventory():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    c = conn.cursor()
+
+    c.execute('SELECT * FROM phonological_inventory')
+    rows = c.fetchall()
+    result = [dict(row) for row in rows]
+
+    # Parse JSON strings
+    for item in result:
+        item['features'] = json_or_none(item['features'])
+
+    conn.close()
+    return jsonify(result)
+
+# Save phonological inventory
+@app.route('/api/phonology/inventory', methods=['POST'])
+def save_phonological_inventory():
+    data = request.json
+
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+
+    # Clear existing inventory
+    c.execute('DELETE FROM phonological_inventory')
+
+    # Add consonants
+    for consonant in data.get('consonants', []):
+        c.execute('''
+        INSERT INTO phonological_inventory (type, sound, manner, place, features)
+        VALUES (?, ?, ?, ?, ?)
+        ''', (
+            'consonant',
+            consonant['sound'],
+            consonant['manner'],
+            consonant['place'],
+            json.dumps(consonant.get('features', {}))
+        ))
+
+    # Add vowels
+    for vowel in data.get('vowels', []):
+        c.execute('''
+        INSERT INTO phonological_inventory (type, sound, height, backness, features)
+        VALUES (?, ?, ?, ?, ?)
+        ''', (
+            'vowel',
+            vowel['sound'],
+            vowel['height'],
+            vowel['backness'],
+            json.dumps(vowel.get('features', {}))
+        ))
+
+    conn.commit()
+    conn.close()
+
+    return jsonify({"message": "Phonological inventory updated successfully"})
+
+# Get phonotactics
+@app.route('/api/phonology/phonotactics', methods=['GET'])
+def get_phonotactics():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    c = conn.cursor()
+
+    c.execute('SELECT * FROM phonotactics LIMIT 1')
+    row = c.fetchone()
+
+    result = dict(row) if row else {}
+    if result:
+        result['features'] = json_or_none(result['features'])
+
+    conn.close()
+    return jsonify(result)
+
+# Save phonotactics
+@app.route('/api/phonology/phonotactics', methods=['POST'])
+def save_phonotactics():
+    data = request.json
+
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+
+    # Clear existing phonotactics
+    c.execute('DELETE FROM phonotactics')
+
+    c.execute('''
+    INSERT INTO phonotactics (syllable_structure, cluster_constraints, processes, features)
+    VALUES (?, ?, ?, ?)
+    ''', (
+        data.get('syllableStructure'),
+        data.get('clusterConstraints'),
+        data.get('phonologicalProcesses'),
+        json.dumps(data.get('features', {}))
+    ))
+
+    conn.commit()
+    conn.close()
+
+    return jsonify({"message": "Phonotactics updated successfully"})
+
+# Start the application
 if __name__ == '__main__':
     init_db()
     app.run(host='0.0.0.0', port=5000, debug=True)
