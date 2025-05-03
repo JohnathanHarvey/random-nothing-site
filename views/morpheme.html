@@ -1,0 +1,94 @@
+<div class="form-container">
+  <h2>Add New Morpheme</h2>
+  <form id="morpheme-form">
+    <div class="form-group">
+      <label for="morpheme">Morpheme:</label>
+      <input type="text" id="morpheme" name="morpheme" required>
+      <div class="help-text">The orthographic form. Use conventions like '-suffix' or 'prefix-' for clarity.</div>
+    </div>
+    <div class="form-group">
+      <label for="type">Type:</label>
+      <select id="type" name="type" required>
+        <option value="root">Root</option>
+        <option value="prefix">Prefix</option>
+        <option value="suffix">Suffix</option>
+        <option value="infix">Infix</option>
+        <option value="circumfix">Circumfix</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="pos">Part of Speech:</label>
+      <select id="pos" name="pos">
+        <option value="noun">Noun</option>
+        <option value="verb">Verb</option>
+        <option value="adj">Adjective</option>
+        <option value="adv">Adverb</option>
+        <option value="prep">Preposition</option>
+        <option value="conj">Conjunction</option>
+        <option value="part">Particle</option>
+        <option value="n/a">Not Applicable</option>
+      </select>
+      <div class="help-text">For roots: the POS of the resulting stem; for some affixes this may be less relevant.</div>
+    </div>
+    <div class="form-group">
+      <label for="gloss">Gloss:</label>
+      <input type="text" id="gloss" name="gloss" required>
+      <div class="help-text">Meaning or grammatical function. Use notation like N.PL.ACC for grammatical features.</div>
+    </div>
+    <div class="form-group">
+      <label for="ipa">IPA Pronunciation:</label>
+      <input type="text" id="ipa" name="ipa">
+      <div class="help-text">Base IPA representation.</div>
+    </div>
+    <div class="form-group">
+      <label for="notes">Notes:</label>
+      <textarea id="notes" name="notes" rows="3"></textarea>
+    </div>
+    <div id="affix-options" style="display: none;">
+      <h3>Affix Properties</h3>
+      <div class="constraints">
+        <h4>Attachment Constraints</h4>
+        <div class="form-group">
+          <label>Attaches to Parts of Speech:</label>
+          <div>
+            <input type="checkbox" id="attach-noun" name="attaches_to" value="noun">
+            <label for="attach-noun" style="display: inline;">Noun</label>
+          </div>
+          <div>
+            <input type="checkbox" id="attach-verb" name="attaches_to" value="verb">
+            <label for="attach-verb" style="display: inline;">Verb</label>
+          </div>
+          <div>
+            <input type="checkbox" id="attach-adj" name="attaches_to" value="adj">
+            <label for="attach-adj" style="display: inline;">Adjective</label>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="slot">Affix Slot (if applicable):</label>
+          <input type="number" id="slot" name="slot" min="1">
+        </div>
+      </div>
+      <div class="constraints">
+        <h4>Morphological Constraints</h4>
+        <div class="form-group">
+          <label for="requires">Requires (morphemes that must be present):</label>
+          <input type="text" id="requires" name="requires">
+          <div class="help-text">Comma-separated list of morphemes that must co-occur with this one.</div>
+        </div>
+        <div class="form-group">
+          <label for="prohibits">Prohibits (morphemes that cannot co-occur):</label>
+          <input type="text" id="prohibits" name="prohibits">
+          <div class="help-text">Comma-separated list of morphemes that cannot co-occur with this one.</div>
+        </div>
+      </div>
+      <div class="form-group">
+        <h4>Allomorphs</h4>
+        <div id="allomorphs-container">
+          <!-- Initially empty, will be populated by JavaScript -->
+        </div>
+        <button type="button" id="add-allomorph">Add Allomorph</button>
+      </div>
+    </div>
+    <button type="submit">Save Morpheme</button>
+  </form>
+</div>

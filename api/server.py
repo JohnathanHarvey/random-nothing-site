@@ -214,9 +214,21 @@ def get_phonology():
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
 
-    c.execute('SELECT * FROM phonology')
-    rows = c.fetchall()
-    result = [dict(row) for row in rows]
+    # Get consonants and vowels
+    c.execute('SELECT * FROM phonological_inventory')
+    inventory_rows = c.fetchall()
+    inventory = [dict(row) for row in inventory_rows]
+
+    # Get phonotactics
+    c.execute('SELECT * FROM phonotactics LIMIT 1')
+    phonotactics_row = c.fetchone()
+    phonotactics = dict(phonotactics_row) if phonotactics_row else {}
+
+    # Format response
+    result = {
+        'inventory': inventory,
+        'phonotactics': phonotactics
+    }
 
     conn.close()
     return jsonify(result)
@@ -225,57 +237,85 @@ def get_phonology():
 @app.route('/api/phonology', methods=['POST'])
 def add_phonology():
     data = request.json
-
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
 
-    # Check if category already exists
-    c.execute('SELECT id FROM phonology WHERE category = ?', (data.get('category'),))
-    existing = c.fetchone()
+    try:
+        # Start transaction
+        c.execute('BEGIN TRANSACTION')
 
-    if existing:
-        # Update existing entry
-        c.execute('''
-        UPDATE phonology
-        SET sounds = ?, features = ?, notes = ?
-        WHERE category = ?
-        ''', (
-            json.dumps(data.get('sounds')),
-            json.dumps(data.get('features')),
-            data.get('notes'),
-            data.get('category')
-        ))
-        message = "Phonology updated successfully"
-    else:
-        # Insert new entry
-        c.execute('''
-        INSERT INTO phonology (category, sounds, features, notes)
-        VALUES (?, ?, ?, ?)
-        ''', (
-            data.get('category'),
-            json.dumps(data.get('sounds')),
-            json.dumps(data.get('features')),
-            data.get('notes')
-        ))
-        message = "Phonology added successfully"
+        # Handle phonological inventory
+        if 'consonants' in data or 'vowels' in data:
+            # Clear existing inventory
+            c.execute('DELETE FROM phonological_inventory')
 
-    conn.commit()
-    entry_id = c.lastrowid
-    conn.close()
+            # Add consonants
+            for consonant in data.get('consonants', []):
+                c.execute('''
+                INSERT INTO phonological_inventory (type, sound, manner, place, features)
+                VALUES (?, ?, ?, ?, ?)
+                ''', (
+                    'consonant',
+                    consonant['sound'],
+                    consonant['manner'],
+                    consonant['place'],
+                    json.dumps(consonant.get('features', {}))
+                ))
 
-    return jsonify({"id": entry_id, "message": message})
+            # Add vowels
+            for vowel in data.get('vowels', []):
+                c.execute('''
+                INSERT INTO phonological_inventory (type, sound, height, backness, features)
+                VALUES (?, ?, ?, ?, ?)
+                ''', (
+                    'vowel',
+                    vowel['sound'],
+                    vowel['height'],
+                    vowel['backness'],
+                    json.dumps(vowel.get('features', {}))
+                ))
 
-# Delete phonology entry
-@app.route('/api/phonology/<category>', methods=['DELETE'])
-def delete_phonology(category):
+        # Handle phonotactics
+        if 'phonotactics' in data:
+            # Clear existing phonotactics
+            c.execute('DELETE FROM phonotactics')
+
+            phonotactics = data['phonotactics']
+            c.execute('''
+            INSERT INTO phonotactics (syllable_structure, cluster_constraints, processes, features)
+            VALUES (?, ?, ?, ?)
+            ''', (
+                phonotactics.get('syllableStructure'),
+                phonotactics.get('clusterConstraints'),
+                phonotactics.get('phonologicalProcesses'),
+                json.dumps(data.get('features', {}))
+            ))
+
+        # Commit transaction
+        c.execute('COMMIT')
+        message = "Phonology system updated successfully"
+
+    except Exception as e:
+        # Rollback on error
+        c.execute('ROLLBACK')
+        raise e
+
+    finally:
+        conn.close()
+
+    return jsonify({"message": message})
+
+# Delete phonology entry (now deletes by type and sound)
+@app.route('/api/phonology/<type>/<sound>', methods=['DELETE'])
+def delete_phonology(type, sound):
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
 
-    c.execute('DELETE FROM phonology WHERE category = ?', (category,))
+    c.execute('DELETE FROM phonological_inventory WHERE type = ? AND sound = ?', (type, sound))
     conn.commit()
     conn.close()
 
-    return jsonify({"message": f"Phonology category {category} deleted successfully"})
+    return jsonify({"message": f"{type} sound {sound} deleted successfully"})
 
 # Get phonological inventory
 @app.route('/api/phonology/inventory', methods=['GET'])

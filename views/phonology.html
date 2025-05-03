@@ -1,0 +1,121 @@
+<div class="form-container">
+  <h2>Phonology Builder</h2>
+  <form id="phonology-form">
+    <!-- Consonant Chart Section -->
+    <div class="phonology-section">
+      <h3>Consonant Inventory</h3>
+      <div id="consonant-chart" class="ipa-chart">
+        <!-- ... existing consonant chart content ... -->
+      </div>
+
+      <!-- Consonant Features -->
+      <div class="feature-section">
+        <h4>Additional Features</h4>
+        <div class="feature-group">
+          <label>
+            <input type="checkbox" name="gemination" value="true">
+            Gemination
+          </label>
+          <label>
+            <input type="checkbox" name="aspirated" value="true">
+            Aspiration
+          </label>
+          <label>
+            <input type="checkbox" name="palatalized" value="true">
+            Palatalization
+          </label>
+          <label>
+            <input type="checkbox" name="labialized" value="true">
+            Labialization
+          </label>
+          <label>
+            <input type="checkbox" name="pharyngealized" value="true">
+            Pharyngealization
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Vowel Chart Section -->
+    <div class="phonology-section">
+      <h3>Vowel Inventory</h3>
+      <div id="vowel-chart" class="ipa-chart">
+        <!-- ... existing vowel chart content ... -->
+      </div>
+
+      <!-- Vowel Features -->
+      <div class="feature-section">
+        <h4>Additional Features</h4>
+        <div class="feature-group">
+          <label>
+            <input type="checkbox" name="length" value="true">
+            Length Distinction
+          </label>
+          <label>
+            <input type="checkbox" name="nasalization" value="true">
+            Nasalization
+          </label>
+          <label>
+            <input type="checkbox" name="stress" value="true">
+            Stress
+          </label>
+          <label>
+            <input type="checkbox" name="tone" value="true">
+            Tone
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Phonotactics Section -->
+    <div class="phonology-section">
+      <h3>Phonotactics</h3>
+      <div class="form-group">
+        <label for="syllable-structure">Basic Syllable Structure:</label>
+        <input type="text" id="syllable-structure" placeholder="e.g., (C)V(C)" />
+      </div>
+
+      <div class="form-group">
+        <label for="cluster-constraints">Cluster Constraints:</label>
+        <textarea id="cluster-constraints" rows="3"
+          placeholder="Describe allowed consonant clusters and restrictions"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="phonological-processes">Phonological Processes:</label>
+        <textarea id="phonological-processes" rows="4"
+          placeholder="Describe any phonological processes (assimilation, dissimilation, etc.)"></textarea>
+      </div>
+    </div>
+
+    <!-- Diacritics and Suprasegmentals -->
+    <div class="phonology-section">
+      <h3>Diacritics and Suprasegmentals</h3>
+      <div class="diacritics-grid">
+        <div class="diacritic-category">
+          <h4>Length</h4>
+          <button class="diacritic-btn" data-diacritic="ː">ː</button>
+          <button class="diacritic-btn" data-diacritic="ˑ">ˑ</button>
+        </div>
+        <div class="diacritic-category">
+          <h4>Stress</h4>
+          <button class="diacritic-btn" data-diacritic="ˈ">ˈ</button>
+          <button class="diacritic-btn" data-diacritic="ˌ">ˌ</button>
+        </div>
+        <div class="diacritic-category">
+          <h4>Tone</h4>
+          <button class="diacritic-btn" data-diacritic="˥">˥ High</button>
+          <button class="diacritic-btn" data-diacritic="˧">˧ Mid</button>
+          <button class="diacritic-btn" data-diacritic="˩">˩ Low</button>
+          <button class="diacritic-btn" data-diacritic="˩˥">˩˥ Rising</button>
+          <button class="diacritic-btn" data-diacritic="˥˩">˥˩ Falling</button>
+        </div>
+      </div>
+    </div>
+
+    <button type="submit">Save Phonology System</button>
+  </form>
+  <div id="phonology-display" style="margin-top: 20px;">
+    <!-- Phonology data will be displayed here -->
+  </div>
+</div>

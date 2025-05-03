@@ -1,0 +1,43 @@
+<div class="form-container">
+  <h2>Search Lexicon</h2>
+  <form id="search-form">
+    <div class="form-group">
+      <label for="search-term">Search Term:</label>
+      <input type="text" id="search-term" name="search-term">
+    </div>
+    <div class="form-group">
+      <label>Search In:</label>
+      <div>
+        <input type="checkbox" id="search-morphemes" name="search-in" value="morphemes" checked>
+        <label for="search-morphemes" style="display: inline;">Morphemes</label>
+      </div>
+      <div>
+        <input type="checkbox" id="search-words" name="search-in" value="words" checked>
+        <label for="search-words" style="display: inline;">Words</label>
+      </div>
+    </div>
+    <div class="form-group">
+      <label>Filter By Type:</label>
+      <div>
+        <input type="checkbox" id="filter-root" name="filter-type" value="root" checked>
+        <label for="filter-root" style="display: inline;">Roots</label>
+      </div>
+      <div>
+        <input type="checkbox" id="filter-prefix" name="filter-type" value="prefix" checked>
+        <label for="filter-prefix" style="display: inline;">Prefixes</label>
+      </div>
+      <div>
+        <input type="checkbox" id="filter-suffix" name="filter-type" value="suffix" checked>
+        <label for="filter-suffix" style="display: inline;">Suffixes</label>
+      </div>
+      <div>
+        <input type="checkbox" id="filter-infix" name="filter-type" value="infix" checked>
+        <label for="filter-infix" style="display: inline;">Infixes</label>
+      </div>
+    </div>
+    <button type="submit">Search</button>
+  </form>
+  <div id="search-results" style="margin-top: 20px;">
+    <!-- Search results will be displayed here -->
+  </div>
+</div>

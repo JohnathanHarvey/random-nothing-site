@@ -271,3 +271,42 @@ button:hover {
     font-family: 'Monaco', 'Consolas', monospace;
     font-size: 0.9em;
 }
+
+.features-table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+.features-table td {
+    padding: 4px 8px;
+    border: 1px solid #ddd;
+}
+
+.features-table td:first-child {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.1em;
+    min-width: 2em;
+}
+
+.feature-group {
+    margin: 10px 0;
+    padding: 8px;
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+.feature-group strong {
+    color: #2c3e50;
+    margin-right: 8px;
+}
+
+.feature-group pre {
+    margin: 8px 0;
+    padding: 8px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 0.9em;
+    white-space: pre-wrap;
+}

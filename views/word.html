@@ -1,0 +1,36 @@
+<div class="form-container">
+  <h2>Add Irregular/Exception Word</h2>
+  <form id="word-form">
+    <div class="form-group">
+      <label for="word">Word:</label>
+      <input type="text" id="word" name="word" required>
+    </div>
+    <div class="form-group">
+      <label for="word-gloss">Gloss:</label>
+      <input type="text" id="word-gloss" name="gloss" required>
+      <div class="help-text">Meaning or translation. Use dot notation for grammatical features.</div>
+    </div>
+    <div class="form-group">
+      <label for="word-pos">Part of Speech:</label>
+      <select id="word-pos" name="pos" required>
+        <option value="noun">Noun</option>
+        <option value="verb">Verb</option>
+        <option value="adj">Adjective</option>
+        <option value="adv">Adverb</option>
+        <option value="prep">Preposition</option>
+        <option value="conj">Conjunction</option>
+        <option value="part">Particle</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="word-ipa">IPA Pronunciation:</label>
+      <input type="text" id="word-ipa" name="ipa">
+    </div>
+    <div class="form-group">
+      <label for="word-notes">Notes:</label>
+      <textarea id="word-notes" name="notes" rows="3"></textarea>
+      <div class="help-text">Explanation of why this is an exception or any other relevant details.</div>
+    </div>
+    <button type="submit">Save Word</button>
+  </form>
+</div>
